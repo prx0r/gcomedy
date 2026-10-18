@@ -1,0 +1,2213 @@
+{
+ "schema": "attardo.graph.v1",
+ "source": "Attardo, The Linguistics of Humor (OUP 2020)",
+ "nodes": {
+  "humor": {
+   "id": "humor",
+   "name": "Humor",
+   "type": "concept",
+   "chapter": 1,
+   "page": 26,
+   "definition": "An umbrella term covering the stimulus (funny thing), the response (mirth), and the behavior (laughter). Attardo distinguishes these three carefully.",
+   "our_operators": [],
+   "series_topics": [
+    "joke"
+   ],
+   "examples": [
+    "A joke is humorous; laughter is the response to humor; mirth is the emotional experience"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.1"
+   ],
+   "key_distinctions": [
+    "humor \u2260 laughter (one is stimulus, other is response)",
+    "humor \u2260 mirth (one is object, other is experience)"
+   ]
+  },
+  "joke": {
+   "id": "joke",
+   "name": "Joke",
+   "type": "concept",
+   "chapter": 1,
+   "page": 28,
+   "definition": "A short humorous text with a punchline. Attardo: 'a text which is humorous and which has a punchline.' The punchline is the 'funny part' that comes last and triggers the humor.",
+   "our_operators": [],
+   "series_topics": [
+    "joke",
+    "setup",
+    "punch"
+   ],
+   "examples": [
+    "Hedberg one-liner: 'I used to do drugs. I still do, but I used to, too.'"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.1.3"
+   ],
+   "properties": [
+    "has punchline",
+    "linear structure",
+    "triggers mirth"
+   ]
+  },
+  "punchline": {
+   "id": "punchline",
+   "name": "Punchline",
+   "type": "concept",
+   "chapter": 1,
+   "page": 28,
+   "definition": "The part of the joke that triggers the humor. Usually at the end. Forces a re-interpretation of the setup. Attardo: the 'funny part' that makes the joke work.",
+   "our_operators": [
+    "garden_path",
+    "literalize",
+    "double_interpret"
+   ],
+   "series_topics": [
+    "punch"
+   ],
+   "examples": [
+    "'...because the light was on' (Norm moth joke)"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.1.3"
+   ],
+   "properties": [
+    "triggers humor",
+    "forces re-interpretation",
+    "usually sentence-final"
+   ]
+  },
+  "mirth": {
+   "id": "mirth",
+   "name": "Mirth",
+   "type": "concept",
+   "chapter": 1,
+   "page": 27,
+   "definition": "The emotional experience of finding something funny. The subjective feeling that accompanies humor appreciation.",
+   "our_operators": [],
+   "series_topics": [
+    "feel-judge"
+   ],
+   "examples": [
+    "The feeling of amusement when a punchline lands"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.1.2"
+   ],
+   "properties": [
+    "emotional state",
+    "accompanies humor",
+    "distinct from laughter"
+   ]
+  },
+  "laughter": {
+   "id": "laughter",
+   "name": "Laughter",
+   "type": "concept",
+   "chapter": 1,
+   "page": 27,
+   "definition": "The behavioral response to humor. Not all humor produces laughter; not all laughter is humor (nervous laughter, social laughter).",
+   "our_operators": [],
+   "series_topics": [
+    "punch",
+    "feel-judge"
+   ],
+   "examples": [
+    "Audience laughter after a punchline"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.1.2"
+   ],
+   "properties": [
+    "behavioral response",
+    "not identical to humor",
+    "social signal"
+   ]
+  },
+  "meta-humor": {
+   "id": "meta-humor",
+   "name": "Meta-humor",
+   "type": "concept",
+   "chapter": 1,
+   "page": 30,
+   "definition": "Humor about humor itself. Jokes about jokes, comedy about comedy. Attardo notes this is distinct from 'humor about X' \u2014 meta-humor's target is the humor mechanism itself.",
+   "our_operators": [
+    "expose_self_blindness",
+    "double_interpret"
+   ],
+   "series_topics": [
+    "joke",
+    "persona",
+    "sincerity"
+   ],
+   "examples": [
+    "Louis: 'That's just me saying something terrible because it makes me laugh that it's true'",
+    "Stewart Lee critiquing his own joke structure live"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.3.2"
+   ],
+   "properties": [
+    "self-referential",
+    "targets humor mechanism",
+    "requires audience competence"
+   ]
+  },
+  "verbal-humor": {
+   "id": "verbal-humor",
+   "name": "Verbal Humor",
+   "type": "distinction",
+   "chapter": 1,
+   "page": 29,
+   "definition": "Humor that depends on language specifically \u2014 wordplay, puns, verbal irony. Distinct from non-verbal humor (slapstick, physical comedy).",
+   "our_operators": [],
+   "series_topics": [
+    "formats",
+    "delivery"
+   ],
+   "examples": [
+    "Puns, double entendres, wordplay"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.3.1"
+   ],
+   "contrasts_with": [
+    "non-verbal humor",
+    "slapstick"
+   ],
+   "properties": [
+    "language-dependent",
+    "GTVH applies only here"
+   ]
+  },
+  "non-verbal-humor": {
+   "id": "non-verbal-humor",
+   "name": "Non-verbal Humor",
+   "type": "distinction",
+   "chapter": 1,
+   "page": 29,
+   "definition": "Humor that does not depend on language \u2014 slapstick, physical comedy, visual humor. The GTVH does NOT apply to this.",
+   "our_operators": [],
+   "series_topics": [
+    "delivery",
+    "formats"
+   ],
+   "examples": [
+    "Keaton's physical comedy, pratfalls"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 1.3.1"
+   ],
+   "contrasts_with": [
+    "verbal-humor"
+   ],
+   "properties": [
+    "language-independent",
+    "GTVH does not apply"
+   ]
+  },
+  "release-theory": {
+   "id": "release-theory",
+   "name": "Release Theory",
+   "type": "theory",
+   "chapter": 3,
+   "page": 82,
+   "definition": "Laughter discharges accumulated nervous energy. Freud: jokes are pressure valves for repressed impulses. Spencer: sudden relief from restraint. Bergson: 'the mechanical encrusted on the living.'",
+   "our_operators": [],
+   "series_topics": [
+    "pause",
+    "punch",
+    "timing"
+   ],
+   "examples": [
+    "The relief laugh after a tense pause",
+    "Nervous laughter after a taboo topic"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 3.3",
+    "Freud 1905",
+    "Spencer 1860",
+    "Bergson 1911"
+   ],
+   "key_figures": [
+    "Freud",
+    "Spencer",
+    "Bergson"
+   ],
+   "level": "mechanism (why the body laughs)",
+   "maps_to_our": "pause-before-punch: tension buildup \u2192 release. The hold-then-snap trajectory."
+  },
+  "incongruity-theory": {
+   "id": "incongruity-theory",
+   "name": "Incongruity Theory",
+   "type": "theory",
+   "chapter": 3,
+   "page": 85,
+   "definition": "Humor arises when perception violates expectation. Kant: 'laughter from the sudden transformation of a strained expectation into nothing.' Schopenhauer: mismatch between concept and reality. Morreall: pleasant psychological shift from incongruity to resolution.",
+   "our_operators": [
+    "garden_path",
+    "double_interpret",
+    "literalize"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "setup"
+   ],
+   "examples": [
+    "Norm's moth: expect pest-control punch, get 'because the light was on'",
+    "Setup builds frame A, punch forces frame B"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 3.4",
+    "Kant 1790",
+    "Schopenhauer 1818",
+    "Morreall 1983"
+   ],
+   "key_figures": [
+    "Kant",
+    "Schopenhauer",
+    "Morreall"
+   ],
+   "level": "structure (how the joke is built)",
+   "maps_to_our": "punch surprise, garden_path, semantic_distance, DPV framework"
+  },
+  "aggression-theory": {
+   "id": "aggression-theory",
+   "name": "Aggression Theory",
+   "type": "theory",
+   "chapter": 3,
+   "page": 88,
+   "definition": "Laughter at others' misfortune \u2014 their loss is our gain. Hobbes: 'sudden glory' at others' inferiority. Plato: laughter as attack on others. Gruner: comedy as competitive combat.",
+   "our_operators": [
+    "status_invert",
+    "character_violation"
+   ],
+   "series_topics": [
+    "status",
+    "target",
+    "violate"
+   ],
+   "examples": [
+    "Roast comedy: laughing at the target's flaws",
+    "Superiority humor: laughing at someone's mistake"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 3.5",
+    "Hobbes 1651",
+    "Plato",
+    "Gruner 1997"
+   ],
+   "key_figures": [
+    "Hobbes",
+    "Plato",
+    "Gruner"
+   ],
+   "level": "social function (who benefits)",
+   "maps_to_our": "status_invert, target selection, superiority"
+  },
+  "bisociation": {
+   "id": "bisociation",
+   "name": "Bisociation",
+   "type": "theory",
+   "chapter": 3,
+   "page": 93,
+   "definition": "Koestler's theory: humor arises from the simultaneous perception of an event in two incompatible frames. The 'aha' moment when both frames coexist is the laugh.",
+   "our_operators": [
+    "double_interpret",
+    "bisociate"
+   ],
+   "series_topics": [
+    "punch",
+    "gtvh",
+    "misdirection"
+   ],
+   "examples": [
+    "A pun: the same word in two frames simultaneously",
+    "Louis's confession: sincere frame + absurd frame coexisting"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 3.7.2",
+    "Koestler 1964"
+   ],
+   "key_figures": [
+    "Koestler"
+   ],
+   "level": "cognition (how the mind processes humor)",
+   "maps_to_our": "double_interpret operator, BV simultaneous condition"
+  },
+  "complementarity-principle": {
+   "id": "complementarity-principle",
+   "name": "Complementarity Principle",
+   "type": "principle",
+   "chapter": 3,
+   "page": 96,
+   "definition": "Attardo's key insight: the three classical theories are NOT competing. They describe different aspects of the same phenomenon \u2014 release=incomprehension=aggression are complementary layers, not rival explanations.",
+   "our_operators": [],
+   "series_topics": [
+    "joke",
+    "feel-judge"
+   ],
+   "examples": [
+    "A roast joke: aggression (target) + incongruity (surprise) + release (tension) all fire simultaneously"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 3.7"
+   ],
+   "maps_to_our": "Our multi-layer BV model: violation (incongruity) + benign (release+distance) + social target (aggression)"
+  },
+  "incongruity": {
+   "id": "incongruity",
+   "name": "Incongruity",
+   "type": "concept",
+   "chapter": 4,
+   "page": 102,
+   "definition": "Divergence from expectations. Broader than 'surprise' \u2014 includes semantic, script, and tonal incongruity. Attardo: 'generalized as divergence from expectations.'",
+   "our_operators": [
+    "garden_path",
+    "literalize",
+    "double_interpret"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "setup"
+   ],
+   "examples": [
+    "Setup builds one reading, punch forces another"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.1"
+   ],
+   "properties": [
+    "necessary but not sufficient for humor",
+    "can be semantic, script, or tonal"
+   ]
+  },
+  "resolution": {
+   "id": "resolution",
+   "name": "Resolution",
+   "type": "concept",
+   "chapter": 4,
+   "page": 105,
+   "definition": "The process by which the listener re-interprets the setup under the new script activated by the punchline. Attardo distinguishes full vs partial resolution.",
+   "our_operators": [
+    "garden_path",
+    "double_interpret"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection"
+   ],
+   "examples": [
+    "The 'aha' moment when the punchline makes sense"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.2"
+   ],
+   "types": [
+    "full-resolution",
+    "partial-resolution",
+    "foregrounded-incongruity",
+    "backgrounded-incongruity"
+   ]
+  },
+  "full-resolution": {
+   "id": "full-resolution",
+   "name": "Full Resolution",
+   "type": "concept",
+   "chapter": 4,
+   "page": 106,
+   "definition": "The incongruity is completely explained. The listener fully understands why the punchline is funny. Classic setup\u2192punch\u2192reframe structure.",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "punch"
+   ],
+   "examples": [
+    "Classic one-liner: setup builds expectation, punch completely re-frames"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.2.2"
+   ],
+   "is_a": "resolution"
+  },
+  "partial-resolution": {
+   "id": "partial-resolution",
+   "name": "Partial Resolution",
+   "type": "concept",
+   "chapter": 4,
+   "page": 107,
+   "definition": "Some incongruity remains after resolution. This is why absurdism works \u2014 the incongruity is NOT fully explained, but the audience finds it funny anyway.",
+   "our_operators": [
+    "literalize",
+    "double_interpret"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "where-jokes-come-from"
+   ],
+   "examples": [
+    "Norm's moth: the 'because the light was on' answer is technically correct but the incongruity of the whole digression remains",
+    "Lock's absurdist premises"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.2.2"
+   ],
+   "is_a": "resolution",
+   "key_insight": "Partial resolution is why absurdism works \u2014 the violation REMAINS, but BV's benign frame makes it funny"
+  },
+  "foregrounded-incongruity": {
+   "id": "foregrounded-incongruity",
+   "name": "Foregrounded Incongruity",
+   "type": "concept",
+   "chapter": 4,
+   "page": 108,
+   "definition": "The incongruity IS the joke. The audience laughs AT the incongruity itself, not at a resolution. Anti-jokes, absurdism.",
+   "our_operators": [
+    "literalize"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "where-jokes-come-from"
+   ],
+   "examples": [
+    "Norm's anti-jokes: the humor is that there's no real punchline",
+    "Andy Kaufman's anti-comedy"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.2.3"
+   ],
+   "is_a": "incongruity-type"
+  },
+  "backgrounded-incongruity": {
+   "id": "backgrounded-incongruity",
+   "name": "Backgrounded Incongruity",
+   "type": "concept",
+   "chapter": 4,
+   "page": 108,
+   "definition": "Resolution is smooth, surprise is in the TIMING not the meaning. The audience doesn't notice the incongruity because the delivery makes it feel natural.",
+   "our_operators": [
+    "garden_path",
+    "split_knowledge"
+   ],
+   "series_topics": [
+    "punch",
+    "timing",
+    "delivery"
+   ],
+   "examples": [
+    "Louis's confessions: the content is absurd but the delivery makes it feel sincere",
+    "Rock's premises: the observation is true, the escalation is surprising"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.2.3"
+   ],
+   "is_a": "incongruity-type",
+   "key_insight": "Backgrounded incongruity = our BV 'benign frame' doing the work \u2014 the delivery makes the violation feel safe"
+  },
+  "isotopy-disjunction-model": {
+   "id": "isotopy-disjunction-model",
+   "name": "Isotopy Disjunction Model (IDM)",
+   "type": "principle",
+   "chapter": 4,
+   "page": 110,
+   "definition": "Attardo's model for linear joke processing: (1) Setup establishes an 'isotopy' \u2014 a semantic field directing interpretation. (2) Punchline disjoins the isotopy \u2014 forces a different reading. (3) Resolution is re-interpreting the setup under the new isotopy.",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "setup"
+   ],
+   "examples": [
+    "Louis Monopoly: setup isotopy='parenting is hard', punchline disjoins='to handle HER', resolution=re-read as father's inability"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.3"
+   ],
+   "maps_to_our": "DPV framework: isotopy=prediction model, disjunction=temporal+semantic violation"
+  },
+  "linear-organization": {
+   "id": "linear-organization",
+   "name": "Linear Organization of Jokes",
+   "type": "principle",
+   "chapter": 4,
+   "page": 113,
+   "definition": "Jokes have a linear structure: setup builds expectation (direction A), punchline redirects (direction B). The redirect MUST use material already in the setup \u2014 misdirection, not withholding.",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "setup",
+    "punch",
+    "misdirection"
+   ],
+   "examples": [
+    "Rock's premise rule: if the audience doesn't understand the premise, nothing works"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 4.3.1"
+   ],
+   "key_rule": "The punch must use material the audience already has. New information = failed joke ('well, you didn't tell me that').",
+   "maps_to_our": "Our 'shortest path' punch: minimal move to disjoint reading using existing setup material"
+  },
+  "script": {
+   "id": "script",
+   "name": "Semantic Script",
+   "type": "concept",
+   "chapter": 6,
+   "page": 138,
+   "definition": "A large chunk of semantic information about a situation, object, or event. A 'frame' or 'schema' for understanding a piece of the world. From Raskin's Semantic Script Theory of Humor (SSTH).",
+   "our_operators": [
+    "double_interpret",
+    "split_knowledge"
+   ],
+   "series_topics": [
+    "setup",
+    "premise",
+    "frame"
+   ],
+   "examples": [
+    "The 'restaurant' script: you sit, order, eat, pay",
+    "The 'doctor' script: symptoms, examination, diagnosis"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 6",
+    "Raskin 1985"
+   ],
+   "key_properties": [
+    "activated by context",
+    "contains expectations",
+    "can be opposed to other scripts"
+   ]
+  },
+  "script-opposition-SSTH": {
+   "id": "script-opposition-SSTH",
+   "name": "Script Opposition (SSTH)",
+   "type": "concept",
+   "chapter": 6,
+   "page": 142,
+   "definition": "Raskin's foundational insight: a text is humorous IF (1) two scripts are fully overlapped in some region, AND (2) the two scripts are opposed in another region. The overlap makes the joke possible; the opposition makes it funny.",
+   "our_operators": [
+    "double_interpret",
+    "split_knowledge",
+    "mistake_identity"
+   ],
+   "series_topics": [
+    "punch",
+    "gtvh",
+    "misdirection"
+   ],
+   "examples": [
+    "'The light was on': moth-to-podiatrist script overlaps with moth-to-flame script in the punchline"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 6",
+    "Raskin 1985"
+   ],
+   "formula": "humorous IF (script\u2081 \u2229 script\u2082 \u2260 \u2205) AND (script\u2081 \u22a5 script\u2082)",
+   "maps_to_our": "double_interpret operator (two readings), split_knowledge (audience knows both scripts)"
+  },
+  "script-overlap": {
+   "id": "script-overlap",
+   "name": "Script Overlap",
+   "type": "concept",
+   "chapter": 6,
+   "page": 143,
+   "definition": "The region where two scripts share elements. The overlap makes the joke POSSIBLE \u2014 the audience can move between scripts because they share territory.",
+   "our_operators": [
+    "double_interpret"
+   ],
+   "series_topics": [
+    "punch",
+    "setup"
+   ],
+   "examples": [
+    "Moth joke: both scripts involve a moth, a person, and a destination"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 6"
+   ],
+   "is_a": "script-opposition-SSTH"
+  },
+  "script-opposition-opposition": {
+   "id": "script-opposition-opposition",
+   "name": "Script Opposition (the opposition)",
+   "type": "concept",
+   "chapter": 6,
+   "page": 144,
+   "definition": "The region where two scripts conflict. The opposition makes the joke FUNNY \u2014 the audience laughs at the collision between incompatible readings.",
+   "our_operators": [
+    "double_interpret",
+    "character_violation"
+   ],
+   "series_topics": [
+    "punch",
+    "violate"
+   ],
+   "examples": [
+    "Moth joke: pest-control destination vs light-attracted destination"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 6"
+   ],
+   "is_a": "script-opposition-SSTH"
+  },
+  "GTVH": {
+   "id": "GTVH",
+   "name": "General Theory of Verbal Humor",
+   "type": "theory",
+   "chapter": 7,
+   "page": 159,
+   "definition": "Attardo & Raskin's formal theory: every verbal joke is characterized by 6 Knowledge Resources (SO, LM, SI, TA, NS, LA). Extends SSTH from short jokes to long humorous texts.",
+   "our_operators": [
+    "rigidify",
+    "literalize",
+    "double_interpret",
+    "status_invert",
+    "split_knowledge",
+    "character_violation",
+    "false_analogy",
+    "juxtapose",
+    "role_reverse",
+    "garden_path"
+   ],
+   "series_topics": [
+    "gtvh",
+    "joke",
+    "punch",
+    "operators"
+   ],
+   "formula": "joke = {SO, LM, SI, TA, NS, LA}",
+   "sources": [
+    "Attardo 2020 Ch 7",
+    "Attardo & Raskin 1991"
+   ],
+   "key_insight": "The 6 KRs are independent \u2014 changing any one produces a different joke. This is why our operators work: each changes one or more KRs."
+  },
+  "KR-SO": {
+   "id": "KR-SO",
+   "name": "Knowledge Resource: Script Opposition",
+   "type": "concept",
+   "chapter": 7,
+   "page": 161,
+   "definition": "Two semantic scripts that overlap but oppose. The foundational KR \u2014 the 'what' of the joke.",
+   "our_operators": [
+    "double_interpret",
+    "split_knowledge",
+    "mistake_identity"
+   ],
+   "series_topics": [
+    "gtvh",
+    "punch",
+    "misdirection"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 7.1"
+   ],
+   "part_of": "GTVH"
+  },
+  "KR-LM": {
+   "id": "KR-LM",
+   "name": "Knowledge Resource: Logical Mechanism",
+   "type": "concept",
+   "chapter": 7,
+   "page": 164,
+   "definition": "The reasoning that connects SO to the punchline. The 'how' of the joke. 12 mechanisms identified.",
+   "our_operators": [
+    "rigidify",
+    "literalize",
+    "false_analogy",
+    "juxtapose",
+    "role_reverse",
+    "garden_path"
+   ],
+   "series_topics": [
+    "gtvh",
+    "operators",
+    "punch"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 7.2"
+   ],
+   "part_of": "GTVH",
+   "twelve_LMs": [
+    "garden_path",
+    "juxtaposition",
+    "false_analogy",
+    "role_reversal",
+    "perspective_shift",
+    "figure_ground",
+    "exaggeration",
+    "cratylism",
+    "rigidify",
+    "displacement",
+    "literalize",
+    "other"
+   ]
+  },
+  "KR-SI": {
+   "id": "KR-SI",
+   "name": "Knowledge Resource: Situation",
+   "type": "concept",
+   "chapter": 7,
+   "page": 167,
+   "definition": "The contextual setting \u2014 location, participants, objects, activities. The 'where and who' of the joke.",
+   "our_operators": [],
+   "series_topics": [
+    "gtvh",
+    "premise",
+    "setup"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 7.3"
+   ],
+   "part_of": "GTVH"
+  },
+  "KR-TA": {
+   "id": "KR-TA",
+   "name": "Knowledge Resource: Target",
+   "type": "concept",
+   "chapter": 7,
+   "page": 169,
+   "definition": "Who or what the joke is about. Can be self, other, group, or abstract concept. Affects the safety math of the joke.",
+   "our_operators": [
+    "status_invert",
+    "character_violation"
+   ],
+   "series_topics": [
+    "gtvh",
+    "target",
+    "violate"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 7.4"
+   ],
+   "part_of": "GTVH",
+   "target_types": [
+    "self",
+    "powerful",
+    "species",
+    "victim"
+   ]
+  },
+  "KR-NS": {
+   "id": "KR-NS",
+   "name": "Knowledge Resource: Narrative Strategy",
+   "type": "concept",
+   "chapter": 7,
+   "page": 171,
+   "definition": "How the joke is told \u2014 rhetorical structure, pace, rhythm, direct/indirect discourse. The 'when and how' of the joke.",
+   "our_operators": [],
+   "series_topics": [
+    "gtvh",
+    "delivery",
+    "timing",
+    "pause"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 7.5"
+   ],
+   "part_of": "GTVH",
+   "subcategories": [
+    "narration vs description",
+    "direct vs indirect discourse",
+    "pace and rhythm"
+   ]
+  },
+  "KR-LA": {
+   "id": "KR-LA",
+   "name": "Knowledge Resource: Language",
+   "type": "concept",
+   "chapter": 7,
+   "page": 173,
+   "definition": "The specific words chosen \u2014 vocabulary, syntax, sound. The 'surface' of the joke. The most 'free' KR \u2014 same joke, different words.",
+   "our_operators": [],
+   "series_topics": [
+    "gtvh",
+    "voice",
+    "delivery"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 7.6"
+   ],
+   "part_of": "GTVH",
+   "key_insight": "LA is the most free KR \u2014 the same joke can be told in many words. But words matter for rhythm and emphasis."
+  },
+  "jab-line": {
+   "id": "jab-line",
+   "name": "Jab Line",
+   "type": "concept",
+   "chapter": 7,
+   "page": 175,
+   "definition": "A humorous trigger WITHIN the body of a text (not at the end). Attardo (2001) distinguished jab lines from punch lines \u2014 long bits have many jab lines, not just one punch.",
+   "our_operators": [],
+   "series_topics": [
+    "tag",
+    "escalate",
+    "punch"
+   ],
+   "examples": [
+    "Tags are jab lines: secondary laughs within the bit",
+    "Asides, callbacks, secondary punches"
+   ],
+   "sources": [
+    "Attardo 2001",
+    "Attardo 2020 Ch 7"
+   ],
+   "maps_to_our": "Tags = jab lines. Our 'diminishing returns' on tags is Attardo's jab line economy."
+  },
+  "performance-of-humor": {
+   "id": "performance-of-humor",
+   "name": "Performance of Humor",
+   "type": "concept",
+   "chapter": 10,
+   "page": 224,
+   "definition": "Humor is not just TEXT \u2014 it's PERFORMANCE. The same text delivered differently produces different results. Performance includes prosody, timing, gesture, audience interaction.",
+   "our_operators": [],
+   "series_topics": [
+    "delivery",
+    "timing",
+    "pause",
+    "persona"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 10"
+   ],
+   "key_components": [
+    "prosody",
+    "timing",
+    "gesture",
+    "audience interaction"
+   ]
+  },
+  "prosody": {
+   "id": "prosody",
+   "name": "Prosody",
+   "type": "concept",
+   "chapter": 10,
+   "page": 228,
+   "definition": "The melody of speech \u2014 intonation, stress, rhythm, voice quality. Attardo discusses how prosody carries humor: pitch changes mark incongruity, stress highlights key words, voice quality signals frame shifts.",
+   "our_operators": [],
+   "series_topics": [
+    "delivery",
+    "voice",
+    "timing"
+   ],
+   "examples": [
+    "Louis: quiet envelope (19.6dB) with wide pitch (6.83 st) inside",
+    "Carlin: body-in-rhythm-with-voice"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 10"
+   ],
+   "components": [
+    "intonation",
+    "stress",
+    "rhythm",
+    "voice quality"
+   ],
+   "maps_to_our": "delivery_archetype, modulator_range, pitch std"
+  },
+  "timing-performance": {
+   "id": "timing-performance",
+   "name": "Timing (Performance)",
+   "type": "concept",
+   "chapter": 10,
+   "page": 232,
+   "definition": "Where silences fall relative to punchlines, how fast the comedian talks, when to resume after laughter. Attardo: punchlines preceded by substantial pauses (0.6s+). Norrick: punchlines delivered FASTER than setup.",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "timing",
+    "pause",
+    "punch"
+   ],
+   "examples": [
+    "Louis 1.67s average pause (above pro 1.39s)",
+    "Norm 192wpm never-stop delivery"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 10",
+    "Norrick 2001"
+   ],
+   "key_findings": [
+    "punchlines preceded by substantial pauses (0.6s+)",
+    "punchlines delivered faster than setup",
+    "audience laughter shapes timing"
+   ],
+   "maps_to_our": "H1 (14x baseline pause), H3 (HOLD then SNAP)"
+  },
+  "gesture-performance": {
+   "id": "gesture-performance",
+   "name": "Gesture in Humor",
+   "type": "concept",
+   "chapter": 10,
+   "page": 240,
+   "definition": "Body language as part of humor performance. Gestures can create incongruity (body contradicts words), physical timing (Carlin: body-in-rhythm), visual punchlines (Keaton, Chaplin).",
+   "our_operators": [],
+   "series_topics": [
+    "delivery",
+    "voice",
+    "persona"
+   ],
+   "examples": [
+    "Carlin: crouching on setup, standing on punch",
+    "Keaton's deadpan physicality"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 10"
+   ],
+   "maps_to_our": "PHYSICALITY-AXIS.md (voice-first vs mixed vs physical-first), TIC-TALK kinetic energy r=-0.75"
+  },
+  "audience-co-performer": {
+   "id": "audience-co-performer",
+   "name": "Audience as Co-Performer",
+   "type": "principle",
+   "chapter": 10,
+   "page": 245,
+   "definition": "The audience is not passive. Laughter SHAPES the performance. Comedians adjust timing based on audience reaction. The feedback loop is essential.",
+   "our_operators": [
+    "split_knowledge"
+   ],
+   "series_topics": [
+    "delivery",
+    "timing",
+    "status"
+   ],
+   "examples": [
+    "TAMS: audience impacts microtiming",
+    "Lock: panel format gives 6 people to do the leg work",
+    "'Stay in the bit' (Seinfeld to Louis)"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 10",
+    "Pope et al 2026 TAMS"
+   ],
+   "maps_to_our": "TAMS finding (audience impacts microtiming), panel-show safety net"
+  },
+  "competence-performance-distinction": {
+   "id": "competence-performance-distinction",
+   "name": "Competence vs Performance",
+   "type": "distinction",
+   "chapter": 10,
+   "page": 226,
+   "definition": "Competence = knowing what's funny (text-level knowledge). Performance = making it funny in the moment (delivery-level skill). A joke can have good competence but bad performance, and vice versa.",
+   "our_operators": [],
+   "series_topics": [
+    "joke-writing",
+    "delivery",
+    "anti-slop"
+   ],
+   "examples": [
+    "A well-structured joke delivered poorly = good competence, bad performance",
+    "An improvised riff that kills = good performance, unknown competence"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 10"
+   ],
+   "maps_to_our": "Our gates check TEXT (competence); delivery/timing topics cover PERFORMANCE"
+  },
+  "humor-signal": {
+   "id": "humor-signal",
+   "name": "Humor Signal",
+   "type": "concept",
+   "chapter": 5,
+   "page": 120,
+   "definition": "A signal that tells the audience 'this is meant to be funny.' Includes: prosodic cues (exaggerated intonation), framing ('joke's on you'), contextual cues (comedy club setting), and meta-linguistic markers.",
+   "our_operators": [],
+   "series_topics": [
+    "delivery",
+    "frame",
+    "sincerity"
+   ],
+   "examples": [
+    "The comedian's exaggerated tone signals 'this is a joke'",
+    "The comedy club setting signals 'expect humor'"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 5"
+   ],
+   "types": [
+    "prosodic",
+    "framing",
+    "contextual",
+    "meta-linguistic"
+   ],
+   "maps_to_our": "sincerity doctrine (the character never signals; the PERFORMER signals)"
+  },
+  "code": {
+   "id": "code",
+   "name": "Code (Semiotics)",
+   "type": "concept",
+   "chapter": 5,
+   "page": 118,
+   "definition": "The system of signs that both speaker and listener share. Humor requires a shared code \u2014 the audience must understand the same sign system as the comedian.",
+   "our_operators": [
+    "split_knowledge"
+   ],
+   "series_topics": [
+    "setup",
+    "premise",
+    "status"
+   ],
+   "examples": [
+    "Cultural references (UK panel show humor requires knowing the format)",
+    "In-jokes require shared knowledge"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 5"
+   ],
+   "maps_to_our": "split_knowledge (shared code the persona pretends not to have)"
+  },
+  "relevance-theory-humor": {
+   "id": "relevance-theory-humor",
+   "name": "Relevance Theory and Humor",
+   "type": "concept",
+   "chapter": 8,
+   "page": 182,
+   "definition": "Sperber & Wilson's relevance theory applied to humor: jokes work by creating optimal relevance \u2014 the audience works to derive meaning, and the effort is rewarded with humor.",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "punch",
+    "setup"
+   ],
+   "examples": [
+    "The setup creates an expectation of relevance; the punch re-directs it"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 8",
+    "Sperber & Wilson 1986"
+   ],
+   "key_insight": "The audience's effort to resolve the incongruity IS part of the pleasure"
+  },
+  "context-humor": {
+   "id": "context-humor",
+   "name": "Context and Humor",
+   "type": "concept",
+   "chapter": 8,
+   "page": 190,
+   "definition": "Humor is context-dependent. The same text can be funny in one context and not in another. Context includes: physical setting, social relationship, cultural background, conversational history.",
+   "our_operators": [],
+   "series_topics": [
+    "target",
+    "frame",
+    "status"
+   ],
+   "examples": [
+    "A joke about death is funny at a roast, not at a funeral",
+    "UK panel show humor requires knowing the format"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 8"
+   ],
+   "maps_to_our": "jokegate license check (context determines if the violation is benign)"
+  },
+  "pun": {
+   "id": "pun",
+   "name": "Pun",
+   "type": "concept",
+   "chapter": 9,
+   "page": 201,
+   "definition": "A joke that exploits multiple meanings of a word or similar-sounding words. Attardo: the simplest verbal humor \u2014 one word, two scripts.",
+   "our_operators": [
+    "double_interpret"
+   ],
+   "series_topics": [
+    "formats",
+    "punch"
+   ],
+   "examples": [
+    "'Time flies like an arrow; fruit flies like a banana'"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 9"
+   ],
+   "is_a": "verbal-humor",
+   "gtvh_mapping": "SO = two meanings of same word; LM = ambiguity resolution"
+  },
+  "verbal-irony": {
+   "id": "verbal-irony",
+   "name": "Verbal Irony",
+   "type": "concept",
+   "chapter": 9,
+   "page": 208,
+   "definition": "Saying the opposite of what you mean, expecting the audience to recognize the inversion. Attardo distinguishes from sarcasm: irony is playful, sarcasm is aggressive.",
+   "our_operators": [
+    "double_interpret",
+    "split_knowledge"
+   ],
+   "series_topics": [
+    "punch",
+    "delivery",
+    "status"
+   ],
+   "examples": [
+    "'Oh, WONDERFUL' when something goes wrong",
+    "Lock's deadpan delivery of absurd claims"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 9"
+   ],
+   "is_a": "verbal-humor",
+   "contrasts_with": [
+    "sarcasm"
+   ],
+   "maps_to_our": "double_interpret (two readings), split_knowledge (audience knows the true meaning)"
+  },
+  "sarcasm": {
+   "id": "sarcasm",
+   "name": "Sarcasm",
+   "type": "concept",
+   "chapter": 9,
+   "page": 212,
+   "definition": "Aggressive irony. Saying the opposite of what you mean WITH hostile intent. Distinct from verbal irony: sarcasm attacks, irony plays.",
+   "our_operators": [
+    "status_invert",
+    "character_violation"
+   ],
+   "series_topics": [
+    "status",
+    "violate",
+    "target"
+   ],
+   "examples": [
+    "Roast comedy is largely sarcasm",
+    "'Nice job' said to someone who failed"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 9"
+   ],
+   "is_a": "verbal-humor",
+   "contrasts_with": [
+    "verbal-irony"
+   ],
+   "maps_to_our": "status_invert + character_violation"
+  },
+  "adjacency-pair": {
+   "id": "adjacency-pair",
+   "name": "Adjacency Pair",
+   "type": "concept",
+   "chapter": 11,
+   "page": 262,
+   "definition": "A pair of conversational turns that belong together (question-answer, greeting-greeting, complaint-apology). Humor often exploits the second slot \u2014 the expected response is replaced with a funny one.",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "punch",
+    "tag",
+    "misdirection"
+   ],
+   "examples": [
+    "'How are you?' \u2192 'I'm fine, said no one ever'",
+    "The punchline replaces the expected second slot"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 11"
+   ],
+   "maps_to_our": "garden_path (setup creates adjacency expectation, punch violates it)"
+  },
+  "preference-organization": {
+   "id": "preference-organization",
+   "name": "Preference Organization",
+   "type": "concept",
+   "chapter": 11,
+   "page": 270,
+   "definition": "Some conversational responses are 'preferred' (expected, socially marked) and some are 'dispreferred' (unexpected, socially unmarked). Humor often comes from dispreferred responses.",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "status"
+   ],
+   "examples": [
+    "A compliment \u2192 dispreferred response: 'I know, right?' (instead of 'thank you')"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 11"
+   ],
+   "maps_to_our": "garden_path (preferred response = the setup; dispreferred = the punch)"
+  },
+  "footing": {
+   "id": "footing",
+   "name": "Footing",
+   "type": "concept",
+   "chapter": 12,
+   "page": 290,
+   "definition": "Goffman's concept: the alignment a speaker takes toward their own words. A comedian can shift footing \u2014 speaking as themselves, as a character, as a narrator. The shifts create humor.",
+   "our_operators": [
+    "expose_self_blindness",
+    "split_knowledge"
+   ],
+   "series_topics": [
+    "persona",
+    "frame",
+    "sincerity"
+   ],
+   "examples": [
+    "Louis shifting from narrator to confessor",
+    "Acaster shifting from fictional cop to real self"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 12",
+    "Goffman 1981"
+   ],
+   "maps_to_our": "persona oscillation, modulator_range, unreliable narrator variants"
+  },
+  "power-solidarity": {
+   "id": "power-solidarity",
+   "name": "Power and Solidarity",
+   "type": "concept",
+   "chapter": 13,
+   "page": 325,
+   "definition": "Humor encodes power relationships. Poking fun UP (at the powerful) is safer than poking fun DOWN (at the vulnerable). In-group humor builds solidarity; out-group humor can exclude.",
+   "our_operators": [
+    "status_invert",
+    "character_violation"
+   ],
+   "series_topics": [
+    "status",
+    "target",
+    "violate"
+   ],
+   "examples": [
+    "Roast: mutual poking = solidarity",
+    "Late-night monologue: poking the powerful = safe"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 13"
+   ],
+   "maps_to_our": "jokegate TARGETS (self/powerful/species/victim), THE-LINE distance calculations"
+  }
+ },
+ "edges": [
+  {
+   "from": "humor",
+   "to": "joke",
+   "type": "is_a",
+   "label": "a joke is a type of humorous text",
+   "chapter": 1
+  },
+  {
+   "from": "humor",
+   "to": "mirth",
+   "type": "produces",
+   "label": "humor produces mirth as emotional response",
+   "chapter": 1
+  },
+  {
+   "from": "humor",
+   "to": "laughter",
+   "type": "produces",
+   "label": "humor can produce laughter as behavioral response",
+   "chapter": 1
+  },
+  {
+   "from": "joke",
+   "to": "punchline",
+   "type": "part_of",
+   "label": "a joke has a punchline",
+   "chapter": 1
+  },
+  {
+   "from": "punchline",
+   "to": "mirth",
+   "type": "produces",
+   "label": "the punchline triggers mirth",
+   "chapter": 1
+  },
+  {
+   "from": "verbal-humor",
+   "to": "non-verbal-humor",
+   "type": "contrasts_with",
+   "label": "",
+   "chapter": 1
+  },
+  {
+   "from": "meta-humor",
+   "to": "humor",
+   "type": "is_a",
+   "label": "meta-humor is humor about humor itself",
+   "chapter": 1
+  },
+  {
+   "from": "meta-humor",
+   "to": "punchline",
+   "type": "requires",
+   "label": "meta-humor requires understanding the humor mechanism",
+   "chapter": 1
+  },
+  {
+   "from": "release-theory",
+   "to": "incongruity-theory",
+   "type": "contrasts_with",
+   "label": "different levels of analysis",
+   "chapter": 3
+  },
+  {
+   "from": "release-theory",
+   "to": "aggression-theory",
+   "type": "contrasts_with",
+   "label": "",
+   "chapter": 3
+  },
+  {
+   "from": "incongruity-theory",
+   "to": "aggression-theory",
+   "type": "contrasts_with",
+   "label": "",
+   "chapter": 3
+  },
+  {
+   "from": "bisociation",
+   "to": "incongruity-theory",
+   "type": "implements",
+   "label": "bisociation is the cognitive mechanism of incongruity",
+   "chapter": 3
+  },
+  {
+   "from": "complementarity-principle",
+   "to": "release-theory",
+   "type": "unifies",
+   "label": "",
+   "chapter": 3
+  },
+  {
+   "from": "complementarity-principle",
+   "to": "incongruity-theory",
+   "type": "unifies",
+   "label": "",
+   "chapter": 3
+  },
+  {
+   "from": "complementarity-principle",
+   "to": "aggression-theory",
+   "type": "unifies",
+   "label": "",
+   "chapter": 3
+  },
+  {
+   "from": "incongruity-theory",
+   "to": "punch",
+   "type": "maps_to",
+   "label": "",
+   "chapter": 3
+  },
+  {
+   "from": "aggression-theory",
+   "to": "status",
+   "type": "maps_to",
+   "label": "",
+   "chapter": 3
+  },
+  {
+   "from": "release-theory",
+   "to": "pause",
+   "type": "maps_to",
+   "label": "tension buildup \u2192 release",
+   "chapter": 3
+  },
+  {
+   "from": "incongruity",
+   "to": "resolution",
+   "type": "requires",
+   "label": "incongruity needs resolution to be funny (usually)",
+   "chapter": 4
+  },
+  {
+   "from": "full-resolution",
+   "to": "resolution",
+   "type": "is_a",
+   "label": "",
+   "chapter": 4
+  },
+  {
+   "from": "partial-resolution",
+   "to": "resolution",
+   "type": "is_a",
+   "label": "",
+   "chapter": 4
+  },
+  {
+   "from": "foregrounded-incongruity",
+   "to": "incongruity",
+   "type": "is_a",
+   "label": "",
+   "chapter": 4
+  },
+  {
+   "from": "backgrounded-incongruity",
+   "to": "incongruity",
+   "type": "is_a",
+   "label": "",
+   "chapter": 4
+  },
+  {
+   "from": "isotopy-disjunction-model",
+   "to": "incongruity",
+   "type": "implements",
+   "label": "IDM is the process model of incongruity-resolution",
+   "chapter": 4
+  },
+  {
+   "from": "linear-organization",
+   "to": "isotopy-disjunction-model",
+   "type": "part_of",
+   "label": "",
+   "chapter": 4
+  },
+  {
+   "from": "partial-resolution",
+   "to": "foregrounded-incongruity",
+   "type": "requires",
+   "label": "foregrounded incongruity typically has partial resolution",
+   "chapter": 4
+  },
+  {
+   "from": "backgrounded-incongruity",
+   "to": "resolution",
+   "type": "requires",
+   "label": "backgrounded incongruity has smooth resolution",
+   "chapter": 4
+  },
+  {
+   "from": "incongruity-theory",
+   "to": "incongruity",
+   "type": "implements",
+   "label": "incongruity theory is about this concept",
+   "chapter": 4
+  },
+  {
+   "from": "isotopy-disjunction-model",
+   "to": "misdirection",
+   "type": "maps_to",
+   "label": "the isotopy IS the prediction model",
+   "chapter": 4
+  },
+  {
+   "from": "script",
+   "to": "script-opposition-SSTH",
+   "type": "part_of",
+   "label": "scripts are the units of SSTH",
+   "chapter": 6
+  },
+  {
+   "from": "script-opposition-SSTH",
+   "to": "script-overlap",
+   "type": "part_of",
+   "label": "",
+   "chapter": 6
+  },
+  {
+   "from": "script-opposition-SSTH",
+   "to": "script-opposition-opposition",
+   "type": "part_of",
+   "label": "",
+   "chapter": 6
+  },
+  {
+   "from": "script-opposition-SSTH",
+   "to": "incongruity",
+   "type": "implements",
+   "label": "SSTH formalizes incongruity as script opposition",
+   "chapter": 6
+  },
+  {
+   "from": "script-opposition-SSTH",
+   "to": "double_interpret",
+   "type": "maps_to",
+   "label": "",
+   "chapter": 6
+  },
+  {
+   "from": "incongruity",
+   "to": "script-opposition-SSTH",
+   "type": "implements",
+   "label": "SSTH is the semantic formalization of incongruity",
+   "chapter": 6
+  },
+  {
+   "from": "GTVH",
+   "to": "KR-SO",
+   "type": "part_of",
+   "label": "",
+   "chapter": 7
+  },
+  {
+   "from": "GTVH",
+   "to": "KR-LM",
+   "type": "part_of",
+   "label": "",
+   "chapter": 7
+  },
+  {
+   "from": "GTVH",
+   "to": "KR-SI",
+   "type": "part_of",
+   "label": "",
+   "chapter": 7
+  },
+  {
+   "from": "GTVH",
+   "to": "KR-TA",
+   "type": "part_of",
+   "label": "",
+   "chapter": 7
+  },
+  {
+   "from": "GTVH",
+   "to": "KR-NS",
+   "type": "part_of",
+   "label": "",
+   "chapter": 7
+  },
+  {
+   "from": "GTVH",
+   "to": "KR-LA",
+   "type": "part_of",
+   "label": "",
+   "chapter": 7
+  },
+  {
+   "from": "KR-SO",
+   "to": "KR-LM",
+   "type": "requires",
+   "label": "LM connects SO to punchline",
+   "chapter": 7
+  },
+  {
+   "from": "KR-LM",
+   "to": "punch",
+   "type": "produces",
+   "label": "LM resolution IS the punch",
+   "chapter": 7
+  },
+  {
+   "from": "KR-TA",
+   "to": "aggression-theory",
+   "type": "implements",
+   "label": "TA is the aggression theory's target",
+   "chapter": 7
+  },
+  {
+   "from": "KR-NS",
+   "to": "release-theory",
+   "type": "implements",
+   "label": "NS timing is the release theory's mechanism",
+   "chapter": 7
+  },
+  {
+   "from": "jab-line",
+   "to": "punch",
+   "type": "contrasts_with",
+   "label": "jab lines are within-body; punchlines are end-triggered",
+   "chapter": 7
+  },
+  {
+   "from": "jab-line",
+   "to": "tag",
+   "type": "maps_to",
+   "label": "tags are jab lines",
+   "chapter": 7
+  },
+  {
+   "from": "KR-SO",
+   "to": "script-opposition-SSTH",
+   "type": "extends",
+   "label": "GTVH extends SSTH's SO to 6 KRs",
+   "chapter": 7
+  },
+  {
+   "from": "performance-of-humor",
+   "to": "prosody",
+   "type": "part_of",
+   "label": "",
+   "chapter": 10
+  },
+  {
+   "from": "performance-of-humor",
+   "to": "timing-performance",
+   "type": "part_of",
+   "label": "",
+   "chapter": 10
+  },
+  {
+   "from": "performance-of-humor",
+   "to": "gesture-performance",
+   "type": "part_of",
+   "label": "",
+   "chapter": 10
+  },
+  {
+   "from": "performance-of-humor",
+   "to": "audience-co-performer",
+   "type": "part_of",
+   "label": "",
+   "chapter": 10
+  },
+  {
+   "from": "competence-performance-distinction",
+   "to": "GTVH",
+   "type": "requires",
+   "label": "GTVH describes competence; performance is separate",
+   "chapter": 10
+  },
+  {
+   "from": "timing-performance",
+   "to": "release-theory",
+   "type": "implements",
+   "label": "timing is the release theory's mechanism",
+   "chapter": 10
+  },
+  {
+   "from": "KR-NS",
+   "to": "timing-performance",
+   "type": "maps_to",
+   "label": "NS timing = performance timing",
+   "chapter": 10
+  },
+  {
+   "from": "KR-LA",
+   "to": "prosody",
+   "type": "maps_to",
+   "label": "LA words carry prosody",
+   "chapter": 10
+  },
+  {
+   "from": "performance-of-humor",
+   "to": "competence-performance-distinction",
+   "type": "requires",
+   "label": "performance is the non-text layer",
+   "chapter": 10
+  },
+  {
+   "from": "humor-signal",
+   "to": "performance-of-humor",
+   "type": "part_of",
+   "label": "",
+   "chapter": 5
+  },
+  {
+   "from": "humor-signal",
+   "to": "sincerity",
+   "type": "requires",
+   "label": "humor signals are what sincerity doctrine removes from the character",
+   "chapter": 5
+  },
+  {
+   "from": "code",
+   "to": "script",
+   "type": "requires",
+   "label": "scripts are stored in the shared code",
+   "chapter": 5
+  },
+  {
+   "from": "relevance-theory-humor",
+   "to": "incongruity",
+   "type": "requires",
+   "label": "relevance theory explains the effort of resolving incongruity",
+   "chapter": 8
+  },
+  {
+   "from": "context-humor",
+   "to": "benign-violation",
+   "type": "requires",
+   "label": "context determines if violation is benign",
+   "chapter": 8
+  },
+  {
+   "from": "pun",
+   "to": "KR-SO",
+   "type": "implements",
+   "label": "pun = SO on a single word",
+   "chapter": 9
+  },
+  {
+   "from": "verbal-irony",
+   "to": "double_interpret",
+   "type": "implements",
+   "label": "",
+   "chapter": 9
+  },
+  {
+   "from": "sarcasm",
+   "to": "aggression-theory",
+   "type": "implements",
+   "label": "sarcasm is aggressive irony",
+   "chapter": 9
+  },
+  {
+   "from": "verbal-irony",
+   "to": "sarcasm",
+   "type": "contrasts_with",
+   "label": "irony is playful, sarcasm is aggressive",
+   "chapter": 9
+  },
+  {
+   "from": "adjacency-pair",
+   "to": "garden_path",
+   "type": "maps_to",
+   "label": "punch replaces the expected second slot",
+   "chapter": 11
+  },
+  {
+   "from": "preference-organization",
+   "to": "garden_path",
+   "type": "maps_to",
+   "label": "dispreferred response = the punch",
+   "chapter": 11
+  },
+  {
+   "from": "footing",
+   "to": "persona",
+   "type": "maps_to",
+   "label": "footing shifts are persona oscillation",
+   "chapter": 12
+  },
+  {
+   "from": "power-solidarity",
+   "to": "aggression-theory",
+   "type": "implements",
+   "label": "power dynamics determine safe targets",
+   "chapter": 13
+  },
+  {
+   "from": "power-solidarity",
+   "to": "KR-TA",
+   "type": "requires",
+   "label": "power determines who is a safe TA",
+   "chapter": 13
+  }
+ ],
+ "indexes": {
+  "by_chapter": {
+   "1": [
+    "humor",
+    "joke",
+    "punchline",
+    "mirth",
+    "laughter",
+    "meta-humor",
+    "verbal-humor",
+    "non-verbal-humor"
+   ],
+   "3": [
+    "release-theory",
+    "incongruity-theory",
+    "aggression-theory",
+    "bisociation",
+    "complementarity-principle"
+   ],
+   "4": [
+    "incongruity",
+    "resolution",
+    "full-resolution",
+    "partial-resolution",
+    "foregrounded-incongruity",
+    "backgrounded-incongruity",
+    "isotopy-disjunction-model",
+    "linear-organization"
+   ],
+   "6": [
+    "script",
+    "script-opposition-SSTH",
+    "script-overlap",
+    "script-opposition-opposition"
+   ],
+   "7": [
+    "GTVH",
+    "KR-SO",
+    "KR-LM",
+    "KR-SI",
+    "KR-TA",
+    "KR-NS",
+    "KR-LA",
+    "jab-line"
+   ],
+   "10": [
+    "performance-of-humor",
+    "prosody",
+    "timing-performance",
+    "gesture-performance",
+    "audience-co-performer",
+    "competence-performance-distinction"
+   ],
+   "5": [
+    "humor-signal",
+    "code"
+   ],
+   "8": [
+    "relevance-theory-humor",
+    "context-humor"
+   ],
+   "9": [
+    "pun",
+    "verbal-irony",
+    "sarcasm"
+   ],
+   "11": [
+    "adjacency-pair",
+    "preference-organization"
+   ],
+   "12": [
+    "footing"
+   ],
+   "13": [
+    "power-solidarity"
+   ]
+  },
+  "by_type": {
+   "concept": [
+    "humor",
+    "joke",
+    "punchline",
+    "mirth",
+    "laughter",
+    "meta-humor",
+    "incongruity",
+    "resolution",
+    "full-resolution",
+    "partial-resolution",
+    "foregrounded-incongruity",
+    "backgrounded-incongruity",
+    "script",
+    "script-opposition-SSTH",
+    "script-overlap",
+    "script-opposition-opposition",
+    "KR-SO",
+    "KR-LM",
+    "KR-SI",
+    "KR-TA",
+    "KR-NS",
+    "KR-LA",
+    "jab-line",
+    "performance-of-humor",
+    "prosody",
+    "timing-performance",
+    "gesture-performance",
+    "humor-signal",
+    "code",
+    "relevance-theory-humor",
+    "context-humor",
+    "pun",
+    "verbal-irony",
+    "sarcasm",
+    "adjacency-pair",
+    "preference-organization",
+    "footing",
+    "power-solidarity"
+   ],
+   "distinction": [
+    "verbal-humor",
+    "non-verbal-humor",
+    "competence-performance-distinction"
+   ],
+   "theory": [
+    "release-theory",
+    "incongruity-theory",
+    "aggression-theory",
+    "bisociation",
+    "GTVH"
+   ],
+   "principle": [
+    "complementarity-principle",
+    "isotopy-disjunction-model",
+    "linear-organization",
+    "audience-co-performer"
+   ]
+  },
+  "by_operator": {
+   "garden_path": [
+    "punchline",
+    "incongruity-theory",
+    "incongruity",
+    "resolution",
+    "full-resolution",
+    "backgrounded-incongruity",
+    "isotopy-disjunction-model",
+    "linear-organization",
+    "GTVH",
+    "KR-LM",
+    "timing-performance",
+    "relevance-theory-humor",
+    "adjacency-pair",
+    "preference-organization"
+   ],
+   "literalize": [
+    "punchline",
+    "incongruity-theory",
+    "incongruity",
+    "partial-resolution",
+    "foregrounded-incongruity",
+    "GTVH",
+    "KR-LM"
+   ],
+   "double_interpret": [
+    "punchline",
+    "meta-humor",
+    "incongruity-theory",
+    "bisociation",
+    "incongruity",
+    "resolution",
+    "partial-resolution",
+    "script",
+    "script-opposition-SSTH",
+    "script-overlap",
+    "script-opposition-opposition",
+    "GTVH",
+    "KR-SO",
+    "pun",
+    "verbal-irony"
+   ],
+   "expose_self_blindness": [
+    "meta-humor",
+    "footing"
+   ],
+   "status_invert": [
+    "aggression-theory",
+    "GTVH",
+    "KR-TA",
+    "sarcasm",
+    "power-solidarity"
+   ],
+   "character_violation": [
+    "aggression-theory",
+    "script-opposition-opposition",
+    "GTVH",
+    "KR-TA",
+    "sarcasm",
+    "power-solidarity"
+   ],
+   "bisociate": [
+    "bisociation"
+   ],
+   "split_knowledge": [
+    "backgrounded-incongruity",
+    "script",
+    "script-opposition-SSTH",
+    "GTVH",
+    "KR-SO",
+    "audience-co-performer",
+    "code",
+    "verbal-irony",
+    "footing"
+   ],
+   "mistake_identity": [
+    "script-opposition-SSTH",
+    "KR-SO"
+   ],
+   "rigidify": [
+    "GTVH",
+    "KR-LM"
+   ],
+   "false_analogy": [
+    "GTVH",
+    "KR-LM"
+   ],
+   "juxtapose": [
+    "GTVH",
+    "KR-LM"
+   ],
+   "role_reverse": [
+    "GTVH",
+    "KR-LM"
+   ]
+  },
+  "by_series_topic": {
+   "joke": [
+    "humor",
+    "joke",
+    "meta-humor",
+    "complementarity-principle",
+    "GTVH"
+   ],
+   "setup": [
+    "joke",
+    "incongruity-theory",
+    "incongruity",
+    "isotopy-disjunction-model",
+    "linear-organization",
+    "script",
+    "script-overlap",
+    "KR-SI",
+    "code",
+    "relevance-theory-humor"
+   ],
+   "punch": [
+    "joke",
+    "punchline",
+    "laughter",
+    "release-theory",
+    "incongruity-theory",
+    "bisociation",
+    "incongruity",
+    "resolution",
+    "full-resolution",
+    "partial-resolution",
+    "foregrounded-incongruity",
+    "backgrounded-incongruity",
+    "isotopy-disjunction-model",
+    "linear-organization",
+    "script-opposition-SSTH",
+    "script-overlap",
+    "script-opposition-opposition",
+    "GTVH",
+    "KR-SO",
+    "KR-LM",
+    "jab-line",
+    "timing-performance",
+    "relevance-theory-humor",
+    "pun",
+    "verbal-irony",
+    "adjacency-pair",
+    "preference-organization"
+   ],
+   "feel-judge": [
+    "mirth",
+    "laughter",
+    "complementarity-principle"
+   ],
+   "persona": [
+    "meta-humor",
+    "performance-of-humor",
+    "gesture-performance",
+    "footing"
+   ],
+   "sincerity": [
+    "meta-humor",
+    "humor-signal",
+    "footing"
+   ],
+   "formats": [
+    "verbal-humor",
+    "non-verbal-humor",
+    "pun"
+   ],
+   "delivery": [
+    "verbal-humor",
+    "non-verbal-humor",
+    "backgrounded-incongruity",
+    "KR-NS",
+    "KR-LA",
+    "performance-of-humor",
+    "prosody",
+    "gesture-performance",
+    "audience-co-performer",
+    "competence-performance-distinction",
+    "humor-signal",
+    "verbal-irony"
+   ],
+   "pause": [
+    "release-theory",
+    "KR-NS",
+    "performance-of-humor",
+    "timing-performance"
+   ],
+   "timing": [
+    "release-theory",
+    "backgrounded-incongruity",
+    "KR-NS",
+    "performance-of-humor",
+    "prosody",
+    "timing-performance",
+    "audience-co-performer"
+   ],
+   "misdirection": [
+    "incongruity-theory",
+    "bisociation",
+    "incongruity",
+    "resolution",
+    "partial-resolution",
+    "foregrounded-incongruity",
+    "isotopy-disjunction-model",
+    "linear-organization",
+    "script-opposition-SSTH",
+    "KR-SO",
+    "adjacency-pair",
+    "preference-organization"
+   ],
+   "status": [
+    "aggression-theory",
+    "audience-co-performer",
+    "code",
+    "context-humor",
+    "verbal-irony",
+    "sarcasm",
+    "preference-organization",
+    "power-solidarity"
+   ],
+   "target": [
+    "aggression-theory",
+    "KR-TA",
+    "context-humor",
+    "sarcasm",
+    "power-solidarity"
+   ],
+   "violate": [
+    "aggression-theory",
+    "script-opposition-opposition",
+    "KR-TA",
+    "sarcasm",
+    "power-solidarity"
+   ],
+   "gtvh": [
+    "bisociation",
+    "script-opposition-SSTH",
+    "GTVH",
+    "KR-SO",
+    "KR-LM",
+    "KR-SI",
+    "KR-TA",
+    "KR-NS",
+    "KR-LA"
+   ],
+   "where-jokes-come-from": [
+    "partial-resolution",
+    "foregrounded-incongruity"
+   ],
+   "premise": [
+    "script",
+    "KR-SI",
+    "code"
+   ],
+   "frame": [
+    "script",
+    "humor-signal",
+    "context-humor",
+    "footing"
+   ],
+   "operators": [
+    "GTVH",
+    "KR-LM"
+   ],
+   "voice": [
+    "KR-LA",
+    "prosody",
+    "gesture-performance"
+   ],
+   "tag": [
+    "jab-line",
+    "adjacency-pair"
+   ],
+   "escalate": [
+    "jab-line"
+   ],
+   "joke-writing": [
+    "competence-performance-distinction"
+   ],
+   "anti-slop": [
+    "competence-performance-distinction"
+   ]
+  }
+ }
+}
