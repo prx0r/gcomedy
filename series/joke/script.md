@@ -28,7 +28,7 @@ Eight words for this series, then no new jargon ever: one-liner, joke, bit, chun
 
 > DIR: OVERLAY glossary cards fan out; persist in description.
 
-Learn the blocks once and every video from here recognizes itself. No definitions ever again. Only pointing. Humor is the mode. Laughter is the response. This series is about the text in between.
+Learn the blocks once and every video from here recognizes itself. No definitions ever again — only pointing. Humor is the mode. Laughter is the response. This series is about the text in between.
 
 ## [2:30] LENS
 
@@ -60,7 +60,7 @@ Then Candyland — visual, innocent, "fudgy thing" and "gummy twirly-o's," words
 
 ## [9:00] INSIDE THE 207
 
-Slow those sentences to half speed. Premise two lines old and already paying. Counterpoint detonates. Three anticipatory laughs at zero punchlines — timestamps on screen, attached to nothing but platform.
+Slow those sentences to half speed: premise two lines old and already paying. Counterpoint detonates. Three anticipatory laughs at zero punchlines — timestamps on screen, attached to nothing but platform.
 
 > DIR: OVERLAY 3 anticipatory-laugh timestamps (stage-3).
 

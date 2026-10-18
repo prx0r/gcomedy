@@ -20,13 +20,13 @@ Then Stewart Lee, so slow the room starts checking the exits.
 
 > DIR: CLIP -SQIfEwAkcw 30–44 (Lee slow) ≤15s — stop narration, play ≤15s, resume.
 
-Both rooms are roaring. Neither man could do the other's job with the other's voice. The words alone explain nothing here. The instrument explains everything.
+Both rooms are roaring, and neither man could do the other's job with the other's voice. The words alone explain nothing here. The instrument explains everything.
 
 Here is the number, on screen, in gold: working comics span nearly eighty words a minute, fastest to slowest.
 
 > DIR: OVERLAY 192-to-117-wpm spectrum gold card (Norm to Lee; measured; method in resources/delivery/DATA.md) — fires on the timestamp stream, never narrated.
 
-Same language. Nearly double the speed. Both funny on purpose. Delivery is not decoration on the joke. Delivery is half the joke wearing a different outfit.
+Same language, nearly double the speed. Both funny on purpose. Delivery is not decoration on the joke. Delivery is half the joke wearing a different outfit.
 
 ## [1:30] THESIS + VOCABULARY
 
@@ -38,13 +38,13 @@ Ten words for this series, then no new jargon: delivery, presence, commit, pace,
 
 ## [2:30] LENS
 
-A violin and a trumpet can play the same notes and make different weather. Nobody confuses them. Nobody says the trumpet is the violin played louder. The tone IS the message before a single phrase resolves. Ask a guitarist what changes when they switch from fingers to a pick. Everything. Same strings. Different hands.
+A violin and a trumpet can play the same notes and make different weather. Nobody confuses them, and nobody says the trumpet is the violin played louder. The tone IS the message before a single phrase resolves. Ask a guitarist what changes when they switch from fingers to a pick. Everything. Same strings. Different hands.
 
 Comedy works the same way. Two comics can say the same sentence and only one gets the laugh, because the sentence was never the whole signal. The voice carrying it — its weight, its speed, its stillness — tells the room how to receive every word inside it.
 
 > DIR: OVERLAY instrument-is-not-score white card (analogy, not data) — fires on the timestamp stream, never narrated.
 
-You can write the perfect score. Played on a broken instrument, it stays silent.
+You can write the perfect score, but played on a broken instrument, it stays silent.
 
 ## [4:30] PERSONA
 
@@ -52,7 +52,7 @@ Some comics arrive loud and learn to be present. Early on, one working comic mas
 
 > DIR: CLIP mask-to-voice genesis interview ≤15s — stop narration, play ≤15s, resume.
 
-The room heard the mask before the joke. Six years of nights peeled it off. The instrument got quieter and the rooms got louder.
+The room heard the mask before the joke, and six years of nights peeled it off. The instrument got quieter and the rooms got louder.
 
 Presence is not volume. Here is the test working comics pass around: record one set, watch it back with the sound off. Can you still tell the room is held? If yes, that is presence. If the whole thing goes flat without decibels, that was never energy. That was noise wearing energy's jacket.
 
@@ -66,7 +66,7 @@ And none of this is natural. "Natural" is dozens of faces in a bedroom mirror be
 
 > DIR: OVERLAY mirror-hours card — fires on the timestamp stream, never narrated.
 
-Every gesture you think was improvised was rehearsed until it looked improvised. That is not fakery. That is respect for the room.
+Every gesture you think was improvised was rehearsed until it looked improvised. That is not fakery — that is respect for the room.
 
 ## [6:00] CASE STUDY
 
@@ -74,7 +74,7 @@ Watch a comic hold a single borrowed voice for a full minute and never drop it.
 
 > DIR: CLIP qrmstYGMZt0 5–19 slices (Davies Ed Gamble held voice) ×4, each ≤15s — stop narration, play ≤15s, resume.
 
-Greg Davies, doing his Ed Gamble voice. Same joke engine underneath — a story about a friend — but the entire comedy rides on the voicing. Pitch sits higher. Vowels go rounder. The sentences get fussier, more outraged, more precise. He never winks. He never apologizes for the voice. That refusal is the joke's floor.
+Greg Davies, doing his Ed Gamble voice. Same joke engine underneath — a story about a friend — but the entire comedy rides on the voicing. Pitch sits higher and vowels go rounder. The sentences get fussier, more outraged, more precise. He never winks. He never apologizes for the voice. That refusal is the joke's floor.
 
 Now watch what the body does while the voice works. Still mic. Free hands.
 
@@ -94,13 +94,13 @@ No stepping on the laugh. No rush into the next premise. The joke lands because 
 
 ## [9:00] INSIDE THE MINUTE
 
-Slow that minute down and every choice is load-bearing. Sentence one arrives already inside the voice — no announcement, no throat-clearing. The room meets the character before the premise. Sentence two raises the fussiness exactly one notch. Sentence three holds the pitch while the hands stay dead still, and the contrast between a wild voice and a calm body is where the laugh starts leaking early. Those are laughs in anticipation of a punchline not yet said — the audience can feel how committed this is, and commitment is contagious.
+Slow that minute down and every choice is load-bearing. Sentence one arrives already inside the voice — no announcement, no throat-clearing. The room meets the character before the premise, and sentence two raises the fussiness exactly one notch. Sentence three holds the pitch while the hands stay dead still, and the contrast between a wild voice and a calm body is where the laugh starts leaking early. Those are laughs in anticipation of a punchline not yet said — the audience can feel how committed this is, and commitment is contagious.
 
 The alternative ending proves it. Imagine the same story told straight, in his own voice, same words.
 
 > DIR: BEAT flat read (narrator plays the same story straight, flat) — then resume.
 
-Nothing. The premise is fine. The structure is fine. The room stays quiet. The words were never the engine here. The voice was. Change the instrument, keep the score, lose the song.
+Nothing. The premise is fine and the structure is fine. The room stays quiet. The words were never the engine here. The voice was. Change the instrument, keep the score, lose the song.
 
 ## [10:00] SECOND SPECIMEN
 
@@ -112,11 +112,11 @@ Where Davies goes big and borrowed, Bloom goes small and exact — turning words
 
 ## [10:45] THE SMALL ROOM
 
-Bloom's version works because the room is close. You can hear consonants click.
+Bloom's version works because the room is close, and you can hear consonants click.
 
 > DIR: CLIP Y_s0e6t50MA close-syllable slice ≤15s — stop narration, play ≤15s, resume.
 
-In a theatre that fussiness dies halfway back. Davies's voice fills a theatre; Bloom's fills a back room. Neither is better. Each is tuned to its room.
+In a theatre that fussiness dies halfway back. Davies's voice fills a theatre; Bloom's fills a back room. Neither is better — each is tuned to its room.
 
 > DIR: OVERLAY instrument-tuned-to-room card (white craft) — fires on the timestamp stream, never narrated.
 

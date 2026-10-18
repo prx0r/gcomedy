@@ -28,7 +28,7 @@ A premise does three things: it declares a world (situation and inhabitants and 
 
 ## [2:30] LENS
 
-Autumn Leaves, eight bars. Key, scale, weather — declared, not argued. Nobody votes on whether we're in E minor. The head plays, the room accepts, and everything after (every solo, every reharmonization, every avant-garde departure) is measured against those eight bars. A jazz premise is never defended. It's stated, inhabited, departed from, returned to. Comedy premises work identically: stated ("my daughters play Monopoly"), inhabited (the whole bit lives there), departed from (the punch leaves it), returned to (the tag comes home). The head is the premise. The solo is the set. The return is the button.
+Autumn Leaves, eight bars: key, scale, weather — declared, not argued. Nobody votes on whether we're in E minor. The head plays, the room accepts, and everything after (every solo, every reharmonization, every avant-garde departure) is measured against those eight bars. A jazz premise is never defended. It's stated, inhabited, departed from, returned to. Comedy premises work identically: stated ("my daughters play Monopoly"), inhabited (the whole bit lives there), departed from (the punch leaves it), returned to (the tag comes home). The head is the premise. The solo is the set. The return is the button.
 
 > DIR: OVERLAY chord labels verified vs cleared recording; Autumn Leaves cleared recording ≤15s if used.
 
@@ -72,7 +72,7 @@ Give two comics the identical premise and watch them build incompatible worlds.
 
 > DIR: CLIP B airports-playground <window> — stop narration, play ≤15s, resume.
 
-Same situation. Opposite priority assignments, opposite weight, opposite rooms recruited. Neither is wrong — that's the point. The premise was never the situation. The premise was always the comic's ATTITUDE toward the situation, installed as shared priority. Airports-as-purgatory and airports-as-playground share zero jokes and zero laughs, from identical raw material. Which means the world-building step — the first ninety seconds — contains the entire set in miniature. Change the attitude, keep the topic, and every downstream joke changes. Students ask for premises. They should ask for attitudes. The topic is lumber. The attitude is the house.
+Same situation — opposite priority assignments, opposite weight, opposite rooms recruited. Neither is wrong — that's the point. The premise was never the situation. The premise was always the comic's ATTITUDE toward the situation, installed as shared priority. Airports-as-purgatory and airports-as-playground share zero jokes and zero laughs, from identical raw material. Which means the world-building step — the first ninety seconds — contains the entire set in miniature. Change the attitude, keep the topic, and every downstream joke changes. Students ask for premises, but they should ask for attitudes. The topic is lumber. The attitude is the house.
 
 ## [11:30] FAILURE MODE
 
