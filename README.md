@@ -69,6 +69,20 @@ All clones live in `essay1/tools/` (pinned as gitlinks). Clone with `--depth 1`.
 |---|---|---|
 | `typesafe/jev-1.14` (OpenRouter Decisions API) | Noul/Choice/Score/Box on images. Probed live: $0.000129/call. Use Box+Noul for drawing checks, Noul for smile/crack checks. | `OPENROUTER_API_KEY` in `freaktown/.env` (Jev-ONLY) |
 
+### Reference → blueprint → rebuild (new batch)
+
+| Repo | Function | Deps | How to use |
+|---|---|---|---|
+| `blixvip/MotionClone` (22M) | Reference video (X/YouTube/Vimeo/file) → editable motion graphics. Rebuilds typography/shapes/layouts/animations; side-by-side compare; change text/colors/timing; export MP4 or HyperFrames project. Strength is editable graphics, not photoreal cloning. | ChatGPT/Codex + render backend | Recreate viral motion-design styles as your own variations |
+| `heygen-com/hyperframes` (418M) | **Render core.** HTML+`data-*` timing + GSAP/Three.js/Lottie → deterministic MP4 via headless Chrome + FFmpeg. Apache 2.0. Domain skills (`hyperframes-core/animation/keyframes/audio/cli`). Same seek+Chrome+FFmpeg pattern already proven here via motion-probe. | Node 22+, FFmpeg (bun monorepo build parked — disk) | Compositions are HTML; `npx hyperframes preview/render`. Laptop-dissolve engine candidate |
+| `0xpratzyy/dissect` (816K) | Reference video → frame-accurate blueprint (cuts/transitions/camera/palette/beat-grid/word-timings) + `check` scores your rebuild /100 with frame-level fixes ("Cut 2 lands 4f late at f131"). | yt-dlp + ffmpeg + reader (you/Claude) | Blueprint viral formats before rebuilding them in HyperFrames |
+| `Vincentwei1021/video-shotcraft` (120M) | 152 shot recipes + 209 motion previews + Remotion implementations + 36s template + 149 SFX. Apache 2.0. | npm + Remotion + directing session | Pick shot cards per sequence instead of inventing moves |
+| `storytold/artcraft` (108M) | Stage 3D scenes/characters/cameras, then select video/image models. Lists Marble support (our venues). | Heavier workstation | Controllable composition before generative footage |
+| `hypit-ai/hypit` (38M) | Clone UGC/podcast/interview video structure, swap host/narration/B-roll/effects | Directing session | Reusable reference-video production |
+| `calesthio/OpenMontage` (163M) | 12 pipelines + 100+ tools orchestration layer. AGPL. | Directing session | Only if we outgrow the hand-built pipeline |
+| `zhuyansen/awesome-claude-video-skills` (35M) | Index of 309 video repos, security-graded, live page refreshes 8-hourly | — | Discovery feed, not a tool |
+| Monet (NOT cloned) | macOS-only DMG editor + Canvas + `editorctl`. Useless on this Linux box. | macOS | Note only |
+
 ## Free asset sources
 
 | Source | What | License note |
@@ -84,9 +98,12 @@ All clones live in `essay1/tools/` (pinned as gitlinks). Clone with `--depth 1`.
 
 ```
 Fish Audio (our 7 voices, word timestamps)
+  → dissect (blueprint viral formats) + MotionClone (rebuild as editable graphics)
   → claude-motion-design (titles, typography, vortex/probability animation)
+  → HyperFrames (deterministic render core for all of the above)
   → anatomy (exploded laptop diagram) + pc-anatomy (accurate hardware opening)
   → shaders (backgrounds, transitions, dissolves)
+  → video-shotcraft cards (pick moves, don't invent them)
   → lemo-opuscar Exploded Teardown style (cinematic direction)
   → earshot sfx bank + critique (foley + sync QC)
   → Remocn Studio (daily scene-making, live preview)
