@@ -1,0 +1,1433 @@
+--- PAGE 224 ---
+10
+The performance of humor
+10.1 A little history never hurt anyone
+202
+10.2 The Hymes-Gumperz sociolinguistic model
+211
+10.3 Empirical studies on markers of humor performance
+227
+10.4 Further readings
+234
+In this chapter we begin to tackle how speakers actually produce humor,
+primarily in spoken discourse, i.e., how they perform humor. Another
+way to conceptualize the subject matter of this chapter is to think of
+it as humor in discourse. In order to address this subject we will need
+to introduce a slightly different perspective than the one we have been
+working under in the first part of the book. The chapter is organized
+as follows: the first section reviews previous attempts at providing a
+theory of humor performance. The second section presents the Hymes-
+Gumperz theory of ethnography of communication and organizes rele-
+vant research on humor performance within that framework. Since the
+Hymes-Gumperz framework is rather broad and, as a whole, has not
+been widely adopted within humor studies,1 I will present its under-
+pinnings in somewhat more detail than other approaches mentioned
+elsewhere. The third and final section presents some recent empirical
+studies in the performance of humor which combine discourse and
+instrumental analyses.
+As the reader will recall from our brief discussion in Section 2.1, one of
+the foundational points established by Saussure (1916) is that it is crucial
+1 There are plenty of studies that fit within the framework of ethnomethodology, for
+example most discourse analysis, but very few studies encompass the entire ethnomethod-
+ological framework.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 225 ---
+THE PERFORMANCE OF HUMOR
+to distinguish two levels of analysis in the study of language: the langue,
+language, in an abstract sense, and the parole, speech/discourse, in a
+concrete sense, and including the uses of language in writing. Chomsky
+renamed the distinction competence and performance, respectively,
+with minor changes in the definition of the role of syntax, which are
+not relevant in this context. The title of the chapter then should be
+understood with “performance” in the Saussurian/Chomskian sense
+(i.e., as opposed to competence) and not specifically in a theatrical
+or cinematic sense, although we discuss stand-up comedy, which is a
+form of performance in the theatrical sense, and delivering a joke is,
+to some extent, a form of micro-performance (for example, the teller
+will embody characters, do “voices,” or accents, etc.). Performance in
+the acting sense is outside the realm of this study.
+The reader will recall that Chapter 6 detailed Raskin’s Semantic-Script
+Theory of Humor, a theory of humor competence. This chapter, and the
+following three, on conversation and discourse analysis and sociolin-
+guistics, deal with the performance side of humor. However, the nice
+parallelism ends here. While the competence side of the parallelism is
+fully theoretically developed, the performance of humor lacks a coherent
+comprehensive theory. In fact, this chapter will attempt to be a first
+presentation of such a theory.
+One could then wonder if there is any difference between the per-
+formance of humor and the conversation/discourse analysis of humor.
+The performance of humor goes beyond the discourse analytic frame-
+work and encompasses it, as we will see below, in Chapters 11–12.
+In another sense, the difference between the conversation/discourse
+analytical studies we review in Chapters 11–12 is one of focus. The
+focus in Chapter 11 is on how humor fits in conversation and what the
+functions of humor are in that context (Chapter 12).
+In the present chapter we will also look both at how humor is realized
+in conversation; however, we will do so from an empirical and instru-
+mental perspective and using a more quantitative approach. We also
+consider humor analyzed in experimental settings, unlike conversation
+and discourse analysis.
+10.1 A little history never hurt anyone
+This section details a number of studies that are directly relevant to the
+performance of humor or that propose a theory of performance without
+202
+
+
+--- PAGE 226 ---
+10.1 A LITTLE HISTORY NEVER HURT ANYONE
+however presenting a comprehensive theory. From a disciplinary
+standpoint, we have contributions from psychology and sociology,
+theatrical studies, rhetorics, stand-up comedy studies, conversation
+analysis, the General Theory of Verbal Humor, and sociolinguistics.
+10.1.1 Early studies on the social context of humor
+Psychologists and social scientists have long been aware that reactions to
+humor stimuli vary significantly in relation to the social context in which
+they are experienced. Summing up the literature on the subject, Pollio
+and Swanson (1995, p. 8) state: “reactions to humorous materials depend
+at least as much on the social contexts in which they are encountered
+as on the specific nature of the comic material itself.” Research has
+shown that increased group size increases the appreciation of humor.
+For example, Morrison found that in a theater audience, the larger the
+audience the greater the number and duration of laughter episodes
+(1940, p. 183). Prerost (1977) found that increased group size facilitated
+humor appreciation in children and teenagers. Stokols et al. (1973)
+found that subjects in a crowded situation laughed more. Aiello et
+al. 1983 found that “high spatial density environment [= crowding]
+produced a considerable enhancement in subjects’ enjoyment of the
+humor” (p. 193). Thus it is clear that one of the first topics that a full-
+blown theory of humor performance will need to address is the audience
+of humor and its size, if nothing else.
+10.1.2 Carrell’s performance theory
+The first sustained proposal for a theory of humor performance, comes
+from the perspective of rhetorics (Carrell, 1993, 1997a/b). The concept
+of “humor community” (Carrell, 1997a) is inspired by the idea of
+“discourse community.” A humor community is the audience of a given
+show (say the sitcom Friends): whereas the audience that watched the
+show when it first aired is more local, once a sitcom is syndicated (i.e.,
+is re-broadcast on many local American TV stations and abroad) its
+audience becomes global (i.e., made up of several different audiences;
+think of the Spanish, German, Italian, etc. versions of Friends) and non-
+homogeneous (since the various audiences may be interested in different
+aspects of the sitcom). Carrell stresses that the concept of humor com-
+munity with its global and non-homogeneous nature can be applied to
+203
+
+
+--- PAGE 227 ---
+THE PERFORMANCE OF HUMOR
+many other humorous phenomena. Updating her examples, consider
+humorous memes on the internet which spread very quickly across a
+truly global community, which is however extremely ephemeral.2 Jokes
+have always been known to “travel” far and wide, as they were easily
+translated and adapted to other cultures/countries. The work of Christie
+Davies is to a large extent dedicated to explicating and describing this
+fact (e.g., Davies, 1990).
+Carrell (1997b) distinguishes between humor competence (as in
+Raskin’s Semantic Script Theory of Humor) and joke competence, the
+latter being the speaker’s capacity to recognize a text as a joke, without
+determining if the joke is funny (p. 174). Thus Carrell argues that if
+one wants to determine if a given joke is perceived as humorous by a
+given audience (i.e., performance), one has to take into account “the
+situation” in which the joke is told.3 In Carrell (2008), she stresses, once
+more, the importance of the situation, or context, of the joking (p. 315).
+The slogan-like statement that “nothing is inherently humorous, or
+funny” (p. 314) should be understood as “nothing is inherently funny in
+a vacuum” i.e., all humor in actuality occurs in front of/for an audience.
+Humor competence (in Raskin’s sense) is of course an abstraction away
+from performance (i.e., humor-to-an-audience).
+10.1.3 Stand-up performance
+Other approaches to the study of audience have included the study of
+the audience of stand-up comedy (Rutter, 1997, 2000, 2001). Rutter’s
+dissertation argues for the necessity of a separate theory of performance,
+that is concerned not with why the jokes are funny but to how they are
+received as such in a given situation, by a given audience.
+Rutter sees the interaction between the stand-up comedian and
+his/her audience as pseudo-dyadic (i.e., it apes dyadic conversation in
+that the audience is seen as one participant; 1997, p. 118). According to
+Rutter, laughter does not occur randomly, for example, when individual
+2 The life span of a meme is measured in months. Cf. https://www.digitaltrends.
+com/social-media/the-lifespan-of-a-meme/ Zhao et al. (2013) show that tweets and text
+messages have an even shorter life span.
+3 This is a far cry from the accusation (Meany et al., 2014, p. 9) that Carrell’s “approach
+disenfranchises the process of production and follows the post-structuralist / post-modern
+logic of negating fixed meanings – nothing is inherently anything as all meaning is
+negotiated.” Carrell’s theory should be understood as a theory of humor performance.
+204
+
+
+--- PAGE 228 ---
+10.1 A LITTLE HISTORY NEVER HURT ANYONE
+members of the audience get a given joke, but is regulated, much as
+turn taking is regulated in conversation (p. 112). Rutter comes to some
+interesting conclusions, such as that “the transition between performers
+talk and audience laughter is negotiated so as to minimise overlap
+and during changes in turn that laughter tends to take precedence
+over talk” (p. 127) and so in this sense follows the “one-speaker-at-a-
+time” principle of conversations. Furthermore, audience laughter has a
+characteristic shape: it starts softly, builds up rapidly in volume, reaches
+a plateau which is sustained for a variable period of time, typically
+between 0.5 and 8 or 9 seconds, and then slowly tapers off (p. 129).
+Rutter notes perceptively that
+In order to minimise the potential for silence after laughter comedians will start their
+talking before the laughter has ended but towards the end of the audience response.
+The ability to do this is provided by their recognition of laughter growing quieter.
+(p. 131)
+thus showing how performers take advantage of the nature of the
+pseudo-dyadic interaction to further their success on stage. Likewise,
+performers may use various devices to sustain the laughter once it has
+been initiated.
+Rutter also claims that “The changes of pitch in [ . . . ] delivery [of
+stand-up comedians] is [sic] used [. . .] to signpost the completion of
+jokes and create an invitation to laugh” (1997, p. 232). According to
+Rutter, there is “a contrast in tone between the principal stress in the
+sentence that sets up the joke and a principal stress in the punch line” and
+specifically a falling intonation followed by a rise (p. 232). The example
+he gives is by British comedian Oliver Double, who is talking about his
+mother being upset by his swearing:
+(103)
+Double: An [sic] she [=Double’s mother] goes, “Oh, Oliver (.)
+What have I done to deserve you?” I said, “Ya ´fucked ˆda:d.?”
+(p. 233; I am simplifying the transcription and silently correcting
+errors in the text; SA)
+Needless to say, it is not just the audience that reacts to the performer.
+DeCamp (2015) shows how comedians “tailor” their material to the
+audience, deciding on the fly what material to include and/or exclude, or
+including explanations and contextualizations, based on the racial make
+up of the audience, for example. Scarpetta & Spagnolli (2009) show that
+205
+
+
+--- PAGE 229 ---
+THE PERFORMANCE OF HUMOR
+comedians use “filler” lines (semantically empty material serving the
+purpose to delay the next turn and to connect one joke to the next)
+but also “surveys” in which they check the audience’s familiarity with
+a given experience, with the function of increasing solidarity. Another
+technique is expanding successful punch lines, in which the comedian
+add on more humor to a successful punch line (and so he/she can deter-
+mine on the fly when to do so). Conversely, comedians may develop
+subroutines to handle jokes that “flop,” for example by pretending to
+make a note to themselves of what material in the act is not working
+so well. Wells & Bull (2007) and Tsang & Wong (2004) describe various
+affiliative responses which include laughter and applause, but do not dif-
+ferentiate among them. Atkinson (1984) also describes various ways of
+drawing applause and other affiliative responses, including laughter and
+suggests that here are affinities between the two, a suggestion that Rutter
+(1997) endorses. The first to follow that suggestion were McIlvenny et al.
+(1993). They find the familiar three-part list, with the punch line in the
+third item, contrasting pairs, and disclaimers. more interestingly, they
+find that comedians often overlap on the audience’s reaction, i.e., they
+do not wait for the laughter to die down before resuming their act. Also
+Bull & Wells (2002) and Bull (2006) argue that stand-up comedians use
+techniques similar to those studied in Atkinson (1984) but add jokes
+to the list of devices drawing applause. Jokes received both laughter and
+applause (Bull, 2006, p. 574). Seizer (2011) discusses the use of obscenity
+and profanity in stand-up.
+10.1.4 Performance of canned jokes
+One way to conceptualize the discourse analysis of humor is to see it,
+at least in part, as the study of the performance of canned jokes. Sacks
+(1974) foundational article consists of the analysis of the retelling of a
+canned joke. Norrick (1993, 2010) has documented many aspects of
+the telling of canned jokes in conversation. Norrick (2003) shows how
+the GTVH can be applied to conversational humor, even in its original
+formulation, i.e., as a theory of text and not of their performance (see
+also Attardo 2001a). More significantly, Norrick (2003) calls also for a
+description of the performance of humor in conversation and discusses
+the issue of timing in the delivery of humor. Norrick (2003) is also
+206
+
+
+--- PAGE 230 ---
+10.1 A LITTLE HISTORY NEVER HURT ANYONE
+worthy of notice because it is one of the few articles that attempts a blend
+between conversation analysis and humor research.
+10.1.5 GTVH and performance
+The GTVH is unabashedly a theory of competence (Attardo, 2001a,
+p. 30, Attardo, 2008b). Both in Attardo (2008b) and Attardo (2017a),
+I show how the GTVH may be able to contribute to a theory of the
+performance of humor, while nonetheless maintaining that the two
+are very different endeavors: “a theory of competence and a theory of
+performance articulate mutually independent categories and therefore
+cannot mix in principle” (Attardo, 2017a, p. 100). In Attardo (2017a),
+I examine a) what a theory of performance might look like (it mostly
+deals with the idea of repertoire, developed below), b) what (little) the
+GTVH might contribute to it, and c) what I had been working on with
+the Applied Linguistics lab group at Texas A&M University-Commerce
+for the past decade (see below, Section 10.3).
+It may thus come as somewhat of a surprise that there have been
+three proposals to expand the GTVH to include (aspects of) a theory
+of performance. We will briefly review them.
+1. Canestrari (2010) suggests adding a “meta” knowledge resource
+including “the signals that refer to the speaker’s intention of
+being humorous and to the hearer’s recognition of such intention”
+(p. 330).
+2. Tsakona (2013) proposes the addition of a “Context” Knowledge
+resource containing information about the sociocultural context
+of the humorous text and including two different but interrelated
+kinds of information: first, the sociocultural presuppositions for
+the production and interpretation of SOs, LMs, and TAs; in simple
+terms, what participants need to know about the sociocultural
+context of the text to derive meaning from it; and, second, speakers’
+metapragmatic stereotypes on humor: ideological assumptions
+and stances on whether a specific text can be considered humorous
+or not, why, how, when, and to whom.
+3. Ruiz-Gurillo (2012, 2016), finally, proposes completing (or
+“modifying” 2012, p. 40) the six knowledge resources with
+a (meta)pragmatic component, which includes, for example,
+information about register, genre, (meta)pragmatic markers, etc.
+207
+
+
+--- PAGE 231 ---
+THE PERFORMANCE OF HUMOR
+Given the general reasonableness of the three proposals, why am I
+skeptical toward an attempt to incorporate a theory of performance in
+the GTVH? Consider, as an example, smiling intensity, i.e., the degree of
+smiling, ranging from a faint smile to a broad, open-mouth smile. The
+Applied Linguistics lab team has spent some significant time studying
+the matter (the research is outlined below, in Section 10.3). There is
+simply no way that I can see to get to the values of smiling intensity from
+the knowledge resources of the GTVH. Smiling intensity is a category of
+performance, which makes perfect sense, is measurable and correlates,
+probably, with some internal states of the speakers. The knowledge
+resources cannot predict or even be related to it. It would be like trying
+to correlate the use of fertilizer and tilling of wheat fields to the baking
+of good pizza. Surely, wheat is somehow related to pizza making, but
+not in any directly significant way. Much more important variables can
+be found that directly affect and effectively determine the perception of
+goodness (temperature of the oven, quality of the tomatoes, freshness of
+the mozzarella, quality of the olive oil, etc.), than the amount of fertilizer
+used to grow the wheat. Of course, without wheat, there’s no flour and
+without flour no pizza, so there is a correlation, but it is remote and not
+very significant.
+Likewise, the GTVH accounts for all the features of the jokes qua texts,
+whereas a theory of performance must account for a host of issues that
+are in principle not even related to the texts, such as political stance of
+the interactants, social and economical determinants, gender and age
+factors, etc. For example, a comedian may introduce a non-sexual joke
+using profanity and “blue” language. This does not make the joke-as-text
+sexual in any significant way, but may significantly affect its tellability
+and acceptability by a middle-class audience. So, in conclusion, I believe
+that since the categories that affect performance are different from those
+that affect competence, one is better off creating a theory of performance
+directly built around the categories we need for a theory of performance.
+The next sections of this chapter attempt to outline such theory.
+10.1.6 Sociolinguistic approaches
+There has been plenty of research in various areas that fall under the
+purview of humor performance (such as discourse analysis, or socio-
+linguistics) but no serious attempts have been made to organize these
+contributions in a coherent theory of performance. Exceptions to this
+208
+
+
+--- PAGE 232 ---
+10.1 A LITTLE HISTORY NEVER HURT ANYONE
+are Davies’ (2017) chapter for the Routledge Handbook of Language and
+Humor that gathers and systematizes the work on the sociolinguistics of
+humor, Gasquet-Cyrus (2004), a broad sociolinguistic analysis of humor
+in Marseilles (France), and my own Attardo (2015), which tries to
+organize the research on humor in conversation and discourse analysis.
+The most recent work to be considered in this respect is Chukwumah
+(2018), an uneven collection of essays on joke performance in Africa.
+Another exception to the neglect of the theory of the audience is Smith
+(2009), in which the author advocates creating a theory of the audience
+to accommodate “unlaughter,” Billig’s (2005) term for the deliberate
+refusal to display humor support (laughter, or metalinguistic comments
+that are favorable to the display of humor). Billig (2005, pp. 192–193)
+notes that here is a difference between not laughing, because, say, one
+did not hear the joke, and actively signaling that one is not laughing
+(“a display of not laughing” p. 192).
+Smith’s (2009) argument is that unlaughter may be used to “higlight”
+differences between the joke teller4 and the recipient and to “heighten
+exclusionary social boundaries” (p. 151) Smith’s starting point is that the
+switch from the serious bona-fide mode to the non-bona-fide humorous
+mode is a “unilateral” move by the speaker and that it “demands”
+a response accepting the switch. “[T]he joker’s unilateral switch into
+humor cannot stand alone” (Smith, 2009, p. 152). Thus responding with
+humor support (laughter, etc.) indicates an acceptance of the switch.
+As an example of unlaughter, Smith relates that Tom Cruise reacted to
+being squirted in the face with water by a fake reporter by pointing out,
+accurately enough, that the man was being “a jerk” (p. 155).
+In a social situation, humor establishes an in-group and an out-group
+(see Attardo, 1994, pp. 322–325, for a synthesis of the research). Smith
+refers to these categories as “solidarity” and “difference.” This dynamic
+becomes self-perpetuating:
+4 Here we need to keep in mind the point made in Section 1.1.1 that the terms
+speaker/teller and hearer/recipient of the joke may be used in very broad senses. Consider
+that in Smith’s example (the Muhammad jokes controversy) the “teller” is not just the
+cartoonist, who drew the cartoon, but also the editors who selected the cartoon, the publisher
+who printed it, and ultimately the society that is comfortable with the publication, whereas
+the recipient is not just an individual reader of the Danish newspaper in which the cartoons
+were originally published, but ultimately the entire (self-defined) group of people, who may
+or may not have actually seen the cartoons themselves, who feel that they are entitled to
+opining on the legitimacy and acceptability of producing the text. I have argued elsewhere
+that the controversy was artfully provoked for political reasons, so I will not comment
+further on the cultural differences that the episode purports to highlight.
+209
+
+
+--- PAGE 233 ---
+THE PERFORMANCE OF HUMOR
+Shared laughter enhances solidarity, and accompanying unlaughter from those who are
+outsiders or marginal only magnifies this effect. Accordingly, in their boundary-setting
+work, well-integrated individuals sometimes do not wait for chance unlaughter but
+deliberately provoke it. Marginal group members may become the repeated butts of
+targeted jokes precisely because they are marginal. (p.161). Clearly, then, some jokes
+are not meant to be funny to all. That is, some humorous performances are intended to
+include some people in shared laughter but to exclude others.
+(Smith, 2009, p. 162)
+The significance of this conclusion is very important, and often
+neglected in humor studies: the intention of the speaker may not be
+that of eliciting laughter/amusement in all the hearers, in the sense that
+in a (practical) joke the ratified addressee (i.e., the target of the joke)
+is not necessarily or not at all the one supposed to find the situation
+funny. In aggressive, out-group building humor, the ratified addressee
+is supposed to find the experience distressing, while the unratified or at
+least unaddressed hearers are the ones supposed to find the (practical)
+joke funny. Ultimately, the speaker may be his/her own addressee, with
+the ostensible addressee merely playing the part of the target of the joke.
+The following is an example of precisely this situation.
+(104)
+Two teenagers, brother and sister. The sister is getting ready to
+go out on a date. She changes clothes repeatedly, walking by her
+brother who is reading on the couch, to get her mother’s opinion
+on her outfit. The mother is in another room. Finally, the sister
+leaves, only to return a minute later, go to her room and change
+again. As she is leaving, the brother, who has otherwise been
+entirely silent, says: “It was better before.” The sister slams the
+door and leaves in a huff. The mother, who has overheard, comes
+and scolds the brother. However, they are both laughing.
+Here the brother is both the speaker and the (real) addressee, while
+the sister is the target of the joke; the mother was an unintended
+unaddressed overhearer.5
+Going back to the Mohammad cartoons, Smith argues that their orig-
+inal publication was a deliberate test of group-belonging, as was their
+republication: “unlaughter was being provoked deliberately when news-
+papers around the world chose to republish these cartoons” (p. 164).
+Smith’s and Billig’s conclusion on unlaughter is that it is a form of failed
+5 No sisters were harmed in the telling of the joke. The sister is only the ostensible
+addressee, as there is no real intention to communicate.
+210
+
+
+--- PAGE 234 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+humor, deliberately set up to fail, according to Smith, in the case of the
+Muhammad cartoons. We deal more fully with failed humor in Section
+12.4.3. This concludes our review of various disciplinary approaches
+to the performance of humor. We now turn to outlining the Hymes-
+Gumperz framework we wish to adopt for the rest of the chapter.
+10.2 The Hymes-Gumperz sociolinguistic model
+A theory of humor performance needs a theory of performance, period.
+I believe that the broad framework of the Hymes-Gumperz socio-
+interactional model of language use (a.k.a. ethnography of communi-
+cation) is a tool sufficiently broad and general to provide the theoretical
+support to do so. Incidentally, I would like to stress the continuity with
+Saussure’s view of language I have espoused in this work (and elsewhere).
+As we saw, competence is an abstract form (but not the most abstract
+way of looking at language), while performance is the most concrete
+form. Hymes (1964, p. 11) sees the distinction as one of more or less
+emphasis (or primacy) on “the structure, or system, of speech (la parole),
+rather than that of the linguistic code (la langue).”
+A theory of performance is still an abstraction, to be sure, only
+less so. The distinction competence/performance needs to be seen
+as a continuum, with different descriptions arranged on the basis of
+greater or lesser concreteness. The concrete token is an actual use by
+an individual speaker in a certain circumstance. So for example, this
+morning, my wife upon waking up inquired on the location of our cat
+by saying “where’s the cat?” That actual instance of the token “the,”
+uttered by Lucy Pickering at around 7:00 am, on May 15, 2018, in
+our bedroom, in my presence, without any other participants present,
+with all its attendant contextual factors, which include the tendency
+of said cat to wander off and get stuck on trees on our property, or
+the neighbor’s, and countless other potentially relevant factors, is a
+concrete instance of performance. The definite article level, in English,
+is the morphemic level /the/. The grammatical concept of “article” in
+English is a more abstract concept. The class of Determiners is yet more
+abstract and finally the N/N notation is categorial grammar and stands
+for a category that applied to a Noun yields a Noun. It is an extremely
+abstract representation of the concept of article. Intermediate levels of
+abstraction are of course possible and it is possible that more abstract
+211
+
+
+--- PAGE 235 ---
+THE PERFORMANCE OF HUMOR
+Table 10.1 The abstract–concrete continuum exemplified by the article “the”
+Grammatical category
+N/N
+Determiner
+Articles, demonstratives, possessives, quantifiers
+Article
+a/an, the
+Definite article
+the
+Concrete token
+“the”
+representations than categorical grammar exist or can be created.
+I am not sure what a more concrete form of an actual speech instance
+could be. The various levels of abstraction in the production of “the”
+are summed up in Table 10.1.
+So in this sense, when Bally (1909) distinguishes, after Saussure,
+between langue and parole but introduces the langue expressive (expres-
+sive discourse), i.e., the “possibilities offered” by language to the speak-
+ers, he is considering intermediate levels of abstraction.6
+Hymes’ communicative competence (1972) and his SPEAKING
+model (see below) are a good place to start. Hymes (1964) stresses
+“the need to investigate directly the use of language in contexts of
+situation so as to discern patterns proper to speech activity” (pp. 2–3)
+and that the ethnographic approach “must take as context a community,
+investigating its communicative habits as a whole, so that any given use
+of channel and code takes its place as but part of the resources upon
+which the members of the community draw” (p. 3). Specifically, Hymes
+draws attention on the ancillary role of linguistics per se within the
+ethnographic approach:
+it is not linguistics, but ethnography – not language, but communication – which must
+provide the frame of reference within which the place of language in culture and society
+is to be described. The boundaries of the community within which communication
+is possible; the boundaries of the situations within which communication occurs;
+the means and purposes and patterns of selection, their structure and hierarchy, that
+constitute the communicative economy of a group, are conditioned, to be sure, by
+properties of the linguistic codes within the group, but are not controlled by them.
+(p. 3)
+6 Interestingly the more or less open hostility toward Saussurean and Chomskian linguis-
+tics one often finds in applied linguistics is not shared by its founders. Witness the approving
+comments by both Gumperz and Hymes in their 1972 opus magnum: e.g. Gumperz (1972,
+p. 5) or Hymes nuanced recrimination against formalism, acknowledging that “some who
+are formalists show more concern for the implications their notions have for behavior
+and the behavioral sciences than do some who are not” (1964, p. 1) or modeling of his
+terminology of “communicative competence” on Chomsky’s (grammatical) competence.
+212
+
+
+--- PAGE 236 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+Let us note in passing the stress on resources and on the communicative
+economy of the group, as they will shape the concept of “repertoire” (see
+below).
+10.2.1 Linguistic repertoires
+Gumperz (1964, p. 137) describes linguistic interaction as a process of
+“decision making, in which speakers select from a range of possible
+expressions.” The range of choices forms a “repertoire.” Gumperz defines
+“repertoire” as “the totality of linguistic forms regularly employed in
+the course of socially significant interaction.” Repertoires include “a
+greater number of alternants, reflecting contextual and social differences
+in speech” (1964, p. 137). More generally, repertoires can be defined
+as “the totality of linguistic resources (i.e. including both invariant
+forms and variables) available to members of particular communities”
+(Gumperz, 1972, p. 20). Platt and Platt (1975, p. 35) provide another
+similar definition: “the range of linguistic varieties which the speaker
+has at his(/her) disposal.”
+The idea of a linguistic repertoire shared by a community of speakers
+is a significant step forward in the establishment of an ethnography of
+communication, because it subsumes variation: “The concept of linguis-
+tic repertoire is a fundamental departure from the traditional concep-
+tion of one people–one homogeneous and unitary code” (Bauman &
+Sherzer, 1975, p. 104). For example, Bauman and Sherzer mention
+“Friedrich’s analysis of nineteenth century Russian pronominal usage
+[1972]. The linguistic repertoire made available to speakers two forms
+for the second-person singular, ty and vy, but actual usage covaried with
+no fewer than ten socioexpressive factors” (Bauman & Sherzer, 1975,
+p. 103).
+Choice within the repertoire is not unconstrained:
+Every message must conform to the grammatical restraints of the verbal repertoire but
+it is always interpreted in accordance with social restraints. [ . . . ] This connection must
+be statable in terms of regular rules allocating particular sets of forms to particular
+kinds of interaction. [ . . . ] The power of selection is [ . . . ] limited by commonly agreed-
+on conventions which serve to categorize speech forms as informal, technical, vulgar,
+literary, humorous, etc.
+(Gumperz, 1964, p. 138; my emphasis, SA)
+Hymes (1972) mentions in passing “indicating” humor “by switching
+from one mode of speech to another” (p. 38). Gumperz’ and Hymes’
+213
+
+
+--- PAGE 237 ---
+THE PERFORMANCE OF HUMOR
+casual references to humor as one of the options in the repertoire of
+speakers validates, to some extent, our decision to investigate humor
+performance within a Hymes-Gumperzian framework, as it shows that
+the idea is quite compatible with it. However, neither Gumperz, nor
+any of the interactionist work on humor attempted to define a humor
+repertoire, so we will turn to that task next.
+10.2.1.1 Humor repertoires
+In Attardo (2002d), I presented, among considerable indifference, a first
+outline of what a partial theory of humor performance could include.
+Among various topics I touched upon the gamut of possibilities open
+to a speaker in a specific situation: after the Speaker has uttered an
+Utterance and the Hearer believes the Speaker had the intention for the
+Utterace to be funny. The Hearer may:
+1. not get the joke and laugh,
+2. get the joke, but not react,
+3. get the joke and smile,
+4. get the joke and laugh,
+5. get the joke and comment metalinguistically,
+6. get the joke and change the subject,
+7. not get the joke and ask for clarification,
+8. etc.
+We should emphasize that the list is not closed-ended: other classes
+of behavior may appear as well, as indicated by the et cetera at the end;
+moreover, this is a list of classes of behaviors, not of actual behaviors
+(so this is an intermediate level of performance, not concrete commu-
+nicative events). Laughter, smiling, changing the subject may take many
+different forms and manifestations.
+More importantly from a communicative interpersonal perspective,
+while the external behavior may be the same, the mental states of the
+participants may be significantly different: so for example, laughter may
+occur upon getting or not getting a joke. Smiling may likewise signify
+(somewhat muted) appreciation or be a cover for non-comprehension.
+Changing the subject may indicate that one disapproves of the humor
+or that one wanted to talk about something else. This is called the
+“indeterminacy” of humor and its markers.
+214
+
+
+--- PAGE 238 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+Significantly, the repertoire included the failures, both of Speaker and
+Hearer, i.e., failure to produce a humorous turn when the intention was
+there and failure to recognize a humorous turn. Failed humor was at
+the time an unexplored domain. Since then, significant work has been
+developed (see Section 12.4.3). In Attardo (2017b), I pointed out that the
+repertoire of humor is not limited to reactions to humor, but of course
+must encompass the decision to produce humor and so cover the social
+criteria for appropriateness of humor, i.e., when and where it is socially
+acceptable to be facetious.
+In this light, we can consider Jefferson’s work on the invitation of
+laughter (1979) as a contribution to the analysis of the repertoire of
+speakers delivery of humor. Lavin & Maynard (2001, p. 465) describe
+the repertoire for declining laughter invitations (i.e., not reciprocating
+laughter), in the telephone interview setting: talking over it, typing, and
+“attending to survey question” (i.e., reverting to on task talk).
+Finally, there is another aspect of the humor repertoire that should be
+included, i.e. the performance of humor includes also the choices in the
+delivery of the humor, i.e., “all the linguistic and paralinguistic choices
+made by the speakers as they produce the humorous utterance (ranging
+from the pitch and volume with which the syllables are uttered, to the
+font choice of the text, for example)” (Attardo, 2017a). I will address
+some aspects of this seriously understudied aspect in Section 10.3 below.
+Furthermore, the idea of repertoire figures prominently in Bell and
+Pomeranz’ (2016, pp. 10–11) treatment of humor in the classroom; see
+Chapter 16. This should give a sufficient idea of the complexity of the
+coverage of a humor repertoire.
+10.2.2 Speech acts and speech events
+The reader will recall the discussion of speech acts and the work of
+Austin (1962) and Searle (1969) in Section 8.1.1. Within the ethno-
+graphic perspective, speech acts fit within speech events, which in turn
+are part of speech situations (Hymes, 1972, p. 56). The difference is
+primarily of size (“magnitude” p. 56):
+a party (speech situation), a conversation during the party (speech event), a joke within
+the conversation (speech act). [ . . . ] the same type of speech act may recur in different
+types of speech event [ . . . ] Thus a joke (speech act) may be embedded in a private
+conversation, a lecture, a formal introduction.
+(Hymes, 1972, p. 56)
+215
+
+
+--- PAGE 239 ---
+THE PERFORMANCE OF HUMOR
+It is clear that here Hymes means “joke” in the sense of jab line, rather
+than in the sense of “narrative ending in a punch line” because the latter
+may not occur in a formal introduction. Telling a narrative joke is more
+of a speech event.
+Gumperz (1972, pp. 16–18) defines speech events as “communicative
+routines” which have the following characteristics:
+1. they are viewed by members of a society “as distinct wholes,”
+2. they are considered “separate from other types of discourse,”
+3. they are “characterized by special rules of speech and non-verbal
+behavior,”
+4. they often have “recognizable opening and closing sequences,”
+5. they often have a “special name” (p. 17),
+While Gumperz does not say so, it is fairly clear that joke telling meets all
+the requirements above. Stand-up comedy also clearly fits the definition
+of a speech event.
+Speech events have a variety of components which Hymes catalogs
+using the famous SPEAKING mnemonics: “settings, participants, ends,
+act sequences, keys, instrumentalities, norms, genres” (p. 65).
+10.2.2.1 Hymes’ SPEAKING components
+In this section we will deal quickly with some of the components of the
+SPEAKING model that are less relevant (but not irrelevant) when con-
+sidering humor and the move on to the crucial concepts of humorous
+genres, keying and framing, and contextualization cues.
+Setting The setting includes the time and place in which the speech
+act takes place, the “physical circumstances” of the event (1972,
+p. 60) but also the “scene” i.e., the “psychological setting” of the
+occasion, for example “formal or informal, serious to festive”
+(p. 60). The setting for humorous events will be informal and non-
+serious, generally speaking.
+Participants Among the possible factors of this component, we
+find the speaker and hearer we are familiar with, but also an
+addressor, addressee (the originators of a message), spokespeople,
+interpreters, and the audience (a non-addressed entity). Here
+Goffman’s distinctions between ratified and unratified participants
+and addressed and unaddressed listeners (think of a teacher talking
+216
+
+
+--- PAGE 240 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+to one student in front of the rest of the class about the subject of
+the lecture) would become relevant. (Goffman, 1981, pp. 131–133;
+see Chapter 1.
+Ends The ends include both the goals and purposes of the act and
+its outcomes. In the case of humor, most unplanned improvised
+humor will fall under the speech act category, rather than speech
+events or speech situations: while “stand-up comedy” or “comedic
+performance” have recognized status as socially sanctioned entities,
+a jab line speech act in the middle of an otherwise serious occasion
+does not have a recognized status, except perhaps as disruption.
+Being facetious during a dinner conversation isn’t a distinct activity
+like, say, dinner table conversation is. Conversational humor is
+expected in some situations, for example, talk among friends, but
+it piggybacks, so to speak, on an otherwise serious (or at least non-
+humorous) activity. Conversely, stand-up comedy, with its atten-
+dant “rituals” (see Rutter, 1997) or playing “the dozens” are exactly
+the sort of speech events envisioned by Gumperz, the purpose of
+stand-up comedy being to provide entertainment and diversion for
+its attendees, and revenue for its performer. The outcomes will be
+influenced by the quality of the show, the nature of the crowd, the
+presence of hecklers, etc.
+Act sequence The act sequence regards the message form and con-
+tent. The form is how the speech act is realized. Gumperz (1972,
+p. 59) emphasizes that the form of the message is a crucial compo-
+nent. With the current developments of audio and video recording
+and such sophisticated techniques as spectrographic sound analy-
+sis, eye tracking, gesture analysis, etc. we can account with striking
+accuracy with the details of how speakers deliver their utterances.
+The content of the message is what is being talked about, the topic
+of the interaction.
+Key The key is the “tone, manner, or spirit in which an act is done”
+(p. 62). Hymes lists “mock: serious” as an example of key. We deal
+separately with keying below.
+Instrumentalities These include the channel of the speech event:
+spoken language, but also writing, signaling with other codes, and
+we may add today, computer-mediated communication, and the
+likes. The second component are the forms of speech, such as
+217
+
+
+--- PAGE 241 ---
+THE PERFORMANCE OF HUMOR
+dialects, varieties, registers, etc. On dialects and humor, see Section
+13.2.4; on register, see Section 14.4.1.
+Norms of interaction and interpretation These
+norms
+concern
+when and how to interrupt, allocating speech turns, what can be
+talked about and in what situations, what is considered rude, polite,
+permissible, aggressive, etc.
+Genres Genres are textual types. Humor has numerous genres, which
+will be dealt separately below.
+10.2.2.2 Keying or framing
+The terms “keying” (Hymes, 1972) and “framing” (after Goffman, 1974)
+are used more or less interchangeably, in their original sense.7 The
+fundamental idea goes back to the groundbreaking work of Gregory
+Bateson (1972). As we saw in Sections 3.3.1 and 2.4, the concept has
+close ties with humor from the beginning, in Bateson’s theorizing on
+the metamessage “this is play.”
+As we saw above, Key accounts for the “tone” of the speech event. Even
+more explicitly, Hymes comments that when a key
+is in conflict with the overt content of an act, it often overrides the latter (as in sarcasm).
+The signaling of key may be nonverbal, as with a wink, gesture, posture, style of dress,
+musical accompaniment [ . . . ]
+(p. 62) [my emphasis, SA]
+For an example of sarcastic keying of an otherwise non-humorous situa-
+tion (mob conflict) through musical accompaniment, see Chapter 15. A
+possible keying device for stand-up comedy may be the use of profanity
+(Seizer, 2011), which sets squarely the discourse in the informal domain.
+A discussion of keying in relation to humor is found in Section 2.4 and
+see also below the discussion of contextualization cues.
+Bauman and Sherzer offer a pellucid definition of framing in a Bateso-
+nian sense, which is worth considering in its entirety despite its length:
+The notion of frame is drawn chiefly from Bateson, though the component of a
+speech event that Hymes labels “key” is related to frames. A frame is a metacommu-
+nicative device which signals the interpretive context within which a message is to
+be understood, a set of interpretive guidelines for discriminating between orders of
+message (Bateson [1972], pp. 177–93, 222). Examples of frames might be joking, in
+7 See Goffman himself uses “keying” in a sense similar to Hymes (1974, p. 44). Tannen
+(1993, p. 6) notes that the reference of the term “framing” has been expanded significantly,
+under the pressure of the work on frame semantics and artificial intelligence.
+218
+
+
+--- PAGE 242 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+which the words spoken are to be interpreted as not seriously meaning what they might
+otherwise mean, imitation, in which the manner and/or matter of speaking is to be
+interpreted as being modeled after that of another person or persons, and translation,
+in which the words spoken are to be interpreted as the equivalent of words originally
+spoken in another language or code. Framing is accomplished through the employment
+of culturally conventionalized metacommunication, i.e. each speech community will
+make use of a structured set of distinctive communicative means from among its
+resources in culturally conventionalized and culture-specific ways to signal or key [to
+use Goffman’s term (50)] the range of frames available to members.
+(Bauman & Sherzer, 1975, p. 106)[my emphasis, SA]
+Let us note several significant aspects of this discussion: first Bateson’s
+“framing” is equivalent and an inspiration to both Hymes’ and Goffman’s
+“keying.” Second, recall the discussion of Bateson’s metamessage “this
+is play” as a fundamental component of humor (see Sections 2.4.1 and
+3.3.1). Third, the other frames used as examples are “imitation” and
+“translation.” We could add “performance of a play” and “practicing
+grammar rules” as other examples. What all these situations have in
+common is that the normal conventions of goal-oriented communica-
+tion are suspended and overridden by a different set of goals. Fourth,
+the explicit acknowledgment of the metalinguistic nature of the framing
+process. It is necessary to have recourse to a meta-level (i.e., communi-
+cate about the communicative interaction) in order to settle the framing
+process.
+What is generally not discussed, at least not in the humor stud-
+ies literature, is that Goffman’s own discussion of framing is directly
+connected to humor: when discussing “primary frameworks”, i.e., the
+basic categories that are used to make sense of reality, such as physical
+events (say, the weather) and social events (events that involve agency)
+(Goffman, 1974, p. 22) Goffman mentions Bergson’s (1901) famous
+definition of humor as the mechanical overlaid on the living. Goffman
+comments:
+Bergson only fails to go on and draw the implied conclusion, namely that if individuals
+are ready to laugh during occurrences of ineffectively guided behavior [= mechanical],
+then all along they apparently must have been fully assessing the conformance of the
+normally behaved, finding it to be no laughing matter.
+(1974, p. 39)
+Goffman concludes “observers actively project their frames of reference
+into the world” (p. 39). Immediately after this discussion, Goffman turns
+to “keying” and starts the discussion precisely with Bateson’s essay on
+219
+
+
+--- PAGE 243 ---
+THE PERFORMANCE OF HUMOR
+“The message ‘this is play” ’ (originally published in 1955), but also
+mentioning Groos (1898), which is a significant source of Freud’s (1905)
+classic. Furthermore, Goffman quotes Fry (1968), one of the founding
+fathers of humor studies. So, it is fair to say that the whole idea of keying
+is closely related to humor. Goffman reviews Bateson’s definition of play,
+and delves fairly extensively into the research differentiating play from
+the real action. Without going too deep into the discussion, I will focus
+on two features: 1) play is performed so that “its ordinary function is
+not realized” (p. 41), so that play biting cannot involve real (i.e., hurtful)
+biting; the “real” activity is the “pattern” on which the play form is
+built (so, play fighting must resemble fighting, but not be fully fighting);
+2) “signs presumably are available to mark the beginning and termina-
+tion of playfulness” (p. 43; see also p. 45).
+Goffman then introduces the term “key” as follows: “by keeping in
+mind these comments on animal play” (p. 43) one can define it as
+the set of conventions by which a given activity, one already meaningful in terms of
+some primary framework, is transformed into something patterned on this activity but
+seen by the participants to be something quite else.
+(p. 44)
+If the connections to humor studies were not strong enough already,
+Goffman here quotes Austin’s famous passage in which Austin defines
+speech acts performed on stage as “parasitic’ or “etiolated” uses of
+language (1962, p. 22). Humor is one such form of “parasitic” use of
+language. The term “parasitic,” probably because of its negative con-
+notations, never caught on. The term non-bona-fide (Raskin, 1985;
+see Section 6.3) did. It is surprising then that Goffman never really
+discusses humor keying, although he does mention, in passing “not
+taking something seriously or making a joke of it” as “cast[ing it][ . . . ]
+into a playful key” (p. 82).
+Goffman (1974, 87–95) returns to jokes in the category of “fabrica-
+tions” (i.e., framing that involves deceit). Goffman lists different kinds
+of deceits, starting with “kidding” which lasts only the duration of a
+sentence or “a turn at talking” (p. 88),8 leg-pulling, practical jokes, and
+hoaxes, which may last for extended periods of time. Note, in passing,
+that Goffman is very clear on the non-cooperative nature of these deceits
+(for their duration). Goffman then deals briefly with teasing, under the
+8 I was unaware of this detail of Goffman’s work when I formulated the Least Disruption
+Principle; see Section 8.2.2. I now note with pleasure this convergence.
+220
+
+
+--- PAGE 244 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+rubric of “negative experiences” and with wordplay (puns; pp. 441–443),
+in the “vulnerabilities of experience” chapter of his book. Puns are seen
+as shifts between frames. Goffman then mentions “frame disputes” and
+quotes Emerson (1969) on debates about whether joking is appropriate
+(pp. 498–499). If we also consider the numerous references to comedy
+in plays, film, and television routines, I think that it is more than fair to
+say that a serious consideration of Goffman as a humor theorist is likely
+to be very rewarding.
+Finally, let us wrap up our discussion of framing with the mention
+of Norrick’s work (2010, pp. 234–235) which traces the history of the
+idea of framing humor within the context of discourse analysis. Other
+scholars to explicitly mention the idea of framing or keying include
+Straehle (1993); Norrick (1993); and Kotthoff (1999). Canestrari and
+Attardo (2008) and Canestrari (2010) develop a Batesonian account
+of framing metacommunicative signals that the interlocutors engaged
+in the “language game” of the humorous exchange may or may not
+receive, accept, and/or reciprocate. If both speakers are on the same
+“wavelength” and they reciprocate the metacommunicative cues, they
+achieve humorous syntony. If the metacommunicative signals are not
+received, the humor fails, at some level (on failed humor, see Section
+12.4.3).
+10.2.3 Genres
+The concept of genre is clearly inspired by literary theory, where genres
+such as the sonnet or the Elizabethan comedy have specific historical
+and literary meanings. As long as we keep in mind that genres in Hymes’
+sense are not limited to literary genres but transcend them completely
+and range across all linguistic usages, that characterization is not prob-
+lematic. A more technical definition is provided by Bauman & Sherzer
+(1975, p. 105): “culturally conventionalized utterance types which can
+be employed in the construction of discourse. Genres are verbal forms
+organized at a level beyond the grammar.”
+There is no question that jokes are a genre9 of humor as are anec-
+dotes, riddles, limericks, doggerel, and now in the age of the internet,
+9 I have used elsewhere the term “text type” as synonymous to genre to refer to jokes
+(Attardo & Chabanne, 1992), based on Fillmore (1981) and DeBeaugrande & Dressler
+(1981). This should not be confused with Biber’s (1988) definition of text type as a set of
+co-occuring linguistic features, as opposed to genre, which is defined externally.
+221
+
+
+--- PAGE 245 ---
+THE PERFORMANCE OF HUMOR
+memes. Kotthoff (2007) is a (non-exhaustive) review of conversational
+humor genres and includes: teasing, humorous stories about problems
+(different from the trouble talk described by Jefferson, insofar as these
+are actually funny stories; for example, one student relates having had to
+withdraw from the university after her 39th semester), joint fantasizing
+(joke co-construction), parody, humorous gossip. Another review of
+humor genres is Dynel (2009a). The most recent and comprehensive
+treatment of genres of humor is Tsakona (2017).
+The performance of jokes, i.e., joke telling sessions, has been investi-
+gated by Sacks (1974); Norrick (1993) and many others. Norrick (1993,
+pp. 112–118) shows that speakers may engage in joke telling sessions,
+in which the purpose of the conversation becomes that of telling and
+hearing jokes. In those settings, i.e., when the context has been set up for
+the production of humor, checking whether the joke may be delivered
+is no longer necessary. Much can be said about joke telling, for example
+how speakers catenate jokes based on topical relevance and similarity
+(Norrick, 1993, p. 117) and how the laughter arising from such sessions
+can start feeding on itself (see Section 12.4.4). However, in what follows
+I will consider a few humorous genres that are less well known, just
+to attest to the wide variety of humorous genres. A secondary goal of
+the choice of examples below is to show that not all joking is affiliative
+or carries positive affect (Gruner, 1978; Attardo, 1994; Kotthoff, 1996;
+Boxer & Cortès-Conde, 1997; Priego-Valverde, 2003; Billig, 2005).
+10.2.3.1 Sounding, a.k.a. the dozens
+Labov (1972) was not the first to describe the practice of young African-
+American speakers to trade ritual jocular insults, but he certainly put
+the practice front and center of the sociolinguistic field of study by
+situating it within the context of his ongoing study of African-American
+Vernacular English and also explicitly within Hymes’ ethnography of
+speaking (p. 305).
+Below I present a selection of sounds, or dozens, targeting mothers
+(a favorite topic), but other targets are members of the group and other
+relatives.
+(105)
+Your mother’s a duck. (p. 304)
+Your mother so old she got spider webs under her arms (p. 312)
+Your mother eat rice crispies without any milk (p. 315)
+222
+
+
+--- PAGE 246 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+According to Labov, the sounds are “immediately evaluated” (p. 325)
+and “the primary mark of a positive evaluation is laughter” (p. 325).
+There is a competitive aspect to sounding: Labov states that some
+members of the group who are known to be good sounders will stop
+other members from initiating sounding against them, since the lesser
+sounders “know in advance that they will be outdone” (p. 326).
+The speech act of sounding is described as consisting of a sequence
+of pair-wise connected sounds. The first speaker starts, usually with
+an insulting reference of speaker B’s mother. The audience evaluates
+the sound, for its humorousness but also for its cleverness. Speaker B
+retaliates with an insult to speaker A, usually a variation on the theme
+introduced by A. Again the audience evaluates the sound for originality
+and quality of delivery. If B’s performance was better than A, B has “won”
+the sound. A goes again. Here he/she can choose to introduce a new
+theme or create another variation of the original sound. The latter option
+is considered more virtuosic. B then responds and the process continues
+until one of the two is perceived to be the winner or the exchanges
+degenerates in actual, no longer ritual, insults. This can be seen when
+one of the participants reacts to
+(106)
+Your momma drink pee.
+with
+(107)
+That’s a lie!
+rather than with the expected ritualized
+(108)
+Your father eat shit.
+thus showing that they are taking the insult seriously (p. 335). As
+Labov notes, sounds are never denied (much like in improv comedy, we
+may add), they are reciprocated, whereas personal insults are denied,
+or mitigated. In other words, sounds are ritualistic insults in that the
+speakers must believe that they are not true/meant (p. 339), or to put it
+differently, they are in play mode (non-bona-fide).
+There is much more to sounding that I have summarized above, as
+Labov’s own analysis, which is much more extended, shows. Further
+research on sounding has questioned some of Labov’s points, such as for
+instance that the sounds are necessarily false (Kochman, 1983), when
+they only need not be meant seriously (in other words, one can joke
+223
+
+
+--- PAGE 247 ---
+THE PERFORMANCE OF HUMOR
+about true facts as well). Rahman (2014) shows that ritual insults are
+widespread, including the Anglo-Saxon world, and notes antecedents in
+many African cultures. For example, Kihara (2015) provides an analysis
+of the mchongoano a type of verbal dueling among the Luhya (a Bantu
+people primarily located in Kenya).10
+This is a good transition then to the next genre of humor we will exam-
+ine. Culpeper (1996) notes that the practice of sounding is essentially
+an elaborate form of banter and argues that this was quite widespread
+in ancient Scandinavia. Let us note also the affinity, already remarked
+upon by Gumperz and Hymes (1972, p. 132–133), of sounding with the
+verbal dueling among Turkish adolescents discussed in Dundes et al.
+(1970/1972) and with the verbal dueling of poets in pre-islamic Arabia
+(e.g., Sowayan, 1989). Dollard (1939) and Abrahams (1962) are two of
+the classical treatments of the dozens/sounding. They are conveniently
+reprinted, along with an extract from Mitchell-Kernan (1971; see also
+Mitchell-Kernan, 1972) and numerous other essays, all with valuable
+introductions by Alan Dundes, in Dundes (1973; 3rd ed. 1990).
+10.2.3.2 Jocular mockery
+Haugh considers “jocular mockery” (2010, 2014) as a type of teasing
+(Haugh, 2017b). Essentially, teasing may be framed or keyed either as
+playful (affiliative, non-serious) or as aggressive (disaffiliative, serious).
+Needless to say, the framing may be ambiguous, so that “it is not entirely
+clear whether the teaser really is being non-serious, or is in fact covertly
+serious” (Haugh, 2017b, p. 207). Jocular mockery, according to Haugh,
+is “a particular subset of teasing where participants are orienting to
+fostering solidarity, rapport or affiliation. Such teasing is invariably
+carried out within a marked non-serious or joking frame” (Haugh, 2010,
+p. 2107). A more intense form of banter is jocular abuse, which involves
+mock insults (Hay, 1994, 2002; Haugh & Bousfield, 2012).
+Haugh does not refer to it as such, but he describes the repertoire of
+responses to mockery:
+1. Reject the mockery (response to the criticism)
+2. Accept the mockery or pretend to accept it (response to the playful
+frame)
+3. Ignoring it
+10 Kihara (2015) is also significant because he explicitly bases his analysis on Hymes’
+SPEAKING model.
+224
+
+
+--- PAGE 248 ---
+10.2 THE HYMES-GUMPERZ SOCIOLINGUISTIC MODEL
+Laughter may occur both with acceptance or rejection, and in both cases
+marks the jocular (non-serious) reception. If the mockery is accepted,
+the recipient may elaborate on the mockery (self-disparaging humor)
+or counter it (i.e., respond in type, mode adopt) “the latter giving rise to
+what is commonly termed ‘banter” ’ (Haugh, 2010, p. 2108).
+There are cultural restrictions to banter. For example, Haugh and
+Bousfield (2012) find that some topics of mock abuse appear only
+in Australian data (e.g., lacking toughness), while others appear only
+in British data (e.g., embarrassing behavior in childhood). Haugh and
+Bousfield (2012) also examine the politeness status of jocular mockery
+and abuse. On the politeness aspect of jocular mockery, see also Section
+12.1.4.2.
+10.2.3.3 The Igbos’njakiri
+The “njakiri” is a genre of joking among the Igbo, in South Central
+Nigeria. Duruaku (2015) defines the “njakiri” as “a public abuse to make
+fun of someone else” and lists is as one of the categories of “oral art”
+in the Igbo culture. It is distinct from jocular abuse, because it is more
+aggressive, while still being playful. Nwachukwu-Agbada (2014) defines
+it as a “joking relationship” similar to teasing” and as “satirical and
+jocular exchange meant to amuse its auditors, and probably to tease or
+abuse its victim(s)” (Nwachukwu-Agbada, 2006, p. 153). The critical
+component of the njakiri is kept under control by a set of specific criteria
+for choosing the target: essentially, one addresses the njakiri only to
+one’s peers, either in terms of socio-cultural status, or education level,
+or gender (Nwachukwu-Agbada, 2014, p. 379).
+Thus, Ebeogu (1991), whose work on njakiri remains the best avail-
+able, presents a lengthy example, in which the members of a patrilineal
+group (hence on the same social footing) trade grotesque accusations
+(for example, of having gone to one’s in-laws to have a newly purchased
+car blessed, rather than to one’s own patrilinear group; pp. 30–31).
+Ebeougu argues that njakiri consists of “sarcasm” and “curse.” Both are
+pretty harsh: Ebeogu notes “the satire is [ . . . ] hard-hitting” (p. 33).
+Much like in sounding and jocular abuse “participants in a njakiri are
+not expected to take offense” (p. 36).
+Sounding, jocular banter, and njakiri fall under the category of verbal
+dueling (Rahman, 2014), which is of course a type of language play
+(Sherzer, 2002). The specific differences between the three seem to be
+tied to the level of acceptability of the playful aggression displayed.
+225
+
+
+--- PAGE 249 ---
+THE PERFORMANCE OF HUMOR
+10.2.4 Contextualization cues
+Gumperz’ definition of contextualization cue is as follows:
+any verbal sign which, when processed in co-occurrence with symbolic grammatical
+and lexical signs, serves to construct the contextual ground for situated interpretation
+and thereby affects how constituent messages are understood.
+(Gumperz, 2015, p. 315)
+Examples include formulaic expressions, code switching, pronuncia-
+tion, prosody, rhythm, tempo, and other suprasegmentals. Gumperz
+(1992, p. 231) lists the following categories:
+1. Prosody
+2. Paralinguistic signs (tempo, pauses, synchrony, latching, overlaps,
+tone of voice)
+3. Code choice (from the repertoire)
+4. Choice of lexical form or formulaic expressions
+Features of contextualization cues are:
+1. contextual; they function “in co-occurrence with symbolic gram-
+matical and lexical signs,” hence
+2. non-symbolic (neither grammatical nor lexical),
+3. non-semantic; they “signal meaning largely by cueing indirect
+inferences” (p. 316),
+4. intrinsically oral, “present in talk” (p. 316),
+5. specific to a culture or subculture
+Note how Gumperz goes out of the way to state that contextual-
+ization cues “signal meaning” and do not directly “mean.” Levinson
+(2003, p. 27) explains that
+the term ‘cue’ denotes an encoded or conventional reminder, like a knot in a handker-
+chief, where the content of the memo is inferentially determined. Thus the ‘cue’ cannot
+be said to encode or directly invoke the interpretative background, it’s simply a nudge
+to the inferential process.
+Gumperz (1977, p. 198) examines a conversational joke in which a
+man on an airplane is pretending to be a bus conductor asking for:
+“Tickets, please!” “spoken in higher than normal pitch, more than usual
+226
+
+
+--- PAGE 250 ---
+10.3 EMPIRICAL STUDIES ON MARKERS OF HUMOR PERFORMANCE
+loudness, and staccato rhythm” (p. 198) and one of the two women
+who are traveling with him says to the other “I TOLD you to leave
+him at home” [caps indicate phrasal stress]. Gumperz notes that “if the
+statement of the man or the woman had been uttered in normal pitch
+and conversational intonation, the connection between them might not
+have been clear” (p. 198). In this case, the formulaic expressions and the
+prosodic features functioned as contextualization cues.
+Besides the examples used by Gumperz and Hymes themselves seen
+above, one of the earliest explicit discussion of the uses of contextualiza-
+tion cues in the context of humor is Deborah Tannen’s dissertation.11
+Gumperz (1977) demonstrates that speakers signal what activity they are engaging in,
+i.e. the metacommunicative frame they are operating within, by use of paralinguistic
+and prosodic features of speech – i.e. intonation, pitch, amplitude, rhythm, and so
+on. Gumperz calls these features, when they are used in signaling interpretive frames,
+“contextualization cues.”
+(Tannen 1979, p. 37)
+Siegel (1995) reports on code-switching (Fijian-Hindi) as the cause
+of humor, in Fiji. Code-switching is a contextualization device, which
+may indicate that “a switch to the code appropriate for humor can be
+a signal that the content is not serious” (Siegel, 1995, p. 101). Many
+linguistic communities in which two varieties coexist “conventionalize”
+one of them for humor (Apte, 1985, p. 190) and so the mere switch to
+the humorous variety may function as a contextualization cue. For a dis-
+cussion of the use of dialectal varieties as humorous, see Section 13.2.4.
+Kotthoff (2000, p. 64) states that “Laughter is the contextualization cue
+for humor par excellence.” In Kotthoff (2006, p. 7) she lists a number
+of contextualization cues for humor, which include laughter, prosody,
+repetition, and much more, but no specifics are provided. Everts (2003)
+lists among the contextualization cues, word order, intonation, speech
+rate, nasalization, and facial expressions. Norrick (2004) argues that
+contextualization cues may help orient a story telling toward humor,
+rather than the newsworthiness of the story itself.
+10.3 Empirical studies on markers of humor performance
+There is a large literature on the markers of irony and sarcasm, which I
+reviewed in Attardo (2000b). A more recent and comprehensive survey
+11 Tannen’s dissertation committee consisted of Robin Lakoff (chair), John Gumperz, and
+Wallace Chafe.
+227
+
+
+--- PAGE 251 ---
+THE PERFORMANCE OF HUMOR
+is found in Burgers and van Mulken (2017). Burgers and van Mulken
+distinguish three categories of markers:
+1. utterance
+markers:
+metalinguistic,
+typographical,
+morpho-
+syntactic, and schematic (repetition, echo, register shifts)
+2. co-textual markers, such as other humor,12 rhetorical figures,13
+intonation, prosody, facial expressions, etc.
+3. contextual markers, such as the background information about the
+situation contrasting with the utterance.
+(p. 390)
+Detailed charts are provided that list all the markers proposed in the
+literature, for the first two categories (the third one of course cannot be
+listed).
+In particular, I will highlight one aspect of the research on prosodic
+and intonational markers, i.e., its relational (contrasting) nature. Sum-
+ming up the research on prosodic and intonational marking of irony,
+Burgers and van Mulken (2017) note that the idea that there is a specific
+ironical tone of voice has come under mounting criticism. First, different
+features are listed across different languages, so that, for example, in
+English irony would be marked by a lowering of mean F0 (the funda-
+mental frequency of the vowel), whereas in Chinese it would be marked
+by a raising of the F0. Second, in experiments using masked speech (i.e.,
+speech filtered so that the actual sounds are not recognizable but the
+prosodic features are) speakers can recognize irony in their language
+but not in others. So, if there is an ironical tone of voice it is language-
+specific and not universal. Several studies (Attardo et al., 2003; Bryant &
+Fox Tree, 2005; Bryant, 2010) have claimed that “speakers adapt [ . . . ]
+their way of speaking to mark that something was going on in the ironic
+utterance. In that way, ironic intonation may not be hidden in a specific
+intonational pattern, but rather in a contrast with preceding utterances”
+(Burgers & van Mulken, 2017, p. 391).
+Another area of research, albeit drawing less interest, are the markers
+on humor at large. Adams (2012) examined markers in computer-
+mediated communication. We will focus on the prosodic markers of
+humor, which have been investigated by a research team led by Lucy
+12 The presence of humor in a text indicates that the speaker of the text feels that using
+humor in that context is appropriate and therefore other humor may act as a marker of the
+potential presence of humor.
+13 For example, hyperbole and/or understatement and irony go often hand in hand.
+228
+
+
+--- PAGE 252 ---
+10.3 EMPIRICAL STUDIES ON MARKERS OF HUMOR PERFORMANCE
+Pickering and myself, with a number of students (some of whom are now
+colleagues) from the Applied Linguistics lab at Texas A&M University-
+Commerce.
+There exists a folk-theory of humor performance, embodied primarily
+in books and advice for would-be comedians on how to perform humor
+on stage or in other situations (speeches, toasts). This folk-theory has
+influenced academic research, as evidenced by some of the claims found
+in the sparse literature. Broadly speaking, the expectation is that punch
+lines, since they are the climax of the story, will be delivered in a marked,
+emphatic way, “with bells and whistles” (Chafe, 1994). Confusingly, this
+general area is know as the “timing” of humor.14 We used the existing
+discussions to generate a set of hypotheses that we tested empirically on
+10 speakers performing two canned jokes each. The hypotheses were
+operationalized (Attardo & Pickering, 2011) as follows:
+• there should be a significant pause (longer than 0.6 seconds) before
+the punch line
+• punch lines should be delivered faster and in a more clipped way
+than the rest of the text
+• there is a shift in voice quality (pitch) and volume
+The results of the instrumental analysis of the performance of the
+jokes were unexpected. The mean length of pauses in the setup of the
+joke, as opposed to the punch lines was actually longer than the pauses
+immediately before the punch line. Only in very few cases there was a
+significant pause before the punch line and in one of those the speaker
+got confused and hesitated, thus producing an involuntary long pause.
+We found no significant difference in the speech rates of punch lines,
+as compared to the rest of the text, although speakers do deliver them
+slightly slower (i.e., the opposite of the prediction of the folk theory). We
+found a significantly lower pitch (i.e., the opposite of the prediction by
+Bauman, 1986, p. 68) and no significant differences in volume, again
+contrary to the predictions of the folk theory (Pickering et al., 2009;
+Attardo & Pickering, 2011).
+How do we explain such a débacle for the folk theory? As it turns
+out, canned jokes are (mostly) extended narrative single turns. When
+14 Speech rate is the only aspect investigated in these studies that scricto sensu belongs
+to timing. Other authors, such as Norrick (2001), have a much more expansive definition of
+timing.
+229
+
+
+--- PAGE 253 ---
+THE PERFORMANCE OF HUMOR
+I don’t have
+50
+100
+Frequency(Hz)
+150
+200
+250
+300
+350
+0
+0
+1.0
+2.0
+3.0
+4.0
+Time (sec)
+5.0
+6.0
+7.0
+8.0
+time for a
+girlfriend
+but now
+frog
+that’s
+cool
+a talking
+Figure 10.1
+A paratone, at the end of the performance of one of the jokes. “That’s cool”
+is the punch line. Note the declination, indicated by the continuous line. The dotted lines
+indicate the approximate resets of each tone unit.
+speakers produce a longer turn there is a specific intonation pattern
+for this called a paratone. Essentially a paratone is a spoken paragraph.
+As can be seen from Figure 10.1 above, phonetically paratones are
+distinguished by a high pitch/volume reset at the beginning followed
+by a progressive lowering of the pitch/volume, called declination. This
+causes the last syllables of the paratone to have significantly lower pitch
+and volume. Since punch lines occur at the end of the narrative and
+hence of the paratone, prosody trumps any attempt at emphasizing the
+punch line prosodically.
+We successively replicated the study using conversational data, to
+see whether the nature of the data (monological performance in front
+of a camera) might have affected our results. To do so we used data
+collected in four dyadic conversations (8 participants) recorded over
+video conferencing software. The speakers were instructed to tell one
+another a joke (provided by the experimenter) and then to talk freely
+for a few minutes. This provided us with canned jokes to compare to
+the Pickering et al. (2009) data, as well as a set of naturally occurring
+conversational humor (mostly jab lines). The results, summed up in
+Attardo et al. (2013), are even more damaging for the folk theory
+hypotheses. There are no significant differences for any of the measures
+(pitch, volume, speech rate, and pauses). Since most of the data are jab
+lines, they do not occur at the end of a paratone, and therefore we do
+not see the lower pitch present in the punch lines.
+While we had also included laughter in our accounts (with no sig-
+nificant results), around this time, we also started considering smiling.
+In order to analyze the smiling behavior of the speakers we developed a
+230
+
+
+--- PAGE 254 ---
+10.3 EMPIRICAL STUDIES ON MARKERS OF HUMOR PERFORMANCE
+smiling intensity scale (SIS) ranging from no smile (0) to open mouthed
+smile (4). The full description of the SIS can be found in the appendices
+of Gironzetti, Attardo and Pickering (2016) and Gironzetti et al. (2016).
+What we found was that speakers smile a lot in conversation. However
+there is a reliable correlation between smiling intensity and humor. In
+other words, the speakers do not necessarily smile more often when
+humor occurs, but they smile more broadly. Furthermore they tend to
+match each other’s intensity of smiling (i.e., they display synchronicity).
+This indicates that the speakers are engaging in a negotiation of the
+nature (key/frame) of the situation. Curran et al. (2018) show that
+speakers are sensitive to differences in intensity of laughter.
+The hypothesis that the speakers in face to face conversation are
+actively negotiating the humorous frame of the interaction is further
+supported by research presented in Gironzetti et al. (2016) and
+Gironzetti (2017) using eye tracking technology, Gironzetti shows that
+speakers when they engage in humor display a heightened interest in
+the eyes and mouth areas of the face, where the Duchenne display of felt
+smiles are produced. However, the relationship is far from linear: for
+example, irony and jokes seem to comport different gaze patterns: more
+attention is paid to the mouth when the humor type is irony, whereas
+less attention is paid when the humor is a canned joke punch line.
+Likewise, Spanish speakers show overall less attention to the face,
+thus opening the possibility of research in cultural differences of gaze
+patterns in humor. Other patterns including mutual gaze and gaze
+aversion (looking away) seem to offer promising avenues of research
+as well. Williams, Burns, & Harmon (2009) show that gaze aversion
+correlates with sarcasm, for example.
+Other research on the matter includes a collection of articles (Attardo
+et al., 2013, originally published in 2011 as a special issue of Pragmatics
+and Cognition) in which a few other studies concerning the prosody of
+humor. Bird (2011/2013) is dedicated to the prosody of riddle questions,
+essentially the first part of a riddle, such as (109).
+(109)
+Why’d the mouse cross the road?
+Bird’s findings are that
+riddle questions and conversational questions differ significantly in their pitch charac-
+teristics. Regardless of the gender of the speaker, riddle questions generally have less
+pitch change over the utterance due to lowered maximum pitch, less average pitch
+change within nuclei, and less drastic changes in pitch contour within nuclei on average.
+(2013, p. 99)
+231
+
+
+--- PAGE 255 ---
+THE PERFORMANCE OF HUMOR
+which is consonant with the results discussed above. Flamson et al.
+(2011/2013) likewise find that speakers do not mark prosodically either
+the punch lines of the set up of humor passages.
+Not all research is consonant with the findings reported above.
+Wennerstrom (2011/2013) examines two kinds of joke in which “the
+intonation triggers the shift of the script and hence the humor” (p. 127)
+which could be a counterexample to the studies presented above.15
+A genuine counterexample can be found in Archakis et al. (2010) who
+find that the humor in Greek adolescent girls’ conversations is presented
+with significantly higher volume, lower speech rate and pauses before
+and after the humor. Methodological concerns about the Greek data are
+discussed in Attardo et al. (2015, p. 186–187). Hoicka and Gattis (2012)
+found that mothers reading to infant children
+use a higher mean F0, larger F0 standard deviation, wider F0 range, larger intensity
+standard deviation, wider intensity range, and slower speech rate when expressing ver-
+bal humour versus verbal sweet-sincerity. The second study also showed that humorous
+and sweet-sincere utterance contours were significantly different. Humorous utterances
+followed a rising linear contour, whereas sweet-sincere utterances did not tend to follow
+any specific pattern.
+(p. 545)
+Hoicka and Butcher (2016) find that parents signal a joking frame to
+children using various cues that include intonation.
+Fatigante and Orletti (2013) also consider smiling as a marker of
+affiliation, whereas they consider laughter to be either affiliative or
+disaffiliative. Ikeda and Bysouth (2013) mention gaze and smiling as
+multimodal clues. They study multi-party conversations and find three
+types of laughter: spectator laughter, which signals disengagement, turn-
+initial, stepped up laughter, which signals engagement and a willingness
+to take the floor, and delayed laughter, which shows a desire to set
+themselves apart. Ruiz-Madrid and Fortanet-Gòmez examine humor
+in plenary lectures using a multimodal framework. Further studies are
+reviewed in Gironzetti (2017). Some studies are beginning to consider
+the possibility of gestures as markers of humor; for example, Buján
+(2019) examines a variety of gestures in talk show interviews, such as
+facial expressions (smiling, raised eyebrows), head gestures (nods, shak-
+ing etc.), bodily gestures, such as turning toward the interviewer, etc.
+15 Interestingly, Wennerstrom described one of the special intonations as a L+H*, which
+matches Double’s stand-up example quoted by Rutter, cf. example (103).
+232
+
+
+--- PAGE 256 ---
+10.3 EMPIRICAL STUDIES ON MARKERS OF HUMOR PERFORMANCE
+She comes to the conclusion that none of the gestures is particularly
+associated with humor and that the gestures when associated with
+humor have the same meaning than when they are not associated with
+humor. This contradicts Tabacaru & Lemmens’ (2014) claim that raised
+eyebrows would be associated with sarcasm and humor at large.
+Peräkylä and Ruusuvuori (2006) anticipated the frame-by-frame anal-
+ysis of smiling in dyadic conversations. The authors selected assessments
+(evaluative statements) and analyzed only those parts of the conversa-
+tions, for affective displays. They do not use FACS, but define smiling
+in the same terms. They find, in a case study, that facial expressions
+display affect and assessment and that the speakers’ facial displays
+are coordinated (synchrony). Their most interesting finding, from our
+perspective, is that
+there seems to be a particular continuity in the parties’ facial expression [=smiles] and
+the affect that it incorporates: while the verbal action and an aspect of the topic change,
+the affect, as displayed by the participants’ faces, in this case remains the same.
+(p. 138)
+In another study, based on the same materials, Kaukomaa et al. (2013)
+consider “anticipatory” smiles, which occur before the verbal turn of a
+speaker and find that they are all reciprocated by the interlocutor. The
+turn-initial smiles were associated with “a shift in emotional stance”
+(p. 22). Some of the smiles introduce a “humorous emotional stance”
+(p. 23). The interlocutor may either “join the emotional stance” of
+the speaker after the first speaker has “clarified the grounds” for it, or
+immediately, i.e., without waiting to know why the speaker is smiling
+(p. 27).
+It is too early to draw any significant conclusions about the empirical
+study of humor performance, except to say that there seems to be ample
+evidence that the study of the markers of humor performance is shaping
+up as a rewarding area of research, in which much remains to be done.
+It seems that some results are relatively well established, such as the
+refutation of the folk theory of “louder, faster, and after a pause” and
+of a specific ironical tone of voice. Furthermore, the importance of
+synchronicity cannot be overstated. However, we have to be clear that
+research in this area is just getting started.
+This concludes also our presentation of the theoretical background of
+the study of the performance of humor. As we anticipated, only a full the-
+ory as comprehensive as the ethnomethodological approach proposed
+233
+
+
+--- PAGE 257 ---
+THE PERFORMANCE OF HUMOR
+by Hymes and Gumperz (and many others, including, Goffman, Sherzer,
+Tannen, etc.) can handle the complexity of a complete account of humor
+performance. In the next chapters we turn then to the specific details
+of some of these analyses, beginning with conversation and discourse
+analysis.
+10.4 Further readings
+There are many introduction to the study of discourse, in a broad sense.
+I find Schiffrin (1994) to be particularly good. Saville-Troike (1982)
+is a classic. The two-volume Handbook of Discourse Analysis (Tannen
+et al. 2015) is comprehensive and authoritative. There are no com-
+prehensive treatments of humor performance. The relevant chapters
+in the Handbook of Language and Humor (Attardo, 2017d) are good
+introductions to their respective areas of coverage. Brodie (2015) is a
+very good introduction to stand-up comedy.
+234
+

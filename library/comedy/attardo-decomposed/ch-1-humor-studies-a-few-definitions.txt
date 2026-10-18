@@ -1,0 +1,1150 @@
+--- PAGE 26 ---
+1
+Humor studies: a few definitions
+1.1 Terminology
+4
+1.2 A brief overview of humor studies
+18
+1.3 A few basic distinctions
+25
+1.4 Further readings
+29
+This chapter introduces some necessary terminology and presents the
+field of humor studies, primarily from a historical perspective, to help
+the reader situate where the linguistics of humor fits in within the
+broader humor studies field. Thus, much of it is preliminary in nature
+and probably quite dry. One may in fact wonder whether it is really
+necessary to have all this set of terms and definitions. In a sense, if
+the reader is willing to take me on faith and accept that we will use
+1) speaker, hearer, and text as umbrella terms for the prototypical roles
+of the humorous exchange, and 2) the term humor as an umbrella term
+for the stimulus (without any further attempts at differentiation between
+sub terms, such as comic and ridicule or irony and sarcasm), 3) the term
+mirth for the emotional response, and 4) the terms laughter and smiling
+for the overt, physical responses typically associated with humor, then
+the reader may just skip the next section and start reading about the
+history of the field and why I think having one is important.
+However, I believe it is important to clarify what it is we are talking
+about when we say “humor” or “laughter.” There has been a lot of
+confusion in the field from using terminology inconsistently, especially
+in the early days of humor studies. That the field has moved away from
+terminological free-for-all is a testament to the work of many humor
+scholars who have carefully defined their terms.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 27 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+1.1 Terminology
+1.1.1 The characters
+Let us start from a non-controversial humor situation: someone says
+something and someone else reacts laughing. We would describe this
+situation as someone said something funny, humorous, amusing, droll,
+or the like, and that made the other person laugh. This is the prototypical
+case of humor situation. Let us call the first person the speaker, the
+second person the hearer and whatever was said the text. For a large
+number of situations, this will be enough.
+Consider the following example:
+(1)
+In a reply to a post by my daughter on Facebook, in which my
+grandson tells a little story in which one character is a nose, I
+jokingly criticized my daughter for having him read Gogol at age
+four and a half. The post reads “I don’t want to challenge your edu-
+cational practices, but having the child read Gogol’s masterpiece
+The Nose at 4 seems premature.”
+In this situation, I am the speaker and my daughter is the hearer, even
+though of course the exchange took place in writing, and the text is my
+post above. So far, so good. However, since this was posted on Facebook,
+all of our friends and family members can see the exchange and one of
+them in fact responded to it. Was the unintended response also from
+a hearer? Dos it matter that I meant the joke only as a response to
+my daughter’s post? Does it matter that several people, including my
+daughter, “liked” the post by using little icons of a thumbs up or a little
+red heart? Probably yes.
+So we see that things can be much more complex than the little
+situation we started from: there can be multiple hearers, there can be
+different kinds of hearers and of course there can be many different
+kinds of texts. Just like in a non-humorous situation we can distinguish
+between hearers and over-hearers: the latter are not directly addressed
+by the speaker—although they may be the real intended recipients of
+what the speaker says. In example (1), does the family member who was
+not an intended participant qualify as an over-hearer? Probably yes.
+Also the situation is complicated in further ways: for example both
+speakers conveys the text in writing, and speaker and hearer are not
+in the same place at the same time. This is significant, because being
+4
+
+
+--- PAGE 28 ---
+1.1 TERMINOLOGY
+face-to-face is one of the defining features of speech. Things can get even
+more complex. However, I think that the prototypical situation above,
+in its simplicity, is a good starting point, if for nothing else, at least to
+establish some terminology.
+We will then speak generally of “speaker,” “hearer,” and “text,” regard-
+less of the fact that the speaker may not speak, the text may be spoken,
+or written, or conveyed in any modality1 (visual, e.g., cartoons, auditory,
+e.g., music, kinesic, e.g., mime, etc.), and the hearer may be in fact
+a television audience, or read the text (and thus not actually “hear”
+anything at all), etc.
+Needless to say, when necessary we may differentiate: so if we were
+investigating humor in the deaf/hearing community (see for example
+Sutton-Spence & Napoli, 2012) we would refer to signed jokes, or
+if investigating the differences between written and spoken forms of
+jokes and say, internet memes, we would refer to oral, written, and
+multimodal texts.
+When we move away from speech, we need to consider that other
+media (writing, printed press, television, film, social media, etc.)
+may involve exceedingly complex (and usually hidden) chains of “co-
+authors”: a TV show may put a certain joke in the mouth of a character,
+but besides the person who wrote the script, the “author” of the text, the
+director of the show, the producers, the TV network executives, the cable
+channel that broadcast/rebroadcast it, etc. may be held accountable or
+become relevant is some cases: for example, suppose that the executives
+of a TV network were to censor parts of the jokes or less dramatically,
+would need to apologize for them or distance themselves from them.
+In those situations, the “author” (speaker in our terminology) ceases to
+be a unified figure and dissolves in a chain of co-authors, with different
+agendas, ideologies, and constituencies they need to keep happy.
+Furthermore we need to consider that speaker, hearer, and text, may
+diverge significantly from the prototypical terms in social/interactional
+aspects. For example, the distinctions between ratified (official, openly
+acknowledged) and unratified participants and addressed (i.e., the utter-
+ance is directed to them) and unaddressed listeners (Goffman, 1981,
+pp. 131–133) may be particularly relevant. It has been claimed, e.g.,
+Bubel (2008) that in a TV show, for example, the audience consists
+1 Hence the term “multimodal” to indicate texts such as films which incorporate both
+visual and auditory signs.
+5
+
+
+--- PAGE 29 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+of overhearers. One then would need to distinguish the hearers in the
+show and the overhearers in the audience. This is the case with so-
+called dramatic irony. Dramatic irony is generally defined as a situation
+in which the audience, of a play, for example, knows something that
+the character(s) in the play do not, which causes them to interpret the
+actions and words of the characters differently. Thus for example, in
+Oedipus Rex, the audience is aware of whom Oedipus killed long before
+he does. Likewise, Iago’s deception is known to the audience before it
+is to Othello. Clearly the status of the audience is different than that
+of the characters on stage. The audience is probably best classified as
+unaddressed listeners, for the perspective of the characters (who of
+course are not supposed to be aware of their presence at all). So in the
+case of dramatic irony or of similar situations, the different status of
+various hearers is relevant and hence should be addressed. Consider
+the following joke: Freud (1905, pp. 183–184) which is analyzed in
+Chapter 8 as example (81) from a slightly different standpoint.
+(2)
+Two children are performing in front of their family a play they
+themselves wrote. The plot revolves around a fisherman who leaves
+his wife to go in search of fortune. In the second act, set several
+years later, the fisherman returns with a huge fortune. His wife
+greets him by saying: “I too have not been idle.” “And thereupon
+she opens the door of the[ir] hut and reveals to his eyes twelve
+large dolls lying asleep on the floor . . . At this point in the drama the
+actors were interrupted by a storm of laughter from the audience,
+which they were unable to understand.” (Freud, 1905, p.184)
+In this example the difference between what the children know and what
+the adults know is crucial to understand why the adults find the situation
+funny and the children do not. We might describe it as a discrepancy
+between the addressed hearer imagined by the children and the actual
+hearers, who in the children’s eyes would be overhearers. However, and
+this is my point, in most other cases, there is no need to distinguish
+between hearers and overhearers, addressed and unaddressed partici-
+pants. For example, in examples (7) and (10) below, there are just two
+speakers and thus no need for further theoretical apparatus.
+All this may seem complex and confusing. My argument however is
+that, unless necessary, we can simplify the matter greatly and speak of a
+speaker, telling a text to a hearer. If the situation requires it, we can bring
+in a more sophisticated understanding of the situation, but unless we
+6
+
+
+--- PAGE 30 ---
+1.1 TERMINOLOGY
+need it, we will shelve the unnecessarily complex apparatus. The same
+argument holds for my use the term humor as generic designation for
+the subject of inquiry of humor studies.
+1.1.2 Humor as umbrella term
+As is well known, there are many terms that have been used to designate
+what happens in the situation above: humor, comic, funny, laugh-
+able, droll, wit, amusing, etc. Scholars have tried, vainly, to distinguish
+between, say, humor and ridicule, or between irony and sarcasm, and
+the likes. The situation is even worse when we try to translate these
+categories from one language into another. This is probably due to the
+fact that all of these terms are folk-terminologies, that work well in some
+prototypical cases, but fail lamentably when we try to apply them to
+difficult, borderline instances. So, clearly humor is less aggressive than
+ridicule, but where would one draw the line? The same can be said,
+after accounting for any differences, for irony and sarcasm, farce and
+comedy, etc.
+Ultimately, the fact that twenty-five hundred years of discussion have
+failed to yield clear-cut internal categories is a witness to the fact that
+it seems to be impossible to do so. Recently, within the field of humor
+research, a consensus seems to have emerged, whereby humor is being
+used as the umbrella term to indicate the complex of humorous phe-
+nomena, with further differentiation being left for future research or just
+abandoned.2
+This is not to say that we cannot differentiate between a joke and a
+funny play, or between comedy and irony. In oder to understand the
+issues at stake, we need to consider terminology in more detail. The
+point of having terminology is to facilitate the scientific process. An
+effective terminology has, among others, the following features; it is clear
+and precise: there is no doubt as to whether any given entity is or is
+not described by a given term;3 it is unique, i.e., each concept has one
+term describing it (to put it differently, it is not ambiguous); it is stable,
+2 See for example the titles of Raskin (1985), Morreall (1987), Attardo (1994), Ruch
+(1998), and the name of the oldest journal of the field HUMOR: International Journal of
+Humor Research.
+3 Ideally, it is formal, i.e. there is an algorithm that can make the determination without
+human input.
+7
+
+
+--- PAGE 31 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+i.e., it does not change;4 it should cover all the phenomena one needs to
+cover, i.e., it should not leave aspects of the phenomenon undescribed;
+relatedly, it should group all the phenomena that are related into one
+category (or related ones); and, last but not least, it should not lead to
+confusion by using terminology already used in a different sense, in the
+same or related fields. Little harm is done by using the term isotopy
+which is a technical term in chemistry (isotope) but if we wanted to
+redefine “allophone” we’d be asking for trouble. Finally, it should be kept
+to a minimum: there is no reason to coin a new term if there is a perfectly
+good one already.
+In my experience, within humor studies, the most frequent problems
+one encounters with definitions are: 1) they are insufficiently precise
+to be useful, and 2) they are not mutually exclusive. Let us consider
+both problems in that order. If I define a joke as a short narrative text
+with a punch line at the end, I am essentially listing the features of the
+joke: 1) a linguistic text; 2) narrative (this excludes dramatic/dialogic
+texts); 3) short; and 4) having a punch line located at the end. There
+is nothing wrong with this definition, but it will struggle operationally
+when confronted with Renaissance facezie, which can be quite long.
+Clearly, we can arbitrarily define a threshold, of say, 50 words and
+stipulate that anything longer than 50 words is not a joke, but this is
+theoretically useless. If you have a 51 words text, are you willing to say
+that that is no longer a joke but it is now a short story, or novella, or
+whatever other terminology you have for a longish text with a punch
+line at the end?5 Consider that a synonym of “narrative” is “story” and
+a short story is not very different from a short narrative text. Moreover,
+what about jokes in non-linguistic form, for example, cartoons with a
+caption or with text in a balloon? What about jokes that are made only
+of dialogue, such as question and answer jokes, or riddles? What about
+very short dramatic plays not meant to be performed, such as Achille
+Campanile’s Tragedie in due battute [Tragedies in two lines]? I translate6
+one of my favorites in what follows:
+4 For an example of the problems inherent in a changing definition of a concept, see the
+discussion of the term “isotopy” in Attardo (1994).
+5 These texts do exist: Katherine Mansfield’s short story Feuille d’album ends on a punch
+line. See Attardo (2001, p. 93) for a discussion.
+6 Literally and without any attempt at recreating the artistry of the text, evident in the
+choice of the names.
+8
+
+
+--- PAGE 32 ---
+1.1 TERMINOLOGY
+(3)
+INTRODUCTION.
+Characters: MR. PERICLE FISCHIETTI
+THE OTHER GENTLEMAN
+At the opening of the curtain, MR. PERICLE FISCHIETTI
+approaches THE OTHER GENTLEMAN
+MR. PERICLE FISCHIETTI (Introducing himself to the other
+gentleman) May I? I am Mr. Pericle Fischietti. And how about
+yourself?
+THE OTHER GENTLEMAN I am not. (curtain)
+So the only value of this sort of definition is to give us a list of features
+that (some of) the texts we are focusing on share. By the time we’ve
+broadened it enough not to produce any false negatives (i.e., failing to
+include texts that are jokes) it becomes virtually useless: A humorous
+text with a punch line at the end. Note how this will not differentiate
+between jokes, short stories, or even novels.
+The mutual exclusiveness issue is even worse: consider satire, irony,
+and puns. Any given text could be all three at the same time, regardless
+of what your definition of any of the three terms are. All you have to do
+is find an instance of a pun that creates an ironical opposition and make
+sure that that opposition is critical of someone/something. If someone
+were trying to code a text for these features they would end up with a
+hopelessly tangled mess.
+Now, let’s go back to the mini-definition of joke. We can make this
+definition more useful if we compare it to the definition of the anecdote,
+as a short humorous text, without a punch line at the end. Now the
+distinguishing feature is whether there is punch line at the end of the
+text. Of course, it will still be complex to define operationally “end”
+(The last word? Last morpheme? Last phrase? Last sentence?) and you
+will also need a definition of punch line. However, this definition is
+now operationally sound: you can make predictions (any text without
+a punch line at the end will be an anecdote), you can analyze texts,
+test your analyses against others’ and so get an inter-rater reliability
+score, etc.
+Anyone can define things in such a way that they will convince
+themselves that their definitions are useful and mutually exclusive. For
+example, Aubouin (1948), who is an otherwise much overlooked genius
+in the field, insists on a difference between humor (le comique) and
+ridicule, the latter being aggressive. Predictably, it is not a convincing
+9
+
+
+--- PAGE 33 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+argument. Consider the Larack Tobama meme, widely circulated on the
+internet in 2016.
+(4)
+An image of President Barack Obama, with an obviously fake
+mustache. The caption reads: “Independent party announces new
+candidate coming late into the election, Larack Tobama.” https://
+me.me/i/independent-party-announces-new-candidate-coming-
+late-into-the-election-2852592
+Is this comic or ridicule? Some elements of distortion (the mustache, the
+changed name) are present, but they do not seem to be openly aggressive
+or mocking. However, is there really no aggression or tendentiousness?
+Isn’t there a criticism, implicit to be sure, of the other candidates? Would
+a Republican or a Democrat categorize the joke the same way? How
+about a white supremacist?
+A similar problem with definition is exemplified with the distinction
+between irony and sarcasm. There is a general consensus that irony
+is less aggressive than sarcasm, as can be evinced from the etymology
+of the word “sarcasm” which comes from Greek “sarkazein,” i.e., to rip
+pieces of flesh. Thus, presented with the following two examples:
+(5)
+Nice weather! (It is raining.)
+and
+(6)
+Great idea to invest all of our lifelong savings in Enron stock!
+most people would probably agree that the former is ironical and the
+latter sarcastic, given the knowledge that the Enron bankruptcy in 2001
+caused its stock to fall from a valuation of $90 to essentially zero. Many
+of the employees who had invested their retirement in Enron stock lost
+their savings.
+The problem is the in-between cases. We can conceptualize the irony–
+sarcasm divide as a continuum, with irony at one end and sarcasm at the
+other end; see Figure 1.1. The clear-cut cases, such as those above, will
+be handled without problems, whereas those cases that fall somewhere
+in between will be harder to classify.
+Irony
+Sarcasm
+Figure 1.1
+The irony–sarcasm continuum.
+10
+
+
+--- PAGE 34 ---
+1.1 TERMINOLOGY
+Thus for example, imagine a different context than the standard
+default one (something along the lines of the two speakers are indoor
+watching the rain) for the first example, namely that “Nice weather!” is
+being uttered by the owner of a company who scheduled, on the advice
+of the interlocutor who assured him/her that the weather would be great,
+an outdoor picnic for the entire company, at great expense, and whose
+costly suit has been ruined by the storm. Where would the utterance of
+“Nice weather!” fall in the continuum? The term of art here is “a grey
+area” which makes the point nicely: it is difficult to differentiate in the
+grey area. In fact, Figure 1.1 considerably simplifies the real-life problem,
+insofar as it is easy with a ruler to measure where the middle of the
+gradient falls. In real life, of course, we have no idea where the ends of
+the continuum lie and therefore we cannot estimate where the half-point
+lies. Summing up, binary distinctions on a continuum are possible, but
+are only reliable for the prototypical, extreme cases at the opposite ends
+of the continuum. The in-between cases, which are the most interesting,
+where a theory through its terminology should help distinguish the data,
+are precisely those in which the distinction will fail. This severely limits
+the usefulness of such distinctions.
+Another problem is unnecessary redefinitions. Consider the example
+of irony. Since ancient times there have been definitions of irony as,
+simplifying drastically, saying one thing and meaning another. Further-
+more, irony was divided between negative irony (i.e., critical) and pos-
+itive (i.e., praising) The latter is known as “asteism.” An example would
+be introducing a famous speaker at a conference, say Noam Chomsky, as
+“our speaker has published a few books that have had some small impact
+on the field of linguistics and politics,” meaning to imply ironically that
+one means the opposite, and namely that he has published many very
+influential books. Enter Garmendia (2010, p. 402), who claims that
+all irony is negative (“critical”). When confronted with positive (non-
+critical) irony, she denies that it is irony and claims it is something else
+(a joke, Garmendia, 2010, p. 410, or “banter” (Leech, 1983, p. 144). It
+is clear that such re-definitions do nothing to advance our knowledge
+of the field. We had a distinction: positive vs. negative irony and we
+replace it with another distinction: irony vs. joking or banter. All we
+have here, theoretically speaking, is rearranging the socks in the drawer,
+with the added inconvenience that now we have phenomena that are
+identical in terms of semantic-pragmatic mechanisms, by Garmendia’s
+own admission (p. 410), but have completely different and unrelated
+11
+
+
+--- PAGE 35 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+terms to describe them (even worse, the term “joke” has a completely
+different much more salient meaning and “banter” is in its general sense,
+something entirely different, i.e., teasing).
+Finally, one more distinction, which has lately cropped up increas-
+ingly frequently: within politeness theory, for example, researchers
+distinguish between first- and second-order constructs: first-order
+theories are folk-theories, whereas second-order theories are “scientific”
+(i.e., they are proposed by scholars).7 Here we need to be careful:
+notoriously, the speakers’ metalinguistic judgements are unreliable.
+So, asking speakers: “Is this ironical?” or worse, “is what you just said
+ironical?” will lead to all sorts of distortions (just imagine asking the
+speakers if what they just did is aggressive or not; obvious social barriers
+exist that will prevent the speakers from answering reliably). Likewise,
+asking speakers if something is humorous or not, if it is ironical or
+sarcastic, or parodic, etc. requires all sorts of experimental techniques
+to avoid biasing the results, including the problem of knowing what
+the speakers think such terms as “ironical,” “sarcastic,” etc. mean. The
+terms “irony” and “sarcasm ” provide again a striking example. In British
+English and in American English, “irony” used to mean, as we pointed
+out above, roughly “saying something and meaning something else,
+generally critical.” However, in the 1990s, at least in some populations
+in the US, a semantic shift occurred, exemplified by the song Ironic,
+by Alanis Morrisette, in the album Jagged Little Pill (1995). Nunberg
+(2001, pp. 91–93) sums the situation up as “irony” is now used to
+indicate something bad or upsetting. Concurrently, the semantic space
+of “sarcastic” broadened to include what would have previously been
+described as “ironical.” Morrisette was widely ridiculed for not knowing
+what the word ironical meant, whereas it is clear that Morrisette’s (and
+her age cohort) first-order definition of “irony” and “sarcasm” is different
+from that of older generations (and other languages; to the best of my
+knowledge this semantic shift did not take place in other languages or in
+British English). Nelms (2001) for example purports to describe the use
+of sarcasm in higher education classroom discourse, but her examples
+include irony as well. The responsible scholar needs then to be alert to
+7 A term often used in this context is the etic vs. emic distinction, used in anthropology,
+for example, where an emic description is from the point of view of the subjects and an etic
+description is from the point of view of the researchers. I prefer to avoid this terminology
+due to the possible confusion with the suffixes used to indicate the phonetic and phonemic
+levels in linguistic theory, for example, where they have a different meaning.
+12
+
+
+--- PAGE 36 ---
+1.1 TERMINOLOGY
+the fact that his/her subjects may very well have a different first-order
+definition of irony and sarcasm than his/her (hopefully) second-
+order definition. Thus he/she needs to make sure that this difference
+does not interfere with his/her analysis. It is impossible to be specific on
+how exactly to do this, since it depends on what the research questions
+are; however, keeping a strong distinction between first- and second-
+order concepts is the necessary presupposition to avoid embarrassing
+pitfalls. Likewise, if gathering a corpus of utterances labeled as “ironical”
+by speakers (say, by using emoticons), it is crucial to have access to
+demographic information relative to their age and language variety (in
+this case American vs. British English) in order to discriminate the
+data appropriately.8 One more consideration: I am using these cases
+merely for the purpose of exemplifying the issues. I do not claim that
+these are full discussions of the concepts and that the definitions I am
+discussing here are either what I believe to be correct and/or the best we
+can do.
+Clearly, as we said, there are some well-established categories, such
+as irony, farce, the burlesque, etc., but in a sense, humor research
+investigates what all these categories have in common, first, and only
+after it has established what the general category of humor consists of, it
+attempts further classification. Concretely, these distinctions represent
+more the historical remnants of discipline-specific taxonomies than
+seriously considered scientific classifications: the concept of irony, for
+example, originally comes from rhetorics. It is ultimately unclear what
+its relationship to humor is.9 Many of the literary terms (comedy, farce,
+burlesque, carnival, etc.) are the result of Renaissance reinterpretation
+of classical models. To be honest, most of the terminology in humor
+studies comes from the various disciplines. Thus, for example, the
+idea of “script” comes from psychology, via artificial intelligence, and
+linguistics, which ultimately introduced it in humor studies.
+Very few terms have been created specifically for humor studies: take
+“gelotophobia” (the fear of being laughed at) for example. The term
+“gelotophobia” was introduced by Michael Titze (Titze, 1996), a German
+psychotherapist, who had encountered the pathology in his practice.
+It was then taken up by Ruch and his team and a formidable set of
+8 It is true that second-degree theories are always inevitably influenced by first-degree
+theories. The problem is to keep them apart as far as possible. Both theories have their place,
+but confusing them will lead researchers to error.
+9 See Downing & Recuero (2008) and Attardo (2001b) for some discussion.
+13
+
+
+--- PAGE 37 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+studies was produced, resulting, among others, in a special double issue
+of HUMOR in 2009, guest edited by Ruch. Part of the work was to define
+precisely what counts as gelotophobia and whether it manifests itself
+across cultures.
+In conclusion, in what follows we will be using the generic umbrella
+term humor to indicate the general category, as is common usage in the
+field. Any further differentiation will be introduced and motivated in
+the text. In particular, in the chapter on literary humor, we will examine
+more closely some of the distinctions mentioned above.
+1.1.3 Joke
+The term “joke” also deserves some discussion, because of the outsized
+importance it has acquired, almost by happenstance. I have mentioned
+the “joke” in the previous section repeatedly, with a rough definition
+of a short (narrative) text ending in a punch line. As I mentioned,
+there is nothing wrong with this definition, per se. However, we need
+to distinguish between canned and conversational jokes. Canned jokes
+are relatively decontextualized: they are built as small narratives that can
+be reused. Conversely, conversational jokes exist and are produced in
+context only, i.e., as part of a conversation. Conversational jokes tend not
+to have a narrative introduction. One can think of it as the context of the
+conversation playing the part of the setup of the joke (the introduction)
+and the humorous remark being the punch line.
+Consider the following extract from a dyadic (two speakers) conver-
+sation recorded over computer chat, in which two students are talking
+to each other. The setup was such that one student was in my office,
+while the other was in my friend and colleague, Steve Brown’s. Steve kept
+his office very tidy and orderly, whereas mine was a mess of papers and
+books. Marina (M) delivers a joke on line 162, but as is very clear it
+consists of just one turn “This looks like Sal’s” and relies on the previous
+conversation for its context, for the setup of the opposition (the “clean”
+office vs. the “dirty” messy office) and the other half of the opposition.
+(7)
+146 C // there’s lots of BOOKS [243][66] in
+here//
+147 1.57
+148 M //yeah I’m LOOKin [250][68] around at
+all these PApers [188][64]//
+149 0.34
+14
+
+
+--- PAGE 38 ---
+1.1 TERMINOLOGY
+150 M //hangin on the WALLS [172][65] //
+151 0.52
+152 M //this OFﬁce [198][71] is really DIRty
+[182][67]//
+153 0.64 ((smack))
+154 C // this OFﬁce [294-279][67] is really
+CLEAN [222][62] //
+155 0.44
+156 C //i THINK [334][63] it’s Steve BROWN’s
+[206][58]//
+157 0.92
+158 M //AHH. [172][68]//
+159 0.52
+160 C //yeah//
+161 0.883
+162 M //this looks like SAL’s [179][72]//
+163 0.21
+164 M ((laughs))
+Zajdman (1991) has shown that the difference lies on a continuum of
+contextualization and that a conversational joke can be turned into a
+canned one and vice versa (joke recycling): canned jokes may in some
+cases originate from conversational jokes that have been decontexual-
+ized. Conversely, canned jokes may be contextually adapted to the point
+that a canned joke may be presented in a manner indistinguishable from
+a spontaneous joke.
+Consider the following joke:
+(8)
+Mrs. de Gaulle enters a room where her husband is waiting. She
+trips on the rug and involuntarily mutters “Mon Dieu!” He replies:
+“How many times must I remind you? It is quite sufficient to say
+“Mon général.”
+which appears in Yvonne de Gaulle’s New York Times obituary, by Frank
+J. Prial (Nov. 9, 1979, p. 4). One day, a student walked in my office to
+retrieve an exam I had returned in class. I handed her her exam, which
+had earned a 98% score (I was famous for being a tough grader in my
+early days). She was surprised and exclaimed “My God!” to which I
+replied, “You can call me Dr. Attardo.” The student was amused and,
+of course, I did not tell her that all I had done was contextualize the
+joke to her present situation. She probably thinks to this day I am very
+15
+
+
+--- PAGE 39 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+witty, but indeed very little effort was involved in recontextualizing the
+canned joke.
+The following is another example, from the same set of recordings as
+above, in which Carmen recontextualizes a well-known joke
+(9)
+What do you call someone who speaks two languages? A bilingual.
+How about someone who speaks three languages? Trilingual. How
+about someone who speaks only one language? An American.
+using Marina’s modesty in saying that she does not speak any language
+besides English (at least fluently) as the setup and delivering the punch
+line recontextualized to apply to Marina “you are (an) American.”
+(10)
+276 C // do you speak any OTher [225][62]
+languages besides ENGlish[242][60]? //
+277 1.11
+278 M // NOPE [251][71] //
+279 0.42
+280 M // nothin FLUently [216][59] //
+281 0.12
+282 M // little bit a this n THAT [210][60] n //
+283 1.26
+284 M // k OTher [185][73] thing //
+285 0.66
+286 M // you KNOW [147][65] = //
+287 C // =you’re aMERican [227][60] //
+288 1.03
+289 ((both laugh))
+Thus “joke” is an ambiguous term. It can refer to narrative texts and to
+single turn witticisms. What accounts for its popularity in humor stud-
+ies, then? In Attardo and Chabanne (1992), we reviewed several reasons
+for the popularity of the term and the subject, in humor research:
+1. jokes are short and therefore can be used freely without using too
+much space;
+2. they are easily available, especially on the internet;
+3. they tend to be self-contained, and hence can be used without
+much explanation/contextualization;
+4. they come with a built-in guarantee that they are instances of
+humor, unlike a novel or a conversation in which the humorous
+passages are not somehow marked for the analyst;
+5. they have been the subject of extensive research.
+16
+
+
+--- PAGE 40 ---
+1.1 TERMINOLOGY
+In particular, we should mention the doctor’s wife joke10 which has
+assumed in the linguistics of humor the role of an exemplar (Kuhn,
+1962) i.e., a solved problem (as in “textbook problem”) used by begin-
+ners and experts alike as an example or model of how to “do” science.
+Part of theoretical linguistics training, for example, consists in solving
+phonology and morphology problems that simulate field linguistics
+problems (such as identifying minimal pairs or determining the phone-
+mic or morphemic status of a given allophone or allomorph). The
+doctor’s wife joke will be discussed in Chapter 6.
+Finally, and this has caused much consternation among those who
+study discourse, in popular parlance we speak of “joking” and “telling
+a joke” for the delivery of any kind of humor in conversation, be that
+prepared or prepackaged (canned) or extemporaneous (conversational)
+humor. So, one should always be careful to specify what kind of joking
+one means. Of course, we mustn’t forget that stand-up comedy and
+scripted humor will often masquerade as improvised humor. So, when
+relevant, that dimension should also be considered as well.
+1.1.4 Mirth, humor, laughter
+Another significant distinction is that between the cognitive stimulus,
+which we agreed to call humor, its emotional effect, which is referred
+to as mirth and the physical manifestation of the emotion: laughter and
+smiling. See Figure 1.2.
+Ruch (1993) proposed the term “exhilaration” to indicate the underly-
+ing emotion of laughter/smiling caused (among other things) by humor.
+Martin (2007) rejects the proposal because “exhilaration” has an excite-
+ment component to its meaning, and prefers “mirth”: “Mirth (. . .) is
+the distinctive emotion that is elicited by the perception of humor”
+(p. 8). Both terms are used widely. I have preferred “mirth” in this book
+Cognitive
+stimulus
+Emotional
+response
+Physical
+manifestation
+• Humor
+• Mirth
+   Exhilaration
+• Laughter
+   Smiling
+Figure 1.2
+The relationship between humor, mirth, and laughter.
+10 Raskin (2017a) jokingly calls it “the” joke.
+17
+
+
+--- PAGE 41 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+only because compounds such as “mirthful laughter,” are simpler than
+“exhilaration laughter.”
+Finally, the emotion caused by the cognitive stimulus may manifest
+itself physically, typically in laughter or smiling. Note the all-important
+qualification “may.” One may experience mirth and not show any visible
+signs thereof. There are many issues at stake around these concepts:
+for example, is smiling an attenuated form of laughter, or are they
+independent phenomena? The question is beyond the scope of this
+book.
+It should also be pointed out that laughter and smiling may occur
+without any accompanying emotion of mirth or exhilaration. For exam-
+ple, many cultures have a laughter of embarrassment. Furthermore,
+mirth or exhilaration may occur without humor. Conversely, as we saw,
+humor may occur without mirth, exhilaration, laughter, or smiling. So,
+there is no one-to-one correlation between humor and laughter and/or
+smiling. There is at best a general association between the two, but it
+would be a serious error to assume that because you observe either of
+the two items the other must be present as well. We will return to this
+issue in some of the next chapters.
+Within humor studies it is not uncommon to see significant confusion
+on the use of this terminology. First, there may be confusion among
+the three levels: for example, one often sees claims that getting (as in
+understanding) a joke results in laughter. This is true, only insofar as it is
+taken to be an oversimplification of “getting a joke results in exhilaration
+or mirth, which then is manifested as laughter.” Second, one may confuse
+the levels. A good example of this is Bergson’s (1901) titled “Laughter”
+which does in fact study comedy.
+1.2 A brief overview of humor studies
+The study of humor goes back to ancient times. Attention to humor
+dates from the Egyptians (2600 BC) and the Sumerian (2200 BC),
+who both documented humor in the form of jokes or humorous texts.
+However, the Greeks are the first to consider the subject theoretically.
+One can trace the origins of some of the modern theories of humor (see
+Chapter 3) back to Plato and Aristotle (third century BC). I did so myself
+in Attardo (1994, ch. 1). Besides philosophy, literary criticism takes a
+front stage with Aristotle’s Poetics and Theophrastus’ Moral Characters
+18
+
+
+--- PAGE 42 ---
+1.2 A BRIEF OVERVIEW OF HUMOR STUDIES
+(third century BC). Rhetorics likewise has taken up the problem of
+humor, often with surprisingly modern insights and formulations, see
+for example Cicero’s distinction (first century BC) between verbal and
+referential humor (Attardo 1994: 26–29), which we will examine below.
+Quintilian has the distinction, in his Institutio Oratoria, of having the
+first coherent treatise on humor, if we except the lost second part of
+Aristotle’s Poetics (Janko, 1984).
+All this, however, is ultimately mostly of historical significance: for
+example, a scholar may be interested in finding out where a given theory
+comes from, what the earliest mention of, say, incongruity or superiority
+is, or who was the first thinker to realize that surprise is an important
+factor of humor. However, and this is an important point, all of these
+theories have been supplanted by more recent, more specific, and far
+more detailed, in short, more scientific, formulations. In what follows,
+then, we will review how modern theories of humor got to be what they
+are and when the field of humor studies, as a field of study, emerged. The
+review is short and flippant. For dead-serious reviews see Attardo (1994,
+pp. 14–59) or Larkin-Galiñanes (2017).
+The Middle Ages were a dark period (pun intended): the Catholic
+Church engaged in a prolonged and losing battle against laughter and
+the rest of the people were too busy dying of the Black Plague and being
+killed by marauders and barbarians to worry about the definition of
+humor. We have to wait for the Italian Renaissance (1300–1400) to see
+significant humorous texts being written and distributed and the rebirth
+of literary criticism concerning humor. France, Germany, and England
+eventually catch up with the Renaissance, and we get Erasmus’ Praise of
+Folly (1511), Rabelais’ Gargantua et Pantagruel (1532), and eventually
+Shakespeare. The theory of humor is not limited to the literary theorists:
+in 1579, Laurent Joubert writes his Traité du ris (Treatise on Laughter),
+which has the distinction of being the first extended treatment of humor
+in a vulgar language (i.e., not in Latin, until then the vehicle for science)
+and the first explanation of the physiology of laughter.
+In 1598, Ben Johnson writes Every Man in His Humor which is the
+first major use of the term humor in its modern sense. To be fair, the first
+actual use of humor as comedy, is An Humorous Day’s Mirth a comedy by
+one George Chapman, produced in 1597. Both Johnson and Chapman
+are still using “humor” in the theory of humors sense: dating back to
+Hippocrates (4th century BC), the idea was that one’s temperament
+was determined by the proportion of four humors (i.e., bodily fluids):
+19
+
+
+--- PAGE 43 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+blood, bile (yellow and black), and phlegm. We still get a relic of this
+conception in expressions such as a “sanguine” (=blood) temperament”
+or a “phlegmatic” character. However, the association with comedy and
+humor in the modern sense is there as well. On the four temperaments
+and humor theory, see Hempelmann (2017).
+In 1649, René Descartes writes Les passions de l’âme (The Passions of
+the Soul) in which he presents a psycho-physiological explanation of joy
+and laughter. Descartes connects psychological concepts, such as sur-
+prise, physiological concepts, such as facial expressions and increased
+blood flow, to the expression of joy (we would say exhilaration or mirth).
+Descartes considers laughter to be the result of a mixture of emotions,
+such as indignation against an evil, surprise, and joy, since the evil is
+harmless (Descartes, 1649, Article 197).11
+In 1651, Thomas Hobbes writes Leviathan which is the grandfather
+of the aggression theories of humor, which he defines as “sudden glory,”
+i.e., the triumph over an adversary. Needless to say, the idea of laughter
+as aggression or superiority is already present in the Greeks. In 1695,
+Congreve, followed, in the first half of the eighteenth century, by the Earl
+of Shaftesbury (1709), Addison (1711), and Hutcheson (1750), publishes
+essays on laughter and humor. Despite all these contributions, there is
+still no sense of a coherent body of research.
+Bain, the founder of the journal Mind in 1859, in The Emotions and the
+Will discusses humor, followed by Spencer’s The Physiology of Laughter
+(1860), and Darwin’s discussion of laughter (1872) in The Expression of
+the Emotions in Man and Animals, which is still used in the field. Hall,
+the founder of the American Psychological Association, publishes The
+Psychology of Tickling, Laughing, and the Comic (1987), and Sully, the
+founder of the British Psychological Association, An Essay on Laughter
+(1902). With these publications, we certainly witness the first steps
+within humor of the discipline that will eventually dominate the field,
+psychology. Yet, while we definitely have a discipline in the modern
+sense of the term, we still do not have a field, despite the influence
+of Kant’s philosophical theory, and the connections to literary criti-
+cism. See Simon (1985) for a broader and fascinating discussion, which
+I am simplifying significantly. In particular, the mutual influences of the
+psychologists and literary scholars are fascinating.
+11 This definition eerily reminds one of the so-called benign violation theory of humor
+(McGraw & Warren, 2010).
+20
+
+
+--- PAGE 44 ---
+1.2 A BRIEF OVERVIEW OF HUMOR STUDIES
+At the beginning of the twentieth century, we have a remarkable
+convergence, when three major intellectual figures publish books on
+humor within a ten-year frame: Bergson (1899; in book form 1901),
+Freud (1905), and Pirandello (1908). It is tempting to see the beginning
+of humor studies in this trifecta, especially given that all three scholars
+respond to a series of works on humor, within their disciplines. Freud,
+for example, is influenced by Groos’ work (Simon, 1985). Yet, these
+works, however significant, do not form a “critical mass” for an academic
+discipline.
+Where is linguistics, you might ask? Well, not really in the picture.
+Until 1916, linguistics was part of philosophy, literary criticism, history,
+or perhaps anthropology. For many linguists, linguistics was a historical
+science. Linguistics does not come into its own until after 1916, after the
+posthumous publication of Saussure’s Cours de Linguistique Générale.
+Even then, linguistics has very little to contribute to humor studies,
+except for the study of puns, which was considered the province of the
+linguistics of humor. We will have to wait until the 1980s and Raskin’s
+work (see ch. 6) for linguistics to take a central role in humor studies.
+Isolated scholars elaborate sophisticated, even brilliant theories;
+however, that does not make a field of study. The main defining
+characteristics of humor studies is that it is an interdisciplinary field.
+Interdisciplinarity requires that more than one discipline be used as the
+source of both the problems (the questions) and the methodologies
+(the tools) used to address them. If the problems come from one
+discipline and the methodologies from another, all you get is an applied
+field (for example, forensic linguistics, which seeks to answer questions
+from forensic science using linguistic tools: e.g., is the person making
+this threatening phone call the same person in these other recordings?).
+What defines interdisciplinarity is that both the questions and the
+methodologies come from a variety of disciplines.
+In this sense, humor studies as a field, is born around the mid-1970s,
+after Goldstein and McGhee (1972) book appeared, with the first humor
+conference, held in Cardiff, Wales, in 1976, by Anthony Chapman and
+Hugh Foot. The conference was followed by another one in 1979, in Los
+Angeles, and then in 1982, in Washington, DC, in 1984, in Tel Aviv, and,
+in 1985, in Cork, Ireland. The other significant event was that in 1982
+Don and Alleen Nilsen at the University of Arizona, started the World
+Humor and Irony Membership (WHIM), which held annual meetings
+until 1987. In 1988 the last WHIM was held at Purdue university.
+21
+
+
+--- PAGE 45 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+The year before the International Society of Humor Studies (ISHS) was
+created, which replaced WHIM. The ISHS has held a yearly conference
+since 1988.
+WHIM published extended abstracts, in a soft-bound book format,
+called the WHIM Serial Yearbook (WHIMSY). This was the first peri-
+odical humor research publication. It published yearly volumes from
+1982 until 1989. Together, the WHIM conferences and the WHIMSY
+proceedings established a reliable forum for scholars wishing to research
+humor-related topics and helped establish the viability of a humor-
+related journal.
+In 1988, HUMOR: International Journal of Humor Research started
+publication, with Victor Raskin as editor-in-chief. The role of HUMOR
+in legitimizing the field by offering a high-quality outlet to humor
+research should be clear, since it constituted the only respectable, reliable
+forum to publish humor research, at least for the first 20 years of publica-
+tion. HUMOR is still being published currently, but now other journals
+specializing in humor exist: the Israeli Journal of Humor Research: An
+International Journal which started publication in 2012, the European
+Journal of Humour Research which started in 2013, and the Rivista
+Internazionale di Studi sull’Umorismo, based in Italy,12 which started
+publication in 2017. In the Francophone world, CORHUM (the Centre
+de Recherche sur le Comique et l’Humour) has also been publishing
+a journal since 1988. In 1994 the Humor Research book series, with
+Mouton the Gruyter, was launched, followed by Transaction Publish-
+ers (now with Routledge), Wayne State University Press, Gordon and
+Breach, Benjamins, and others. Moreover, numerous articles on humor
+appear regularly in many relevant journals such as the Journal of Prag-
+matics, Discourse Processes, and many others. Finally, the publication of
+such reference works as the Encyclopedia of Humor Studies (2015) and
+the Handbook of Language and Humor (2017), no doubt also helped
+establish humor studies as a field, and within it the linguistics of humor.
+So, in conclusion, I think it is fair to say that today, the field of humor
+studies has established itself as a legitimate field of academic research.
+Another way to look at the birth of the field is to track the emergence
+of university courses on humor. Wycoff (1999) is, to the best of my
+knowledge, the only attempt at charting the rise of the teaching of humor
+12 International Journal of Humor Studies; the acronym RISU is the ablative case of Latin
+risus, meaning roughly “with or through laughter.”
+22
+
+
+--- PAGE 46 ---
+1.2 A BRIEF OVERVIEW OF HUMOR STUDIES
+as an academic subject. He reports that the first pioneering courses were
+taught in the sixties and that by the 1970s the field begun to emerge as a
+credible field. The earliest course documented in Wycoff was taught in
+1966, at Michigan State. Wycoff reports that by 1999 there were in excess
+of 100 humor courses being taught.
+1.2.1 Why do we need a field of study?
+The reason I wish to establish the origins of the field of humor studies
+is that its presence is a mutual guarantee of quality for the scholars that
+engage in research within it and it allows the recruiting of young scholars
+and the establishment of the research on a sound basis. Consider a
+potential objection: one might question the significance of trying to
+establish when humor studies “came together” as a field. After all, one
+may reason, research is ultimately done by individuals and works of
+genius advance knowledge, regardless of whether there is a group of
+people who support it. One may use as an example, Wittgenstein, who,
+notwithstanding his early ties to the Neopositivists, developed his work
+in splendid isolation.13
+Now, setting aside what we know about the history of science, which
+tells us that this idea of the lone wolf author is deeply mistaken, there is
+another reason for needing a community of scholars. Kuhn (1962) iden-
+tifies “normal science” as what scientists do most of the time: they move
+within an established paradigm, that tells them what methodologies are
+and are not acceptable, what kinds of observations are good and what
+are not, what kinds of experiments are acceptable, even what kinds of
+arguments are valid, and so on.
+Let us consider an example: within linguistics itself there is a sharp
+difference on the status of intuitive data: for some linguists, if I think
+about it and come to the conclusion that I would never say the sentence
+“very banana I love much,” that counts as a bit of evidence (a datum).
+Put together a lot of those and you get data. For many other linguists,
+this kind of data is deeply suspect. These other linguists object that they
+are not naturally occurring data. They want their data to come from a
+corpus of language facts that occurred independently of the observer,
+the larger the better. Other linguists also object that the data are not
+13 I do not claim that this is a valid description of the genesis of Wittgenstein’s oeuvre,
+but his work is definitely less embedded in a tradition, than, say, Bertrand Russell’s.
+23
+
+
+--- PAGE 47 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+naturally occurring, but would like their data to come from a small set
+of interactions (conversations, primarily, albeit not limited to spoken
+data, so they would include online chats, etc.) and preferably with the
+involvement of the researcher, which gives him/her access to the inner
+dynamics of the exchange. The naturally occurring data linguists mock
+the first linguists as “armchair” linguists and decry the “artificial” nature
+of the data. Needless to say, the armchair linguists mock the inherent
+limitations of finite corpora and restricted samples.
+The point of the previous paragraph is not to uncover the seedy
+underbelly of the profession but rather to point out the fact that even
+what counts as data is determined by the paradigm one does science
+within.14 Where and how to find one’s data is not the only purview
+of a paradigm: a paradigm determines how scientists go about their
+business of generating hypotheses, arguing for them, what counts as a
+valid argument, and so on. My overall point then is that the existence of a
+field gives us the paradigm from which we can determine the value of the
+research. The existence of a scientific society that holds periodical con-
+ferences, the existence of publications (journals, yearbooks, book series,
+etc.), which vouch for the quality of their contents, are all elements that
+contribute to the emergence of a scientific field of study. Needless to say,
+the interactions between the scholars themselves, collaborations, tips,
+references, discussions, etc. are also significant, but I believe that the
+paradigmatic elements, in Kuhn’s sense, are most important due to one
+last factor: academic respectability.
+In order to be viable, a field of study must be accepted as a respectable
+area of research in which one may dissertate and/or find a job. These
+may seem crass considerations, but realistically speaking, a field thrives
+when young scholars with an interest in it are encouraged to pursue
+their interest. However, responsible advisors must warn their students
+if their choice of dissertation topic may prevent them from getting
+desirable positions in academe. If humor is a “questionable” topic, it will
+be hard for young scholars to enter the field. It was no coincidence that
+at the beginning of humor studies their proponents were all established
+academics with significant credentials in non-humor-areas. The same
+14 Technically, the differences between linguists approaches are not paradigms, because
+the differences between the various “schools” are not significant enough. There is also the
+small matter that in some ways linguistics is not yet a mature science. In Kuhn’s sense, it
+is pre-paradigmatic: there are competing approaches, without a dominant paradigm. These
+distinctions are significant, but need not concern us in this context.
+24
+
+
+--- PAGE 48 ---
+1.3 A FEW BASIC DISTINCTIONS
+problems have been reported, at their respective beginnings, for such
+fields as sexology, film studies, etc. Generally speaking, the reasoning
+seems to be that, if the topic is fun, the research on it cannot be serious
+and/or respectable.15
+Occasionally, other academics or members of the public ask me if
+humor studies is fun. My reply is to offer to read them a few pages of
+Attardo (1994). No-one has ever taken me up on that offer. I will admit,
+however, that data collection when one is looking at memes online or at
+comedians performing is less personally difficult than perusing letters
+from the Holocaust (one of my colleague’s field of study was genocide—
+now that is a serious field of study).
+1.3 A few basic distinctions
+We can wrap up this introductory chapter with two more distinctions
+which are general enough so as not to fit clearly in any of the next
+chapters and yet important enough that they need to be introduced early.
+1.3.1 Linguistic humor vs. verbal humor
+Linguistic humor is humor expressed through language, spoken or
+written. Another term used to refer to linguistic humor in this sense
+is “verbally expressed humor” as opposed to visually expressed humor,
+in film/television studies.
+Linguistic humor is a subclass of semiotic humor (see Chapter 5).
+Other types of semiotic humor are visual humor, musical humor, mul-
+timodal humor (humor expressed in media that involve more than
+one communicative modality, such as television, cinema, theater, video
+games, etc.). Physical humor (e.g., slapstick, clowning) also falls under
+semiotic humor. This is represented visually in Figure 1.3. The examples
+under each category are not meant to be exhaustive. They just represent
+the kind of humor that would be classified under that category.
+Linguistic humor should not be confused with verbal humor, as
+opposed to referential humor. Simplifying quite a bit, verbal humor con-
+sists of puns (ch. 9), i.e., humor which relies significantly on semantics
+15 In this respect, my personal hero is Dolf Zillmann, who after studying humor, went
+on to study pornography!
+25
+
+
+--- PAGE 49 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+Painting
+Cartoons
+Musical
+Visual
+Linguistic
+Mono-
+modal
+Television
+Cinema
+Theater
+Multimodal
+Semiotic
+humor
+Video
+games
+Figure 1.3
+Semiotic humor hierarchy.
+(meaning) and similarity or identity of two linguistic forms: phonemic
+(sounds) or graphemic (spellings) whereas referential humor is just
+based on semantics. To reiterate, referential humor relies only on mean-
+ing. Verbal humor also relies on meaning, but not exclusively. Needless
+to say, what kind of meanings we are talking about is a significant issue,
+which will be tackled in the chapters to follow.
+The distinction is not unique to linguistic humor. For example, there
+exist visual puns (Lessard, 1991; Hempelmann and Samson, 2007;
+Mitchell, 2007; Tsakona, 2009). Berger (1993, p. 45) provides a duly
+broad definition of semiotic pun as “a signifier that stands for two
+signifieds.” Turner (2005, pp. 204–205) discusses several examples,
+as well.
+1.3.2 Humor and meta-humor
+The next distinction we need to address is that between humor and
+meta-humor. The reason for doing so is that, as we will see, meta-humor
+can be seen as an exception to the fundamental definitions of humor as
+incongruity. So we need to be very clear about this category.
+To put it simply, meta-humor is humor about humor. The term
+has been used widely, along with other terms, such as anti-humor,
+second-degree humor, self-referential humor. Attardo (1988) reviewed
+the (scant) literature.
+We will begin by defining our terms. Intuitively, meta-humor comes
+from meta-language, a technical term within logic for a language used
+to talk about another language (the object language). The idea of
+26
+
+
+--- PAGE 50 ---
+1.3 A FEW BASIC DISTINCTIONS
+metalanguage is closely related to Russell’s theory of types (Russell,
+1908; Copi, 2011) which he elaborated to solve the paradox he had
+found in Frege’s set theory. Without getting too technical, the set of all
+dogs consists of all the entities in the world that are dogs, so the set of all
+dogs does not contain itself. Conversely, a set of sets would contain itself
+(since it is a set). Consider now the set of all sets that do not contain
+themselves. Should it contain itself? If we say yes, we are violating its
+definition (it is the set of sets that do not contain themselves), and if we
+say no, it meets the requirements for belonging in the set and so should
+be in it. Russell developed his theory of types which we can describe as
+essentially forbidding the kind of cross-level definition we have used.
+Popular versions of this paradox exist, such as the barber of the village
+who shaves only those who do not shave themselves. Should he shave
+himself? Interestingly, Bateson’s (1972) theory of schizophrenia as the
+result of a “double bind” is based on the same principle. Bateson will
+figure prominently in the definition of play, in the next chapters.16
+Jakobson (1960) introduced metalanguage to linguistics in his famous
+model of communication, which distinguishes six functions of language,
+which include the metalingual (metalinguistic) function. So, in a natural
+language (i.e., a language spoken by people, as opposed to a formal
+language such as logic, or a computer language, such as COBOL or
+Java), a metalinguistic statement is a statement about (some part of)
+the language itself. Metalanguage should not be confused with self-
+referentiality. The sentence
+(11)
+The first sentence of Moby Dick is “Call me Ishmael”
+is metalinguistic but not self-referential, whereas
+(12)
+This sentence consists of six words.
+is self-referential. All self-referential sentences are metalinguistic, but
+not all metalinguistic sentences are self-referential. For example, the
+sentence
+(13)
+All self-referential sentences are metalinguistic, but not all met-
+alinguistic sentences are self-referential.
+16 Surprisingly, Russell dealt with meta-humor. Russell’s discussion of the hierarchy of
+jokes can be found online at http://www.gutenberg.org/files/38430/38430-h/38430-h.htm.
+Blackwell (2011) provides some background information on this little known aspect of
+Russell’s thought.
+27
+
+
+--- PAGE 51 ---
+HUMOR STUDIES: A FEW DEFINITIONS
+is metalinguistic but not self referential. Whereas
+(14)
+I am lying.
+is both metalinguistic and self-referential.17
+So, what is meta-humor then? Any humor about humor would qualify.
+So for example, making fun of someone for not telling a joke properly
+would be meta-humor. It is clear that self-referential meta-humor is the
+more interesting category. The infamous joke
+(15)
+Why did the chicken cross the road? To get to the other side.
+is a self-referential meta-joke because it refers implicitly to the form of
+jokes, in particular to the presence of a punch line at the end of the text,
+and fails to deliver it, thereby violating incongruously the expectations
+set up by the stereotypical joke introduction (a riddle in this case).
+The shaggy-dog jokes I examined in Attardo (1988) are precisely long-
+winded jokes that do not deliver a punch line at the end (see also Fry,
+1963, p. 148; Suls, 1983, p. 53; Lefort, 1986, p. 191).
+The reason self-referential meta-humor is significant for humor the-
+ory is that it works by violating the rules of the genres of humor.
+Therefore it will always be an apparent exception to any generalization
+about humor. As we will see in Chapter 4, a punch line occurs in all
+jokes at the end of the text. In meta-jokes the punch line is that there
+is no punch line. This sounds paradoxical, but using Russell’s theory of
+types, the paradox is dispatched easily: there is no level 1 punch line,
+which creates a level 2 punch line. A related reason, is that joke-cycles,
+such as the light-bulb jokes, start out as level 1 jokes but soon develop
+jokes of level 2 that are based on knowing the format of the joke and
+then incongruously not delivering it. Quite literally so, in the following
+example,
+(16)
+How many feminists does it take to screw in a lightbulb?
+That’s not funny!
+I examine joke cycles in these terms in Attardo (2001, pp. 69–78).
+Suls (1983) discusses meta-humor as one “problem” of the incon-
+gruity/resolution model. His answer is right on target: “they provide
+enjoyment by playing off the fact that they pretend to be humor but do
+17 Epimenides’ paradox famously consists in saying that all Cretans are liars and the
+speaker is Cretan.
+28
+
+
+--- PAGE 52 ---
+1.4 FURTHER READINGS
+not possess all of the requisite features” (p. 53). Indeed, this is correct:
+meta-humor is the fly in the theoretical ointment of humor theory
+because meta-humor will invalidate any generalization about humor or
+any of its genres, because meta-humor plays with the expectations about
+humor and its forms. Because of the relative sophistication of jokes using
+meta-humor each generation rediscovers them, which may help explain
+their popularity.18 However, the exception is only illusory, as far as the
+incongruity theory goes: there is an incongruity in the chicken crossing
+the road joke or in the shaggy-dog joke: it is precisely that there is no
+incongruity where we expected one.
+1.4 Further readings
+There is no comprehensive history of humor studies. The web site of
+the International Society for Humor Studies (http://www.humorstudies.
+org) provides some helpful resources, including a listing of all humor
+research conferences organized by the society. The preface to McGhee &
+Goldstein (1983); Derks (1996), which is the introduction to the second
+edition by Transaction of the classic Chapman & Foot (1976); Car-
+rell (2008); and Goldstein & Ruch (2018), which is the preface to a
+Festschrift for Paul McGhee, in HUMOR, are all good places to gather
+information about the history of humor studies.
+Further discussion of the terminology of humor studies can be found
+in Hempelmann’s (2017) chapter of the Handbook of Humor Studies.
+Attardo (1994, pp. 3–5) offers a review of some of the attempts at internal
+subcategorization. The discussion between referential and verbal humor
+is discussed in some depth in Attardo (1994). There is no comprehensive
+treatment of meta-humor, beyond the texts indicated in the chapter.
+18 The Wikipedia page for the chicken crossing the road joke reports a version dating
+back to 1845. https://en.wikipedia.org/wiki/Why_did_the_chicken_cross_the_road
+29
+

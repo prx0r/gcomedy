@@ -1,0 +1,866 @@
+--- PAGE 80 ---
+3
+Theories of humor and their
+levels
+3.1 Explanation, reductionism, essentialism
+57
+3.2 The three major theories of humor
+59
+3.3 Humor as release
+60
+3.4 Humor as incongruity
+64
+3.5 Humor as aggression
+64
+3.6 Other theories
+67
+3.7 Complementarity of the theories of humor
+71
+3.8 Further readings
+77
+This chapter begins by discussing briefly the concept of reductionism
+and more generally of “explanation.” It also very briefly argues in favor
+of reductionist/essentialist theories of humor, before launching a survey
+of humor theories from different areas of research which range broadly
+from the neurological level, taken as the point of higher determinism (or
+conversely as the lowest possible reduction), to the macro-sociological
+theories that see humor as a societal phenomenon. A final section deals
+with the evaluation of theories of humor.
+3.1 Explanation, reductionism, essentialism
+What does it mean to present the explanation of a phenomenon? Gener-
+ally, it means that given a phenomenon, such as humor, we can describe
+its causes, the contexts in which it takes place, the effects it has, etc.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 81 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+It also means that we “understand” the phenomenon, i.e., we know what
+causes it, and often that we can replicate it. Generally, we want to explain
+a phenomenon in terms of simpler causes/phenomena. This stance is
+called reductionism. For example, explaining rain as the interplay of
+water vapor, condensation, and gravity would be a typical reductionist
+explanation. An essentialist explanation is a reductionist explanation
+which claims that there is one or more core features that “makes the
+phenomenon what it is” i.e., is its essence. The essence of a thing
+(thing should be understood in a very general sense here, as “entity”)
+is what makes it be such, for example, the essence of a fork is that it
+has “teeth” (tines) and a handle. Among the non-essential (accidental)
+features of forks are that they are made of metal (since there can be
+plastic or wooden forks) but also the number of tines, which may range
+from two to four, or more.1 The opposition of essence and accidence
+goes back to Aristotle. Theoretical linguistics is mostly reductionist and
+essentialist as it seeks to reduce linguistic behavior to a small set of rules.
+Seeking the necessary and sufficient features that cause a phenomenon
+is a characteristic essentialist stance. Other approaches to linguistics
+are less interested in finding the essence of the phenomena but lean
+toward functionalism, i.e., what do speakers “do” with the phenomena at
+hand, what is their function in discourse? Yet other approaches, such as
+cognitive linguistics, espouse a prototypical approach to categorization,
+which means that there may not be a single individual essence of a
+phenomenon, but rather the phenomena may be classified in “families”
+of concepts. For the time being, we need not concern ourselves with
+these philosophical subtleties (those interested can start with Scholz
+et al., 2016). We will instead turn to the three major theories of humor
+and examine them from a reductionist and essentialist standpoint.2
+1 It’s actually slightly more complex: the number of tines on a fork is a range from 2 to 5
+or 6 maximum. A fork with only one tine is a spear and one with 40 or 50 is a comb.
+2 Here a caveat is necessary: in many circles, “essentialist” is basically an insult. This is
+because in some fields essentialism is associated, for example, with biological determinism.
+For example, in gender studies, this would be the idea that the presence of a penis or a
+vagina would be the essence of masculinity/femininity. In cultural studies, essentialism
+is associated with the idea that an entire culture (say, Western culture) has an essence.
+Needless to say, seeking essentialist reductions of phenomena does not imply embracing
+rigid determinism nor that all phenomena must have an essence at a level of generalization
+that makes it interesting/useful. For example, in trying to find the essence of “game” or
+“food” one will most likely end up with very high level generalizations, such as “an activity
+that one engages in for pleasure” or “any substance ingested for sustenance” which will not
+be helpful if your goal is creating a new game or you are a nutritionist. Likewise a social
+constructivist perspective is not incompatible with an essentialist view. No-one said that the
+58
+
+
+--- PAGE 82 ---
+3.2 THE THREE MAJOR THEORIES OF HUMOR
+3.2 The three major theories of humor
+There are very many theories of humor. Piddington (1933) listed 49
+authors; Bergler (1956) listed 80; Smuts (n.d. 2006) claims that there
+are more than 100. One of the best reviews is Keith-Spiegel (1972) who
+distinguished 8 types of theories:
+1. Biological, Instinct, and Evolution
+2. Superiority
+3. Incongruity
+4. Surprise
+5. Ambivalence
+6. Release and Relief
+7. Configurational
+8. Psychoanalytic
+“New” theories emerge all the time, as a quick glance at the internet will
+reveal: a Google search of “theories of humor” returned a staggering
+17.5 million hits. Amazon.com lists 8000 books under the “theory of
+humor.”3 However, most “new” theories often turn out to be restate-
+ments in a different terminology of old ideas, or just a different mix of
+known factors.
+To make sense of this abundance of data, the theories of humor are
+commonly classified into three groups:
+• incongruity theories (a.k.a. contrast) (Raskin, 1985, pp. 31–36),
+• hostility theories/disparagement (a.k.a. aggression, superiority, tri-
+umph, derision) (pp. 36–38), and
+• release theories (a.k.a. sublimation, liberation) (pp. 38–40).
+(See Table 3.1, adapted from Attardo (1994, p. 47); after Raskin (1985),
+Ziv (1979a) and Monro (1951); for details about the theories, see the
+text.)
+essence of a phenomenon may not be socially constructed. The novice may be well advised
+to avoid actively advertising his/her essentialist stance, while quietly pursuing reductionist
+explanations which is, as far as I can tell, what most scholars do, including most of those
+who denounce essentialism.
+3 Granted that a quick glance at the results reveals that Amazon has a lot of work to do
+about filtering its results (what do calendars and novels have to do with theories of humor?);
+nonetheless, the point stands: that’s a lot of books.
+59
+
+
+--- PAGE 83 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+Table 3.1 Attardo’s three families of theories chart
+Cognitive
+Social
+Psychological
+Incongruity
+Hostility
+Release
+Contrast
+Aggression
+Sublimation
+Saliency
+Superiority
+Liberation
+Bisociation
+Triumph
+Economy
+Catastrophe
+Derision
+Benign violation
+Disparagement
+Disposition
+3.3 Humor as release
+Release theories, as the name implies, are based on the idea that humor
+“releases” the “pressure” of mental energy. The idea of “energy” flowing
+in the mind is a metaphor, introduced by Spencer in his “The Physiology
+of Laughter” essay (1860). The best known proponent of a release theory
+is Freud (1905). Martin (2007, p. 58) characterizes release theories as the
+“hydraulic theory” of the nervous system. The theory was based on the
+steam engine, then the prominent new technology. This metaphor was
+replaced by the “mind as computer” newer metaphor (see for example
+Hurley et al., 2011). In other words, there seems to be a tendency for
+people to compare humor to the most current and salient technology
+at the time. The problem is that metaphorical theories may be useful,
+insofar as they allow us to map some properties of a phenomenon,
+such as humor, onto a better understood mechanism, but up to a point.
+A metaphor is only a metaphor and all analogies eventually break
+down. Spencer’s and Freud’s metaphorical hydraulic theory is nowadays
+discredited: no-one believes that there is actual mental pressure that
+needs relieving.
+Nonetheless, Freud’s theory deserves special mention because he paid
+a lot of attention to the linguistic mechanisms of humor: the first part
+of his book on humor is dedicated to these mechanisms. However,
+subsequent research has shown that none of the mechanisms located by
+Freud were unique to humor, but that in fact he had rediscovered some
+of the mechanisms present in any linguistic form (Attardo, 1994, p. 55).
+In terms of linguistic behavior, the significance of release theories
+comes from the fact that they account for the so-called “liberation”
+60
+
+
+--- PAGE 84 ---
+3.3 HUMOR AS RELEASE
+from the rules of language, for example in puns and word-play more
+generally. The metalinguistic nature of puns and word-play account for
+this liberation, to the extent that it is a fact (one could easily argue that no
+real freedom from the rules of language is found in puns, for example).
+Release theories can also be seen as accounting for the violations
+of the Principle of Cooperation (Grice, 1975; 1989) in humor (see
+Chapter 8). Essentially, the idea is that one is freed of the constraints of
+having to follow the Priciple of Cooperation. This is closely related
+to the “defunctionalization” of language in humor (Guiraud, 1979,
+pp. 111–119; see Chapter 12). Contemporary researchers such as Fry
+(1963) and Mindess (1971) have also proposed release theories.
+3.3.1 Humor as play
+Play can also be seen as a release from the goal-oriented nature of “seri-
+ous” life.4 A playful mindset is a significant component of the humorous
+experience. Bateson (1955/1972) has shown that playful, and humorous,
+behavior carries (either explicitly or implicitly) a metamessage roughly
+paraphrased as “this is play.”
+Bateson starts from the definition of metalanguage in Russell
+(see Section 1.3.2) and introduces the idea of meta-communicative
+language, i.e., discourse in which the subject is “the relationship
+between the speakers” (1972, p. 67). While observing monkeys playing
+at a zoo, Bateson realized that the very idea of play “could only
+occur if the participant organisms were capable of some degree of
+metacommunication, i.e., of exchanging signals which would carry the
+message ‘this is play” ’ (p. 68).
+Bateson notes that the metamessage “this is play” has the logical form
+of a paradox: “These actions, in which we now engage, do not denote
+what would be denoted by those actions which these actions denote.
+The playful nip [of the playing monkeys] denotes the bite, but it does
+not denote what would be denoted by the bite” (p. 69). Finally, Bateson
+observes that since much play is fictional, not only is the metamessage
+“this is play” paradoxical, in its concurrent claim of being something and
+not-being something, but it is also about non-existent entities (p. 70).
+From our perspective, the important aspect of Bateson’s contribu-
+tion is the “this is play” metamessage. One the one hand, in itself,
+4 One can classify play theories of humor as a separate category of humor theories, as
+Smuts (n.d.) does.
+61
+
+
+--- PAGE 85 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+it becomes the foundation of the idea of keying/framing humor (see
+Section 10.2.2.2) and of markers of humor (contextualization cues; see
+Section 10.2.4); on the other hand, it is the source of the defunctionaliza-
+tion aspect of humor, which plays a major role in the functional analysis
+of humor in discourse, see Section 12.1.4.
+Fry (1963) was directly influenced by Bateson, with whom he worked.
+Fry builds a complete model of humor based on the notion of para-
+dox, explicitly starting from the self-referential paradoxes identified
+by Russell and in particular Epimenides’ paradox (see Section 1.3.2).
+According to Fry, the metamessage “this is play” or “this is not real” is
+paradoxical, because if I broadcast this metalinguistic framing message
+then the metalinguistic framing is itself part of the non-reality, which
+triggers the paradoxes identified by Russell and Bateson. Fry uses the
+terminology “play frame” (p. 138) and mentions as “things people do to
+indicate fantasy” (p. 138), such as voice quality, body movements, pos-
+ture, lifting of the eyebrows (p. 138) and more broadly “non-verbal com-
+munication devices” (p. 139). However, Fry goes on to note, humor is not
+just paradoxical. Humor has a punch line, in the technical sense used in
+humor studies, i.e., a climax of the narrative which reveals the heretofore
+implicit incongruous element. Fry argues that the punch line brings in
+another paradox, this time not at the level of the overall communica-
+tive situation (the “this is play” paradox), but an “internal” (p. 153)
+paradox “which [ . . . ] specifically concerns the humor content rather
+than the total situation” (p. 149; emphasis in the original). He likens
+this to the figure-ground reversal introduced by Gestalt psychology
+(pp. 154–155).5
+Among the markers or indicators of the play frame, is the so-called
+“play-face” in primates (see Martin 2007, pp. 3–4, 128, 165–166, for
+discussion and an image), which as expected for a marker of play, does
+not occur in aggressive situations:
+Ethological studies of the silent bared-teeth display and the relaxed open-mouth (play
+face) display in apes, which are viewed as primate homologues of human smiling and
+laughter, respectively, reveal that these facial displays occur exclusively in the context
+of friendly social and play activities, and not in the context of aggression.
+(Martin, 2007, p. 54)
+5 The connection with the logical mechanisms of humor (see Section 7.1.5) was already
+noted by Forabosco in his commentary incorporated in the Attardo & Raskin article (1991,
+p. 337).
+62
+
+
+--- PAGE 86 ---
+3.3 HUMOR AS RELEASE
+Apter’s “para-telic” (non-goal-oriented; from the Greek “telos” goal)
+mode is also a variety of humor-as-play theory (1982, 1989). Reversal
+theory, as Apter’s theory is called, posits that an incongruity will be
+experienced as humorous in a safe, non-threatening, playful environ-
+ment. Further, reversal theory claims that the target of the incongruity
+must be “diminished” (i.e., reversal theory is a variant of the superiority
+theories, in this respect). If the target is enhanced the incongruity would
+be perceived as something else, such as art.
+3.3.1.1 Willing suspension of disbelief
+As part of the playful nature of humor, we should consider another
+aspect of playfulness, and namely the willing suspension of disbelief in
+which the hearers must engage in order to appreciate the text. To put
+it differently, if the hearer does not play along, he/she locks him/herself
+out of the fun. In fiction, hearers must routinely suspend disbelief about
+the fictional nature of what they are being told. If one were to argue that
+since there was no Sherlock Holmes, Conan Doyle was just a liar, and
+one was not willing to waste one’s time listening to falsehood, then one
+is unlikely to experience pleasure reading about Holmes’ adventures.
+Perlmutter (2002) argues that in jokes “the listener’s sacrifice is more
+than merely the ordinary suspension of disbelief; he or she is pre-
+pared to suspend a wide variety of every day prerogatives.” Perlmutter
+(2002) mentions tolerating “egregious violations” of the principle of
+cooperation (p. 157; on violations of Grice’s principle of cooperation,
+see Chapter 8), the “suspension of critical assessment” (p. 159) and of
+avoiding “detailed analysis” (p. 163).
+3.3.2 Are release and play theories essentialist?
+Release and play theories focus on the release humor provides. As such,
+they do not lend themselves as readily to essentialist claims, since they
+do not really look “under the hood” so to speak. Whereas one can make a
+plausible claim that humor is essentially incongruity processing or that it
+is more or less disguised aggression, it is a lot harder to claim that humor
+is essentially release or play. This may explain why most of the theories
+that include release or play do so concurrently with other components
+(see for example Freud’s and Apter’s theories, reviewed above). In light
+of the stance of complementarity that I take below (Section 3.7) this is
+actually a strength of the release and play theories.
+63
+
+
+--- PAGE 87 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+3.4 Humor as incongruity
+The best known theory of humor is probably the incongruity theory.
+Incongruity is basically defined as divergence from expectations: “if it
+differs, it is perceived as incongruous” (Forabosco, 1992, 54). This is con-
+sistent with the ordinary meaning of the word “incongruous” indicating
+the opposite of “the quality or state of agreeing, coinciding, or being
+congruent” (Merriam-Webster).
+Within humor research, incongruity theories are primarily associ-
+ated with psychology. A common contemporary conceptualization in
+psychology is to view incongruity–resolution (IR) models as “two stage”
+(Suls, 1972) models.
+In the first stage, the perceiver finds his[/her] expectations about the text disconfirmed
+by the ending of the joke (…) In other words, the recipient encounters an incongruity—
+the punch line. In the second stage, the perceiver engages in a form of problem solving
+to find a cognitive rule which makes the punch line follow from the main part of the
+joke and reconciles the incongruous parts.
+(Suls 1972, p. 82)
+The two stages involve giving the text a first interpretation which is
+then rejected in favor of a second interpretation. Note that the two
+interpretations must coexist, at least to the extent that they are to be
+judged incongruous.6
+Incongruity and incongruity–resolution theories are most clearly
+essentialist: they claim that the essence of humor is the perception of
+the incongruity and its resolution, or merely the unresolved perception
+of incongruity. Since a more detailed discussion of incongruity and
+resolution, including its criticisms, will be found in Chapter 4, we can
+leave this short introduction of incongruity and resolution and move on
+to the darker view of humor as a form of aggression.
+3.5 Humor as aggression
+One of the oldest and most widely held theories of humor sees it as
+an essentially aggressive or disparaging phenomenon. This theory has
+been couched under many terms starting from Aristotle and Hobbes
+6 See also Shultz’ definition as “a biphasic sequence involving first the discovery of the
+incongruity followed by a resolution of the incongruity” (1976, pp.12–13).
+64
+
+
+--- PAGE 88 ---
+3.5 HUMOR AS AGGRESSION
+all the way to Gruner’s work (1978, 1997) or Zillmann (1983). As
+we saw, Apter’s reversal theory (1982), which is primarily a play and
+incongruity theory, also contains a disparagement (diminishing) com-
+ponent. Recently, Billig (2005) has argued in favor of aggression as
+an explanatory variable in humor. Essentially the humor-as-aggression
+theory boils down to the claim that humor can be explained at least at
+some level as the pleasure/satisfaction or plain enjoyment of an enemy’s
+discomfiture at our “triumph” over him/her. The dispositional theories
+of aggression (Zillman, 1983) do not require an “enemy” but merely
+someone whom one is negatively disposed toward. The idea is that we
+tend to find more humorous things that we are negatively disposed
+toward and conversely that we find less humorous things that we are
+positively disposed toward. Thus for example, a conservative should
+find humor directed at progressive targets funnier than the other way
+around. There is some evidence that disposition theory may predict
+correctly appreciation of humor based on political affiliation (Becker,
+2014).
+The most blatant counterexample to the aggression theory is of course
+innocent or non-tendentious humor (Freud, 1905). Let us consider
+again example (15), not from Freud’s repertoire incidentally, and here
+repeated for convenience
+(20)
+Why did the chicken cross the road?
+To get to the other side.
+Who or what would be the target of the aggression in this joke? The
+chicken? The road? It is clear that the joke does not target any of its
+characters, props, etc.; however, an aggression theorist might reply that
+the joke does aggress someone, namely its hearer, i.e., the person who
+has been told the joke and has therefore been exposed to a (presumably
+small) dose of aggression connected to the fact that he/she has been
+presented with an unsolvable riddle and has therefore been exposed to a
+mild degree of ridicule. Therefore the aggression theory posits two levels
+of potential aggression:
+• aggression towards characters within the text;
+• aggression towards participants to the joke telling exchange
+It follows from this subdivision that a joke may or may not be aggressive
+at either level. Therefore, a joke need not logically be aggressive at either
+65
+
+
+--- PAGE 89 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+level, i.e., a joke may be aggressive at the internal level or at the exchange
+level which means that it is clear that either level of aggression is separate
+and independent of the other. In other words, we can conceive of a joke
+that is aggressive at both the contents level and at the interaction level
+but by the same reasoning it follows logically that we can conceive of
+a joke that is aggressive at neither. So, in order to work, an essentialist
+aggression theory needs to specify that there has to be an aggression at
+either level, which is somewhat circular.
+In fact, the claim of the aggression theories examined before, while
+plausible in the context of unsolvable riddles and in some cases of mildly
+disguised aggression, for example, in children’s humor some riddles are
+just an excuse to physically hit the dupe, is clearly untenable in the case
+of puns and other “innocent” humor. For example, there are cycles of
+charming jokes about elephants, such as
+(21)
+How did you know elephants have been in your fridge?
+Footprints in the butter.
+that clearly have no aggressive component7 and one need only pick up a
+collection of jokes for children under the age of six to find plenty more
+of examples.
+Clearly, as an essentialist theory, the aggression theory fails to provide
+a complete theory of humor. Nonetheless, this does not mean that in
+fact, a large number of jokes aren’t aggressive, and indeed, any theory of
+humor that failed to address this very significant facet of the humorous
+phenomenon would be remiss. Humor can be used deliberately or
+unconsciously as an aggressive tool and this can be done as we saw above
+both within the text and within the humorous exchange situation. In
+this respect, humor does not differ significantly from any other kind of
+text. The only difference that humor has with respect to other forms
+of aggression is its deniability which comes from the pragmatic aspect
+of the text; see Chapter 12 on the functions of humor and Chapter 8
+on the violation of the cooperative principle that affords the deniability.
+As we will see in Chapter 12, humor is often used in interaction as a
+tool to probe the audience’s views and attitudes, precisely because of its
+deniability embodied in the well-known expression “I was only joking.”
+7 One needs to be a Freudian to see anything else than playful incongruity here. To
+assume, as Dundes (1987) does, that the elephant stands for African-American men’s
+sexuality, is, well, Freudian.
+66
+
+
+--- PAGE 90 ---
+3.6 OTHER THEORIES
+Some authors use aggression (or variants such as “subversion”) as
+essentially metaphorical constructs to indicate any criticism or even
+merely playing with of any idea. Criticism need not be aggressive and
+play is certainly not. This is not to say that some play may not degenerate
+into aggression, but the very idea of the metamessage “this is play,” as
+per Bateson (1972), denies the possibility of real aggression being part
+of play. The danger of conflating aggression with criticism or play is that
+we lose the useful category of aggression: if all humor is aggressive, then
+the two jokes below would both be considered aggressive
+(22)
+A guy walks into a bar and says: “Ouch!”
+and
+(23)
+A lawyer and a priest are flying in a small plane with a group of
+children. Suddenly the plane’s engines start smoking. The captain
+comes into the back of the plane and says: “There are only a few
+parachutes. I think we should give them to the children.” “Fuck
+the children!” says the lawyer and the priest replies: “Do you think
+there’s enough time?”
+It seems to me that (23) is an aggressive joke which expresses hostility
+toward priests by accusing them of being pedophiles and lawyers by
+accusing them of being morally reprehensible. Conversely, I have a hard
+time believing that (22) expresses hostility toward either guys, bars, or
+the hearer. Be that as it may, I believe it would be useful to keep the label
+hostile or aggressive for jokes such as (23) in order to distinguish them
+from jokes such as (22).
+More sophisticated versions of the aggression theory state that humor
+is not simply aggressive but involves a sense of superiority or ridiculing.
+However, it is easy to see that the same criticism levied against aggression
+theories applies to superiority and disparagement (ridicule). While cer-
+tainly lots and perhaps most of humor is aggressive, superiority-based,
+and disparaging/ridiculing, not all humor is so.
+3.6 Other theories
+After reviewing the “classical” theories of humor, we are reminded that
+all classifications are to some extent arbitrary and that many approaches
+do not fit clearly into the categories above.
+67
+
+
+--- PAGE 91 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+3.6.1 Neurolinguistics of humor
+Neurolinguistics deserves particular mention because it is the most
+extremely reductionist approach to explaining humor. Reducing psy-
+chology to neurology, i.e., explaining cognitive phenomena as activation
+of neurons, and/or other electro-chemical events in the brain cells, is
+the most reductive explanation possible of cognitive phenomena (on the
+topic see, e.g., Bickle, 2006).
+Besides the neurolinguistic work on the distinction between appreci-
+ation and response to humor considered in Section 2.3.2 recent work
+in neurolinguistics has yielded some interesting results about the nature
+of humor, which are generally consonant with the incongruity theory.
+Derks et al. (1997) showed that a “negative-going cortical activity at
+400 milliseconds” (N400) is associated with what humor theory has
+described as the incongruity of humor. Derks et al. describe the N400
+as “occurring when categorization, usually semantic, is relatively unsuc-
+cessful and a search is initiated for better alternatives” (p. 287); see
+also Coulson and Kutas (1998, 2001). Coulson (2001) not only find
+evidence for the N400 response, but also for the second phase of the
+joke processing process, i.e., the resolution of the incongruity (i.e.,
+the activation of a new frame/script). The suggestion that incongruity
+perception and resolution may be concurrent, rather than sequential is
+very interesting and dovetails with recent work on irony.8 Other studies
+of neural activity that are consistent with the incongruity/resolution
+include Ozawa et al. (2000), Iwase et al. (2002), and Mobbs et al. (2003).
+Goel and Dolan (2001) have shown, using MRIs, that different areas
+are involved in the processing of verbal and referential jokes.9 This is
+significant, because it shows that the distinction between verbal and ref-
+erential humor has a neuroanatomical foundation. They also distinguish
+between areas involved in the processing of the semantic and phonolog-
+ical material of the texts (for example, puns activate Broca’s area) and the
+“affective” components of humor (i.e., the perception of funniness). For
+a broader discussion of the neurolinguistics of humor and an emphasis
+8 Incidentally, the fact that processing of jokes requires backtracking and longer reading
+times clearly militates against any “direct access” interpretation of humor. On the direct
+access theories of irony, see Colston (2017).
+9 Semantic and phonological jokes in their terminology; all humor is semantic, needless
+to say, so their terminology may be confusing.
+68
+
+
+--- PAGE 92 ---
+3.6 OTHER THEORIES
+on the distinction between the cognitive and the affective aspects of
+humor perception/appreciation, see Chen et al. (2017).
+There exists considerable (highly technical) discussion of the lat-
+eralization of humor processing, which seems to show that the right
+hemisphere of the brain is crucial to humor processing. Derks et al.
+(1997), Coulson and Kutas (1998, 2001), and Goel and Dolan (2001) all
+show that this approach may be in need of some revision. There exists
+some literature on the neuro-anatomy of laughter, which is outside the
+scope of this discussion, but see Vaid and Kobler (2000).
+3.6.2 Evolutionary theories
+Other less common theories include attempts at seeing an evolutionary
+advantage to humor. The most developed linguistic approach along
+these lines is Chafe’s (1987) disabling theory. He sees humor as evo-
+lutionarily advantageous in disabling the speaker when he/she begins
+to pursue lines of thought that lead to absurdities, contradictions, etc.
+The disabling theory is expanded in a full-fledged theory of humor
+and laughter in Chafe (2007). On the evolutionary theories of humor,
+including Chafe’s, see Vaid (1999, 2002) and Porteous (1988). A differ-
+ent, non-linguistically aware, approach is to be found in Gervais and
+Wilson (2005).
+3.6.3 Anti-essentialist theories
+At a meta-theoretical level (i.e., the theory of theories), all the theories
+we have reviewed agree on some basic facts: one of them is that humor
+can be explained in an essentialist framework, or to put it differently,
+that there are sufficient and necessary conditions for a given “thing” to
+be humorous such that all humorous things share these conditions. The
+assumption that there is an essence of humor has been questioned, more
+or less fortunately. It is logically possible that humor is a concept such as
+that of “game” which, as shown in a famous argument by Wittgenstein
+(1953), does not have a set of features common to all games. Let
+us consider the only serious challenge to the essentialist paradigm10
+10 A “paradigm” is a complex epistemological background shared by several theories
+(Kuhn 1962). See the discussion in Chapter 1.
+69
+
+
+--- PAGE 93 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+within humor research: in 1990, Ferro-Luzzi published an article
+claiming that a particular example of alliterative humor in Tamil did
+not involve incongruity. I showed (Attardo 1994: 139) that alliteration
+does involve an incongruity between the expected statistical frequency
+of phonemes in a given stretch of text and the observed repetition of
+a given (set of) phoneme(s) in the text. Thus the alleged refutation of
+incongruity theory by the counterexample of alliteration is found to be
+groundless.
+3.6.4 Mixed, partial, and no-theory-theories
+In reality, most theories are mixed, in the sense that they take a little bit
+from all three categories. For example, Freud, the grand-dad of all release
+theories, spends a significant amount of his book on jokes developing
+a treatment of the mechanisms used to establish incongruity. Bergson,
+one of the chief exponents of the socially-oriented theories (humor as a
+social corrective), also developed the view of humor as “mechanical vs.
+living” (read, incongruity).
+Partial theories are simply theories that do not attempt to provide a
+complete treatment of all forms of humor but limit their goals to one
+or more aspects of the phenomenon (for example, satirical humor, or
+humor in a given culture, or lexical ambiguity puns, etc.). Most theories
+of irony, for example, are partial theories of humor, if they acknowledge
+the connections between irony and humor.
+Finally, there is a number of writers that deal with humor in a more or
+less deliberately non-theoretical manner: their writings are (sometimes)
+interesting, rich of intuitions, usually well exemplified, and generally
+devoid of generalizations or explanations that go beyond common sense.
+Another characteristic is that they typically refuse to engage with the
+cutting edge of the research on humor and instead review obsolete
+classics (Aristotle, Kant, Freud, etc.). I discuss two such approaches in
+Attardo (1994, pp. 8–10), but one could multiply examples: Nash (1985),
+Ross (1998), Redfern (1984), or more recently Blake (2007) and Bevis
+(2013). Let me be very clear: there is nothing wrong with pre-theoretical
+collecting of examples and considerations or with writing introductory
+books. Our goals here are simply different: mapping and engaging with
+the cutting edge of the field so as to put the reader in a position to
+contribute to it.
+70
+
+
+--- PAGE 94 ---
+3.7 COMPLEMENTARITY OF THE THEORIES OF HUMOR
+3.7 Complementarity of the theories of humor
+The three families of theories of humor are not predicated at the same
+level of generality. In fact, rather than being opposed they are comple-
+mentary.11
+It is clear that the incongruity theories are more or indeed exclusively
+interested in the stimulus of the humor phenomena or even more
+specifically in some of the features of the stimuli (i.e., the specific kind of
+contrast in which the two concepts that are involved in the incongruity
+must find themselves in, e.g., Giora’s (2003) “negation,” or Raskin’s
+(1985) “local opposition.” The neurolinguistic theories are even more
+reductionist in that they target neuronal activity in the brain supporting
+these concepts (thus the N400 wave of deactivation is commonly iden-
+tified with the concept of incongruity and the P600 with the concept of
+resolution).
+Release or liberation theories consider the effect of incongruity on
+the psyche of the individual producing the humor. They are concerned
+with the feelings or attitude of the joker, so to speak, and reference
+social factors only insofar as the individual may have internalized social
+constructs, such as Freud’s Super Ego.
+Aggression or superiority theories are squarely concerned with the
+social setting of the humorous phenomena. They address exclusively
+the interactional aspect of humor: what speakers do with humor when
+dealing with other speakers. They are social theories.
+Once seen in this light, it is clear that the three families of theories
+might really only be three aspects of a rather gigantic, broader, all-
+encompassing super-theory which would specify the nature of the stim-
+ulus, all the way to the neuronal activity, the relation of the stimulus to
+the individual psyche, and the interplay of the individual and its society.
+Needless to say, no such Über-Theorie has been proposed.12 Consider an
+example:
+(24)
+One day, as I was withdrawing some money, the cashier at the
+bank asked me: “Do you want me to take it out of your checking?”
+I answered, “No, take it out of someone else’s checking.”
+11 I owe the general observation on which this section is based to Donald Casadonte.
+The elaboration of the basic idea is however mine.
+12 But see the conclusion of this book, for a shot at it.
+71
+
+
+--- PAGE 95 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+At the stimulus level, we have clearly an opposition between the
+normal, received way of withdrawing money in a bank, supported by
+a complex network of scripts about depositing and withdrawing money,
+interests, etc., and an abnormal way. Clearly there are connotations
+being activated, since taking the money from someone else’s account
+would leave it in mine (a good thing) but would constitute theft (a bad
+thing). So it is a complex opposition. The resolution aspect is merely
+the ambiguity of the expression “take it out of your checking [account]”
+which may have (among others) two different figure/ground articula-
+tions: the one intended by the cashier, where the figure is “checking” (as
+opposed to “savings” account) and the one I deliberately (and uncoop-
+eratively) chose with the figure on “your” as opposed to “someone else’s”
+account.
+At the individual personal level, I was clearly in a playful mood. I
+enjoyed showing off my capacity to detect an ambiguity where there
+was none (contextual pressure rules it out as a bona-fide ambiguity) and
+possibly I released any tension I might have had.
+At the social level, I engaged the cashier in a personal, non-work,
+playful exchange, acknowledging her as being a person before being an
+employee of the bank. Hence I engaged her in an in-group solidarity
+building exchange. Potentially, one could argue that my remark also
+expressed an anti-capitalist stance close to Proudhon, since by rejecting
+the principle of personal property (hence the request to withdraw funds
+from another account) I would undermine the whole economic system,
+needless to say if one took it seriously. Hence one could categorize my
+remark as subversive and hence aggressive.
+As this sketchy analysis of an example13 has shown, there is nothing
+incompatible about the various “explanations” provided by the three
+families of theories. Of course, the theories cannot claim to be com-
+plete explanations of the humor phenomenon. They highlight different
+aspects of the same phenomenon, much like in the parable of the
+elephant and the blind men (see Berger, 1995).
+13 The example was first analyzed in Hamrick (2007) as an example of “trumping” (Veale
+et al., 2006). Trumping is a form of forced reinterpretation that plays on the distribution of
+saliency in the text. Further analysis of the example can be found in Section 9.3.1.3.
+72
+
+
+--- PAGE 96 ---
+3.7 COMPLEMENTARITY OF THE THEORIES OF HUMOR
+3.7.1 Evaluation of theories
+After having discussed the ways in which theories which appear to
+be opposed are in fact complementary, we are now in a position to
+discuss a related matter, namely the evaluation of competing theories
+at the same level of abstraction. As a case study, we will investigate the
+success (undeserved, as we shall argue) of Koestler’s bisociation theory,
+compared with the incongruity theories, and two linguistic theories of
+humor (the Semantic Script Theory of Humor and the Isotopy Disjunc-
+tion Model).
+3.7.2 Bisociation theory
+The bisociation theory was introduced in Koestler’s book (1964) about
+creativity and has been very influential. Koestler defines bisociation as
+the perceiving of a situation or idea ( . . . ) in two self-consistent but habitually incom-
+patible frames of reference ( . . . ) The event ( . . . ), in which the two intersect, is made
+to vibrate simultaneously on two different wavelengths, as it were. While this unusual
+situation lasts, [the event] is not merely linked to one associative context, but bisociated
+with two.
+(1964, p. 35)
+The source of Koestler’s insight is Maier (1932), a Gestalt psychologist,
+who pointed out that insight and humor shared some traits, summarized
+as follows by Lòpez and Vaid, “the experience of humor (like that of
+insight) involves a sudden and unexpected restructuring of the elements
+of a configuration leading to clarity and a solution. In other words,
+humor can lead to discovery” (Lòpez & Vaid, 2017, p. 270).
+As I noted in Attardo (1994, p. 175) bisociation is a cognitive theory,
+and, clearly, a type of incongruity theory. The definition of bisociation
+is metaphorical (more on this below), and roughly coextensive with the
+notion of isotopy disjunction (see Section 4.3.1) and of script opposition
+and overlap (see Chapter 6). It is endowed, however, neither with the
+same degree of formal definition nor with the heuristic procedures
+for determining which script/isotopy is being activated. This is the
+defining features that characterizes linguistic theories: they provide the
+researcher with (rather elaborate) procedures for identifying the scripts
+or isotopies being activated by the text.
+Basically, the issue boils down to this: Koestler’s formulation is entirely
+metaphorical and no description (algorithmic or not) of how to identify
+73
+
+
+--- PAGE 97 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+the planes of bisociation is given. On the contrary, incongruity theories
+have at least independently motivated conceptual bases that are not
+metaphorical and are (at least in part) based on interpersonal assess-
+ments of stimuli. Linguistic theories, finally, have independently moti-
+vated,14 non-metaphorical conceptualizations, with algorithmic (semi-)
+formal procedures for analysis. Therefore, linguistic theories are better
+theories because they are more formalized, while preserving the same
+degree of descriptive adequacy, and because they provide explanations
+that are not ad hoc, i.e., they are based on concepts introduced indepen-
+dently of humor.15
+From a linguistic point of view, in fact bisociation is thus only a
+notational variant of the isotopy disjunction theory, or the script theory,
+with the further flaw that bisociation/incongruity etc. had already been
+identified since the Greeks as the central mechanism of humor. Hence,
+bisociation is not even a novel theory. What changes are not the under-
+lying conceptualizations, but the metaphors used to describe them, and,
+of course, the degree of formalization/replicability of the theory.
+3.7.3 Evaluation of the theories
+How does one evaluate a theory? There are some more or less accepted
+scientific metrics for theories. They include:
+• coverage and comprehensiveness (your theory must account for all
+the facts)
+• verifiability (falsifiability) and intersubjective verification (i.e., oth-
+ers must be able to replicate your results)
+• simplicity (all other things being equal, the simplest theory is to
+be preferred); read “simple” as 1) have less axioms,16 2) having less
+theorems/rules, etc.
+14 The reader will recall the warrant of transferability, i.e., independent motivation, from
+the discussion in Section 2.1.2.
+15 Chomsky (1965) distinguishes various levels of adequacy for a grammar (but the
+reasoning may be extended to theories). Descriptive adequacy means that the theory handles
+the data: it accounts for all the data. Explanatory adequacy “explains” the data in terms of
+underlying principles. Linguistic theories strive for explanatory adequacy.
+16 An axiom is an unprovable fact (from within the theory) that is taken as the starting
+point of the theory. For example, in Chapter 5 we will take that humor happens within a
+semiotic-inferential system as axiomatic.
+74
+
+
+--- PAGE 98 ---
+3.7 COMPLEMENTARITY OF THE THEORIES OF HUMOR
+• reductive (i.e., it should explain things in terms of simpler, better
+understood other17 things; in other words, you cannot use a sim-
+ilarly or (even worse) more complex concept to explain a simpler
+one, e.g., defining humor in terms of “the ridiculous,” or vice versa).
+• formality (i.e., the theory must be statable in a way such that it needs
+no recourse to the reader’s intuition, or to put it differently, it must
+be algorithmic, i.e., it should be, in principle, implementable in a
+computer program).
+Using these criteria we may venture in a difficult, but extremely
+important avenue: explaining some of the theoretical choices made both
+by the field at large and by the present writer.
+First, by definition no-theory theories and partial theories are ruled
+out as non-scientific or non-comprehensive, respectively. While the
+latter may still be scientifically interesting, for example if they are used
+as material for the construction of a comprehensive theory, the former
+are by definition uninteresting scientifically. What these publications are
+doing may be stimulating, entertaining, at times even helpful if they
+present good or memorable examples, or if they spark the interest of
+young researchers, but it is not science and should not be confused
+with it.
+Second, by the principle of simplicity, it follows that an essentialist
+theory should be preferred, if available, to any other theory. Essentialist
+theories, if formalized enough, are very easily testable (falsifiable) since
+it is only18 necessary to find a serious counterexample to the theory to
+falsify it.
+From within incongruity–resolution theories, we have several
+candidates to choose from. In Attardo (1997), I pointed out the obvious
+fact that incongruity is a semantic concept. It follows that a linguistic
+(or philosophical) definition of incongruity is at an advantage over
+an anthropological or psychological definition, as both linguistic and
+(to a lesser degree) philosophical semantics have developed (more
+or less) scientific accounts of meaning. From within linguistics, two
+17 Note the importance of the “other” here, otherwise a theory would fall under the
+dreaded “circularity” pitfall.
+18 Not really: theories are not discarded in toto if any of their predictions turn out to be
+unsupported by data. Most commonly they are modified as little as necessary to account
+for the data. Needless to say, sometimes the data are declared to be irrelevant or outside
+the purview of the theory, and correspondingly the focus of the theory is changed. This is
+dangerous business, however, as it may reduce the comprehensiveness of the theory.
+75
+
+
+--- PAGE 99 ---
+THEORIES OF HUMOR AND THEIR LEVELS
+full-blown theories19 have been developed, a script-based one, and an
+isotopy-based one. The problems with the isotopy-based model are
+such (Attardo, 1994, pp. 61–81)20 that it is not a serious contender as a
+comprehensive theory (although it does have an interesting advantage
+for the conceptualization of the linear ordering of the joke, see Section
+4.3.1). This leaves the script-based theory as the sole contender.21
+Because the incongruity theories are essentialist (i.e., the attempt
+to pinpoint what makes humor funny), linguistics has tended to side
+(largely unwittingly) with this kind of theory. However linguists have
+show some interest for hostility theories (see for example the concept
+of “target” in the General Theory of Verbal Humor, below) and release
+theories. For example, the idea of defunctionalization (Guiraud, 1979)
+of language in puns fits in very nicely with the liberation approach, since
+it frees the speaker from the constraints of the linguistic code. Similarly,
+the idea of retractability in discourse of humor and irony frees the
+speaker from the consequences of his/her actions. These connections
+with humor theory have not been pursued in any systematic fashion.
+From a different perspective, namely the performance side of humor,
+the picture is much different. Essentialist theories are more or less
+sidelined, in favor of a discursive, ethnomethodological stance (see
+Chapter 10 for discussion) which strongly favors comprehensiveness
+and intersubjective verification and more or less abandons any attempt
+at formalization. Perhaps because of the reductionist stance of the three
+major humor theories, or perhaps because of the focus on the positive
+aspects of humor, which go against the aggression theories of humor, the
+discursive and ethnomethodological approaches have developed more
+or less apart from humor studies. See the conclusion of the book for an
+argument on why they should be brought back together.
+19 There are other approaches, cognitive, relevance-based, corpus-based, etc. but none
+has presented a developed theory. See Brône et al. (2015) and Yus (2017) for examples
+of cognitive and relevance-based approaches. Corpus-based approaches are discussed in
+Section 12.3.
+20 I hate to have to say this, but the discussion is not for the faint of heart, or those without
+some linguistics background. They may read pages 61–62, in Attardo (1994), take my word
+for it, and miss very little from the humor point of view. Professional linguists will have to
+bite the bullet, so to speak.
+21 I assumed, wrongly, that this point was obvious. Some reviewers of Attardo (1994)
+took me to task for my “favoritism” towards the script-based theory. If there is only one
+theory that does what one needs done, one has to embrace it, warts and all. The fact that two
+entire chapters (and many other sections) in the said book were dedicated to developing
+aspects neglected by the script-based theory, not to mention that I had published in 1991 a
+serious revision thereof, apparently did not suffice to establish my (attempts at) objectivity.
+76
+
+
+--- PAGE 100 ---
+3.8 FURTHER READINGS
+3.8 Further readings
+Surveys of humor theories can be found in Piddington (1933), Monro
+(1951), Bergler (1956), Keith-Speigel (1972), Raskin (1985), Morreall
+(1987), Attardo (1994), Smuts (n.d.). Martin (2007) now in a second
+edition co-authored with Thomas Ford (2018) provides an outstanding
+survey of the three classes of theories of humor from the standpoint of
+psychology.
+Forabosco’s (1992) treatment of incongruity in cognitive terms
+remains fundamental. The history of the incongruity theory can be
+explored in Morreall (1987) and Attardo (1994, 1997). Other incongruity-
+based theories are Koestler’s (1964) bisociation theory, Paulos’ (1980)
+catastrophe-theory model, and Hofstadter and Gabora’s (1989) model.
+On bisociation, see Krikmann (2014).
+Non-essentialist theories of humor have been presented by Ferro-
+Luzzi (1990) and Latta (1998). An example of the synchretistic approach
+to humor theory is M. S. Davis (1993, p. 7). For a discussion of mixed,
+partial, and no-theory theories, see Attardo (1994).
+On the neurolinguistics of humor, see Vrticka et al. (2013), Chen
+et al. (2017), and Rodden (2018). On the evaluation of theories in the
+linguistics of humor, see Attardo and Raskin (2017).
+77
+

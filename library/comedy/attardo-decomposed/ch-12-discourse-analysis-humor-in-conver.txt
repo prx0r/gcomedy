@@ -1,0 +1,1548 @@
+--- PAGE 286 ---
+12
+Discourse analysis: humor
+in conversation II
+12.1 Functional DA
+264
+12.2 Conversational humor in various settings
+280
+12.3 Corpus-based discourse analysis
+286
+12.4 Some issues in the DA of humor
+289
+12.5 Conclusions
+297
+12.6 Further readings
+298
+In this chapter, we will consider the discourse analysis (DA) of humor.
+As we said in the previous chapter, there is considerable methodological
+overlap between conversation analysis (CA) and DA: both emphasize
+ecologically valid data and both look in a very detailed way to the texts,
+for example. However, there are some differences as well: the first one is
+that DA has a broader outlook, in terms of data: CA is more focused
+on conversations, whereas DA admits more or less any kind of text,
+including written ones. DA is also more open toward quantification and
+has moved more readily toward using large corpora (see Attardo, 2015,
+for a review). Last but not least, DA is more interested in the functional
+aspect of the interactions, i.e., what interactional goals are the speakers
+achieving through the exchanges.
+While by now it should be clear that any attempt at drawing a sharp
+line dividing CA from DA is impossible, I feel like I should repeat the
+warning not to attach any particular significance in a given article or
+book appearing in this or the previous chapter (or any other, for that
+matter). My primary choice in grouping studies has been subject matter
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 287 ---
+DISCOURSE ANALYSIS
+regardless of methodology: for example, Hay’s work is probably best
+characterized as DA, but it is discussed in the previous chapter because
+it fit better in the development of the discussion there.
+12.1 Functional DA
+Moving away from the emphasis on the sequential organization of
+humorous discourse of classical CA, DA focuses more on the conver-
+sational goals of the speakers, or to put it differently what the speakers
+are trying to achieve by using humor. Here there is a logical problem:
+as Holmes (2000) notes “all utterances are multifunctional ( . . . ) Hence,
+a humorous utterance may, and typically does, serve several functions
+at once” (p. 166). Furthermore, Holmes warns of a potentially infinite
+regress: “the most general or basic function of humor is to amuse. But
+one can ask why does the speaker wish to amuse the audience” (2000,
+p. 166). Holmes is of course right to point out these problems. To ask
+“why do speakers do X?” is a question potentially impossible to answer.
+For example, let us say that a speaker produces a humorous turn and
+we establish that he/she intended to amuse his/her audience with the
+further intention of showing off his/her wit and thus reinforce his/her
+social status in the group. Surely, we may believe that our analysis is over.
+But what of unconscious goals, of which by definition the speaker will
+not be aware of? And what of the ideological and cultural norms that
+force upon the speaker the social roles that he/she worked so hard at
+reinforcing?
+One final point: humorous utterances (i.e., the production of humor
+of any kind in conversation and/or communication) are indeterminate,
+“ambivalent” (Holt, 2017, p. 94), or as Kotthoff (2007, p. 287) has it:
+“Humorous intentions can seldom be pinned down exactly.”
+Consider the following example:
+(119)
+A is the 80-year-old grandmother of B, a 30-year-old female.
+B had just run up over a curb driving out of a store.
+A: They just built that while you were in the store.
+B: I know. (Attardo, 2002b, p. 171)
+As I said in my original analysis, it is fairly clear that A is being ironical,
+as the claim that the curb was built while her grand-daughter was in the
+store is patently false. B has no reason to think that her grandmother
+264
+
+
+--- PAGE 288 ---
+12.1 FUNCTIONAL DA
+has become intellectually incapacitated, etc. However, I asked in 2002
+“But is A being funny? Is A teasing B? Is A exaggerating? Is A being
+metaphorical?” We may add: why is the grandmother saying this? Is
+she trying to get her grand-daughter to drive more carefully? Is she
+mocking her? Is she showing solidarity? Is she critiquing capitalist
+exploitation of natural resources for the sake of short term profit of
+the corporations that built the store? As I answered myself in 2002:
+“Any attempt at disentangling this cluster of implicatures would be
+quixotic, as the completely noncommittal answer of B seems to imply”
+(p. 171). Needless to say, I acknowledged then and repeat now, that we
+have no way of knowing what B meant, anymore than we may know
+what A meant.1 For the exchange, we only can deduce that B is “going
+along” with A, i.e., she is adopting the ironical mode of communica-
+tion, but in fact her response may be masking the fact that she has
+no idea what her grandmother meant. So, the ironical response that
+supports her grandmother’s quip may be driven by her desire to avoid
+knowing exactly what grandma meant, because B may not like what
+A meant.
+So, should we conclude that it is pointless to try to describe the
+functions of humor? To begin with, we must consider two facts:
+1. Each interpretation of the function(s) of the exchange is subjec-
+tive and, in my opinion, this involves the interpretations of the
+researcher, whether they are participants to the interaction or not.
+2. Interpretations of the participants, especially if they agree, must be
+prioritized over other interpretations.
+So, if all goes well, i.e., all the participants in the overall situation
+(speaker, hearer, and researcher) are in agreement, there is no problem.
+But what if one of the participants intended an utterance as serious,
+for example, but upon the reaction of their audience (say, laughter)
+decides to “go along” and pretend he/she meant it as humorous all
+along? There is no methodological prophylaxis against this. Consider
+the following example from the show Top Gear in which James May
+makes an unintended obscene pun, while talking about seating in a car
+1 Just in case anyone is wondering, I am not denying the possibility of linguistic
+communication. However, it would be too complicated to explain the differences between
+bona-fide and non-bona-fide inferential processes in this context.
+265
+
+
+--- PAGE 289 ---
+DISCOURSE ANALYSIS
+(120)
+1 May: She’s effectively saying, “You’ve given me the baby, now
+get in the back.”
+2 Hammond: Yeah.
+3 Clarkson: (Laughter; the audience joins in the laughter)
+4 May: (pointing his finger) No.
+6 (extended laughter from the audience and the show hosts)
+7 Clarkson: That concludes the News
+(https://www.youtube.com/watch?v=abX_qoYdtuw)
+While the footage does not show May’s facial expression while Clarkson
+starts laughing, it is clear from his denial in line 4 that he did not intend
+the utterance as being an obscene double entendre. However, when the
+camera returns to him, during 6, he is producing an open-mouth smile
+having apparently accepted the reframing of the situation as humorous.
+In this case, it is fairly clear what happened, but in other cases it
+may not be clear and no methodology can prevent that, since even a
+direct question to the speaker would be vitiated by the fact that whatever
+motivation the speaker would have to reframe the intention post hoc
+would also presumably lead them to deny that any reframing took place.
+Having said this, in a sense the argument developed in Chapter 10 of
+the negotiated nature of the keying for humor of a situation makes the
+question moot: the initial intention of the speaker may be interesting but
+it is not the end all of the analysis. If we take seriously the methodological
+stance that all interactional keying is negotiated, then what the speaker
+initially may have meant is not that significant anymore. Thus, while
+retaining a healthy dose of skepticism toward any interpretation, and
+acknowledging that the inner mental states of the participants may
+not be available, even through interviews, since speakers may lie about
+their motives, we can nonetheless move forward with considering the
+functions of humor in conversation.
+In the following sections we will review some of the foundational and
+exemplar studies in the DA of humor. Tannen’s work is well known,
+albeit surprisingly not utilized to its fullest potential in the field. Davies’
+and Priego-Valverde’s are less known, but just as deserving of attention,
+as they anticipated significantly several issues and results of the field.
+12.1.1 Tannen’s Thanksgiving dinner
+Tannen’s first book (Tannen, 1984), which is essentially a revised version
+of her dissertation, contains a full chapter on the humor used by the
+266
+
+
+--- PAGE 290 ---
+12.1 FUNCTIONAL DA
+participants to the Thanksgiving dinner she analyzes. Surprisingly, and
+despite a very prominent mention in Attardo (1994), it has been largely
+overlooked by scholars; for example, it does not appear in the references
+of Glenn and Holt (2013); for an exception, see Norrick (1993).
+This is all the more remarkable because Tannen’s contribution is quite
+significant in several areas. First, Tannen was the first scholar to quantify
+the number of humorous turns produced by each participant and pro-
+vide a ratio of humorous turns to overall turns, which shows a range of
+between 2% and 11% and a mean of roughly 7%. Second, Tannen intro-
+duces the idea of individual conversational humor style,2 noting that the
+participant with the lowest number of humorous turns had appeared to
+be less involved in the conversation, whereas in terms of turns he was not
+the one who had contributed less to the conversation. Hence Tannen’s
+conclusion that “humor makes one’s presence felt” (1984, p. 165). The
+idea of conversational humor style is applied to a family setting by Everts
+(2003). Third, Tannen describes “extended [humor] routines” in which
+speakers “pick up” on the humorous elements of the situation and carry
+on extended humorous exchanges (pp. 176–177).
+Tannen’s analyses are squarely in the Gumperz-Hymes approach we
+have described in the previous chapters and focuses on the contextual
+cues that allow the participants to “pick up” on the humorous intentions
+of the other speakers. Another factor of interest is that Tannen did follow
+up interviews with the participants which show that considerable mis-
+understanding and lack of syntony existed at the time of the exchange:
+for example, Tannen reports that one participant (David) believed that
+another (Steve) was “truly angry” at Tannen’s placing her tape recorder
+on the table, whereas, Tannen reports, Steve “was speechless” at the
+suggestion that he was truly angry (p. 168).
+12.1.2 Catherine Davies’ joint construction of humor
+This article too, despite its very visible place of publication in the Pro-
+ceedings of the Berkeley Linguistics Society, has been largely overlooked
+by later researchers, despite its having introduced many of the themes of
+the ethnomethodological approach to the discourse analysis of humor,
+including the joint construction of humor, the function of solidarity
+2 Not to be confused with the idea of humor styles in psychology (Martin et al., 2003).
+267
+
+
+--- PAGE 291 ---
+DISCOURSE ANALYSIS
+enhancement, and the interactive ongoing definition of humor keying
+(“footing”).
+The following short passage from Davies’ article will illustrate the
+nature of the joint construction of the humor. The situation is that of
+faculty members who meet in the staff lounge and argue as to who
+should pay for the coffee.
+(121)
+Dyadic conversation among faculty members.
+01
+Ed:
+I’ll pay for it.
+02
+Joyce:
+No, I already got it.
+03
+Ed:
+You shouldn’t pay for my coffee.
+04
+Joyce:
+Oh, that’s OK. . . you’re worth every penny.
+05
+Ed:
+(laughs) I see your opinion of me has gone up.
+06
+Joyce:
+Not really. I’m coming back later to take fifteen
+cents out again.
+07
+Both:
+(laugh) (Davies, 1984, p. 361)
+In turn 4, Joyce humorously demeans Ed by using a back-handed
+compliment: Ed is worth every penny of a cup of coffee, and since
+coffee is cheap, then Ed is not worth much. Ed reacts in turn 5, first
+by laughing, thus accepting the humorous framing of the situation and
+also not taking offense, and elaborates on Joyce’s put down, by one-
+upping her: if Joyce is saying that Ed is worth only 25 cents, Ed remarks
+that the figure is an improvement over an imaginary previous figure
+that was even lower, or, in other words, that Joyce’s opinion of him has
+improved. Joyce responds by denying the improvement and claiming,
+also fantastically, that she will later retrieve some of the money she has
+currently paid (15 cents) thus bringing her evaluation of Ed down to a
+figure of ten cents, which is coherent with Ed’s remark about a figure
+lower than 25 cents.
+This example nicely illustrates the collaborative, joint nature of the
+construction of the humorous footing of the exchange, as Ed and Joyce
+humorously spar in a fantasy environment spun off from the literal
+interpretation of the cliché “you are worth every penny” applied to a
+human being. The joint laughter in turn 7 sanctions the framing of the
+exchange as humorous, but the whole exchange (turns 4–7) consists
+of humor support (see Section 11.3.1.2). For another example of joint
+construction of humor, see example (122) below.
+Davies notes that non-verbal cues (contextualization cues) may be
+used to signal the humorous footing/keying, but that also a deadpan
+268
+
+
+--- PAGE 292 ---
+12.1 FUNCTIONAL DA
+delivery (“a straight face”) may be used (p. 361). Among other strategies
+to jointly construct humor footing, Davies notes, building on what
+others have said (p. 363), elaborating (p. 364), and empathizing (p. 366).
+Davies distinguishes “a style oriented towards empathy more typical of
+women, and a style oriented towards solidarity (through the use of a
+version of ‘ritual insult’ joking) more typical of men” (Davies, 2017,
+p. 476).
+Davies interestingly also recognizes the presence of incongruity
+(“bisociation”) in all of her examples of humor (p. 368–369) which
+makes it one of the few articles to blend discourse analysis and
+incongruity. Other exceptions include Norrick (2003), Antonopoulou &
+Sifianou (2003), Archakis & Tsakona (2005, 2012), and Alvarado Ortega
+(2013).
+12.1.3 Priego-Valverde’s dialogic model
+Priego-Valverde’s (2003) book on humor has many reasons to be fea-
+tured prominently in any review of the field of functional discourse
+analysis of humor (see Attardo, 2006, for a full list). Just to mention
+two, she was one of the very first authors to discuss failed humor (see
+Section 12.4.3), now a significant area of research and likewise she has
+an extended discussion of the co-construction of humor (pp. 203–226).
+However, another reason for its inclusion is the relative lack of impact
+it has had on the field,3 no doubt due to its being written in French.
+Hopefully, by summarizing some of its main findings, more scholars will
+benefit from it.
+Priego-Valverde analyzes a corpus of 33 hours and 20 minutes of con-
+versations among friends, ranging from four to seven participants and
+lasting between 2h15m to 7h30m. The age range is very homogeneous
+(25–30 years) as is the socio-economic status (upper-middle class) and
+education (most of the participants are professionals or students). It
+is possible that the large size of her corpus (it was larger than the
+entire Wellington Workplace Corpus, in 2001; see below) allowed her
+to discern a wider variety of functions or phenomena, but whatever
+the reason, Priego-Valverde’s is one of the most wide-ranging studies
+of humor in conversation.
+3 Exceptions to this neglect are the always well-informed N. Bell, W. Chafe, M. Haugh,
+and A. Viana.
+269
+
+
+--- PAGE 293 ---
+DISCOURSE ANALYSIS
+Priego-Valverde raises a few methodological significant points, often
+overlooked in discussion about conversational humor: the first is that
+laughter cannot be used to identify humor, due to the lack of correlation
+between humor and laughter. Priego-Valverde is very clear about the
+connection with failed humor, which would be excluded a priori from
+analysis if laughter were used to identify humor (2003, p. 15). Her
+answer is to rely on the intention of the speaker (p. 15), which may
+be a controversial stance, but is alleviated by her role as participant-
+observer (p. 63). However, Priego-Valverde takes the line of reasoning
+further: she notes that it is a commonly assumed point that humor builds
+intimacy. However, Priego-Valverde notes, some degree of connivence
+(tacit assent) is necessary for humor. This presupposes an interlocutor,
+who must share “a certain amount of knowledge, of values upon which
+humor will rest” (p. 37). As Priego-Valverde notes: “it is this sharing
+of a common referent, which both creates a connivence between the
+interlocutors and can only exist if this connivence is already present”
+(p. 37). In other words: there must be a minimal common ground
+shared between the interlocutors (the speaker and the hearer) for the
+humor to function. This implies that a third party observer may not be
+able to assess the humorous nature of the text (p. 67). This common
+ground exists also among people who do not know each other, such
+as the audience of a theater play and its author, for example. The
+common ground consists of the language, at a minimum, shared cultural
+references, social values, and the like.
+Her theoretical stance includes the idea that humor is the result of
+multiple voices, real or imaginary, that coexist in the speaker’s utterance.
+The source for this idea is Bakhtin (1981), mediated by Ducrot (1984).
+Using Bakhtin’s “dialogism” is not uncommon in European scholar-
+ship, for example it is also quoted in Kotthoff (2003). However, the
+idea acquires a special relevance in the context of humor because, as
+Priego-Valverde argues, the multiple voices in a humorous utterance
+account for
+• the distancing between the speaker and the content or the form of
+his/her utterance, which goes hand in hand with the non-bona-fide
+nature of the utterance;
+• the incongruity between the serious and the humorous mode of
+communication as well as the humorous incongruity within the text
+itself (as in “incongruity and resolution”);
+270
+
+
+--- PAGE 294 ---
+12.1 FUNCTIONAL DA
+• the ambivalence of the text: by introducing a duality of intention,
+multiple interpretations can be justified within the text; and
+• its playfulness: the distancing and the playful nature of deliberately
+producing an ambiguous utterance, explain the goodwill (“bienveil-
+lance”) of humor.
+(2003, p. 70)
+Priego-Valverde finds that conversational humor exploits the same
+linguistic mechanisms that have been analyzed in the semantics and
+pragmatics of humor. Priego-Valverde presents a non-exhaustive list of
+mechanisms, including script opposition (pp. 82–83), play on ambiguity
+(p. 85), register humor (pp. 88–89), faulty logic (pp. 91–92), allusion
+(pp. 95–98), intertextuality (pp. 99–100), insinuation (p. 98), and value
+judgements (pp. 105–111). I will examine an example of the insinuation
+mechanism, because it is short and exemplifies a sort of aggressive,
+hedgy humor that is not found very often in studies about humor.
+The conversation is between two couples of friends: F1 and M1 and
+F2 and M2.4 The second couple is getting married (F2 and M2) and M1
+is upset because F1 knew the details of where the wedding was going
+to take place, whereas he did not. The reason for his indignation is that
+he has long been friends with M2 and F2, whereas F1 only knows them
+through him.
+1 M1: wait seriously you did not tell me (long pause)
+2 How did you know?
+3 F2: [smiling voice] they call each other on the
+phone\\
+4 (general laughter)
+5 M2: early enough that you’re not back from work
+6 M1: you didn’t tell me anything, you know
+7 F1: we have our times
+8 (general laughter)
+I have translated and will provide a few glosses for clarity: turn 1 is
+addressed to F1; turn 2 is addressed to F1. Turns 3 and 5 are addressed
+to M1.
+Priego-Valverde glosses that F2 starts a game of “insinuations” which
+then gets picked up by M2 and eventually by F1, to the general amuse-
+ment. Essentially, F2 by informing M1 that F1 and M2 talk on the phone,
+4 Priego-Valverde indicates by the initial the gender of the speaker and by a progressive
+numeral different speakers.
+271
+
+
+--- PAGE 295 ---
+DISCOURSE ANALYSIS
+triggers the script for lovers’ assignation (lovers need to plan their
+rendez-vous). M2 plays along and provides a fictitious detail explaining
+why M1 could have been unaware of the calls (they happened before
+he was home from work) and finally F1 confirms that they have “set
+times” to call each other, thus confirming indirectly that they do call each
+other. Priego-Valverde comments on the hedgy, transgressive nature
+of the insinuation (that F1 and M2 are having an affair, to which F2
+would be privy and would condone) and also that by diverting to a com-
+pletely implausible and false accusation the potentially face threatening
+accusation that F1 neglected or forgot to tell M1 about the wedding
+it defuses any potential conflict between the friends. (Priego-Valverde,
+2003, pp. 98–99). I would like to point out another aspect, which Priego-
+Valverde does not pursue, i.e., that F2, M2, and F1 “gang up” on M1,
+despite his attempt, in his second remark, at redirecting the conversation
+toward the serious issue of not having been told about the wedding. In
+fact, it is F1’s “betrayal” of her loyalties that finally caps the exchange.
+F1 does not “stand by her man.” The sexually charged nature of the
+allusion and the aggressive nature of the humor (insinuating that one
+is being cuckolded by one’s best friend) are quite unusual for academic
+discussions of humor in conversation, but are representative of much
+humor that occurs casually.
+This example also lends itself to two other themes found in Priego-
+Valverde’s discussion: humor is often used for negotiating face demands,
+as in the example above, where the potential threat to M1 and F1 nega-
+tive faces5 is resolved humorously, as seen above. The other topic is the
+cooperative or competitive nature of the exchanges. Cooperation and
+competition should not be understood in a Gricean sense (Chapter 8)
+but rather as benevolent and aggressive, respectively (2003, p. 179).
+In another terminology, the create an in-group and an out-group (see
+below, Section 12.1.4).
+Finally, let us mention that Priego-Valverde dedicates a significant
+part of her book to the discussion of the functions of humor. She presents
+several examples of communicative rituals that are performed through
+humor. One example (pp. 122–123) concerns the common practice, at
+least in some European cultures, to give guests a tour of the house on
+5 Negative face is “the right to be left alone”: M1 has been humiliated by being in the dark
+about the wedding and F1 presumably forgot to tell him and if confronted about it will be
+embarrassed as well.
+272
+
+
+--- PAGE 296 ---
+12.1 FUNCTIONAL DA
+their first visit. Other examples include lightening up the mood of a
+conversation (pp. 130–131), averting conflict (pp. 132–136), and many
+others. Her general conclusion is that humor can be both cooperative
+(goodwill) and competitive, i.e., aggressive (p. 179).
+12.1.4 Functions of humor in conversation
+In Attardo (1994), based on work done in sociology, I classified the
+functions of humor in three main categories:
+1. Social management: this is the fundamental group affiliation/
+disaffiliation mechanism of humor. By creating an in-group, those
+that “laugh together,” i.e., share the experience of mirth or engage
+in overt displays of it with the group, and an out-group, those that
+do not participate in the mirth or are the target of the humor, the
+production of humor automatically creates a bonding experience,
+for the in-group participants which is, at least in part, based on the
+exclusion of the out-group. This has been variously characterized,
+with a very successful term in DA as “bonding” or “biting” (Boxer
+& Cortès-Conde, 1997; cf. also Priego-Valverde, 2003, p. 179,
+“cooperative” vs. “competitive” humor.)
+2. Decommitment: this aspect of the humorous exchange is tied
+to the “this is play” metamessage (see Section 3.3.1). Because
+humorous messages are labeled as “play” the speaker is not fully
+committed to the bona fide nature of the utterance (i.e., its truth,
+relevance, etc.). This affords the opportunity of “taking back”
+any of the implicatures and even inferences that would normally be
+carried by said utterance in context. Likewise, the retractability of
+humor allows speakers to bring up uncomfortable or taboo topics
+(for example, death, in a hospital environment).
+3. Defunctionalization: one of the central functions of language is to
+convey meaning. In puns, but also in other ludic uses of language,
+this function is partially or completely set aside. This is a deeper
+kind of decommitment than what is produced by the charac-
+terization of the message as play. Defunctionalization eliminates
+the semantic-referential basic aspect of language. If someone asks
+“when is a door not a door?” and provides the answer “when it’s
+ajar,” decommitment would be saying “I was just kidding, I did not
+273
+
+
+--- PAGE 297 ---
+DISCOURSE ANALYSIS
+really want to know.” Defunctionalization is the fact that no jars are
+really intended at all (or doors, for that matter). All that matters is
+the play on words and that the two strings sound alike (ajar vs. a
+jar). A fuller treatment of these topics is found in Chapter 9.
+These three basic functions find numerous applications in social
+exchanges. We will now review some of them. An interesting aspect
+of the various uses of humor is that often speakers react to the literal
+message (the criticism in the tease, the said in irony). This is a sign of
+the fact that the speakers “see through” the social function of the humor
+and treat the message as serious.
+12.1.4.1 Mediation
+Because humor allows the speakers to claim that they did not mean what
+they said or implied or at least to have said it with the purpose of amusing
+their audience, humor may be used to broach difficult or touchy topics.
+Likewise potentially embarrassing or aggressive topics may be couched
+in humor to “soften” the sting. In this sense, humor is very close to some
+forms of politeness (and in fact, humor is listed as a form of politeness,
+see below).
+12.1.4.2 Politeness
+Brown and Levinson’s seminal work on politeness included humor as
+one of the strategies of politeness. Essentially, by claiming common
+ground, the joint performance of humor is a form of positive politeness
+(Brown and Levinson, 1978/1987, pp. 103–104). Establishing jointly
+membership to the in-group also boosts common ground. Zajdman
+(1995) considers humorous Face Threatening Acts, i.e., a joking FTA,
+as another politeness strategy. Norrick (1993) also characterizes humor
+as positive politeness.
+Holmes (2000), as part of the Language in the Workplace Project (see
+below, Section 12.2.3, conceptualizes humor as both a form of politeness
+serving both the positive face of the hearer (by expressing/enacting
+solidarity) and also the positive face of the speaker (self-deprecating
+humor). Holmes shows also that humor works for negative politeness as
+well, by reducing FTAs. So, overall in Holmes’ application of politeness
+theory to humor discourse analysis we have the following:
+274
+
+
+--- PAGE 298 ---
+12.1 FUNCTIONAL DA
+• Humor as positive politeness
+– humor addresses the hearer’s positive face needs (common
+ground, in group solidarity)
+– humor addresses the speaker’s positive face needs (self
+deprecation)
+• Humor as negative politeness
+– humor attenuates FTA to the hearer’s negative face (e.g., hedging
+a directive)
+– humor attenuates FTA to the hearer’s positive face (e.g., hedging
+a criticism) (Holmes, 2000, p. 167)
+Holmes also shows that humor can be used as a way to negotiate power
+in asymmetrical encounters: both from the perspective of the powerful
+agent and of the subordinate one: “humor is also a very effective way
+of ‘doing power’ less explicitly, and hence some uses of humor are most
+illuminatingly analyzed as instances of coercive or repressive discourse”
+(p. 165). Essentially, by joking the person in a position of power can
+achieve their goals while on the surface not violating explicitly the
+negative face of the subordinate(s): if the boss asks his/her secretary for a
+cup of coffee while joking, he/she still expects and gets the cup of coffee.
+Conversely, humor can be used “by the subordinate in an unequal power
+relationship to subvert the overt power structure. Humor provides a
+socially acceptable means of signaling lack of agreement, registering a
+protest, or even a challenge to more powerful participants” (p. 165).
+The research on politeness has seen a significant shift in focus and
+considerable methodological discussion in the past two decades. This
+is not the place to review, let alone address these, although see below
+for mention of some alternative approaches to Brown and Levinson’s
+used by scholars. Holmes herself, in a co-authored paper (Holmes &
+Schnurr, 2005), moves away from the term politeness, which is “fraught
+with problems” (p. 142), and uses instead the term “relational practice”
+or “other-oriented behavior” (p. 142).
+Holmes and Schnurr (2005) note that different ways of using humor
+help constitute “communities of practice.” The following citation, is
+worth examining in full, despite its length, for the subtle and nuanced
+way it presents their conclusions. Holmes and Schnurr observe the
+emergence of
+275
+
+
+--- PAGE 299 ---
+DISCOURSE ANALYSIS
+preferred ways of using humor to construct and negotiate RP [Relational Practices]
+in workplace interaction in different project teams. We are not, of course, claiming
+that every team or every individual in any particular team uses a consistently similar
+amount or type of humor throughout our recordings. Rather, what we have identified
+is interesting indications of favored patterns of humor, both in relation to the amount
+of humor and the kind of humor used in the different project teams we have studied.
+(p. 146)
+Thus, the amount of humor used in different workplaces varies signifi-
+cantly, contributing to the establishment of different workplace cultures.
+Likewise, the different number of supportive and contestive (aggressive)
+instances of humor contributes to the differences among the commu-
+nities of practice. Holmes and Schnurr conclude that some communi-
+ties of practice end up having a more “feminine” (supportive) use of
+humor and others a more “masculine” (contestive) (p. 154). Mullany
+(2004) also applies the communities of practice approach and extends
+Holmes’ work.
+The following two examples will serve well to exemplify the support-
+ive (122) and contestive (123) modes:
+(122)
+Cla = Clara; [ . . . ] indicates overlaps
+1
+Cla:
+deferred means [put it on hold]
+2
+Tess:
+[mm
+] deferred yeah
+3
+Cla:
+[(laughs)]
+4
+Tess:
+[means that you’re not going to]
+5
+think about it just now
+6
+Cla:
+we’ll do it some other time
+7
+(general laughter) . . .
+8
+Rob:
+deferred deferred means it
+9
+might get done one day if it’s lucky
+(Holmes and Schnurr, 2005, p. 148; the notation was
+adapted, SA)
+Example (123) needs a little background information: the discussion
+revolves around a file, sent by Callum to Barry. Callum failed to update
+the header, which led Barry, the manager, to think he has sent the wrong
+file. Note that Callum on line 7–8 mode adopts, but does not align with
+Eric, but rather against him.
+(123)
+Call = Callum; Barr = Barry
+1
+Call:
+I definitely sent you the
+2
+right one
+276
+
+
+--- PAGE 300 ---
+12.1 FUNCTIONAL DA
+3
+Barr:
+(laughs)
+4
+Eric:
+yep Callum did fail his office
+5
+management (laugh) word processing
+6
+lesson
+7
+Call:
+I find it really hard being
+8
+perfect at everything
+(Holmes and Schnurr, 2005, p. 149; the notation was
+adapted, SA)
+While humor research has tended to be biased toward the positive
+aspects of humor, humor scholars have recognized that humor may
+have a negative tone. As we saw above, this would be characterized
+as a “biting” aspect of humor. If looked through the lens of the social
+management function of humor, it becomes immediately apparent that
+while positive humor, humor that creates an in-group perception for the
+speaker and the addressee(s), may be an effective strategy to mitigate
+an FTA, negative humor that creates an out-group division between
+the speaker and (some members of) the audience will be perceived as
+impolite and aggressive. Since the 1990s, politeness theory has turned
+toward an inclusion of impoliteness in the discussion, and thus we are
+now fully equipped to explore the complex relationships between humor
+and (im)politeness.
+Kotthoff (1996) already anticipated the extension of humor beyond
+positive politeness to negative politeness, but she also makes a fun-
+damental point: humor “can be located at all points on a scale from
+politeness to impoliteness” (p. 306). As she points out, not all affiliative
+practices are polite. Kotthoff lists jocular aggression and “playing” with
+politeness. She draws a profound alignment between Batesonian play as
+mock-aggression and “humorous provocations” such as mock impolite-
+ness and jocular mockery (p. 309). This discussion anticipates Haugh’s
+work on Australian jocular mockery, briefly discussed below.
+Haugh (2010) presents an alternative view of the connection between
+humor and politeness, based on Arundale’s Face Constituting Theory
+(Arundale, 1999) which allows him to see jocular mockery as “a non-
+aligning response” (Haugh, 2010, p. 2111) which solves the “paradox’
+(Tannen, 1986, pp. 94–95; Norrick, 1993, p. 75) of teasing displaying
+both power and solidarity, being both affiliative and disaffiliative at
+the same time, “simultaneously face threatening and face supportive”
+(Haugh, 2010, p. 2111). This is not the place to discuss the definition
+277
+
+
+--- PAGE 301 ---
+DISCOURSE ANALYSIS
+of “face,” but in a nutshell, Arundale’s Face Constituting Theory sees
+“face” as emerging from the co-constructed interaction of the partic-
+ipants, and not as something “owned” by an individual. In this sense,
+since the humorous framing is also co-constructed (Davies, 1984) Face
+Constituting Theory aligns well with humor studies.
+Haugh sums up the analysis of jocular mockery in light of Face
+Constituting Theory thus:
+Within the context of FCT, then, jocular mockery is an action that is evaluated
+as face threatening because it involves interpretings of a particular utterance/act as
+mockery, but it is also evaluated as face supportive, since it involves interpretings of
+the utterance/act as non-serious in that particular local context.
+(2010, p. 2112)
+which is strikingly reminiscent of the function of “decommitment” of
+humor (Attardo 1994, pp. 325–326) which is precisely based on the
+simultaneously serious and non-serious stance of the speaker toward
+his/her utterance.
+12.1.4.3 Teasing
+The literature on teasing is now remarkably large. One of the classical
+studies is Drew (1987) who introduced as a term of art “po-faced”6
+(serious) response and showed that the recipient of the tease may orient
+to the humorous aspect of the tease, and so react with laughter, humor
+support, etc., or to the critical aspect (po-faced).
+Haugh (2017b) presents a synthesis of the research. Teasing may range
+over the whole gamut of pro-social to anti-social behaviors (p. 205).
+The various conceptualizations of teasing involve a serious/non-serious
+dichotomy (the tease must be presented as non-serious) and an evalu-
+ative aspect, both of the person teased and of the tease itself (p. 207).
+Plainly, teasing is a social action, as it involves at least two participants.
+Teasing may have many interactional functions, ranging from sanction-
+ing (minor) transgressions, to romantic courting (p. 210). Culturally,
+teasing and the reactions to teasing show significant variation, both in
+what is acceptable to tease about. and in the ways people react to teases.
+Haugh and Pillet-Shore (2017, p. 4) provide a useful three-part
+sequencing for the act of teasing
+6 The somewhat bizarre expression is related to the faces painted on chamber pots,
+according to Drew.
+278
+
+
+--- PAGE 302 ---
+12.1 FUNCTIONAL DA
+1. Teasable: a triggering action by the tease target that affords the
+tease
+2. Tease: a teasing action directed at the tease target
+3. Affiliation: mutual ratification of the non-seriousness of the tease
+As is easy to see, the non-seriousness of the tease, pointed out in the
+third phase of the sequence, lies in its humorous nature.
+12.1.4.4 Flirting
+Glenn and Holt (2017, p. 301) summarize effectively the connection
+between humor, impropriety, and flirting:
+there is longstanding recognition that the use of improprieties and sexual references
+can draw laughter and foster intimacy. Routinely in conversation, a speaker will say
+or do something that might be considered a breach of tact or courtesy, perhaps of a
+sexual nature. These improprieties can generate sequences of action. Similar to teasing
+sequences, a range of recipient responses may occur, from overt disaffiliation to disat-
+tention, affiliation, and even escalation (Jefferson, Sacks, & Schegloff, 1987). Laughter
+represents a midpoint on this continuum: on its own, it recognizes the impropriety but
+does not necessarily affiliate with it. More overtly, if the recipient laughs and produces
+a next impropriety, that person is then co-implicated in the potentially offensive
+mentality. When this happens, the participants display conversational intimacy: “That
+is, the introduction of such talk can be seen as a display that speaker takes it that the
+current interaction is one in which he may produce such talk, i.e., is informal/intimate”
+(Jefferson, Sacks, & Schegloff, 1987, p. 160). Similarly, talk laced with sexual innuendo
+may be treated as a particular kind of impropriety that ambiguously raises the possibility
+of a romantic/sexual relationship between participants – that is, as flirtation.
+(Glenn, 2003, pp. 131–141)
+To paraphrase, if a speaker produces a turn that is “improper,” often sex-
+ual in nature, acceptance of this “breach of courtesy,” by not censoring
+it, signifies its approval and hence establishes de facto intimacy between
+the speakers. The use of humor, in particular because of its decommit-
+ment function, which allows one to back off from full responsibility for
+what one has said, by claiming to not have been serious (“I was just
+kidding!”), facilitates the “testing of the waters” of the flirtation process.
+A good example of this is found in the strategies used by customers
+trying to pick up waitresses in a diner: they would couch their offer
+to go out as a joke, which allowed them, if they were turned down, to
+claim they had not been serious and thus to save face, to some extent
+(Walle, 1976).
+279
+
+
+--- PAGE 303 ---
+DISCOURSE ANALYSIS
+12.1.4.5 Multifunctionality of humor
+Summing up your discussion of some of the functions of humor, one of
+the clearest and best documented conclusions of humor studies is that,
+ultimately, humor is multifunctional (i.e., many goals may be achieved
+by interactants who produce humor at the same time). Priego-Valverde
+(2003) comes to the conclusion that humor may be “everything and
+its contrary” (p. 233), i.e., both aggressive and benevolent, face saving
+and face-threatening, “virulent” and “convivial.” There are no limits to
+what functions humor may achieve in conversation, beyond those of
+contextual appropriateness. One cannot sentence a convicted criminal
+to death humorously because the context prevents the use of humor,
+not because one couldn’t in principle do so. So, we can come to a
+final generalization about humor, and namely that any function that
+can be achieved communicatively can be achieved humorously, modulo
+contextual appropriateness.7
+12.2 Conversational humor in various settings
+Given that humor is multifunctional and indetermined, a natural way of
+organizing the research is by setting or situation in which the exchanges
+occur (i.e., Hymes’ Setting in the “SPEAKING” acronym, discussed in
+Section 10.2).
+12.2.1 Conversation among friends
+Within discourse analysis, there is a long tradition of using conversa-
+tions among friends as the source of data, so much so that, at least as
+far as humor goes, this is one of the most common categories. Tannen
+(1984), Davies (1984), Norrick (1993), Priego-Valverde (2003), Kotthoff
+(1996, 2007) are all examples of studies of conversations among friends.
+7 This rule cuts both ways: when a situation is socially coded for seriousness, humor is
+not acceptable; when a situation is coded for humor, seriousness is not acceptable. It would
+be very difficult for a stand-up comedian, in the middle of delivering his/her act, to pivot to
+a serious discussion. Comedians may intercalate isolated serious comments, but the point
+of a comedy act is to make people laugh.
+280
+
+
+--- PAGE 304 ---
+12.2 CONVERSATIONAL HUMOR IN VARIOUS SETTINGS
+12.2.2 Medical
+In this section, we are concerned with the uses of humor and non-
+mirthful laughter in interactions in a medical setting (or with a medical
+topic). There exists a vast literature on the effects of humor on health
+(see Martin, 2007) but we will not address this aspect of humor research,
+which is too far afield from the perspective of the linguistics of humor.
+Coser (1959) and Emerson (1969) are widely credited as the first
+studies on the use of humor in a medical setting. Coser (1959, 1962)
+shows that humor is used to reassure patients and relieve stress. Emerson
+(1969) shows how patients and medical staff use humor to negotiate
+sensitive (taboo) topics, such as death. Her focus is on the negotiations
+for admitting or rejecting the taboo topic.
+West (1984) studies the power imbalance of the medical service situa-
+tion. She found that patients laugh more than doctors but, in percentage,
+doctor’s laughter is reciprocated more often. Ragan examines laughter
+and humor in gynecological exams, a situation which presents “special
+threats” to the face of both the patient and the medical personnel,
+“because of the parts of the body to be examined and the positioning
+of the body necessary for the examination” (1990, p. 68). The exam
+is “uniquely anxiety-provoking to both participants” (p. 69). Therefore
+Ragan conceptualizes the entire exam as a FTA (p. 70). Unsurprisingly
+then humor is seen as a way to redress the FTA, by finding a joint
+stance between the patient and the doctor away from the task at hand: in
+one example, the doctor asks how the weather is like outside and upon
+being told it’s nice, engages in a playful interaction with the patient by
+noting that he/she hasn’t been outside all day and that the patient could
+have lied and told him the weather was unpleasant. The patient obliges
+and playfully lies and the doctor thanks her in an exaggerated manner
+(pp. 75–76). Needless to say, after a short pause, the doctor returns to the
+serious mode of the medical exam. Pizzini (1991) finds that status is a
+very significant factor, and that very few instances of humor are directed
+upward (i.e., toward the physicians). Generally speaking, she found that
+the higher status participants (doctors) produced most of the humor.
+Nurses joke more when doctors are not present. The difference vis-à-vis
+other studies may be explained by the fact that Pizzini is considering
+Italian doctors and Italian culture is much more overtly hierarchical
+than the American culture.
+281
+
+
+--- PAGE 305 ---
+DISCOURSE ANALYSIS
+Mallett and A’hern (1996) find that humor is used to highlight
+anxieties, avoid conflict, and that different patients use humor
+differently. Some humor occurs randomly as accidents happen, such
+as a nurse spilling rinsing fluid on the floor (p. 540).
+Marci et al. (2004) also show that patients laugh much more than
+therapists: more than 70% of laughter is produced by patients and
+patients initiate laughter much more frequently than the therapists
+do. However, some studies show that patients use laughter to resist
+therapists’ characterizations (Dionigi & Canestrari, 2018) or doctor’s
+questioning (Ticca, 2013). Rees and Monrouxe (2010) consider triadic
+conversations involving a doctor, a patient, and a student, in a teaching
+hospital. They report that most laugher occurs around teases and that
+the mode is competitive (disaffiliative) rather than cooperative, as tends
+to be the case in other studies.
+In a series of studies on Finnish doctor–patient encounters, Haakana
+(2001, 2002, 2010) shows that patients laugh mostly alone at delicate
+or embarrassing topics (such as financial matters). Zayts and Schnurr
+(2011, 2017) examine nurse–patient interactions in prenatal counseling.
+They find that nurses laugh more than the patients and that the nurses’
+laughter is responded to more. This results goes against Haakana’s
+finding that doctors laugh less. However, Zayts and Schnurr note that
+this may be just a factor of the different situations (in doctor–patient
+interactions, patients talk more, whereas in prenatal counseling, the
+nurses do most of the talking). The nurses’ laughter is used to “reassure
+and [. . .] put [. . .] at ease” the patients (2017, p. 126). For example, in
+one case laughter follows the statement that the mother is worried.
+Chimbwete-Phiri & Schnurr (2017) study AIDS/HIV counseling ses-
+sions for pregnant women in Malawi. Humor is used to establish solidar-
+ity and to make the attendees feel comfortable, to facilitate the discussion
+of sensitive topics, and as a means to criticize the participants who
+are not engaged. More broadly, we have uses of humor as a coping
+mechanism by those facing devastating diseases, such as cancer (e.g.,
+Beach & Prickett, 2016; Demjén, 2016; Semino & Demjén, 2017) or
+more generally (Åstedt-Kurki & Isola, 2001).
+Overal, the picture that emerges from these studies (and many others
+that cannot be reviewed due to space limitations) is that humor is used
+to cope with a stressful job and inherently difficult, stressful topics and
+situations. The medical profession is very hierarchical and the power
+differential is felt in the use of humor, but humor can be used to carve out
+282
+
+
+--- PAGE 306 ---
+12.2 CONVERSATIONAL HUMOR IN VARIOUS SETTINGS
+some spaces for the patients to express their feelings and attitudes. See
+for example Schnurr and Rowe’s (2008) analysis of subversive8 humor
+in emails.
+12.2.3 Workplace
+This section is primarily dedicated to presenting Janet Holmes’ and her
+associates’ Language in the Workplace Project, due to its significance
+and centrality in the literature. The project begun in 1996 at Victoria
+University of Wellington, in New Zealand. The corpus consists of about
+1500 interactions, produced by 450 different people, in 20 different
+workplaces, and consists of about 150 hours of recordings.9 As Holmes
+(2000) notes, most of the research on humor in the workplace focuses
+on the benefits that humor provides to management (e.g., increased
+productivity), the employees (e.g., increased well-being), or both. This
+aspect will not concern us presently.
+We saw above, in Section 12.1.4.2, that humor can be used to enact
+politeness or relational practices in the workplace. We also saw that
+humor can be used both as a tool to control the subordinates, by catering
+to their face while still imposing the superior’s will and conversely, it can
+be used by the subordinates to subtly undermine their superior’s stance,
+for example by criticizing them.
+Two main theoretical lenses through which the Language in the
+Workplace Project sees this setting are:
+The social construction of identity (on social construction of humor,
+see Section 13.3). Essentially, workers construct an identity at work,
+through their interactions. Language and humor play a significant part
+in the identity they project. Holmes and Marra (2002, p. 380) show that
+subjects build multiple identities at work.
+8 I have always been bothered by the use of the word “subversive” in this sort of context:
+to me subversion is not the same thing as criticism: one can make fun of one’s boss without
+subverting the hierarchical organization of the company; one can criticize the government’s
+policy on taxation without being a subversive. In order to be a subversive you have to actively
+undermine the authority of the boss/government, for example by mounting a campaign to
+get the boss fired or by raising a militia and fighting the king, or some such activity likely
+to get you fired or sentenced to death. Nonetheless, I too bow to common usage and use
+subversive as a synonym of “mild criticism.”
+9 The web site of the project is particularly useful and can be accessed at https://www.
+victoria.ac.nz/lals/centres-and-institutes/language-in-the-workplace.
+283
+
+
+--- PAGE 307 ---
+DISCOURSE ANALYSIS
+The Communities of Practice approach. As the term itself states,
+communities of practice coalesce around ways of doing things (prac-
+tices): “The development of a negotiated linguistic repertoire is perhaps
+the most crucial aspect of a community of practice from a sociolin-
+guistic point of view” (Schnurr, 2009, p. 14). Specifically, members of
+a community develop ways of “doing humor” that are particular to their
+community and that help define it as such (Holmes & Marra, 2002).
+Ultimately, each workplace may develop a distinct culture (Schnurr,
+2009). This idea could be usefully compared to the family humor styles
+(Everts, 2003) seen above.
+Power is clearly a major factor, for example Holmes notes that “the
+chair [of a meeting] makes a disproportionately high contribution to the
+humour in most meetings” (Holmes et al., 2001, p. 96) This is of course
+consonant with the findings from other workplace settings that show
+that the power structure of the workplace is reflected in the discursive
+practices that occur within it. However, Holmes notes also that “in work
+contexts humour can be used by subordinates as a subtle (or not so
+subtle) license to challenge the power structure, as well as by those in
+power to achieve the speaker’s goal while apparently de-emphasizing
+the power differential” (2000, 176). As we saw already above, in Section
+12.1.4.2, humor has a Janus-like nature, being both supportive (i.e.,
+affiliative) or “contestive” (i.e., disaffiliative), it can foster collegiality or
+assert power. This “subversive” aspect coexists with positive politeness
+(e.g., Holmes & Marra, 2002).
+Schnurr (2009) is focused on “leadership” (a polite term for “man-
+agement”) and in particular their use of humor to both achieve “trans-
+actional goals” (getting the job done) and “relational” goals (making
+people feel good). The following is an example of interaction in which
+humor is used to achieve the purposes of the workplace (I significantly
+shortened the example; for a full transcription and analysis, see Schnurr,
+2009, pp. 28–29):
+(124)
+Donald = CEO of the company; Ann = project manager; nota-
+tion edited for clarity
+Donald:
+yep+okay alright
+do you wanna write up a letter of offer
+Ann:
+no [laughter]
+284
+
+
+--- PAGE 308 ---
+12.2 CONVERSATIONAL HUMOR IN VARIOUS SETTINGS
+Donald:
+[laughter]
+are you the project manager
+[laughter]
+Ann:
+[how do I] do that
+Donald:
+eh? (laughs)
+there’s standard templates
+In example (124) Donald achieves the goal of instructing his project
+manager, who was relatively new to the position, without threatening
+her face by couching his “order” of writing the letter of offer for a new
+hire in a non-bona-fide question (he knows perfectly well that Ann is
+the project manager). By asking a self-evident question, he can both
+express the intention to be humorous (consider that Donald could have
+said “You have to write the letter” so his turn is clearly facetious) and
+invite a separate inference that since project managers write letters of
+offer and Ann is the project manager, it follows she should write the
+letter. Indeed, Ann, after acknowledging the humorous nature of the
+turn by laughing, takes the inference exactly as an order and asks how
+to perform the task she has been assigned. It should be noted that Ann
+herself had initially framed the situation as humorous by uttering a flat
+denial to the indirect (polite) request by Donald to write the letter, in her
+first turn. Schnurr notes that the example illustrates both transactional
+and relational goals: “By convincing Ann to write the letter of offer
+Donald achieves his transactional objectives; and by [ . . . ] expressing
+a request as non-threatening[ly] as possible, he also takes into account
+[the] relational aspects” (2009, p. 29).
+Other contributions of the Language in the Workplace project include
+an emphasis on quantifiable results (see Section 12.3 below); another,
+perhaps the most surprising, result to emerge from the project is that
+women produce more humor than men. This will be taken up in more
+detail in Section 13.2.1.
+Needless to say, the settings we have discussed have been picked
+almost at random. Another setting we will examine is the classroom,
+which will be discussed in more detail in Chapter 16. Many other
+workplace settings have been explored, such as for example, humor in
+a professional kitchen (Lynch, 2009, 2010), or factory work (Collinson,
+1988), etc. but often in a sociological context.
+285
+
+
+--- PAGE 309 ---
+DISCOURSE ANALYSIS
+12.3 Corpus-based discourse analysis
+While corpus-based10 discourse analysis has produced a smaller
+number of articles and books, the very significant results that they have
+produced promise to change the way we look at humor in discourse,
+and have already done so in a few cases, but also raise new questions
+and issues.
+Corpus-based discourse analysis is distinguished by the use of large
+corpora (unlike the smaller corpora, usually collected personally by
+the researcher, often as a participant observer, which characterize con-
+versation analysis) and the use of statistical analyses and descriptions.
+Needless to say, humor scholars had used corpora of jokes and puns
+for decades, but here we are referring to discursive data (mostly con-
+versations). When looking at corpora of discursive data which have
+not been assembled by humor scholars, we are faced with the problem
+of identifying the humor. There are essentially two ways to go about
+it: one is to study what data are readily available, so for example, if a
+corpus is marked for laughter, to study laughter and not humor. The
+other is to categorize, manually, all instances of humor for the aspects
+one is interested in. Both approaches have been followed in the literature
+(Partington, 2017, p. 323).
+Another point to remember is that most of the studies below find
+significant variability within their corpora. For example, Holmes et al.
+(2001) report a range of zero to 121 instances of humor per conversation.
+Nesi (2012) reports that 24 out of 160 university lectures contained no
+laughter. Lee (2006) found that in the MICASE corpus, 8 out of 152
+“events” contained no laughter. He notes that the bottom 20, in terms
+of scarcity of laughter, were all lectures, but that 3 lectures made it into
+the top 20.11 Günther found that more than half of the examples of jokes
+in her corpus came from one speaker (2003, p. 95). So, even when data
+come from the same activity type and the same setting (Hymes, 1972; see
+Section 10.2) there is nonetheless significant variation, due to individual
+preferences, for example.
+10 Corpus linguistics distinguishes between corpus-based, corpus-driven, and corpus-
+assisted methodologies. Corpus-based studies test linguistic hypotheses on a corpus,
+corpus-driven studies are inductive and the categories emerge from the study of the
+corpus (Biber, 2009). Corpus-assisted studies blend corpus analysis and discourse analysis
+(Partington, 2017). I use corpus-based as an umbrella term in this context.
+11 More discussion of humor in lectures can be found in Chapter 16.
+286
+
+
+--- PAGE 310 ---
+12.3 CORPUS-BASED DISCOURSE ANALYSIS
+Holmes et al. (2001) is one of the first large-scale corpus-based
+studies that considers the gender variable. In 2001, it was based on
+22 workplace meetings spanning 1342 minutes (more than 22 hours)
+of interaction and involving 157 participants, 70 females and 87 males.
+An exact breakdown of each meeting’s participants, duration, etc. is
+provided in Holmes et al. (2001, p. 87). The size of the corpus is such
+that it is probably representative of the population it describes. Within
+the corpus, 396 instances of humor occurred. Failed humor was not
+considered. Sustained humor sequences are counted as one instance
+of humor.
+A very significant point is driven home by Holmes et al. (2001): there
+is a great degree of variability in the ratio of instances of humor per
+minute, with range from a low of zero to a high of 1.21 (121 instance of
+humor in 100 minutes; this was a shorter meeting) and likewise there
+is great variability in the number of collaborative (sustained) humor
+exchanges. Thus any generalizations should be extremely careful, as
+there are significant differences even within activity types and across
+activity types: conversations among friends have about 10 times the
+amount of humor of workplace meetings (Holmes et al., 2001, p. 93).
+Günther (2003) considers humor, laughter and joke performances in
+conversations from two British corpora: the Conversational Corpus of
+the British National Corpus (BNC) and The Bergen corpus of London
+teenage language (COLT). Günther then characterizes all instances of
+humor in the corpus according to several categories. It is impossible to
+summarize all her results in this context, so I will focus on the most
+interesting ones. Contrary to expectations, she finds that men do not
+tell more canned jokes than women (p. 59); the two groups tell about
+the same number of canned jokes. Younger people told more canned
+jokes (p. 63), which are however relatively rare in the corpus. It would
+be interesting to compare this datum to contemporary corpora to see if
+this is still the case, since tastes in humor have shifted away from canned
+jokes lately.
+In her analysis of the corpora, females speak more and laugh more
+than males. Both results are statistically significant (p. 129). Age-wise
+those in the 25–34 group laugh the most, whereas the younger group
+(0–14) laugh the least. Laughter and humor tend to occur more
+frequently in single-sex settings, especially among women; “multi-
+party, mixed-sex conversations trigger fewer laughter and humorous
+287
+
+
+--- PAGE 311 ---
+DISCOURSE ANALYSIS
+contributions” (p. 181). However, her sample ignores turns that consist
+only of laughter, which may skew the data. Günther also finds no support
+for the hypothesis that women are more supportive of men’s humor
+(p. 200) but finds that men prefer “fantasy” humor (p. 209)
+Partington is probably the name most associated with corpus-based
+linguistics if humor. In Partington (2006), he circumscribes the anal-
+ysis to laughter, or “laughter-talk,” i.e., “talk preceding and provoking,
+intentionally or otherwise, a bout of laughter” (Partington, 2006 , p. 1).
+He considers White House press briefings, which come pre-annotated
+for laughter. In Partington (2007), he examines irony that is explicitly
+labeled as such in the discourse in which it occurs. In Partington (2011)
+he considers “phrasal irony,” i.e., irony produced by combining phrasal
+expressions with contrasting evaluative polarity, as in “bent on self-
+improvement” where “bent” has a negative connotation (e.g., “bent on
+destruction”), whereas self-improvement has a positive valence.
+Koester (2010) considers also workplace conversations. She gathers
+as a corpus of 60 humorous exchanges from the Corpus of American
+and British Office Talk and analyzes it according to five functions:
+building a positive identity; defending one’s positive face; showing con-
+vergence; showing divergence; and negative politeness. She finds no
+differences between American and British speakers in terms of quan-
+tity of humor produced (p. 115). She finds that men produce more
+teasing humor and women more self-deprecating humor. Koester also
+reports that managers and subordinates initiate humor in comparable
+numbers.
+The most significant trend in the discourse analysis of humor to
+emerge in the past 10 years has been a move toward the use of corpora
+for the gathering of large bodies of data. In a sense, even from its origins
+in conversation analysis, discourse analysis always relied on a corpus,
+except that the corpus was very small, and possibly consisted on a
+single instance of the phenomenon. So, the emergence of studies such
+as Günther (2003), which mined for data (i.e., humorous interactions)
+two corpora assembled completely independently of the intention to
+study humor, leads directly to Haugh (2014, 2016, 2017c) which are
+based on a number of corpora of Australian English, which have been
+scanned to find instances of jocular mockery, which are then analyzed
+in the papers. Likewise, Demjén (2016) uses corpus analysis to extract
+humorous instances to analyze.
+288
+
+
+--- PAGE 312 ---
+12.4 SOME ISSUES IN THE DA OF HUMOR
+12.4 Some issues in the DA of humor
+12.4.1 Establishing the humorous intention
+Given the multifunctional and indeterminate nature of humor, a rel-
+evant question is how do the speakers establish the intention to be
+funny. Clearly, the speakers do not have access directly to each others’
+intentions, but this is not a problem unique to humor. When I walk into
+a coffee shop and ask for a cup of coffee, the coffee shop clerk does not
+have access to my intentionality either; however, it is an easy inference
+from my utterance of “may I have a cup of coffee?” that I intend to
+have coffee (assuming of course rational bona-fide behavior, i.e., I do not
+secretly want tea or plan to rob the store). So, in this sense the ascription
+of humorous intention is not different from the problem of ascribing
+intention to speakers in general.
+One strategy is to signal (intentionally or not) one’s intention by
+exhibiting one of several contextualization cues typical of humor, such
+as laughter, increased smiling intensity, smiling voice, marked prosody,
+etc. This is the kind of cue that has been studied in conversation and
+discourse analysis. The problem with the signaling strategy is that it
+is itself ambiguous: one may be laughing at someone (i.e., one may be
+mocking them), or one may smile contemptuously, or just politely, and
+one’s marked prosody may have other reasons (for example, emotional).
+Thus another strategy is to explicitly state that one means one’s utter-
+ance as humorous. There are a number of conventionalized such expres-
+sions, the most famous being “just kidding” (Skalicky et al., 2015;
+Haugh, 2016). Finnish apparently uses a reduplicated expression which
+translates as “joke joke.” Another expression with the same function that
+is now used in colloquial American English is “I am just saying” often
+shortened to “just sayin’ ” (Margolies, 2016). “Just sayin’ ” is broader
+than “just kidding” in that it denies accountability for any sort of
+potentially antagonistic speech, not just humor. Haugh (2016, p. 127,
+2017) examines the case of “jocular pretense” (“a form of teasing accom-
+plished through the tease being delivered without any cues to non-
+seriousness”) in which the deadpan delivery pre-empts the use of any of
+the usual markers of humor (smiling, etc.) and thus the occurrence of
+the “just kidding/joking” is the only clue to the humorous intention
+of the speaker. The functions of “just kidding” include wrapping up a
+humorous exchange, and thus returning to serious talk, revealing that a
+289
+
+
+--- PAGE 313 ---
+DISCOURSE ANALYSIS
+sequence was in fact humorous, if for example, humor fails, disclaiming
+the intention to offend or being “improper” (“inoculation,” Skalicky
+et al., 2015). and expressing disapproval of a non-humorous response
+(“po-faced,” Drew, 1987). The disclaimer of offense and the disapproval
+functions go back to the retractability function of humor (Attardo,
+1994). The inoculation function, or disclaimer, is the most frequently
+found in a corpus of 1200 instances of the expressions (Skalicky et al.,
+2015, p. 23). Returning to serious discourse was the function of only 8%
+of the instances of “just kidding.” Skalicky et al. (2015) note that this use
+of “just kidding” is similar to the use of “no” following a joke, to return
+to serious discourse, discussed by Schegloff (2001).
+Let us return to the so-called “deadpan” strategy of delivery of humor,
+which is the exact opposite of the signaling strategy, i.e., it consists
+of not producing any signal of one’s humorous intention. This should
+not be confused with the “blank face” (Attardo et al., 2003) which is
+a differential signal (i.e., producing an expressionless facial expression
+when one would expect some display of emotion). Deadpan delivery is
+by definition devoid of any markings. The idea here is that contextual
+pressure is so strong that even if one does not indicate one’s non-
+serious intention, the audience will be able to extrapolate the correct
+implicature. Consider for example if I were to utter (125):
+(125)
+I cannot believe anyone would waste their time writing a book
+on humor.
+anyone who encounters (125) in the above context will be aware of
+the fact that I have just done precisely that and, reasoning that one
+generally does not engage in activities one considers to be a waste of
+time, will work out the implicature that I do not mean what I just said
+and that therefore presumably the utterance is ironical. At this point my
+hypothetical reader-cum-interlocutor would still have to figure out why
+I am saying ironically (125), but we may safely abandon the example
+here.
+The issue of signaling or marking the humorous intention is far from
+trivial, because since there is a general agreement that “humorous and
+serious discourse operate according to fundamentally different princi-
+ples” (Mulkay 1988, p. 7), it becomes important to be able to tell in which
+mode of communication we find ourselves.
+There is also a generally accepted idea that humor must be marked. In
+its most naive form, it assumes that speakers signal the humorous nature
+290
+
+
+--- PAGE 314 ---
+12.4 SOME ISSUES IN THE DA OF HUMOR
+of the turns they intend to be humorous by using some paralinguistic
+feature, such as a special tone of voice (“some changes in the speaker’s
+normal voice pattern,” Mulkay, 1984, p. 47) or gestures, such as winking,
+etc.12 The hearers, conversely, would react with laughter, thus validating
+the humor and signaling the understanding thereof. Mulkay stated very
+clearly the latter aspect “each humorous contribution has to be marked
+by recipients in a rather special way: that is by laughter, smiling, or some
+related token of appreciation” (Mulkay 1988, p. 46). Mulkay continues
+that “If this is not done continually, humorous interaction lapses and
+participants return to the serious mode” (p. 46). See also Fine’s (1984,
+p. 85) point that if silence or a serious remark follow a humorous turn,
+“the humorous remark has failed.”
+Unfortunately, the idea that humor keying must be signaled “contin-
+uously” is incorrect, as has been shown by several empirical studies,
+reviewed in Section 10.3. Mulkay and Fine are correct that eventually
+the humorous keying/framing lapses, but its “half-life,” to borrow a
+metaphor from nuclear physics, is longer than they think. The point is
+not that speakers never mark their departure from the serious mode,
+but rather that the “marking” is not compulsory and in fact much less
+frequent than generally assumed. It is definitely not the case that, as
+Fine maintains: “jocular remarks are typically accompanied by par-
+averbal and nonverbal cues which suggest that the remark should not
+be accepted on face value” (Fine 1984, p. 91). At most, there is a
+correlation between some paraverbal behaviors and humor but there
+are no consistent “cues” of humorous intent. Furthermore, as seen in
+Section 10.3, speakers generally produce much less obvious cues to their
+humorous intention than exaggerated prosody. The one reliable pattern
+that emerged was an increase in the intensity of smiling. Note that the
+increase is not of the frequency, but in the intensity of the smiling: people
+do not necessarily smile more, they smile more broadly.
+12.4.2 How do speakers identify humor?
+Glenn and Holt (2017, p. 298) address the issue of identifying humor, or
+rather, the referent of laughables. They summarize Ford and Fox’s (2010)
+discussion of the “interrelated semiotic resources” for constructing
+12 Kotthoff (1996, p. 311), “Laughter particles, atypical lexies [=words], cliche [sic] prosody
+and such formulae function as indicators of the contextualization of a humorous modality.”
+(Emphasis in the original.)
+291
+
+
+--- PAGE 315 ---
+DISCOURSE ANALYSIS
+laughables, including 1) various phonetic “practices,” a) “long and loud
+aspiration after a word-initial voiceless stop, lengthening of fricatives,
+high pitch, laryngeal constriction, voicelessness at the beginning of
+vowels, breathiness, and modulations of loudness” (Glenn & Holt,
+2017, p. 298); b) the smiling voice; 2) “nonvocal resources” such as
+“lip-spreading (interpreted as smiling), leaning and/or throwing back
+the head, covering the face with hands, lowering and raising shoulders,
+shaking torso and shoulders, clapping hands or slapping a surface, and
+tensing neck and facial muscles” (p. 298); and 3) Glen and Holt even list
+“incongruity.” However, they argue that “The presence of one or more
+of these attributes – laughter, vocal features, visual features, and/or
+incongruity – does not necessarily mean that a turn will be treated as
+laughable” (p. 300) and finally conclude that “orienting to a contribution
+as laughable is dependent not only aspects of the turn itself but on the
+trajectory of subsequent contributions.”
+This nuanced position is a far cry from the use of laughter as the
+sole identifier of humor (as we saw in Section 11.2) or worse, canned
+laughter. Incidentally, the use of canned laughter is not a straw man:
+Pelsmaekers & Van Besien (2002, p. 247) is an example of using the
+canned laughter of the soundtrack of a sitcom to identify humor (irony,
+in this case). There is nothing wrong with the list in Glenn and Holt
+(2017). However, there are three issues with the idea that one can
+identify humor (or laughables associated with humor) “externally,” so
+to speak. The first issue is that there is mounting evidence, reviewed
+in Section 10.3, that speakers do not necessarily mark or signal their
+humorous intention or that the markings are relational and not substan-
+tive, so that there is no ironical tone of voice per se or any special volume
+or pitch associated with humor. Rather, it is the incongruity between the
+expected, unmarked delivery and the unexpected, marked delivery that
+signals not the humor, but the presence of a notable phenomenon, which
+then the speaker will infer is humor. Therefore any attempt at producing
+a list of markers of humor is a losing battle, as any linguistic feature
+may, under the right circumstances, be used to cue the presence of the
+humorous intention. The second issue is that by definition the deadpan
+delivery of humor, or the delivery in contextually poor environments,
+such as writing, are without these markers. The third issue is failed
+humor, which we will review below, in Section 12.4.3.
+Archakis and Tsakona noted that “the combination of incongruity
+and laughter is a relatively safe criterion for identifying humor”
+292
+
+
+--- PAGE 316 ---
+12.4 SOME ISSUES IN THE DA OF HUMOR
+(2012, pp. 77–78). In Attardo (2012) I presented a triangulation
+method for the identification of humor (see also Section 2.5), which
+consists of taking opportunistically advantage of all available textual and
+paratextual cues and of a full semantic and pragmatic analysis, using the
+General Theory of Verbal Humor. A preponderance of evidence is then
+used to adjudicate questionable cases. Thus cues may include, but are
+not limited to:
+• intonational and prosodic cues
+• laughter, smiling voice, and other expressions of mirth
+• metalinguistic comments (such as “I was joking”)
+• facial expressions and other gestural markers
+• paralinguistic cues (e.g., a text being included in a collection of jokes
+or a meme being included in a web page of funny memes)
+• semantic and pragmatic analysis, as per the General Theory of
+Verbal Humor
+Burgers et al. (2011) present a method to identify irony, the Verbal
+Irony Procedure (VIP). VIP is too complex to describe here, but it
+essentially consists of a full-fledged semantic and pragmatic analysis
+of the text, looking for the traditional components of irony (lack of
+congruence between the literal meaning and the implied meaning,
+evaluative scale, etc.). The analysis is to be performed by trained coders.
+VIP has a lot to recommend it, for example part of the protocol is to
+consider the entire text, a point made forcefully in Attardo (2017b)
+under the warning against cherry-picking of data (see Section 7.2.3). On
+the other hand, it seems to rely exclusively on internal (textual) evidence
+and to pay insufficient attention to the external evidence listed above.
+12.4.3 Failed humor
+The repertoire of humor responses has largely focused on humor sup-
+port (Hay, 2001) and rightfully so, given the groundbreaking nature
+of Hay’s contribution. It would not be until Bell (2009, 2015) that
+a full treatment of the negative side of the responses to humor, the
+unsupportive reaction, or “unlaughter,” as Billig (2005, p. 192–194)
+calls it, would receive a full treatment. Bell sees failed humor as a
+form of miscommunication. Her definition of failed humor includes the
+intention to elicit mirth or amusement (2015, pp. 3–4) but she notes that
+failure may occur due to “any type of communicative disruption” (p. 4).
+293
+
+
+--- PAGE 317 ---
+DISCOURSE ANALYSIS
+It would be impossible to do justice to Bell’s book with the limited space
+within this context, so I will content myself with noting that Bell’s mixed
+method approach which blends discourse analysis and elicitation13 was
+particularly successful in eliciting a variety of reactions and behaviors
+that are not normally accessible to the DA scholar (or may be so only
+under accidental circumstances). For example, one of the reactions to
+the telling of a particularly bad joke was the hearer bursting into tears
+(p. 2) because she felt “inferior and humiliated” at not getting the joke.
+Another reaction was punching the speaker in the arm (playfully). This
+alone tells us that we need to broaden significantly any idea of repertoire
+of reactions to humor we may have held. Bell lists (p. 121) the types
+of responses to failed humor, which range broadly from non-verbal
+responses (rolling of the eyes, grimacing, etc.) to flat out admissions of
+not understanding the joke (a surprisingly frequent reaction), complete
+silence (also surprisingly frequent), to requests for more time to think
+about the joke and providing their own interpretation of the joke (Bell
+does not say so, but these may be cases of “mansplaining,” i.e., the
+obnoxious providing of unrequested explanations by a man, who often
+has less expertise in the subject than the woman he is addressing).
+Generally speaking, what strikes me as quite notable in the repertoire
+of failure managements is how willing to aggressively deny the humor-
+ousness of the would-be joke the audience is. Bell reports the following
+example: a husband and wife (probably Bell herself, given the humorous
+footnote) are discussing the shopping list. The wife suggests that the
+husband purchase some butter.
+(126)
+(adapted from Bell, 2015, p. 108)
+Husband:
+do we really need it?
+Wife:
+yeah. we’re in butter desperation (.)
+butter desperation, get it?
+Husband:
+yeah not funny at all
+Even factoring in intimacy and possibly the playful nature of the hus-
+band’s comment, it is a far cry from hedging and politeness.
+Priego-Valverde (2003) dedicates a significant discussion of failed
+humor, with several types of failures examined. An example is a failure
+13 The complete set of data is listed on pp. 38–39: direct observations from the researcher,
+self-reports from other parties, published data, corpora, television and film discourse, and
+elicitation.
+294
+
+
+--- PAGE 318 ---
+12.4 SOME ISSUES IN THE DA OF HUMOR
+of the humor because the targeted interlocutor fails to acknowledge
+it because they want to revert to the serious mode of communication
+(pp. 184–188). Another example shows one speaker left speechless by
+a mock callous remark and reacting with a surprised expression, while
+others laugh. In another example, one of the speakers simply ignores
+the humorous side sequence and continues his serious discussion of
+his army experience (p. 194). In yet another, two friends gang up on a
+third one mocking her humorously for using the wrong word while the
+latter friend changes the topic to a hairdresser’s appointment (p. 198).
+Priego-Valverde notes that in the conflict between taking a serious or
+a humorous direction, the serious mode always wins out (p. 202), but
+there seems to be no reason to believe that it is impossible to have the
+opposite happen (and I am not saying that Priego-Valverde believes it
+either).
+CA and DA have been long reluctant to engage with failed humor:
+see for example, Holmes’ (2000, p. 163) definition of humor which
+deliberately leaves out failed humor, discussed in Attardo (2015). How-
+ever, Mullany (2004) and Schnurr (2009) finally consider failed and
+unintentional humor in their discussion. The reason for the reluctance is
+probably that failed humor requires necessarily two steps, both of which
+CA and DA are reluctant to take: 1) accepting the distinction between
+a competence and a performance levels of analysis, and 2) accepting
+that failure requires logically the intentionality of at least one of the
+participants to be taken into account. While DA practitioners may be
+open to (or at least tolerant of) these, as are Bell and Priego-Valverde,
+for CA analysts they may be too big a pill to swallow. The problem of not
+including failed humor, or including only a subset thereof, is that, if our
+goal is to provide as complete as possible a picture of the phenomena
+surrounding humor and laughter in discourse, by refusing to engage
+with part of the phenomena, we condemn ourselves to failure.
+12.4.4 Sustained humor turns
+Sustained humor turns are extended stretches of conversation in which
+the exchange is framed/keyed for humor. They may consists of a sin-
+gle speaker producing a series of humorous turns while other speak-
+ers support the humor or in two or more speakers collaborating in
+the production of the humor and mutually supporting each other.
+“When humorous interchange is maintained over a period of time, the
+295
+
+
+--- PAGE 319 ---
+DISCOURSE ANALYSIS
+interpretative work that it requires generates a distinctive group atmo-
+sphere which is quite different from serious discourse” (Mulkay, 1988,
+p. 51). However, Mulkay adds, “the humorous mode can be sustained
+only by means of a continual production of appropriate cues, signals and
+responses” (p. 51). This is correct, generally speaking, except for the fact
+that the cues need not be continuous.
+Tannen’s (1984) “humor routines,” “Norrick’s “jointly produced nar-
+ratives” (1993, pp. 57–58), Hay “fantasy sequences” (1995, pp. 68–70),
+Kotthoff’s “joint fantasizing” (Kotthoff, 2007, 2009), and Winchatz &
+Kozin’s (2008) “comical hypothetical” describe interactions in which in
+which speakers sustain a co-constructed humorous improvisation of
+various length. The longest sustained humorous interaction I am aware
+of lasts up to 13 turns (Kotthoff, 2007). As we have seen, mode adoption,
+one of the forms of humor support, consists precisely of “playing along”
+with the speaker who has produced a joking or ironical utterance. I used
+the term “mental space” (Attardo 2001b), after Fauconnier (1984/1985)
+who introduced it, to describe the pragmatic inferential processes nec-
+essary to build these co-constructed mental spaces in which two or
+more speakers develop a fleeting shared alternate mental space in which
+they explore the humorous possibilities of a situation. Most significantly,
+I address the emergent properties of mental spaces (Attardo, 2001b,
+p. 177), i.e., the fact that one may “discover” unanticipated consequences
+of what one has postulated in a mental space. In the paper, I also address
+the technical reasons why speakers do not become confused if different
+mental spaces have contradictory features.
+A related, but slightly different, phenomenon are laughter “clusters”
+(Glenn, 2003, pp. 78–83): “[p]articipants can create additional laugh-
+ables that cohere thematically or structurally with a preceding one”
+(p. 78; cf. Norrick, 1993, p. 117) but that need not be as collaborative
+as the examples above, as they may just be related instances of humor.
+Glenn notes that not all the instances of humor (laughables) “get shared
+laughter, but several do, and the cumulative effect creates and extended
+cluster of shared laughs” (p. 80). According to Glenn, the speakers’
+“focus moves sequentially to the next laughable” (p. 83) but Thonus
+(2008) suggests that speakers are “no longer responding to laughables
+but constructing laughter itself as a laughable” (p. 336).
+Whether clusters of laughter or more organized co-constructions of
+humorous mental spaces, these extended bouts of mirth seem to be self-
+sustaining. I have made the suggestion that to some extent, there may
+296
+
+
+--- PAGE 320 ---
+12.5 CONCLUSIONS
+be a “virtuous circle” at work, whereby the occurrence of humor feeds
+back into the situation and generates more desire to produce humor
+(Attardo, 2019). Be that as it may, “shared laughter naturally reaches ter-
+mination points rather quickly. Conversationalists must actively renew
+shared laughter” (Glenn, 2003, p. 82) or to put it differently, the Least
+Disruption Principle is at work, enjoying the speakers to return to the
+serious mode, as soon as they are done with the humorous interlude (see
+Section 8.2.2).
+Sustained co-constructed mental spaces require that at least two
+(“joint”) speakers collaborate in the production of humor, but of course
+sustained humor turns need not require active collaboration of the
+speakers, but merely acceptance, support, and presumably enjoyment
+(appreciation). It is also possible, of course, that the hearer being sub-
+jected to social constraints, needs to pretend appreciation, while in
+fact not enjoying the humor at all. Acceptance and support of humor,
+presuppose (Hay, 2001) appreciation (or the pretense thereof).
+12.5 Conclusions
+The last two chapters have presented an interactional view on the per-
+formance of humor as part of the ethnomethodological approach intro-
+duced in Chapter 10, specifically on conversation and discourse analysis.
+Before we turn to the variationist approach, which will conclude the
+discussion of the performance of humor, it seems useful to draw some
+overall conclusions on this fast moving part of humor studies.
+Indeed, the first observation is that the research in conversation and
+discourse analysis is by far the most active area of the linguistics of
+humor and, with the exception of psychology, probably of all of humor
+studies. This makes the relative lack of interest and cross-fertilization
+between conversation/discourse analysis and humor studies all the more
+disappointing. It is all too common to see decades of research in the
+linguistics of humor summarized as a vague mention of incongruity
+and the relative lack of influence of those scholars such as Neal Norrick,
+Béatrice Priego-Valverde, and Nancy Bell who have been influenced by
+humor studies. To be fair, more recent work seems to be more broadly
+accepting of interdisciplinary insights into humor. In the sense, the
+flurry of very recent work in conversation and discourse analysis, within
+which Haugh’s contributions stand out, is to be welcomed.
+297
+
+
+--- PAGE 321 ---
+DISCOURSE ANALYSIS
+The second trend that stands out is that the field is now broadly
+orienting itself toward corpus-assisted studies. What was a relatively
+new trend in my review of the field (Attardo, 2015), and had its roots
+in the more functionally oriented discourse analysis, has now become
+the more or less accepted norm, even within conversation analysis. This
+is a very positive development, if for no other reason that it moves
+away from what I still consider the most problematic aspect of the early
+conversation analytical studies of humor that proposed generalizations
+based on one instance of a phenomenon (see for example, in Section
+11.4.3, the idea of humor as a test, Sacks, 1974).
+The third tendency that I have observed is a slow but perceptible move
+away from the borderline neo-behaviorist idea of studying laughter in
+itself toward studying laughter (and smiling) as markers or contextual-
+ization cues, and eventually socially as an expression of mirth, with the
+corresponding reintroduction of the intentionality of the speakers in the
+picture (anathema to the original conversation analysis methodology).
+12.6 Further readings
+The overviews by Glenn and Holt (2017), Schnurr and Plester (2017),
+Attardo (2015) and Bell (2015) are the best sources to get started, in
+general. More speciifc problems are examined by Whalen and Pexman
+(2017), on humor support, and Burgers and van Mulken (2017), on
+humor markers. The works of Tannen, Davies, Hay, Priego-Valverde,
+and Holmes are fundamental. Schnurr (2009) is the only book from
+the Wellington Language in the Workplace project specifically focused
+on humor. A list of articles on humor by members of the project is
+available online: https://www.victoria.ac.nz/lals/centres-and-institutes/
+language-in-the-workplace/docs/biblios/humour.pdf. Many of their
+articles are readily available.
+298
+

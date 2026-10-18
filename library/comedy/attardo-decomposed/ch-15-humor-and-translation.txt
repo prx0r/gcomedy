@@ -1,0 +1,1084 @@
+--- PAGE 363 ---
+15
+Humor and translation
+15.1 A few definitions
+343
+15.2 Theories of humor translation
+344
+15.3 Audiovisual translation
+355
+15.4 Translating puns
+359
+15.5 Conclusions
+365
+15.6 Further readings
+366
+Speakers of other languages than the one in which a particular instance
+of humor was created may want to enjoy it too. Enter translation.
+Jokes, humorous texts, films, cartoons, advertising, and all sorts of other
+humorous materials (such as video games, cf. Iaia, 2014) are frequently
+conveyed in one or more languages different from the one in which they
+originated.
+This chapter deals with the translation of humor. The magnitude of
+the phenomenon of the translation of humor is hard to assess. It is safe
+to say that a lot of humor gets routinely translated: consider American
+and British sitcoms, often broadcast, and hence translated, world-wide.
+I have found an unsubstantiated claims that Friends was broadcast in
+more than 100 countries1 and the French cartoon Astérix translated
+into more than 110 languages.2 Regardless of the details, this is a signif-
+icant issue that affects millions of people and a multi-million business.
+The translation of humorous literature is likewise a huge segment in the
+1 Wikipedia: en.wikipedia.org/w/index.php?title=Friends&oldid=164835768
+2 The page is constantly updated. As of August 2019, the count stood at 116 languages
+and dialects: www.asterix-obelix.nl
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 364 ---
+HUMOR AND TRANSLATION
+publishing industry. Bucaria and Chiaro (2007) claim that on a week of
+programming in Italy in 2005, 562 hours of dubbed programming was
+broadcast (presumably not all humorous).
+This chapter addresses only some of the aspects of the translation of
+humor, out of necessity. An entire book could not hope to address all the
+issues in the field, let alone a mere chapter. Nonetheless, a wide range
+of issues will be considered including some basic tenets of translation
+theory, audiovisual translation (subtitling, dubbing, captioning, etc.),
+translation from one semiotic system to another, and much more. Not
+all issues can be addressed. For example, all the previous chapters, and
+in fact most of the literature on humor, have implicitly assumed that
+humor comes in one language. Needless to say, this is not the case. While
+there obviously are monolingual texts, many texts use more than one
+language; large texts are often multilingual. We will not be concerned
+here with humorous texts that exploit multilingualism for humorous
+purposes, but see Valdeón (2005) for a discussion of multilingualism
+in the sitcom Frasier and the articles in the special issue of the European
+Journal of Humour Research guest-edited by Dore (2019).
+I would also like to stress that I am concerned here with the theoretical
+issues concerning the translation of humor. By this, I simply mean that
+I will not consider the practical issues faced by translators. For example,
+many people professionally engaged in translation have told me that
+they are chronically underpaid. I am sure this is true and it is a serious
+issue well worth discussing, but a book about the linguistics of humor is
+not the proper place for such a discussion. I do not wish to make light of
+the issue, and of the many others that translators face when exercising
+their profession: for example, it is often true that the deadlines for the
+production of the translation are unrealistically short. This is especially
+true in subtitling and dubbing and particularly so in interpreting (see
+Section 15.3 below). It is often also the case that the translator does not
+have the time and/or energy to dedicate to finding an optimal solution
+due to overwork/overload, which forces him/her to “settle” for a given
+translation and stop searching for a better one. The astute reader will
+have recognized the competence/performance distinction once more:
+we are concerned with the competence of translation (i.e., an idealized
+situation in which time, energy, cost, etc. constraints are not relevant)
+and not with the performance of translation (i.e., the actual practice that
+actual translators engage in actual situations and subject to time, cost,
+energy, etc. limitations).
+341
+
+
+--- PAGE 365 ---
+HUMOR AND TRANSLATION
+Another observation that Martinez Sierra and Zabalbeascoa (2017,
+p. 16) make is worth stressing: the field of translation studies has shifted
+its focus from textual (or verbal) humor to multimodal, audiovisual3
+humor. Here the distinction, popularized by Chiaro (2005), between
+verbally expressed humor and humor expressed by non-verbal means
+(i.e., visual, auditory, musical, etc.)4 is worth remembering: in a multi-
+modal event, such as a film or sitcom, but also a play or a conversation
+between two people, there are many “channels” active at the same time:
+people or characters say something (verbal channel) but at the same time
+they may grimace (visual) or other things may happen on stage or in
+the visual field (or even in a different location, in a split-screen shot),
+or the soundtrack may be incongruous. For example, a recent (June 4,
+2017) video on YouTube shows members of the English Defence League,
+an Islamophobic movement (Wikipedia https://en.wikipedia.org/wiki/
+English_Defence_League), being “chased out of Liverpool to the Benny
+Hill tune” (as the caption of the video reads). Indeed, one can clearly hear
+the music, and several people in the video laugh and dance to it. It is not
+clear what the source of the music is. The YouTube caption reads also
+“Hilarious!” Thus it is clear that, while there is no discernible verbally
+expressed humor, the situation and the video are humorous (at least to
+some participants) due to the juxtaposition of the situation (a political
+rally) and the music.
+Here the reader will do well to recall that while linguistic theories
+in their formulation do not concern themselves with extra-linguistic
+matters, their underlying principles apply to all semiotic systems (see
+Chapter 5) and hence to multimodal and audiovisual texts. It is one
+thing to eliminate some aspects of a phenomenon to narrow down one’s
+purview to simplify the analysis, as linguistics has done, and it is another
+to be unable to handle a given subject, in principle. In other words,
+linguistics has chosen to simplify its analyses by limiting itself to the
+verbal channel, but there is no reason in principle, that it could not
+handle other channels (and it has done so, on occasion). While from the
+standpoint of the theory of translation, and even from the standpoint of
+some approaches to linguistics, it may make perfect sense to distinguish
+between humor in the verbal channel and humor that is not verbalized,
+3 I am here using multimodal and audiovisual as synonyms. Needless to say, they are not
+the same thing.
+4 The earliest mention of verbally expressed humor I am aware of is Eastmond (1992);
+see also Ritchie (2000).
+342
+
+
+--- PAGE 366 ---
+15.1 A FEW DEFINITIONS
+from a semiotic perspective the distinction is unnecessary and even
+confusing. The text as a whole is humorous and all its parts need
+to be taken into account. To put it differently: it is a perfectly fine
+methodological choice to limit one’s analysis to a given channel (verbal
+or visual or music, or montage, etc.) but that does not entail that the
+other channels are unimportant or cannot be analyzed (separately or in
+conjunction with the verbal). Finally, there is potential confusion here
+between verbally expressed humor (as in linguistically expressed) and
+verbal humor (as in humor that relies of the form of the signifier, puns
+for short; see Chapter 9). The two should not be confused.
+The field of translation studies of humor is very active, as compared to
+other fields of the linguistics of humor. Thus it is somewhat surprising to
+see a recent survey of the field (Martinez Sierra and Zabalbeascoa, 2017,
+p. 13) describe the literature as “scarce.” However, the assessment makes
+perfect sense when one notes that translation studies is a very frag-
+mented field, and that a significant part of the literature falls on the “art”
+of translation, rather than on the “science” side (Steiner, 1975, p. 295).
+We will only be concerned with scientific approaches to translation, so
+we will more or less ignore the plethora of studies about translating an
+individual author or work in any given pair of languages.5
+15.1 A few definitions
+15.1.1 Source text and target text language
+It is common in the field of translation studies to refer to the text that
+is translated as the source text (ST) and the resulting translation as the
+target text (TT). Correspondingly, the language in which the source text
+is worded is referred to as the source language (SL) and the language
+of the target text as the target language (TL). As we will see, translation
+may take place within varieties of a language, for example, dialects, but
+also high and low forms of a language (formal vs. colloquial varieties).
+Regardless, we will use the terms source/target text and language in all
+cases of translation. In fact, the picture is even more complex.
+5 Chiaro (2005, p. 136) rightly reminds us that the translation of humor is not only, or
+even not primarily, a translation between languages as it is between cultures. We will not
+address this issue in this context, but see Davies (2005).
+343
+
+
+--- PAGE 367 ---
+HUMOR AND TRANSLATION
+15.1.2 Intra- and inter-semiotic translation
+Following Jakobson (1987; originally published in 1960) we distinguish
+three types of translations:
+• intralingual (paraphrase): translating within one language. An
+example would be paraphrasing or rewording a sentence, for
+example to make it easier to understand.
+• interlinguistic: translating from one language (i.e., the SL) to
+another (TL). An example would be translating an English play
+into French.
+• intersemiotic: translating from one semiotic system to another. An
+example, would be the film adaptation of a book (Jakobson, 1987,
+p. 429).
+Usually, when we speak of translation, without further qualifying, we
+mean inter-linguistic translation. We adopt this usage in this book as
+well. We will also use the term source/target text regardless of the
+semiotic system in which it is expressed. For further discussion of the
+distinction, see Chiaro (2017).
+15.2 Theories of humor translation
+The Italian saying traduttore, traditore is a fitting place to start our
+discussion. But of what is the translator a traitor, precisely? The glib
+answer is “meaning.” However, meaning is about the only thing that
+a skilled translator is pretty much guaranteed to be able to transpose
+from one language into another. Another suggestive idea is the title of
+Umberto Eco’s collection of essays on translation (2003b): “dire quasi la
+stessa cosa” (saying almost the same thing), with the emphasis on almost.
+Again, the question boils down to the nature of this “almost”: what gets
+lost or replaced? This section then discusses the question of what gets
+translated.
+15.2.1 Faithfulness
+Roman Jakobson points out that meaning itself is only understood
+through translation, as the meaning of a sign is simply its translation
+344
+
+
+--- PAGE 368 ---
+15.2 THEORIES OF HUMOR TRANSLATION
+in other signs, i.e., it exists only within the system of the language, as
+claimed by Saussure (1916) and Peirce (1960). Translation then reduces
+to equivalence: if a source text sign can be replaced with a target sign
+that is equivalent (i.e., has he same value) we have an ideal translation.
+However, since languages, varieties and semiotic systems are different,
+their signs have different values and hence one needs to substitute
+different signs. As Jakobson puts it, “equivalence in difference is the
+cardinal problem of language” (1987, p. 430). Jakobson also states some
+basic points: anything that can be said in any language can be translated
+into any other. It may be hard to do so, as languages differ “in what
+they must convey and not in what they can convey” (Jakobson, 1987,
+p. 433; emphasis in the original) but it can ultimately be done. Poetry
+is impossible to fully translate, only “creative transposition” is possible
+(p. 434), and this is especially valid for the pun, in which “Phonemic
+similarity is sensed as semantic relationship” (p. 434). Summing up,
+for Jakobson, translation ideally should reproduce the value of the
+signs in the source text or the target text. Since this is impossible, as
+languages differ, equivalence must be sought, while staying as close
+as possible (faithfulness) to the source text. In cases in which the
+signifier is involved (such as poetry and puns), since by definition the
+signifier will not be translatable in the target text, translation is strictly
+speaking impossible, but transposition (functional translation) should
+be sought.
+Low (2011, p. 60) notes that within a “verbal process” view of transla-
+tion “translating a joke means creating an amusing target text (TT) that
+is nearly identical to the source text (ST).” However, Low himself, states
+that such a goal is “unreasonable” and that the translator should instead
+aim at delivering “broadly speaking, the same joke” (p. 60). This brings
+to mind, whether Low intended this or not, the GTVH, whose stated
+purpose is to determine when two jokes are the same (and when they
+are not).
+15.2.1.1 The GTVH as a tool to evaluate difference
+Attardo (2002a) takes as his starting point Jakobson’s equivalence
+and proposes using the GTVH’s built-in metric of difference between
+humorous texts to determine how different a source text is from its
+translation, humor-wise. This is stated, in a nod to Grice’s maxims, as
+another maxim:
+345
+
+
+--- PAGE 369 ---
+HUMOR AND TRANSLATION
+if possible, respect all six Knowledge Resources in your translation, but if necessary, let
+your translation differ at the lowest level necessary for your pragmatic purposes.
+No prescriptive intention is present, just as no prescriptive intention
+is meant in Grice’s maxims. Essentially, the idea is that, if the translator
+determines that he/she needs to reproduce the humor of the original ST
+as faithfully as possible, then the rational (most efficient) way to do so is
+to follow the maxim above. Obviously, if the translator determines that
+the best choice is not to reproduce the humor (faithfully, or at all) then
+the maxim is of no use to him/her. The method is applied to translation
+as a set of binary choices in Zabalbeascoa (2005, pp. 202–204). Accord-
+ing to an empirical study by Williamson & Ricoy (2014) translators do
+follow the proposed maxim, to some extent (p. 186). Shipley (2006)
+adopts the proposal and supplements it with a checklist of external
+factors to be considered as well. Asimakoulas (2004) also applies the
+General Theory of Verbal Humor to the translation of humorous films
+in Greek.
+15.2.2 Literal vs. functional translation
+Raphaelson-West’s (1989) approach is based in Nida and Taber (1969).
+The focus is on semantics first and style second. As Nida and Taber put it,
+“anything that can be said in one language can be said in another, unless
+the form is an essential element of the message” (1969, p. 4). Implicit in
+this definition is that puns and poetry are untranslatable in principle.
+Raphaelson-West (1989) is more optimistic and notes that linguistic
+jokes are “most difficult to translate” (p. 131).
+Raphaelson-West (1989) introduced a tripartite taxonomy of jokes,
+which became very influential in the field, distinguishing:
+1. Puns: their translatability is “very unlikely” (p. 130)
+2. Cultural (ethnic jokes): more translatable, but the two cultures
+must share the stereotype
+3. Universal jokes: jokes based on universal semantic features, such
+as child vs adult, or the unexpected (p. 131)
+Raphaelson-West (1989, p. 131) notes that the existence of universal
+jokes is questionable, but likely. Universal jokes correspond to
+Zabalbeascoa’s (1996b, p. 251 ) “international joke [in which] ( . . . ) the
+346
+
+
+--- PAGE 370 ---
+15.2 THEORIES OF HUMOR TRANSLATION
+comic effect does not depend on either language-specific wordplay or
+familiarity with unknown specific aspects the source culture.”
+As Chiaro (2017, p. 420) notes, translation scholars have proposed
+several dichotomies revolving around the idea of equivalence: e.g.,
+“formal vs. dynamic/functional” (Nida, 1964). Functional translation, in
+the case of humor, boils down to reproducing the perlocutionary goals of
+the ST. This has been clearly stated, for example, by Fuentes Luque (2004,
+p. 77) as “conseguir en el texto término el mismo efecto humorístico
+(en forma de sonrisa o risa) en la cultura y la lengua término que en
+las originales” [to achieve in the TT the same humorous effect (in the
+form of smile or laughter) in the target culture and language than in the
+originals; my translation SA]
+Chiaro (2017, p. 421) argues that for theorists such as Toury (1985)
+and Vermeer (1989; see below), who reduce equivalence to function,
+the translator may “insert a completely new instance of verbal humor”
+to replace an otherwise untranslatable joke. Nida and Taber’s own def-
+inition of dynamic translation, later changed to functional, allows this
+interpretation, since it is based on the idea of “response” of the audience
+(see Fuentes Luque’s point above).
+15.2.3 Zabalbeascoa’s priority scales and solution types
+Zabalbeascoa locates the practice of translation squarely within per-
+formance, which he calls “contingency” (2005, p. 186). He identifies
+ten “most obvious” factors that affect the context in which translation
+is performed. These include the languages and cultures involved, the
+medium of the texts, the purpose of the translation, the nature of the text,
+the intended recipients, the sponsors of the translation, the translator’s
+skills and limitations, and the conditions in which the translation is
+performed.
+Because of this significant level of contextual variability, Zabalbeascoa
+advocates for the practice of mapping and prioritizing before translating.
+Mapping consists of locating in the text significant items (e.g., the
+instances of humor; Zabalbeascoa, 2005, p. 187). On the problem of
+identifying humor, see Section 12.4.2. Prioritizing is more complex.
+Zabalbeascoa argues that each translation has a set of priorities and
+restrictions. The priorities are the goals of the translation and the
+restrictions are the “obstacles and problems” that motivate the prior-
+ities and “the solutions adopted in the translation” (1996b, p. 243).
+347
+
+
+--- PAGE 371 ---
+HUMOR AND TRANSLATION
+Furthermore, Zabalbeascoa argues that the priorities are arranged on
+a scale of importance (p. 243), so that a top priority is also a restriction
+for the priorities below it. Thus different types of texts will have different
+priorities for humor. A TV comedy will place a higher priority on humor
+than a TV quiz show or a drama (p. 244).
+A second scale is that of global/local relevance to the text. According
+to this scale, humor may be a local priority in the text (i.e., there is a
+joke in the ST), but a low priority globally (i.e., the goal of the text is
+not merely to have that particular instance of humor) and hence it may
+be omitted or substituted with another instance of humor elsewhere.
+After a priority scale and a global/local scale, the third scale of priorities
+is that of equivalence. It may range from “absolute identity” to “slight
+resemblance” (p. 247). So equivalence may or may not be a high priority,
+locally or globally, in the text.
+As an example of a set of priorities for translating a sitcom, Zabalbeas-
+coa mentions the following:
+do well in popularity ratings, be funny, aim for immediate response in the form
+of entertainment and laughter, integrate the words of the translation with the other
+constituent parts of the audiovisual text, or use language and textual structures deemed
+appropriate to the channel of communication.
+(p. 245)
+We are now in the position to be able to understand Zabalbeascoa’s
+sophisticated argument:
+Translating comedy in order to produce comedy entails that intended comic effect is a
+priority that is both very high on the scale of importance and a global one, i.e. relevant
+to the text as a whole. It is moreover an equivalence priority, requiring near-absolute
+identity. The insistence on the word intended means that equivalence is here seen as a
+characteristic of an intention to be funny, regardless of the final outcome. What matters
+in this case is the perception of the source text’s humour as a basis for the decision to
+make the translation a humorous text. The translation can then be judged according
+to exactly how funny it is in its own right. From this perspective, there is little point in
+comparing source and target texts in terms of the exact amount and type of humour
+they contain; if anything, it would be desirable for the translation to be even funnier
+than the source text.
+(p. 247)
+In other words, since the overall purpose of the text (“intended comic
+effect”) is high on the scale of priority and on the global side of the
+scale, it is crucial to be faithful to that goal (“near-absolute identity”),
+i.e., the TT should be above all funny. Conversely, local equivalence is
+a low priority, to the point that, as Zabalbeascoa implies, a translator
+348
+
+
+--- PAGE 372 ---
+15.2 THEORIES OF HUMOR TRANSLATION
+may choose to add humor to the TT, if there is an opportunity for
+it. Zabalbeascoa continues to point out that there may be cases in
+which non-equivalence is the goal (for example, a pedagogical setting
+in which the linguistic features of the text are significant, and thus
+it would be unadvisable to replace the joke with a different, albeit
+funny, joke).
+15.2.3.1 Solution types
+Zabalbeascoa (2000) sees the translation process as determined by
+methods, strategies, solutions, and solution types. Translation methods
+are identified based on “the formal and functional characteristics of
+a TT and its ST” (2000, p. 119). Examples of methods are word-by-
+word translation and adaptation. Strategies are defined as “conscious
+action(s) intended to enhance a translator’s performance” (p. 120).
+Strategies include, for example, consulting dictionaries, writing a
+draft, etc. Solutions are then the results of strategies, i.e., concrete
+instances of TT arrived at from a ST. Translation techniques consist of
+parsing the ST into the “smallest constituents parts ( . . . ) for the purpose
+of translation ( . . . ) and then considering the most convenient way
+(technique) of rendering each unit” (p. 122). Zabalbeascoa notes that
+the implicit measure of the solution types is against the ideal of literal
+translation (p. 122) and later that it relies on the notion of “equivalence”
+(p. 123). A solution type is thus defined as “the shared characteristic of a
+number of different solutions” (p. 122). The results of Díaz Perez’ (2017)
+study show that the solution-types most frequently used are those based
+on the source culture (p. 72).
+15.2.3.2 Translation techniques
+A certain consensus is found concerning translation techniques. Fuentes
+Luque (1998) sums up four techniques for the translation of humor:
+1. Addition or compensation: inserting a joke where none was
+present to compensate for not translating another one;
+2. Substitution: replacing a joke with another one (presumably easier
+to incorporate in the TT)
+3. Metalinguistic commentary: explanations, paraphrases, footnotes,
+etc.
+4. Omission: uncompensated lack of translation (1998, p. 667)
+349
+
+
+--- PAGE 373 ---
+HUMOR AND TRANSLATION
+The proposal has been widely adopted: Chiaro (2005, 2010); Fuentes
+Luque (2010); Low (2011), who adds to the list a “dilution” strategy
+(translating only a few puns in a passage rife with them) and “explici-
+tation” (i.e., a partial explanation of the otherwise untranslatable joke).
+Techniques for translating puns will be discussed in Section 15.4
+below. Cuéllar Irala and Garcia-Falces (2004), in the brilliantly titled
+article: “Cultura y humor: traductores al borde de un ataque de nervios”
+[Culture and Humor: Translators on the verge of a nervous breakdown]
+enumerate several strategies for translating cultural references that may
+not always exist in both cultures:
+1. Maintain the reference (e.g., reference to Starbucks, which will be
+understood equally well in Spanish or in English).
+2. Explicitation: explain the reference.
+3. Generalization (hyperonymy): instead of using a specific refer-
+ence use an hyperonym (for example, instead of “Ford F150” use
+“pickup truck”).
+4. Adaptation or naturalization: use a referent better known in the
+TL. This has three sub-cases, according to Cuéllar Irala and García-
+Falces (2004); it is unclear if there is a real difference between them:
+(a) Change the referent to retain connotations;
+(b) Naturalization due to the desire to avoid references extraneous
+to the TL (example: a reference to a rabbi is translated as “den-
+tist” to avoid bringing in extraneous religious connotations);
+(c) Naturalization with an accepted cultural reference to create a
+more natural TT (as above, but with a purpose of creating a
+more familiar TT).
+5. Over-translation: “in its most radical cases ( . . . ) the result is a
+completely free rewriting, independent from the original” (Cuéllar
+Irala & García-Falces, 2004, p. 14; my translation, SA). Cuéllar Irala
+and García-Falces attribute to commercialization this “strategy.”
+López González (2017, p. 290) notes that Cuéllar Irala and García-
+Falces are “quite critical” of this “translation method.”
+López González (2017) finds that in a corpus of 14 DreamWorks
+movies, literal translation is the dominant strategy, which she attributes,
+credibly, to the dominant position of US culture vis-à-vis Spanish.
+Another possibility is that the movies are deliberately built using
+widespread, common referents that will easily translate globally.
+350
+
+
+--- PAGE 374 ---
+15.2 THEORIES OF HUMOR TRANSLATION
+15.2.4 Eco’s translation-as-negotiation
+Eco (2003a/b) presents a negotiation-based view of translation. Eco
+notes that the translator must determine the intention of the text (i.e.,
+what is the text trying to accomplish, or as Eco has it: “the effect aimed
+at” (Eco, 2003a, p. 56)) and translate based on that. However, as Eco
+points out, “Many hypotheses can be made about the intention of a text,
+so that the decision about what a translation should reproduce becomes
+negotiable” (Eco, 2003, p. 56).
+By “negotiable,” Eco means the kind of intersubjective agreement
+whereby two individual speakers agree that a given small animal they
+both see is a mouse, despite the fact that one of them may be a biologist
+who knows that the given mouse is a mus spretus and not the more
+common mus musculus domesticus. The point is that, for the purposes
+of the exchange, it is not necessary to distinguish between the two.
+For Eco, translating is never or at least rarely absolutely lossless. Much
+like in a negotiation both sides need to give something up to reach
+an agreement, the translator has to make choices (an “interpretative
+hypothesis,” 2003a, p. 56) and give something up to achieve the intention
+of the text in the new setting (i.e., the new language in which it is
+translated).
+Eco’s remarks on translation are not a full-fledged theory. They are
+more like observations (the Italian subtitle has “experiences of trans-
+lation”) that are connected, post hoc, by a theory of translation based,
+at least in part, on skopos theory. Eco discusses many example of
+translation, many from translators of his own books, which is very inter-
+esting for the insiders’ viewpoint, documenting precisely the (literal)
+negotiations between the author and the translators. Eco also addresses
+the translatability of puns, see more discussion below (Section 15.4).
+15.2.5 Skopos theory
+Skopos theory originates in the work of Hans Vermeer (1989; Reiss and
+Vermeer, 2014). As evident from the name, it foregrounds the purpose
+or goal (skopos) of the text, rather than the equivalence between source
+text and target text. Texts have purposes, they are written or spoken for
+a reason. According to skopos theory, translation is best achieved when
+the target text is adequate to the function or the purpose required by
+the recipients of the target text or established by the person or entity
+351
+
+
+--- PAGE 375 ---
+HUMOR AND TRANSLATION
+that commissioned the translation. One of the main contributions of
+skopos theory has indeed been to help differentiate the notions of author
+vs. translator of the text, by introducing the idea of the client who
+commissions the translation, and by focusing on the audience from
+whom the translation is meant.
+When the skopos of the source and target text coincide we have
+“functional constancy” (“Funktionskonstanz,” Vermeer, 2004, p. 233).
+In the case of humor, then since the main perlocutionary goal of a
+humorous text is to elicit mirth, skopos theory predicts that a good
+translation will be one that elicits mirth in the target language audience.
+Nord, a promiment proponent of skopos theory, puts it very clearly:
+“if the purpose is to amuse, then the text should actually make its readers
+laugh or at least smile” (Nord, 2006, p. 31). Chiaro (2017, p. 421) puts it
+similarly, “In the case of humor, as long as recipients recognize the text
+as being non-serious in scope, then its Skopos, its purpose, has been
+achieved.” In general, there is little to argue with. Indeed, the definition
+of humor as having a perlocutionary goal (in Austin’s 1962 sense) of
+eliciting (the recognition of the intention to elicit) mirth and thereby
+laughter/smiling is fundamentally correct.
+However, this formulation seems too restrictive to me. Vermeer makes
+it clear that “the skopos theory merely states that the translator should
+be aware that some goal exists, and that any given goal is only one
+among many possible ones” (Vermeer, 1989, p. 234). For example, one
+may tell a joke with the intention to offend one of the hearers or
+to show off one’s knowledge. In that case, recognition of non-serious
+intention or elicitation of mirth are no longer the skopos of the joke
+and hence of its translation. According to Vermeer then, jokes may
+involve “reformulation” (2004, p. 229), i.e., the ST and TT may differ
+from each other significantly, because the target culture may “verbalize
+a different phenomenon in a different way” (p. 229). To put it differently,
+the translator must choose a skopos and formulate a text, humorous or
+not, that achieves that skopos.
+This raises an interesting question, that skopos theory has not
+addressed, to the best of my knowledge: each text has multiple skopoi
+that coexists in the text. Thus for example, a joke about fellatio
+(see Chapter 10, Sacks’ 1974 joke) achieves several different skopoi:
+establishing non-serious mode, showing off one’s knowledge of sexual
+practices (a significant goal if one is a teenager), showing that one is
+comfortable dealing with sexual matters, amusing one’s audience, etc.
+352
+
+
+--- PAGE 376 ---
+15.2 THEORIES OF HUMOR TRANSLATION
+So, if the translator decides to replace the joke (for example because it
+involves a pun) with another joke that does not involve sexual practices,
+while some skopoi may be maintained (non-serious mode, amusement,
+etc.) other skopoi will be neglected (showing off one’s sexual knowledge,
+showing that one is comfortable dealing with sexual matters, etc.). This
+is far from a trivial objection, because this line of reasoning reintroduces
+the need for faithfulness, if no longer to the ST, but to the skopoi of the
+ST: if the ST contains a joke, we have to assume that the ST had a
+reason, a skopos, for that joke to be there. So, the only way to guarantee
+“constancy” between the ST and TT is to reproduce the skopoi of the
+ST in the TT. Zabalbeascoa also points out (2005, p. 244) that different
+functions of humor (entertainment, social criticism, moralizing, etc.)
+need to be accounted for. See also Martin de León (2008, pp. 13–14) for
+the same criticism of skopos theory, in a general context.
+Variants of skopos theory are widely accepted in the translation of
+humor. Popa (2005) is an application of skopos theory to the translation
+of jokes, based on a bilingual corpus of Romenian and English jokes.
+She notes that a perfectly literal translation between two referential jokes
+does not achieve functional equivalence (“constancy” p. 50) because the
+functions of the jokes in the SL is different from that in the TL. She
+further discusses the difficulty of achieving equivalence while respecting
+the genre and register variables of the respective languages. Amirian &
+Dameneh (2014) is an application to Persian. The study of humor trans-
+lation using skopos theory seems very popular in China. Han (2011)
+documents 16 studies on humor translation. His thesis is that skopos
+theory broadens what counts as “translation” and thus allows more
+translations. Yin and Wu (2014) document that Chinese translators of
+the Big Bang Theory try to respect the ST humor in the subtitles.
+15.2.6 Relevance Theoretic approaches
+Translation, from the standpoint of Relevance Theory, can be defined as
+follows:
+Translation, from a cognitive pragmatics perspective, can be explained as an inferential
+gap-filling activity in which the translator has to infer the intended interpretation,
+context accessibility and predictions of mutuality between the source-language com-
+municator and the source-language addressee, all that framed in the source- language
+culture, and then transfer all this information to a target audience with a different
+353
+
+
+--- PAGE 377 ---
+HUMOR AND TRANSLATION
+language and a more or less different way of coding information, and possibly different
+social values, norms and stereotypes.
+(Yus, 2013, p. 125)
+Relevance Theory then squarely places translation in the inferential
+domain and is in this regard even more radical than skopos theory in
+moving away from linguistic similarity as the criterion for translation.
+Yus (2013) concludes that there are three types of joke translations:
+1. transferrable jokes, i.e., jokes that can be translated easily because
+they rely on shared stereotypes or “linguistic strategies for humour
+generation” that are common to both languages
+2. replaceable jokes, i.e., jokes for which, in the absence of correspon-
+dences, “alternatives can be found in the target language achieving
+similar balances of cognitive effects and mental effort” and finally,
+3. challenging jokes, i.e., jokes that are difficult to translate because
+they rely on “very specific intra-cultural referents, [and] linguistic
+resources that have no counterpart in the target language”
+somewhat unexpectedly, given the radically different theoretical starting
+points, supporting Raphaelson-West’s (1989) conclusions seen above.
+Díaz Pérez (2017) notes that translation, from a Relevance Theoretic
+standpoint, is an interpretive use of language, similar in this to quoting
+or reported speech, rather than an “interpretive” use (i.e., when lan-
+guage is used to say something about the world). In the interpretive
+use of language there is a “relation of interpretive resemblance” (p.
+52) between, say, what was originally said and its reported form. Díaz
+Pérez concludes then that the relationship between the ST and the TT
+is one of “interpretive resemblance.” (p. 53). Furthermore, translation
+involves a meta-representation (since it is the use of language about
+language).
+Díaz Pérez discusses culture-specific items (i.e., items that are not
+shared by both languages). Translation strategies (“solutions”) can be
+arranged on a continuum between exoticism (which favors the source
+culture), as in the famous “kugel” joke quoted by Raskin (1985, p. 215;
+originally from Novak and Waldoks, 1981, p. 7) in which the word
+“kugel” is not translated at all,
+(134)
+Somebody once asked Motke Chabad, the legendary wit: “Tell
+me, Motke, you’re a smart fellow. Why is kugel called kugel?”
+354
+
+
+--- PAGE 378 ---
+15.3 AUDIOVISUAL TRANSLATION
+Motke lost no time in responding. “What kind of silly question
+is that? It’s sweet like kugel, isn’t it? It’s thick like kugel, isn’t it?
+And it tastes like kugel, doesn’t it? So why shouldn’t it be called
+kugel?
+and, on the other end of the continuum, cultural transplantation, which
+favors the target culture, as in the case (Ferrari, 2011) of the dubbing
+of Fran Drescher’s Jewish-American accent into an Italian-American
+accent for Italian audiences, which completely erases the Jewish identity
+of the character, aided by the remarkable similarities between Jewish
+and Italian-American stereotypes. A different example, reported by
+Zabalbeascoa (1996a, p. 249) concerns a character in the show Fawlty
+Towers, Manuel, whose recurring misunderstandings are attributed to
+his being from Barcelona. In the Catalan dubbing, Manuel comes from
+Mexico.
+Díaz Pérez finds that in his corpus (two seasons of a sitcom), there is
+a tendency for translators to gravitate toward the source culture (p. 72)
+and he speculates that this may be due to the desire on the translator
+part to avoid alienating the audience who is aware of the foreign nature
+of the ST. This is also the conclusion reached by Martìnez-Sierra (2006).
+who fears that an over familiarized translation (i.e., adapted to the
+target culture) may be perceived as “artificial” (pp. 221–222). Already
+Zabalbeascoa (1993, p. 263) had warned the translator against excessive
+adaptation toward the target culture in an example involving town
+names in England which would not be familiar to a Spanish speaker.
+15.3 Audiovisual translation
+If translation were not an issue complex enough, the presence of mul-
+timodal texts, such as films and TV series, but also YouTube videos,
+animated GIFs, etc. entails the possibility and in some cases necessity of
+translating texts that contain both a linguistic and a visual component.
+Chiaro puts it clearly,
+The main setback regarding translating for film is the fact that screen products are
+polysemiotic: that is, they transmit messages by means of diverse codes ( . . . ) When
+a joke, a gag, or a line is linked to the visuals translation becomes especially difficult.
+(Chiaro, 2010, pp. 4–5)
+355
+
+
+--- PAGE 379 ---
+HUMOR AND TRANSLATION
+Zabalbeascoa speaks of “constrained translation” (2008). The mixed
+modality (auditory and visual) or multimodality of audiovisual humor
+presents unique challenges, which have begun to be addressed by such
+authors as Di Pietro (2012, 2014, 2015, 2016) and Balirano (2013) with
+complex semiotic analyses that are one of the most interesting cur-
+rent trends of humor research. However, Martìnez-Sierra (2009) argues
+that the visual aspects of audiovisual translation may actually facilitate
+dubbing, in some cases, as the visual signifiers may be humorous in
+themselves and carry over.
+Audiovisual translation extends to any audiovisual work that is trans-
+lated, but generally speaking, given the inherent costs of producing a
+translation, mostly mass-market products are translated. Within tele-
+vision and cinema, two practices have drawn most attention: dubbing
+and subtitling. In dubbing, the part of the soundtrack of a film or TV
+program that comprises the voices of the actors in the ST is replaced by
+a TT recording of the voices of actors performing the lines anew. The rest
+of the soundtrack is generally not altered. In subtitling, the soundtrack
+is not affected, but a translation of the lines spoken by the actors, and
+possibly of other text appearing in the video track, is superimposed on
+the original video, generally at the bottom of the screen. For a general
+overview of audiovisual translation, see Bucaria (2017).
+Translation of audiovisual humor produces generally some loss of the
+humor (Antonini et al., 2001; Bucaria, 2005). Williamson and Ricoy
+(2014) find that about a quarter of the puns are eliminated from the
+subtitling of a movie. Gottlieb (1997) and Chiaro (2007) find that the
+loss is minimal.
+15.3.1 Dubbing
+Because of its nature, dubbing has a set of issues that are unique to it. For
+example, if the face of the actors is visible on the screen when they speak,
+lip movements and opening of the mouth on screen must match reason-
+ably well the movements of the mouth that would be produced if the TT
+were being produced by the character on screen. Zabalbeascoa reports
+that variation greater than 200 ms does not produce “satisfactory results”
+(1993, p. 250). Zabalbescoa (1993, pp. 248–253) provides an excellent
+review of these issues, which include intonation, pauses, gestures, and
+extend to non-linguistic issues as well.
+356
+
+
+--- PAGE 380 ---
+15.3 AUDIOVISUAL TRANSLATION
+An important issue in the dubbing of humor is the position of the
+punch line:
+due to the very nature of some of the Factors of dubbing, it will often be difficult or
+even impossible to change the position of the punch-line in the translation, and the
+translator will have to write a TT joke that will find its climax at exactly the same time
+as the original ST joke.
+(Zabalbeascoa, 1993, pp. 263–264)
+Finally, dubbing, by its oral nature, has a special set of challenges
+that are unique to it, as a form of translation, i.e., the necessity to
+replicate or adapt the prosodic delivery of the humor from the ST
+(Zabalbeascoa, 1993, p. 292). This includes timing, the delivery of the
+joke, emphasis, pauses, timbre, and the likes. On timing and prosodic
+issues, see Chapter 10.
+15.3.2 Subtitling
+As we saw above, subtitling refers to the practice of translating the SL
+material in the original audiovisual text into written TL which is added
+(superimposed) onto the screen. Subtitling is quite popular in many
+countries, such as Scandinavian countries, the Netherlands, Belgium,
+and Israel. It is not common in many countries, such as the US and
+Italy, for example. The disadvantage of subtitling is that the viewers
+have to read the translation on screen, which is distracting, and since
+speakers read slower than they process spoken language, constrains
+the translation, for example by shortening the ST. The advantage is
+that subtitling is much less expensive than dubbing and in smaller
+linguistic markets (e.g., Dutch) the only financially feasible option.
+Subtitling presents a set of challenges that are unique to this practice.
+For example, subtitles remain visible in screen between one and six
+seconds, so a “screenful” of subtitles can only contain what is readable
+in up to 6 seconds. A good review of these constraints can be found in
+Williamson & Ricoy (2014, pp. 165–166)
+There is some evidence that subtitling translation causes meaningful
+loss of the humor. Pelsmaekers & Van Besien (2002) find that most
+cases of irony in their corpus are translated directly, but that the cues to
+the ironical intention (irony markers) may change. Example or markers
+are hyperboles, intensifiers, diminutives, etc. In numerous cases, the
+markers were deleted altogether, producing deadpan irony (p. 263).
+357
+
+
+--- PAGE 381 ---
+HUMOR AND TRANSLATION
+Interestingly, the simplification of the text due to the constraints of
+subtitling produced also more explicitly critical irony. Yetkin (2011)
+claims that in difficult cases (subtitling The Simpsons in Turkish, with
+significant mismatch between the two cultures) a full 70% of irony
+and satire is not translated in the subtitles. Harrison (2013) presents
+examples from the Little Britain show translated in Spanish.
+Fan subtitling is a relatively new phenomenon, in which fans of a given
+show, translate and subtitle the show, which is then made available on the
+internet. The practice originated with Japanese anime fans, but has since
+spread widely (Díaz-Cintas & Muñoz Sánchez, 2006). This practice, of
+course, violates copyright laws, but their enforcement is rare, in this
+area. An interesting detail of fansubbing is that often the translator
+“translates” not the original text, but a prior English translation.
+15.3.3 Interpreting
+Interpreting (a.k.a. simultaneous translation) is the practice of translat-
+ing a speech on the fly, as it is being delivered. It is generally performed
+at conferences or in multilingual bodies such as the United Nations, or
+the European Union. Because interpreting is done either simultaneously
+(i.e., as the speaker is delivering their remarks) or consecutively, i.e.,
+immediately following the end of a short stretch of speech, all the
+limitations and difficulties already present in translation are exacer-
+bated. If the interpreter has not been provided with the contents of
+the speech beforehand there is literally no preparation and no possi-
+bility of research. To make things even more complex, the interpreter
+cannot laugh at the humor or at least cannot interrupt the interpreting
+to laugh.
+Under those circumstances, translating humor is particularly com-
+plex, and translating verbal humor is virtually impossible. Yet, as doc-
+umented by Pavlicek and Pöchhacker (2002), humor occurs relatively
+consistently in the type of texts that interpreters have to translate. Irony,
+sarcasm, and generally speaking referential humor do not seem to
+present a particular challenge for interpreting, beyond the challenges
+inherent to interpretation, in and of itself. Conversely, Viaggio (1996)
+calls interpreting puns a “formidable challenge.” Pöchhacker (1995,
+p. 45) concurs, “Jokes and funny stories embedded in a speech are
+among the challenges most dreaded by simultaneous interpreters.” He
+358
+
+
+--- PAGE 382 ---
+15.4 TRANSLATING PUNS
+provides an example of an English-to-German interpreter who trans-
+lates a joke until the punch line (which turns out to be an untranslat-
+able pun) and replaces the punch line with “Das ist ein Wortspiel im
+Englishen” (This is a pun in English) in “documentary-style” translation.
+Pavlicek & Pöchhacker (2002, p. 386) and Chiaro (2010, p. 21) discuss
+a similar example, presented in Bertone (1989) of an interpreter who
+asks the audience to laugh, for the sake of the speaker, thus achieving
+the perlocutionary goal of eliciting laughter, at the cost, however, of
+turning the joke from one by the speaker to one about the speaker,
+which Chiaro calls evidence that “skopos [theory] can be taken too far.”
+Pavlicek & Pöchhacker (2002, p. 399) document the inverse situation,
+i.e., a speaker who deliberately produces and un-translatable text, as a
+prank on the translators, whom he explicitly calls out. Much as in the
+rest of audiovisual translation, a lot of humor gets lost in simultaneous
+translation. Antonini (2010) documents significant loss of humor in the
+simultaneous interpretation of the Oscars’ ceremony in Italian.
+15.4 Translating puns
+The reader will recall the somewhat laborious definition of “pun” dis-
+cussed in Chapter 9 and the related definition of “language play.” Here, as
+many do, e.g., Vandaele (2011), we treat the two as synonymous. When
+venturing in this area we will do well to heed Zabalbeascoa’s warning:
+“The question of the translatability of verbal humor [= puns] will tend
+to elude blanket assessments or universalistic claims” (Zabalbeascoa
+1996b, p. 239).
+As Chiaro (2017, pp. 415–416) reminds us, linguistic analysis has
+long used translation as a tool. In fact, this tradition goes as far back
+as Cicero’s distinction between referential humor (“de re”) and verbal
+humor (“de dicto”) for which he proposes a surprisingly modern method
+of “changing the words” (endo-linguistic translation) to check the nature
+of the humor (verbal humor cannot be paraphrased arbitrarily); see
+Attardo (1994, p. 28) for references and discussion. This is because
+translation has an extreme case in the translation of poetry and puns.
+The connection is not accidental, as in both cases there is significant
+importance attributed to the form of the signifier, which is almost always
+different in another language or in a paraphrase.
+359
+
+
+--- PAGE 383 ---
+HUMOR AND TRANSLATION
+15.4.1 Are puns untranslatable?
+There is a vast literature on the untranslatability of puns, use-
+fully reviewed by Henry (2003), who dedicates an entire chapter
+(pp. 69–110) to reviewing many claims of untranslatability of puns
+and refutes them one by one. Her thesis is simply that all puns can be
+translated, although some may require more work. Regattin (2015, pp.
+132–133), also provides a review of similar claims, which are, needless
+to say, merrily refuted by the practice of translation on a daily basis
+and by many well meaning authors: Regattin himself, of course, Henry
+(2003), Eco (2003), and many others. I will focus on the latter two
+authors because, with wonderful self-aware irony, they conclude their
+discussion of the translatability of puns with an example (each) on
+untranslatable pun.
+Eco (2003b, pp. 94–95) provides an example of an untranslatable joke:
+(135)
+Un direttore d’azienda scopre che l’impiegato Rossi da qualche
+mese si assenta ogni giorno dalle tre alle quattro. Chiama
+l’impiegato Bianchi e lo prega di seguirlo discretamente, per
+capire dove va e per quali ragioni. Bianchi pedina Rossi per
+qualche giorno e poi fa il suo rapporto al direttore: “Ogni giorno
+Rossi esce di qui e compera una bottiglia di spumante, va a casa
+sua e si intrattiene in affettuosi rapporti con sua moglie. Poi
+torna qui”. Il direttore non capisce perché Rossi debba fare di
+pomeriggio quello che potrebbe fare benissimo di sera, sempre
+a casa propria; Bianchi cerca di spiegarsi, ma non riesce che
+a ripetere il suo rapporto, al massimo insistendo su quel sua.
+Alla fine, di fronte all’impossibilità di chiarire la faccenda, dice:
+“Scusi, posso darle del tu?”.
+translated literally below
+(136)
+A CEO finds out that one of his employee Rossi in the past
+few months is absent every day from three to four pm. He
+summons another employee, Bianchi, and asks him to follow
+Rossi discretely, to understand where he goes and for what
+purpose. Bianchi follows Rossi for a few days and then presents
+a report to the CEO: “Every day Rossi leaves and buys a bottle
+of sparkling wine, goes to his[/your] house and he engages in
+affectionate exchanges with his[/your] wife. The he comes back
+360
+
+
+--- PAGE 384 ---
+15.4 TRANSLATING PUNS
+her to work.” The CEO does not understand why Rossi should
+do in the afternoon what he could very well do in the evening,
+always at his house. Bianchi tries to explain but only manages to
+repeat his report, at best insisting on that “sua” [his/your]. In the
+end, faced with the impossibility of clarifying the issue, he says:
+“May I address you with the [informal] ‘tu’ pronoun?”
+The original is based on the referential ambiguity of the Italian pos-
+sessive pronoun “sua” (= his/your[respectful]). However, the ambiguity
+is resolved, in the joke, by switching to the familiar form of address
+which allows the speaker in the joke to word the sentence as “tua”
+(your[familiar]). This detail is untranslatable in English, or French
+(which have different pronouns). The untranslatability derives from the
+enmeshing of the linguistic form and of the narration.
+However, a simple adaptation of the text would resolve the problem
+and produce a joke very close to the original:
+(137)
+A CEO is suspicious of one of his employees, Smith, who leaves
+work everyday from 3:00 to 4:00 pm. He asks the foreman to hire
+another employee to follow Smith. The employee returns after a
+few days and reports to the foreman about the CEO’s suspicions:
+“I found that, as the CEO suspected, Smith every day at 3:00 pm
+goes to a motel and has sex with his wife until 4:00.” The foreman
+thinks it is odd that Smith cannot just wait a couple of hours
+and go home to have sex, but overall is relieved and reports to
+the CEO that all is fine and he’ll have a chat with Smith about
+excessive absenteeism.
+I have shifted the puzzlement about why the employee wouldn’t just
+wait until after work to the foreman rather than to the CEO, to allow
+me to stay with the third person and I have eliminated the final twist
+of the employee saying to the boss, “Excuse me, can I address you
+with the ‘tu’ pronoun”? which as the Italian reader will understand
+inferentially will remove the ambiguity of “si intrattiene in affettuosi
+rapporti con sua moglie.” Nonetheless, since the Script Opposition,
+the Logical Mechanism, and the Target are the same, while the Situ-
+ation and the Narrative Strategy have minimal and overall insignifi-
+cant changes, the only significant differences are in the Language, and
+since this is a translation, most speakers would probably be inclined
+to find the two jokes (Eco’s original and my translation/adaptation) to
+361
+
+
+--- PAGE 385 ---
+HUMOR AND TRANSLATION
+be more or less equivalent. Certainly they are equally funny (not very
+much).6
+As usual, a clear definition will help understand the nature of the
+problem. The question “are puns translatable?” can be interpreted in two
+radically different ways: one is, can any arbitrary pun be translated with
+a feature-by-feature correspondence between the ST and the TT?, the
+other is, can any text that contains some punning elements be translated
+so that a reasonable amount of the features of the ST are also present in
+the TT, albeit not necessarily in the same position? Once stated clearly,
+as I just have, the two questions have almost obvious and opposite
+answers: feature-by-feature correspondence translation is axiomatically
+impossible, since I have shown (Attardo, 2002a) that any text in language
+L1, when translated in language L2 (and L1 and L2 are not the same),
+differs by definition in one feature: that of no longer being worded
+in L1. Conversely, since among the strategies for the translation of an
+individual pun most authors include omitting the pun entirely, then any
+pun can be “translated” if all the translator needs to do is delete the pun
+and come up with another bit of humor to insert somewhere in the text.
+Note that this is far from easy, since it requires a creative step, but it is
+theoretically possible in any case, since what the translator needs to do
+is produce a new, different text.
+What of Henry’s untranslatable pun? I reproduce it below. It occurs
+in Le cabinet noir [The Black Cabinet] (1922) by Max Jacob, a French
+writer and painter who died in the Nazi concentration camps.
+(138)
+Tout enfant, je fus élevé dans une chambre à nourrice dess-
+inée par Steinlen, c’est pourquoi j’adore les chats (jeu de mots
+intraduisible)
+Henry tells us (2003, p. 110) “several specialists of this facetious author
+have considered this text and they are still looking for this enigmatic
+pun, which, as long as it will not have been discovered, will remain
+doubtlessly untranslatable” (my translation, SA).
+I don’t know what to make of this. Is the author pulling our leg, with
+a straight face? Or is she really thinking that there is a pun to be found?
+It seems to me that Jacob was mocking translators and there is no pun
+at all.
+6 It should also be noted that in my version the boss will not find out about the cheating
+wife.
+362
+
+
+--- PAGE 386 ---
+15.4 TRANSLATING PUNS
+15.4.2 The practice of translating puns
+Delabastita (1996, p. 128) lists the following strategies for the
+translation of puns, which have been widely adopted (e.g., Chiaro, 2003;
+Low, 2011; Williamson & Ricoy, 2014)
+ST pun to TT pun
+ST pun to TT non pun
+ST pun to TT related rhetorical device
+ST pun to TT omission
+ST non pun to TT compensatory pun
+ST non pun to TT pun not present in ST (also compensatory)
+Editorial techniques: footnotes, endnotes, translators’ forewords, pre-
+sentation of several options, etc.
+Low (2011) offers additionally an original technique for translating puns
+that consists in looking for synonyms of the words or strings in the ST
+and then produce a new pun in the TT.
+Formulated within the Interpretive Theory of Translation (Seleskovitch
+et al., 1984), Henry (2003) presents a remarkable amount of examples
+worked out in detail, but her most significant contribution to the
+translation of puns is a tripartite continuum of levels of functional
+significance, in regards to the text in which the puns occur. The puns,
+vis-à-vis the text may be
+1. Not very important (punctual puns; p. 52);
+2. Important: puns are one element of the textual organization (p. 54);
+and
+3. Essential: pure are the writing system (p. 56).
+Despite the rhetorical exaggeration, given that puns by themselves can-
+not constitute an entire text (say, a novel), since other factors are nec-
+essarily present, such as an array of para-textual factors such as titles,
+colophon, copyright page, etc., the subdivision is interesting. In the last
+case, puns are the main driving force of the text. Let us apply Henry’s
+idea to an example she did not analyze. Consider the following poem,
+by American poet Aram Saroyan, which has the advantage of brevity:
+(139)
+My arms are warm
+Aram Saroyan
+363
+
+
+--- PAGE 387 ---
+HUMOR AND TRANSLATION
+(Complete Minimal Poems (includes Aram Saroyan, Pages, and The
+Rest), Ugly Duckling Presse (Brooklyn, NY), 2007.)
+It is clear, and this is Henry’s point, that the assonances and allitera-
+tions of the poem, taken together with the signature of its author, are the
+point of the poem, as a literal translation in Italian, for example, would
+immediately prove:
+(140)
+Le mie braccia sono calde.
+Aram Saroyan
+(my translation, SA). Of course, a real translator would try to com-
+pensate by creating other assonances or alliterations, but that’s not the
+point. If you translate literally example (139) the text, its raison-d’être
+is obliterated: “there is no text if there is no pun” (Henry, 2003, p. 56;
+my translation, SA). Conversely, at the other end of the continuum, are
+punctual puns: these are texts that contain puns somewhere in the text,
+but that if we removed the puns, we would only minimally alter the text
+(it would be less funny, of course). Therefore, if we replace the puns
+with other puns, since the puns are not an important aspect of the text,
+the text will not be altered significantly. Consider now another possible
+translation of (139) below,
+(141)
+Saremo soriani.
+Aram Saroyan
+(my translation, SA) which in back-translation corresponds to “we will
+be tabby cats” and clearly completely replaces the semantics of the line,
+but preserves some of the assonances and alliterations. Needless to say,
+the reader may object that there are no cats or feline feelings in the
+original and that the arms and the warmth are gone. I would object that
+the warmth is there by connotation with the cat, but my hypothetical
+critic is nonetheless correct: in a very clear sense, this is not the same
+poem.
+Finally, the intermediate case in Henry’s continuum, is a text in which
+the puns in and of themselves matter, but are not the main point of the
+text. A good example here are the translators’ creative renderings of the
+various linguistic plays in Eco’s own novels, for example, with medieval
+dialects, Baroque terminology, etc., discussed in Eco (2003b).
+The Interpretive Theory of Translation has many similarities with
+skopos theory and with Zabalbeascoa’s approach: they all recognize
+the importance of the participants in the translation, the situation in
+364
+
+
+--- PAGE 388 ---
+15.5 CONCLUSIONS
+which it is performed, the purpose it serves, the importance of the
+cognitive context (i.e., how the text and its translation are inscribe in
+their respective cultures), and finally, they share a focus on textual
+equivalence, rather than linguistic similarity (Henry, 2003, pp. 66–67).
+15.5 Conclusions
+There seems to be a consensus (e.g., Raphaelson-West, 1989;
+Zabalbeascoa, 2005; Low, 2011; Yus, 2013) on the following points:
+The process of translation is highly contextualized: each translation has
+several goals or purposes which are negotiated (Eco 2003; Zabalbeascoa,
+2005) among the participants to the act of translation and with
+the context and setting of the texts. Humor is, generally speaking,
+translatable. Some forms of humor are harder to translate than others.
+There is a scale of difficulty of translation, with the easiest being general
+jokes that do not rely of punning or culture specific jokes, followed
+by culture specific jokes (hard to translate) and “language-restricted
+jokes” (Zabalbeascoa, 2005), which are hardest to translate, or may be
+untranslatable. Mallafrè (1991, p. 119); Zabalbeascoa, 1993; Chiaro
+(1992, p. 87); Low (2011). The most significant problem areas are
+puns (language-specific structures, usually tied to the signifier) and
+cultural issues (such as the impossibility of talking about a referent
+unknown in the target culture: penguin jokes will not fare well in the
+Amazon).
+Individual instances of humor (jab lines or punch lines) may be
+untranslatable, but the overall text in which the jab line or punch line
+occurs generally can be translated so as to respect the perlocutionary
+goal of eliciting amusement or the perception of the intention of humor.
+Translators may use a variety of strategies to effect the translation of
+difficult cases, which may reach the point where the translator has to
+give up trying to translate the specific instance of humor and use com-
+pensatory strategies, such as replacing the joke or omitting it entirely
+(and replacing it with something else), or just give up on the trans-
+lation (i.e., omit the joke and not replace it). Audiovisual translation
+has its own specific challenges, related to the multimodal nature of
+the texts.
+365
+
+
+--- PAGE 389 ---
+HUMOR AND TRANSLATION
+15.6 Further readings
+Martinez-Sierra and Zabalbeascoa (2017) gives a very good view of the
+most recent work on translation. Chiaro (2017) and Bucaria (2017) are
+good surveys of their respective fields. De Rosa et al. (2014) contains
+several very interesting papers. The work of Zabalbeascoa, starting with
+his 1993 dissertation is foundational, as is Chiaro (2005). Delabastita’s
+work and edited collections (1987, 1993, 1996, 1997) on the translation
+of puns remain classics.
+366
+

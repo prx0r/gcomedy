@@ -1,0 +1,610 @@
+--- PAGE 118 ---
+5
+Semiotics of humor
+5.1 Humor and semiotics
+96
+5.2 Conclusions
+108
+5.3 Further readings
+109
+This chapter consists of a discussion of the semiotics of humor.
+Semiotics can be conceptualized as the science of how communication
+takes place in general, within any system of communication, i.e., not
+limited to language.
+We start from the assumption, unspoken so far, that humor is a com-
+municative event.1 In other words, humor takes place within a situation
+in which one speaker is communicating with another speaker. The
+reader will recall the basic humor situation we introduced in Chapter 1.
+Of course much of humor is not expressed or communicated lin-
+guistically. The prototypical humorous situation of a man slipping on
+a banana peel has no linguistic component of note.2 Since the realm
+of communication is much broader than language (e.g. non-verbal
+communication, kinesics, proxemics, etc.) a broader approach becomes
+necessary and will have to be provided within semiotics, i.e., the general
+science that encompasses all forms of communication (intentional and
+unintentional, linguistic, visual, musical, etc.).
+1 Morreall (2009, p. 70) presents examples of humor that would not involve communi-
+cation, such as oddly shaped rocks. I will not discuss these cases here, but I believe they can
+be reduced to communicative situations anyway. We are taking the communicative nature
+of humor as axiomatic, in other words. See Section 3.7.3 for a discussion of axioms.
+2 One could argue, with Lotman, see Section 4.1.1, that since language is the primary
+modeling system of a culture, we see the man slip through language, so to speak.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 119 ---
+SEMIOTICS OF HUMOR
+From a linguistic/semiotic standpoint one can start from two
+approaches at a definition of humor: a semantic (structural) definition
+and a pragmatic (functional/contextual) definition. These will be
+developed more fully in Parts 2 and 3 of the book, respectively. Here, we
+will be satisfied with providing a general outline of how the definitions
+work. Our goal is to show that the argument we propose is not limited
+to language but in fact applies to any communicative situation.
+5.1 Humor and semiotics
+This chapter sets out to combine several strands of research to achieve a
+general explanation of how the structural features of humor determine
+its manifestations and usages. This objective is based on the general-
+ization that the semantic and pragmatic mechanisms of humor are the
+determining factors of the unique features of humorous communication.
+In order to arrive at this conclusion, we must start by providing a
+few definitions of semiotics. Furthermore, in order to investigate the
+particular nature of humorous communication we need to introduce
+some concepts, derived from semiotics and from linguistics, as well as
+some theoretical approaches to humorous phenomena. The following
+sections will provide these necessary background materials.
+5.1.1 Communication and semiosis
+Communication presupposes a system through which the exchange
+of information is achieved, i.e. a semiotic system. All communication
+is (a form of) semiosis. Semiosis is here defined as the exchange of
+information through a semiotic system.3 It should be noted that there
+can be exchange of information without a semiotic system, for example
+by answering the question “What do you have in your briefcase?”
+by opening it and showing the contents to the inquirer (this is what
+Wittgenstein called “ostensive” communication). From the opposite
+angle, there can be use of a semiotic system, without transmission of
+information (cf. below “defunctionalization”).
+3 It should be noted that we do not claim that all that is needed for communication is a
+semiotic system. In order to communicate, you also need a pragmatics, in its broadest sense.
+96
+
+
+--- PAGE 120 ---
+5.1 HUMOR AND SEMIOTICS
+5.1.2 Connotative semiotics
+Saussure’s (1916) definition of the sign as the indissoluble unity of a
+signifié and a signifiant (signified/signifier) was not meant to hold for
+linguistic signs alone, but was meant to be extended to all semiotic
+systems. The signifier of a sign is the mental representation of the phys-
+ical support of the sign (sounds, graphical elements, bodily movements,
+etc.), while the signified is the mental representation of the concept (the
+idea, the meaning) conveyed by the sign.
+Hjelmslev (1953) defines any system of signs as a semiotics. A deno-
+tative semiotics is a system of signs in which neither the signifier nor the
+signified are semiotics; hence languages are denotative semiotics, since
+their signifiers are (mental representations of) sounds, and their signi-
+fieds are (mental representations of) concepts. A connotative semiotics,
+on the other hand, is a semiotics in which the signifier is a semiotics.
+If a semiotics has as its signified another semiotics it is a metasemiotics
+(i.e., it is a semiotics of another semiotics; an example would be the met-
+alanguage of linguistic description). But if a semiotics has as its signifier
+another semiotics it is a connotative semiotics. As an example consider
+a person speaking in Italian saying “Mamma mia.” This is a semiotic
+sign, made up of a signifier [mam:amiya] and a signified “Oh my!”
+(literally: “mother mine”). However, this entire semiotic fact can become
+the signifier of another semiotic fact, that is the entire situation connotes
+“Italian.” Schematically, we have the representation in Figure 5.1.
+This fact has some very important consequences for the study of
+humor, which will appear in full in the rest of the discussion. For
+the time being, let us be satisfied with the observation that since the
+signifier of a semiotics does not carry any “meaning” in and of itself,
+the original meaning of “mamma mia” is lost, and only the meaning of
+“Italian” survives the establishment of the connotative semiotics (just as
+Content “Italian”
+Content :
+“oh, my !”
+Denotative semiotics
+Expression:
+[mam:amiya]
+Expression “Mamma mia !”
+Connotative Semiotics
+Figure 5.1
+Denotative (bottom left) and connotative (top row) semiotics.
+97
+
+
+--- PAGE 121 ---
+SEMIOTICS OF HUMOR
+for any non-Italian-speaking speaker of English the string [mam:amiya]
+is meaningless, with the exception of its identification of the speaker
+as Italian). In other words, when a sign is used as the signifier of
+a connotative semiotics, its primary meaning as a sign is lost, and
+the connotative semiotics acquires a secondary meaning, proper to
+the connotative semiotics, and independent from the primary meaning.
+5.1.3 Perlocutionary definition of humor
+The only definition of a humorous text4 general enough to apply to all
+humor is that of a text whose perlocutionary5 goal is to be perceived
+as humorous. This definition (Attardo & Chabanne, 1992) stresses
+the intentions of the speaker and/or the hearer. More to the point, a
+definition of humor based on its goal implies that the text will use all
+its resources to achieve the perlocutionary goal of the speakers, to the
+detriment of any other purposes the text may have had beyond that of
+being perceived as humorous. In this perspective, the only thing that
+matters for the speaker is to achieve his/her goal, and the text will be
+shaped accordingly.
+This fact is grounded in the analysis of humor as a connotative
+semiotics: the humorous text can be shaped in any way, as long as the
+perlocutionary goal is attained, just as any string of Italian words would
+have worked as expression of the signified “Italian.” Since any Italian
+words would have worked to convey the meaning “Italian” even the
+following sentences would convey the meaning “Italian,” as long as the
+audience can reliably identify them as being spoken in Italian:
+(32)
+“Non sono italiano” (I am not Italian)
+“Scusi, sa dov’é il bagno?” (Excuse me, do you know where the
+bathroom is?)
+From this it follows that the original content of the semiotics (i.e., the
+text in the humor situation) is backgrounded, just as the theory of
+connotative semiotics would predict. In the case of humorous texts, this
+means that the actual contents of a joke may be completely irrelevant
+to the context in which they occur, as long as the humorous text itself
+is pertinent to the context: a joke may be about chickens crossing the
+4 In the generic sense established in Chapter 1.
+5 This term will be better defined in Section 8.1.1. For the time being, “a goal of the
+speaker” is a sufficient definition.
+98
+
+
+--- PAGE 122 ---
+5.1 HUMOR AND SEMIOTICS
+road, elephants in trees, or whatever, but the joke must occur in a given
+context, following certain rules, etc. Consider again example (10), in
+Chapter 1, in which Carmen recontextualizes an old joke (What do you
+call someone who speaks only one language? An American.) to playfully
+tease Marina. Carmen could just as well have asked if she spoke Greek
+or Chinese, so that the conversation could have gone as follows:
+(33)
+Carmen: Do you speak any other languages, besides English?
+Marina: Nope, nothing fluently, a little bit of that and . . .
+Carmen: (Ironically) You don’t speak Greek, or Chinese?
+In other words, a different joke, which is pertinent to the context
+and achieves the same perlocutionary goals of the speaker, could have
+replaced the original joke. However, crucially, the joke needs to be
+delivered as a response to Marina’s modest turn in which she admits,
+somewhat hesitantly, to monolingualism.
+This explains, among other things, why non-sense and absurdities are
+tolerated within humorous texts: the absurdities are at the level of the
+expression of the connotative semiotics, and not at the level of the con-
+tents of the connotative semiotics, where they would not be tolerated.
+Carmen could not mock Marina’s monolingualism at the beginning of
+the conversation, for example, because this would violate the relevance
+of the turn (humor must be à propos). The humorous text can take any
+form, that is including breaking the rules of communication (non-sense,
+absurd), as long as the result is perceived as humorous; if the result is
+not perceived as humorous the absurdities are not “redeemed” by their
+functional use within the joke text. If Carmen started the conversation
+mocking Marina’s monolingualism, the conversational move would be
+perceived as extremely aggressive and thus unfunny.
+Likewise, Carmen need not be seriously committed to the claim that
+monolingualism is a flaw at all and that it is particularly common
+among Americans. Once more, one can assert propositions one does not
+believe to be true, thus violating several rules of communication, for the
+perlocutionary purpose of being humorous.
+5.1.4 Defunctionalization of the sign
+The fact that humor is a connotative semiotics does not imply that
+the humorous text does not have any feature beyond its perlocutionary
+goal. In order to discuss this issue it is necessary to first consider the
+99
+
+
+--- PAGE 123 ---
+SEMIOTICS OF HUMOR
+semantic mechanisms at work in humor. The reader should bear in
+mind that the following is a cursory presentation, which introduces only
+the essentials required to understand the discussion of the relationship
+between semantics and semiotics of humor. A full presentation will be
+undertaken in Chapter 6.
+5.1.4.1 The semantics of humor
+One of the most theoretically significant contributions of linguistics to
+humor theory has been establishing the fact that the necessary and suf-
+ficient conditions for humor are semantic (see Chapter 6). The semantic
+theory of humor begins by distinguishing between humor competence,
+an abstract highly idealized model of humor, and the actual performance
+of a given humorous text by given speakers, in a given situation, con-
+text, etc. (see Chapter 1). Humor competence abstracts away from all
+individual idiosyncrasies, such as the fact that a speaker may consider
+certain types of humor offensive, or that a speaker has had a bad day,
+and is in a bad mood, etc. By abstracting away from all performance
+considerations, the semantic theory of humor is capable of reducing
+all humor to a relational function (opposition between overlapping
+scripts) with minimal positive semantic weight, but with well defined
+requirements, namely the relation of opposition of the scripts involved
+in the joke. In other words, any two scripts which are opposed (in a
+technical sense), and overlap in a text (i.e., the text is compatible with
+both scripts, at least in part), can potentially generate humor. Whether
+the overlap of two opposed scripts will be perceived as humorous by
+a given audience in a given situation, at a given time, etc. is not a
+concern for the semantic theory of humor (competence), but becomes
+one for any socio-pragmatic theory of humor. For a full discussion of the
+competence/performance opposition see Section 2.1.
+5.1.4.2 Semantics and defunctionalization of humor
+As noted above, the semantic theory of humor has very little to say about
+the contents of the script opposition, since it is a relational concept, and
+not a substantial one. While this may seem a paradoxical or idiosyncratic
+conclusion, it is mirrored by another important conclusion reached
+in humor research, and namely the loss of meaning of the signs used
+in humorous texts. This fact has been noted across the literature in
+the field, although not always in as clear terms as Guiraud’s (1979)
+“defunctionalization” of the sign. Guiraud’s point was made in the
+100
+
+
+--- PAGE 124 ---
+5.1 HUMOR AND SEMIOTICS
+context of the discussion of puns, but the reasoning behind it allows its
+generalization to all humor. When we communicate we use language
+according to its primary function, i.e., the transmission of information.
+When this primary function of language is abandoned in view of some
+other non-linguistic goal such as play, or aesthetic purposes, we have a
+defunctionalization of the medium (language). Jakobson’s (1960/1987)
+definition of the aesthetic function of language as centered on language
+itself 6 also fits the definition of defunctionalization. In other words, any
+time that the linguistic medium is used for purposes other than the
+transmission of information (and possibly other non-communicative
+mental processes, such as thought) we can speak of defunctionalization.
+In the context of humor, the idea of defunctionalization is particularly
+interesting, since it is a well-known fact that humor is considered “non-
+serious” or otherwise devoid of commitment to any utility principle,
+beyond the fulfillment of the humorous purpose of the text. For example,
+nobody takes seriously the information, provided in the following joke
+(34)
+How do you fit four elephants in a compact car?
+Two in front and two in the back.
+All theories of humor, even the more committed to the “seriousness”
+and the social and/or interpersonal relevance of humor have to grant
+that humor has an element of playfulness, of lack of practical goals.7 This
+defunctionalization is reflected in the “semiotic” nature of the humorous
+text. The important issue, from the point of view of the participants in
+the joke exchange is not the contents of the joke text, but whether the
+text is funny. In other words, jokes are defunctionalized texts. The joke
+text exhausts its function in its perlocutionary goal (trying to make the
+hearer laugh as a result of the feeling of mirth).
+Composed of a signifier and a signified, like any other text, the humor-
+ous text transcends both, and connotes only “humor” beyond the pri-
+mary meaning of the signs used in the text, since as we have said, the
+primary goal of the text is not to convey information, but to amuse. In
+simple terms, it doesn’t matter much about the chicken and the road,
+what matters is that it is funny.
+6 Jakobson’s definition is: “The poetic function projects the principle of equivalence
+from the axis of selection into the axis of combination” (Jakobson, 1960, p. 71), i.e., that
+the combination of linguistic elements to form sentences is ruled by the similarities of the
+various linguistic items, rather than their meaning, as is usual.
+7 Cf. the definition of humor as a “paratelic” mode (Apter, 1989).
+101
+
+
+--- PAGE 125 ---
+SEMIOTICS OF HUMOR
+This is not to say that the joke communicates only its own
+humorousness. The “reuse” of the semiotics is hardly “transparent”:
+consider making a joke about a political figure. Especially if the joke
+ridicules or mocks the politician, the choice of what politician to mock,
+what to make fun of, etc. will be hardly irrelevant. One’s choices will be
+dictated by one’s opinions, attitudes, likes, dislikes, etc. In other words,
+the choice of a given subject matter becomes part of the joke’s potential
+meaning/communicative import. We will return to this issue below, but
+for the time being let us set it aside, and return to the consequences of
+the defunctionalization of humorous texts.
+5.1.4.3 Metamessages and metasemiotics
+Compare now the situation of defunctionalization described above with
+the definition of connotative semiotics, also given above, and it appears
+that the humorous text8 is a connotative semiotics, whose signified is
+“this text is funny” and whose signifier is the text of the joke (which
+in turn is made of a given signifier and signified). In other words, a
+humorous text is a connotative semiotics, connoting humorousness.
+This ties in with Bateson’s remarks about the metamessage “this is
+play” present in play, discussed in Section 3.3.1. The various disclaimers
+and exploratory introductory turns studied in conversation analysis (see
+Chapter 11) perform the same function of marking in discourse. The
+issue of “markers” of humor will be taken up in Part III of the book.
+Bateson’s original observation can be expanded to the social setting
+of the interaction in which the joke text is produced. By uttering a
+joke, say at a social gathering, one not only expresses the metamessage
+“this is play” (regardless of explicitly doing so), but also a number
+of inferences can be drawn: thus “this is play” implies “I think it is
+appropriate to joke here, now, about this subject,” “I am in the mood to
+joke,” etc. Thus, the utterance of a joke will inform its audience about the
+teller, his/her perception of the context, etc. Even in the case of printed
+jokes9 the text will reveal that the author or editor considers these texts
+funny, appropriate for printing, etc. Imagine the differences between
+8 The reader will recall that by the definition in Chapter 1 a text is anything used to
+convey meaning regardless of its semiotic modality (spoken language, image, gesture, music,
+etc.).
+9 Printed collections of jokes are the “zero degree” of context for jokes, as no contextual
+information beyond the title of the book, the author’s name, the publisher, and the date of
+publication, is available.
+102
+
+
+--- PAGE 126 ---
+5.1 HUMOR AND SEMIOTICS
+a collection of jokes edited by a Baptist minister, and a collection of
+neo-Nazi jokes on the 4chan bulletin board.
+Since humor is a form of play, it is logical to extend the idea of the
+presence of metamessages to humor. These metamessages will alert the
+speakers that the humorous exchange is “play/humor.” These consid-
+erations set the necessary background for all the issues of suspension
+of the rules (linguistic, semiotic, social), since, as we know from the
+theory of metalanguages, metasemiotic status guarantees the suspension
+of the rules of the object-semiotics. This accounts for a number of facts
+we know about humor: humor carries metamessages saying “this is
+humor,” humor violates semantic and pragmatic rules (see Chapter 8)
+but this fact does not cause the communicative situation to be destroyed
+(Attardo, 1993). Most importantly, it accounts for the baffling fact that
+humor can “mean” different things to different people. In fact, beyond
+“this is humor,” the signified (i.e., the meaning) of the metasemiotics
+is empty; it is only the meanings of the primary semiotics which may
+“surface” in the final overall communicative import of the text and thus
+give an effect of meaningfulness, apropos, etc., to jokes.
+5.1.5 Semantics vs. semiotics of humor
+The previous sections have established the fact that humor is a connota-
+tive semiotics, and have pointed out the direct consequences of this fact:
+the defunctionalization of the humorous text and the metamessages that
+a humorous utterance carries. It is now possible to explore another facet
+of the relationship between the semantics and the semiotics of humor.
+From semiotics, we know that we have to deal with any number
+of systems based on the signifier/signified opposition. The linguistic
+semiotic system is just one among many (however primary it may
+be) and therefore we have to create a model where there are as many
+different signifiers, which are, however, all opposed to one signified,
+since by the principle of intersemiotic translation (Jakobson 1960),
+we can vary the signifier and keep the signified constant. Or in other
+words, as we can “translate” the signified “beautiful” across languages
+(beau, bello, schön),10 we can also, and with the same ease, translate the
+signified into a drawing, a motion-picture, gestures, etc. The relationship
+form/expression in a humorous text will then look like this:
+10 Albeit with a certain variation in the exact correspondences between the terms.
+103
+
+
+--- PAGE 127 ---
+SEMIOTICS OF HUMOR
+verbal
+figurative
+musical
+etc.
+
+signifier
+/
+humorous signified
+From this fact it follows that, since the semantics of the humorous text
+remain unchanged through all the translations across semiotic systems,
+the semantic requirements should be applicable, with all due changes, to
+all semiotic humor. The analysis of the following examples will address
+this issue.
+Let us consider two non-verbal examples: a clown’s oversized shoes,
+and a well-known 3-frame cartoon by Gary Larson showing four cows
+standing on their hind legs by the side of the road, one of which is
+shouting “Car!” in the first frame, a car with two people aboard going
+by the cows who are now standing on their four legs, in the second, and
+the cows standing again on their hind legs in the third and final frame.
+There is no caption, and the details of the landscape/setting are bare and
+minimal.
+I think that it is uncontroversial that the first example has no ver-
+bal element whatsoever, while the second example use of language
+is marginal, and does not seem to be the source of the humor of
+the cartoon. A fair paraphrase (intersemiotic translation) of the first
+example would be: “The clown is wearing shoes that are way too big
+for his/her feet.” A semantic theory of humor would account for the
+humorous potential of the example by pointing out that the script (i.e.,
+what we know11) for “shoes” prescribes a) that they should fit the feet of
+the wearer within reasonable standards, and b) that no shoes are made
+beyond a certain foot-size (this may be seen as an inference derivable
+from a) and the script for “foot”). Thus what we see is incompatible with
+our script for shoes, and yet we see it used as if they were normal shoes
+(i.e., they are worn, and the clown walks around, etc.). In other words,
+the script shoes is both incompatible and overlapping with the script
+clown shoes or its actualization in that specific pair of shoes. This is
+a very primitive form of humor, and in fact it may be that some of its
+constituents are missing, namely we have located an incongruity (size)
+between the script shoes and the actual shoes we see, but we cannot
+11 A full definition of script is found in Chapter 6.
+104
+
+
+--- PAGE 128 ---
+5.1 HUMOR AND SEMIOTICS
+find a resolution of this incongruity, which many researchers consider
+an important part of the humorous experience.
+Let us turn to the second example, which is more complex. A para-
+phrase of the cartoon might be: there are some cows that are standing
+on their hind legs, and one of them shouts “car!”; they stand on their
+four legs while the car goes by, and when the car is gone they resume
+their standing position.
+The first thing that strikes the reader, even before he/she starts pro-
+cessing the cartoon, is that the cows are anthropomorphized: they speak
+and they stand. Here we already have the basic opposition between the
+normal script cow and what we see represented in the cartoon human-
+acting-cow. But the cartoon also provides the “local logic” (4.2), i.e.,
+the resolution of the incongruity.
+Two inferences are central to the perception of the humor of the
+cartoon. Why is the cow in the first frame shouting “Car!”? Shouting
+may be caused by a number of causes, fear, rage, emotion, etc., but also
+by the desire of being heard at a great distance. From the features of the
+drawing there seems to be no particular emotional involvement from
+the cow’s part (these would be represented by large round eyes, lines on
+the face representing tension of the muscles, etc.) and hence we can draw
+the conclusion that the cow is shouting in order for the other cows to be
+aware that the car is coming, or in other words, that the cow warns the
+others of an approaching car. We may also note that the four cows in the
+drawing are not all standing together: the cow that shouts is standing
+by itself, somewhat distant from the other three who are looking at
+the shouting cow. This may mean that the cow is “on the look out,”
+but the drawings do not provide enough evidence to argue this point
+definitely. Nevertheless, if someone, not just a cow, warns someone else
+of something this means that at least one of them is interested in that
+something. The drawing does not give any direct hint at why the first cow
+may feel the need to alert the other cows of the presence of the car, but if
+we look at the two other frames we quickly realize that when the humans
+are in the picture (quite literally) the cows act like the script cow, and
+that when the cows are alone, they act in the script human-acting-
+cow. Here we may apply a general rule: if someone acts in a given way
+only when in front of someone else he/she is adapting his/her behavior
+to the person in question (note that this is not a necessary conclusion, it
+is an abductive, probabilistic step, which may or may not turn out to be
+correct). Why would then cows that act like humans not act like humans
+105
+
+
+--- PAGE 129 ---
+SEMIOTICS OF HUMOR
+when humans are around? Here again we can jump to the conclusion
+that they are trying to hide from the humans their behavior.
+In conclusion: by a rather complex, and largely abductive process
+of inference we conclude that the cows are hiding from humans that
+they can talk and stand: this explains why the cow in the first frame is
+shouting “car!” and why the cows change their posture in the second
+frame. Thus we have provided a resolution of the incongruity: the reason
+we have never seen a cow speaking and standing on its hind legs is
+because the cows are purposely hiding these feats from us!
+What is remarkable about this process of progressive inference mak-
+ing is how closely it resembles and parallels the processing of verbalized
+jokes. Certainly there are differences, the most significant being that
+texts are processed with rigid linearity, whereas the processing of a
+figurative sign is entirely different, and governed by complex rules based
+in part on the nature of the sign itself. Shapes and masses in a picture will
+“guide” the scanning of the image by the observer, as well as the expec-
+tations of the viewer. Our perception of the stimulus may be altered by
+the stimulus itself, to take an extreme example. This is the case with the
+well-known optical illusions of Mueller-Lyer.12 Furthermore, different
+semiotic systems vary in terms of analyticity and adeptness at dealing
+with some types of information. Language is very good at dealing with
+abstract entities, whereas it handles rather poorly such Gestalten as facial
+expressions, which drawings or pictures can reproduce more easily (it is
+no coincidence that we talk of a “Gioconda smile”). A puzzled expression
+can be expressed much more effectively by a few lines in a drawing than
+by the hopelessly underdetermined phrase “puzzled expression.”
+However great the differences between the various semiotic systems
+(we have only considered two, fashion and graphical, but the considera-
+tions could be expanded without theoretical problems to other systems,
+though not to all, see below), there are important parallels: in order to
+process a humorous text13 we must perceive the presence of two opposed
+scripts in the text, and somehow resolve the contrast between the two
+scripts, even if in playful local logic terms.14 Naturally, the farther away
+12 In this example, two lines of the same length appear to be of different lengths because
+of other lines which touch them.
+13 Once more, “text” here refers to any cluster of semiotic signs, independently of their
+nature, and not limited to linguistic signs in any way, as we saw in Chapter 1.
+14 The reader should keep in mind that some humor, such as absurd or nonsense humor,
+may not have any resolution at all.
+106
+
+
+--- PAGE 130 ---
+5.1 HUMOR AND SEMIOTICS
+from linguistic signs we move, the more strained the extension of the
+concept of script becomes, without however, losing the specificity of a
+baggage of information that the speaker carries about something (be it
+a lexical item, a proxemic perception, or a figurative element).
+The considerations above lead us to the formulation of a significant
+generalization: all humor in whatever semiotic manifestation is based on
+a semantic mechanism, i.e., all humor is semantic.
+The semantic hard-core of all humorous facts does not mean that
+issues at the level of the signifier are irrelevant to a semiotics of humor.
+In fact the contrary is quite true. Most of the available materials on the
+semiotics of humor deal with mechanisms of the signifier, although they
+all are based (implicitly, to be sure) on the assumption of a semantic base
+for humor. We will turn now to some of these issues, in order to gather
+further evidence of common humorous mechanisms across semiotic
+systems.
+In fact the concept of “semiotic pun” has been elaborated, and is
+central to the research of Lessard (1991, and references therein). Lessard
+shows very convincingly that the same mechanisms that apply to verbal
+puns apply to visual puns. Thus Lessard analyzes graphical text in which
+one graphical element is taken to refer to two different things at the
+same time and he correctly analyzes this fact as the graphical analog
+of the lexical ambiguity pun. Lessard’s example is a drawing showing
+on the top left part a man marooned on a small island with concentric
+circular waves, which become on the right bottom part of the drawing
+the furrows in the field of a puzzled looking farmer. If we consider now
+a linguistic example, the old pun:
+(35)
+Why did the cookie cry?
+Its mother had been a wafer so long [a wafer/away for]
+based on the equivalence of the two strings ‘away for’ and ‘a wafer’ in
+pronounciation, we can draw the following proportion:
+furrows : waves :: a wafer : away for
+which shows plainly that the same mechanisms are at stake. As in the
+linguistic pun we take one string of sounds to stand for another meaning
+than the one intended in the text at first, in the semiotic pun we take one
+semiotic element to stand for another meaning than the one intended in
+the semiotic “text” at first.
+107
+
+
+--- PAGE 131 ---
+SEMIOTICS OF HUMOR
+If we consider the issue from a linguistic standpoint, we will see that
+all semantic differences in the system can be exploited for humor. For
+example, in Chapter 9, we spend some significant effort cataloguing the
+various levels at which a semantic ambiguity may occur: phonological
+(puns), morphological, lexical, syntactic, and even pragmatic. This can
+be stated as another significant generalization: All meaningful aspects of
+language may be exploited for humorous purposes. To put it differently, if
+it’s meaningful, we can use it for humor.15
+However meaningful and convincing these successes of the cross-
+semiotic analysis of humor are, they should not give the impression
+that the task left to researchers is a mere cataloging. In fact, entire
+semiotic systems elude this kind of taxonomy. Take the example of
+music, too abstract to have a referent in the sense linguistic signs have
+a referent, and therefore impossible to account for in terms of scripts,
+or worse in terms of ambiguity. Yet, we have musical humor, even if it
+takes particular forms and manifests itself mainly by surprise or allu-
+sion (i.e., intertextual reference). Thus the Andante movement Haydn’s
+Symphony No. 94 in G Major contains a sudden isolated chord (in the
+16th measure) in the middle of a passage where the instruments had
+been quite soft for the previous six measures. This is then an example of
+the humorous use of surprise; see Scher (1991: 116) for the relevant score
+and some comments. Mozart’s famous parodic piece Ein Musikalischer
+Spass [K 522] mocks the fashionable music of the time, by quoting
+and distorting it (an example of humor achieved though parody or
+allusion).16
+5.2 Conclusions
+This chapter has reached several important conclusions: the mecha-
+nisms of humor are the same in linguistic and non-linguistic com-
+munication. In all cases, humor is based on an incongruity (violation
+of expectations) and its resolution (albeit within the limits discussed
+15 Incidentally, this is why taxonomic approaches to humor are doomed to failure:
+because language, due to its creativity, always exceeds any taxonomy.
+16 An interesting passage from Sadie (1965: 118) confirms the claims in the text:
+Much of the broad humor of the Musical Joke is lost today, except perhaps on musicologists
+who know what bad eighteenth-century is like or on teachers of composition who know the
+elementary faults. To the normal music-lover, the joke is likely to misfire.
+108
+
+
+--- PAGE 132 ---
+5.3 FURTHER READINGS
+above). The meaning of the humorous expression is backgrounded,
+in favor of the connotative semiotic’s meaning “this is humor.” The
+normal rules of communication no longer apply within a connotative
+semiotics; in particular, the signs are defunctionalized, i.e., they are
+no longer used for communicative purposes. This in turn has the
+effect of making humor “retractable,” i.e., it explains all the pragmatic
+uses of humor as politeness, as a testing mechanism, and as a way to
+state something without committing to its truth or functional value.
+Furthermore, humor contains the meta-message “this is play,” which
+reinforces the defunctionalization and suspension of the normal rules
+of communication.
+5.3 Further readings
+There are no introductory treatments of the semiotics of humor. Attardo
+(1994) remains, despite the years, the best place to get started. On visual
+puns, Hempelmann and Samson’s work (2007, 2008) is accessible. On
+musical humor, see the entries on music and humor in Attardo (2014).
+Intersemiotic translation is taken up again in Chapter 15.
+109
+
+
+--- PAGE 133 ---
+

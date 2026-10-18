@@ -1,0 +1,136 @@
+--- PAGE 404 ---
+17
+Conclusion
+It is traditional to conclude a book like this with a look at the future. In
+the past, I have done so with results so amusingly off base, as when I
+predicted in 1994 a renaissance of studies on puns, only to see the field
+go dormant for 20 years, that I have decided to do so in the future only
+for entertainment purposes. No doubt more research will be done in
+all, or most, of the areas I have described in the book. Will the trends I
+have discerned, or think I have discerned, continue in the near future?
+Perhaps, or perhaps not. I have learned my lesson. However, I think we
+need to look a little farther out, as well.
+I think it is fair to say that if any reader has made it this far in
+reading this book (skipping ahead does not count) they will readily
+agree that the study of humor, much like the study of language itself, is
+a complex problem. By this I mean to invoke, almost but not completely
+metaphorically, the idea of complex systems and complexity theory.1 In
+a nutshell, the idea behind complex systems is that large, complicated,
+non-linear systems, such as, say, the weather cannot be understood and
+modeled by a simple, linear theory.
+Consider an example: in Chomsky’s standard model (Chomsky, 1965)
+there is no reason for language to change. Assume that you modeled
+perfectly your object (in other words, you achieved descriptive ade-
+quacy) and that you understood how the system worked (explanatory
+adequacy). You would have a set of transformations, a set of generative
+rules and a set of lexical items to insert at some point or another in your
+generation process. Assume, as we said, for the sake of the argument, that
+your system does produce all the sentences that native speakers judge
+1 See, for example, the Five Graces Group (2009) position paper; Larsen-Freeman &
+Cameron (2008); Ortega & Han (2017). I do not (only) mean complexity as in complication
+(as in Derks, 2014). A complex system is not just complicated.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 405 ---
+CONCLUSION
+to be grammatical and none of those they judge ungrammatical. The
+resulting system would be static, in the sense that there would be no
+reason or possibility for change. Why would a passive transformation
+change? It does exactly what it is supposed to do and so the speakers
+would have no reason or need to change their behavior which would be
+reflected in a change in the rule.
+To pursue the example further, let us add another facet to our system:
+let us assume that speakers will follow a principle of least effort, i.e., that
+they will try to minimize the effort required to produce utterances. The
+simple addition of this principle will now cause our perfect (and static)
+system of syntax to lose some of its perfect descriptive adequacy (for
+example, through contractions, irregular dropping of frequently used
+morphological markers, but not of extremely high frequency ones, etc.)
+and thus eventually to have some asymmetry in the system (i.e., the
+speakers will sense that there’s something wrong with the system) that
+will need to be corrected through change. If you think this sounds crazy,
+consider the fact that many speakers are, at the time of this writing, using
+the word “irregardless” with a double privative morpheme, thus showing
+that /-less/ was perceived to be too “weak” or somehow insufficiently
+negative. However, you do not hear “unhomeless,” or “unjobless,” i.e.,
+the change is not (yet?) systematic.
+Needless to say, none of this is novel to a historical linguist and my
+point is not that I have a novel explanation for language change.
+My point is much more banal: you cannot understand change without
+a different perspective/theory. This does not mean that the syntactic
+model is not good, on the contrary, by the stipulation of our example,
+the model is better than any linguistic model has ever performed. It
+just means that the syntactic model is not designed to account for
+change, or to put it differently, that change is outside the purview of
+the model/theory.
+Let me be clear: I am not naive and I know all too well that often
+the proponents of one theory have explicitly or implicitly declared
+the phenomena that fell outside of the purview of their theory to be
+irrelevant, marginal, uninteresting, and so forth. Having been scorned
+and marginalized, or having perceived to be so, the proponents of
+other theories needless to say strike back declaring the theories to be
+irrelevant, uninteresting, etc. All of that is true and probably inevitable,
+as long as science is done by humans and not by artificial intelligences
+devoid of any emotions.
+382
+
+
+--- PAGE 406 ---
+CONCLUSION
+However, I see in the complex systems approach an opportunity to
+abandon the zero-sum mindset of many scholars (if your theory is right
+that makes my theory less right, somehow) and to embrace instead a
+collaborative mindset where the goal is to describe, understand, and
+explain the phenomena. All of them, not just those that one’s theory
+works well for.
+If I am correct in claiming that humor is a complex system, it follows
+that no single approach, no single discipline will ever succeed in explain-
+ing all the phenomena that humor encompasses. Conversely, the only
+way to make progress toward that goal is to embrace a trans-disciplinary
+approach, to supersede the interdisciplinary approach humor studies
+has long boasted of and in some ways pioneered. In a trans-disciplinary
+approach, all theories, all models can contribute something to the under-
+standing of the problems at hand. All theories describe one or more
+facets of the phenomena and the goal is not to fulfill the disciplinary
+goals of one field or of two of them, as in interdisciplinarity, where
+one theory provides the methodology and another the questions to
+be answered, but rather to answer all the questions with information
+coming from every discipline. When you are building a house you need
+plumbers, carpenters, electricians, masons, and eventually a decorator.
+No one trade is the “owner” of the process, not even the architect,
+whose drawings would languish as unbuilt idealizations, but without
+the contribution of any of the trades, you would not want to live in the
+house.2
+There are indications that a transdisciplinary approach to humor
+studies may be on the way. Demjén (2018) considers a set of jokes in an
+online community in a framework explicitly invoking complexity the-
+ory. While the article itself seems more programmatic on the complexity
+side of things, it is unquestionably a start. Bell’s (2015) remarkably broad
+methodological approach is as transdisciplinary as it gets, blending
+discourse analysis, elicitations, corpora, self-reports, observations, and
+media samples. Brock (2017) seems to be advocating for something
+fairly close to that I am proposing, albeit with a much more limited
+scope. With all due modesty, Chapter 10 in this book also considers a
+broad range of disciplines. I hope that my friends and colleagues will
+see my prodding of conversation and discourse analysis here and there
+2 In many places, many people would be quite happy to trade their current living space
+for a house without plumbing or without electricity. Metaphors have limits and embody
+privilege.
+383
+
+
+--- PAGE 407 ---
+CONCLUSION
+as attempts to get a transdisciplinary (or at least trans-methodological)
+perspective going.
+I harbor no illusion to have accomplished the task of creating a
+transdisciplinary approach to humor studies in this book. This was not
+my goal. My goal in this book was, so to speak, to look backward and see
+where we are, what we have learned that is useful, and set it out clearly
+in as comprehensive a framework as possible. The future, however, will
+require a much broader approach, which I think will incorporate a
+complex system approach.
+384
+

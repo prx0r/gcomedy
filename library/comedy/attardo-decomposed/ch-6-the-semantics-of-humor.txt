@@ -1,0 +1,943 @@
+--- PAGE 136 ---
+6
+The semantics of humor
+6.1 The Semantic Script Theory
+113
+6.2 The Semantic Script Theory of Humor’s two conditions
+127
+6.3 Non-bona-fide
+133
+6.4 The Ontological Semantics Theory of Humor
+134
+6.5 Conclusions
+134
+6.6 Further readings
+135
+In a certain sense, seen in Chapter 5, the essence of humor is semantic.
+Therefore this chapter is quite central, in a way that other chapters are
+not. This chapter will explain and motivate this claim.
+Historically, most of the research on humor in linguistics did not
+focus on the semantics of humor, but rather primarily on phon-
+ology, morphology, and marginally on syntax. This attitude is well
+represented in Pepicello and Weisberg (1983) which presents a largely
+non-semantic synthesis of the “linguistics” of humor. Needless to say,
+other approaches, especially in the incongruity/resolution tradition (see
+Chapter 4), were much closer to the semantics of humor. For example
+Koestler’s theory, discussed in Section 3.7.2.
+6.1 The Semantic Script Theory
+The Semantic-Script Theory of Humor is widely recognized to have
+been one of the most successful theories of humor, since its introduc-
+tion. Consider the begrudging acknowledgments of some of its critics:
+“The General Theory of Verbal Humor (GTVH) has dominated the
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 137 ---
+THE SEMANTICS OF HUMOR
+discussion of humor theory for more than thirty years” (Oring, 2018);
+“Raskin’s Semantic Mechanism of Humor (1985), which develops a
+General Theory of Verbal Humor (GTVH), has been the most influ-
+ential work in humor research in its recent history” (Rutter, 1997,
+p. 21); the “two most influential linguistic humor theories of the last
+two decades, the Semantic Script Theory of Humor and the [General
+Theory of Verbal Humor]” (Brône et al., 2006, p. 203); “the most influ-
+ential approach to humor at present is that represented by the semantic
+theories of Victor Raskin (1985)” (Smith, 2009, pp. 10–11).1
+This is not the place to investigate the reasons for it success, which
+would require a study in the sociology of science, and since the 1985
+book in which Raskin presents it in detail2 is quite accessible, we will
+content ourselves with restating the two conditions that must obtain for
+a text to be humorous and then focus primarily on the discussion of
+various issues that are often overlooked and misunderstandings of the
+theory.
+The Semantic Script Theory of Humor’s stated goal is to provide the
+necessary and sufficient conditions for a text to be humorous. This
+makes the theory essentialist. The Semantic Script Theory of Humor
+is reductionist as well, as we will see below.
+6.1.1 Origins
+As its name makes patently clear, the Semantic Script Theory of Humor
+is based on semantic scripts. The script-based approach to semantics
+originated in psychology, with Bartlett’s views on memory (1932) and
+the Gestalt psychologists (cf. Anderson & Pearson 1984). It was later
+taken up in Artificial Intelligence (AI) (Minsky, 1974; Schank, 1975;
+Schank & Abelson, 1977), and eventually arrived into linguistics (Chafe,
+1975; Raskin, 1981, 1985; Fillmore, 1982, 1985). Within linguistics some
+connections between frame/script semantics and other areas of lin-
+guistics emerge forcefully: field semantics, a.k.a. lexical field semantics
+(going back to Trier’s work in 1931; Lehrer, 1974; Lehrer & Kittay, 1992)
+has some interesting correlations with frame/script semantics, as does
+case grammar (unsurprisingly, since Fillmore was largely responsible for
+1 With enemies likes these, who needs friends?
+2 For the historically minded, the Semantic Script Theory of Humor was first presented
+in 1979 in a Berkeley Linguistics Society paper and in 1986 in a Psychology Today article,
+which contributed significantly to its popularity.
+114
+
+
+--- PAGE 138 ---
+6.1 THE SEMANTIC SCRIPT THEORY
+it as well), and of course the psychological work on prototype theory
+(Rosch & Mervis, 1975) which will later be one of the principal sources
+of the cognitive linguistics approach.
+An important point that bears being made explicitly is that because of
+their foundations in psychology, script/frame theories have an impor-
+tant stake in psychological reality. This is not the place for a review of
+the literature on the psycholinguistics of text processing and reading
+which makes heavy use of script/frame theories. Such a review would
+require a separate monograph. However, let us note, for example, that
+Rumelhart’s influential (1980) model comprises the simultaneous pro-
+cessing of semantic, syntactic and pragmatic information, as does Just
+and Carpenter’s (1980). In Attardo (2001a) I also noted the parallels and
+mutual support of current psycholinguistic theories of text processing
+(e.g., Kintsch 1998). Both major approaches to script/frame semantics
+evolved in a formal/computational direction: script-based semantics
+(Raskin, 1985) eventually led to ontological semantics (Nirenburg &
+Raskin, 2004); frame semantics evolved into FrameNet (Ruppenhofer
+et al., 2016).
+This diversity of disciplinary sources is reflected in the wide termino-
+logical variety (frames, scripts, schemata, scenes, memory organization
+packets (MOP), etc.) used in the field. The reaction has been to gener-
+alize and standardize around a single term (Fillmore’s (1985) “frame,”
+Raskin’s (1981) “script”), leaving open the possibility of further differ-
+entiation. The terminological discussion can be found in Andor (1985:
+212–213) and Fillmore (1985: 223n).3 By and large, frame semantics has
+been the more successful term in semantics and the study of reading,
+whereas script semantics has been the default term in humor research.
+The two terms, as defined by Fillmore and Raskin, are synonymous.
+In the context of humor research we will primarily deal with the script-
+based semantics of Raskin, because, as we mentioned, it was the most
+successful semantic model in the linguistics of humor, and it is the most
+developed and the broadest of all the linguistic approaches.
+3 A very common misunderstanding is that there is a difference between, say, a script
+and a frame: since both Fillmore and Raskin argue for the use of the respective term as an
+umbrella term, by definition, the two are synonymous. Special terminological conventions
+may be adopted by individual scholars, but they do not apply to Fillmore and/or Raskin.
+115
+
+
+--- PAGE 139 ---
+THE SEMANTICS OF HUMOR
+6.1.2 The notion of script
+A script is defined as a related, organized cluster of nodes and their
+connections in the semantic network4 that represents the global web
+of knowledge of the speakers of a language. Raskin’s exact words are
+“a limited domain of the continuous semantic graph” (1985, p. 84);
+elsewhere he describes it as “a large chunk of semantic information
+surrounding the word or evoked by it” (p. 81) and, technically, as the
+domain in the semantic graph “around the word in question as the
+central node of the domain” (p. 81).
+All the scripts of a language are connected to one another and form
+a “a single continuous graph” (p. 81) which represents the sum total of
+knowledge of the speakers of a language. A good way to conceptualize
+this is to imagine the Oxford English Dictionary as a graph, with each
+word linked to the words that make up the definition and each word
+in the definition linked up to the words that make up their definition,
+and so on. To use a different metaphor, in the age of the internet,
+each script can be considered the equivalent of a web page. Each web
+page is connected to other web pages (albeit haphazardly, whereas in
+the semantic graph the connections are systematic and meaningful).
+The organization of knowledge as a semantic network was prefigured
+by Peirce (1931–36; see Eco, 1979, pp. 26–49) and introduced into
+AI by Quillian (1967). The endless nature of the semiotic relation
+(whereby a sign’s meaning is represented within the network by other
+signs, ad infinitum) has been dubbed “unlimited semiosis” (Eco, 1979,
+pp. 44–46) or “infinite semiosis” (Atkin, 2013).
+Despite the technical terminology it should not escape our attention
+that scripts are, setting aside the technical definitions, essentially ideas,
+thoughts, or meanings. There has been a certain tendency to reify the
+concept, as if it did have an objective nature, external to the minds of
+those who think the thoughts. However, this is not the case. Meanings
+exist as parts of signs; the other side of signs is of course the signifiers.
+A sign is a social fact for Saussure, following Durkheim. Hence, even if
+indirectly, the meanings (signifieds) exist in the minds of the speakers
+who constitute the social group that legitimizes the social fact. So, in
+conclusion, scripts are concepts, ideas, thoughts. These exist because
+there is a social group that thinks the same thoughts (i.e., they are social
+4 The technical mathematical term for this is “graph.”
+116
+
+
+--- PAGE 140 ---
+6.1 THE SEMANTIC SCRIPT THEORY
+facts), as can be evinced by the fact that they function as a social group: if
+they did not share the same thoughts they could not function as a group
+(cf. Davidson, 1984, p. 153).
+6.1.2.1 Analysis of the definition
+Let us consider in more detail each of the elements of the definition of
+script above. Needless to say, this is a very quick, informal review. Each
+of the topics that we will take up below could be developed much more,
+but this is only an introductory treatment. The interested reader should
+consult Raskin (1985) and references therein. Occasionally, I elaborate
+on a concept beyond Raskin’s original definition. For those, see Attardo
+(2020).
+6.1.2.1.1 Nodes
+Each node corresponds to a concept that has been
+lexicalized in a given language. In other words, we are considering in
+this definition only lexical scripts.5 There are larger scripts which can
+represent sentences, paragraphs, and even larger texts; those will be dis-
+cussed below. Furthermore, scripts can be activated without a lexematic
+handle, i.e., inferentially. We discuss this in Section 6.1.3.1, below.
+6.1.2.1.2 Connections
+Links among nodes correspond to the kind of
+connections found among lexemes such as
+1. synonymy, antonymy
+2. hyponymy
+(ISA
+hierarchies,
+see
+below),
+hyperonymy
+(superordinate)
+3. partonomy/partonymy (a.k.a. meronymy), i.e., the parts of an
+object
+4. homophony, homography, homonymy
+5. lexical functions (Mel’ˇcuk, 1981).
+Lexical functions may not be familiar to the beginning reader, so we
+will exemplify. A lexical function is a systematic relationship between
+two sets of lexical items. For example, the function “magn” indicates a
+5 Grammaticalized concepts can also be seen as scripts, albeit more abstract ones.
+Whereas lexical scripts have ‘handles’ (so to speak), i.e., are associated to and directly
+activable by a lexeme, grammatical scripts would be activated by any of the allomorphs of
+the given grammatical morpheme. Lexical scripts rarely have allomorphs, hence they are
+more concrete than grammatical scripts.
+117
+
+
+--- PAGE 141 ---
+THE SEMANTICS OF HUMOR
+great degree of intensity. So the following pairs of words are connected
+by the lexical function “magn.”
+(36)
+speak // shout
+eat // devour
+punch // pummell
+Hence, “shout” is a high degree of intensity “speak,” etc. The function
+“son” indicates the typical sound produced by an entity, so again, the
+following pairs of words are connected by the lexical function “son”:
+(37)
+leaves // rustle
+dog // bark
+thunder // rumble
+In other words, the typical sound of leaves is rustling, dogs bark,
+and thunder rumbles. Many lexical functions are quite similar to bet-
+ter known lexical relations, such as antonymy and synonymy, but the
+breadth of Mel’ˇcuk’s functions, which catalog over 50 relationships,
+make them an important part of semantic description.6
+6.1.2.1.3 Semantic network
+The sum total of the connections among
+nodes is the semantic network that represents the sum of the semantic
+knowledge of the speakers of a given language. The semantic network
+can be traversed in infinite ways, while being itself finite. The reader will
+recall the concept of infinite/unlimited semiosis introduced above. One
+can visualize traversing all the links connected to a given node as gath-
+ering the meaning of that node (i.e., its connections to other meanings).
+For example, in Figure 6.1 we see a few of the adjacent nodes (feline,
+tail, etc.) to the script cat, with two examples of “immediate neighbor”
+nodes in the graph in a hierarchical organization: the hyponyms, labeled
+as is customary as the ISA relationship (see below), and the partonyms
+(has-parts). The unlabeled link (mouse) is a script that is probably
+highly associated with cat (as in “cat and mouse”) without being in
+a specific relation to it. The immediate neighbor nodes will become
+important when we consider spreading activation, below. Needless to
+say, the above is a purely pedagogical presentation and should not be
+misconstrued as a full description of the semantics of cat.
+6 See Raskin (1985, p. 84) for a methodological difference between Mel’ˇcuk’s (1981)
+functions and Raskin’s links.
+118
+
+
+--- PAGE 142 ---
+6.1 THE SEMANTIC SCRIPT THEORY
+Animal
+Feline
+Mouse
+Meow
+Black, Tabby, etc.
+Tail
+Paws
+Claws
+Has-part
+Color
+Son
+Cat
+ISA
+ISA
+Has-part
+Has-part
+Figure 6.1
+A very simplified semantic graph for CAT; the links are labeled after the semantic
+connection.
+6.1.2.1.4 Related nodes
+The nodes are not a set of nodes selected ran-
+domly. There needs to be a relationship between them. Each link defines
+the specifics of the relationship. In mathematical terms, this makes them
+“labeled” links. Technically they are directed labeled nodes, i.e., there is a
+direction in which they must be traversed. So, for example, the ISA link,
+one of the most common relationships in a semantic network and in
+ontologies (see below), which corresponds to the hyponymy linguistic
+relationship must be traversed from the hyperonym to the hyponym
+(for example, from “fruit” to “apple”) and not the other way around.
+So APPLE (ISA FRUIT) would be a basic semantic bit of information.
+In artificial intelligence and frame semantics it is very common to
+use a slot-filler notation, as I just did above. Essentially information
+is represented as a pair, in which the first part indicates the kind of
+information (slot) and the second indicates the specific information
+(filler). So, the ISA slot could be filled with FLUFFY (ISA DOG) or BOB
+(ISA HUMAN) or CAR (ISA VEHICLE). ISA of course stands for “is a”
+(a car is a kind of vehicle). Other slots are created as needed. Standard
+ones are location, time, has-parts, color, size, etc.
+6.1.2.1.5 Organized cluster
+It should be noted that the definition that I
+am employing here is slightly different from the canonical ones, which
+119
+
+
+--- PAGE 143 ---
+THE SEMANTICS OF HUMOR
+Subject:  [+Human]  [+Adult]
+Activity: > Study medicine
+    = Receive patients: patient comes or doctor visits
+                        doctor listens to complaints
+                        doctor examines patient
+    = Cure disease: doctor diagnoses disease
+                    doctor prescribes treatment
+    = (Take patient’s money)
+Place:  > Medical School
+        = Hospital or doctor’s office
+Time:   > Many years
+        = Every day
+        = Immediately
+Condition: Physical contact
+Figure 6.2
+The lexical script for DOCTOR in Raskin, 1985.
+Note that “>”stands for “in the past,” and “ = ” for “in the present.”
+do not as a rule emphasize the connections among scripts as part of a
+given script. However, careful consideration will reveal that each filler
+of a given slot (and for that matter, each slot) is itself another node.
+Therefore, a script is properly merely a special section of the global
+network. Furthermore, the cluster is organized in the sense that there
+exist specific relations between the nodes and that (sub)scripts may
+occur as parts of scripts (i.e., as nodes).
+Figure 6.2 is an example of script, in the original notation used in
+Raskin (1985, p. 85). The notational conventions are different than those
+used in this book and in later versions of the theory, which are influenced
+by LISP7 pseudocode. No particular meaning should be attributed to the
+notation.
+6.1.2.2 Fractal nature of scripts
+Raskin (1985) introduced the notions of complex script and macro-
+script, which matched similar distinctions in the field: for example,
+frames may have sub-frames (Petruck, 1996; Mandler, 1984, p. 15)
+In Raskin’s definition, the difference between scripts, complex scripts,
+and macro-scripts is primarily one of level: a script is the simplex form; a
+macro-script is a group of scripts organized chronologically, what some
+authors would call a script, as opposed to a frame or schema; a com-
+plex script is a script made of other scripts but without chronological
+7 LISP (LISt Processor) is a computer language, originally invented in 1958, which
+became popular in artificial intelligence. The first formalizations of Raskin’s scripts were
+written in LISP, around 1989–1990.
+120
+
+
+--- PAGE 144 ---
+6.1 THE SEMANTIC SCRIPT THEORY
+Script (simple)
+Complex script
+Macro-script
+(organized chronologically)
+Figure 6.3
+Simple, macro-, and complex scripts.
+organization. The classification of scripts is presented graphically in
+Figure 6.3.
+The restaurant script in Schank and Abelson (1977) would be
+an example of macro-script: it consists of several other scripts linked
+chronologically (drive up to the restaurant, be seated, order
+food, etc.), while a complex script would be war, which presupposes
+other scripts such as army, enemy, victory, defeat, weapon, etc.
+Needless to say, no hard distinctions between complex and macro-
+scripts are tenable: even a complex script as war has some chronological
+organization: imagine a war that started with an armistice, whereas the
+restaurant script has many events that may occur in no particular
+order (for example, go to the restroom, chat with the other dinner
+guests) or are only loosely organized (for example, asking for the check
+must occur toward the end of the meal, but need not occur at the abso-
+lute end of the meal—it is perfectly acceptable to ask for the check and
+for coffee). Chłopicki’s character frames are complex scripts, whereas
+the representation of the development of the story in the text as a
+vector (text-world representation; Attardo, 2001a) is a macro-script; see
+Chapter 14. The organization of scripts in a nesting hierarchy of larger
+units is a common assumption, cf. Mandler (1984, p. 15) and references
+therein.
+We can further generalize the notion of complex script, by noting that
+the filler of any slot in a script may be another script (most often a link via
+the lexical handle of the script). Another way of putting it is saying that
+scripts are fractal. In a script, you will find the same kind of constructs,
+regardless of the level of generality. The geometrical figures known as
+fractals are generated by recursion (much like embedded structures in
+sentences can be recursive in language, so that, one can have a NP inside
+121
+
+
+--- PAGE 145 ---
+THE SEMANTICS OF HUMOR
+a NP, ad infinitum, for example). Many fractals, but not all, also have the
+feature of being “self-similar,” i.e., invariant at scale (Mandelbrot, 1977,
+p. 18), or to put it more simply, they have the same shape at different
+levels of magnification: if you zoom in on a detail of a fractal, you will
+find the same shapes. In Attardo (2001a, p. 48), I spoke of scripts “nested
+into one another.” The present formulation is more precise. Note that
+the fractal recursive nature of scripts is consonant with the primeless
+nature of the semantic network described by Raskin and can be usefully
+connected to Peirce’s and Eco’s concept of “unlimited semiosis’.’ While
+scripts may be more or less abstract, they are equally complex as they all
+consist of links to other scripts.
+6.1.2.3 Operational definition of scripts
+In Attardo (2001a, p. 6), I described the procedure of building a script
+as an hypothesis on the semantic content of a given lexeme8 which is
+disproved if we encounter a bit of information not included in the script.
+If we encounter a bit of information currently not in the script, the script
+is revised and the revised version then takes the place of the original
+hypothesis, only to be further tested by new texts. If the script is viable,
+after a few revisions it will become stable, i.e., few if any changes will be
+required. Consider a reader who encounter for the first time the term
+“crypto-currency.” Let us assume, for the sake of simplicity, that the first
+encounter is in an opaque context, such as “Mary worked as a crypto-
+currency expert” which only tells us that “crypto-currency” is a subject
+one can become an expert of and that this makes you employable. Our
+frame or script for crypto-currency is pretty sparse, looking more or
+less like this:
+(crypto-currency
+(ISA currency)
+(object-of BE EXPERT))
+Note that the (ISA currency) is a guess based on the assumption of non-
+arbitrary morphology. If it were to turn out that crypto-currency is a
+kind of cake, our guess would have been wrong.
+Suppose now that the we encounter the information that crypto-
+currency is transacted online. This would confirm the (ISA currency)
+guess and would add the information that crypto-currency con-
+8 The same applies to those scripts that lack a lexematic handle, see below.
+122
+
+
+--- PAGE 146 ---
+6.1 THE SEMANTIC SCRIPT THEORY
+tains an (object-of FINANCIAL TRANSACTION) slot, with a sub-slot
+(location currency-exchange).
+(crypto-currency
+(ISA currency)
+(object-of BE EXPERT)
+(object-of ((FINANCIAL-TRANSACTION
+(location exchange))))
+A more sophisticated bit of information might be added if a detailed
+explanation of how crypto-currencies are based on solving complex
+cryptographic problems, using computers. Further information might
+appear, such as the fact that one of the currency-exchanges in which
+crypto-currencies are bought and sold is called Coinbase, which would
+then be added to the frame, making it more detailed and complex. Again,
+further information, when available, would be added to the frame, until
+no further information appears. At this point, one’s crypto-currency
+frame would be “complete” (at least, this writer’s is).
+However, as we know from Popperian epistemology, this does not
+prove that the script is complete, but it is merely the best available
+construct that matches the available evidence. While this may seem to
+be problematic, since it is tantamount to claiming that scripts are open-
+ended, in fact it is evidence of the falsifiability of the definition.
+Essentially, one can never know that a given script is complete, since
+the next sentence one processes may include a new bit of information
+that was previously unavailable to the system. It is simple to imagine
+a dynamic system which updates its knowledge banks whenever it
+encounters a bit of information it was not aware of (and which is
+consistent with its prior knowledge). This is, in fact, what humans
+do: faced with a new bit of information they revise their scripts. An
+interesting aspect of this process is that when faced with conflicting
+information (say, two incompatible fillers for one slot) humans tend to
+react with cognitive dissonance (see Section 2.4) and this they resolve it
+by either compartmentalizing the information or by eliminating some
+of the information.
+6.1.3 Dynamic scripts
+The idea of building up scripts as we accumulate information and of
+updating the scripts as information changes, prefigures the dynamic
+123
+
+
+--- PAGE 147 ---
+THE SEMANTICS OF HUMOR
+view of scripts I introduced in Attardo (2001a). In a nutshell, I was
+interested in how readers build up a representation of the text they are
+reading,9 which preserves the plot (in a non-technical sense), informa-
+tion about the characters, and other aspects of the setting, without nec-
+essarily preserving the surface structure of the text (the lexical choices,
+for example). To do so, I introduced the idea of a “storage area” which
+stores the most current and up-to-date information on the story, in a
+macro-script built around sentences and paragraphs. This corresponds
+to a dynamic view of scripts, see for example the following definition:
+schemas came to be thought of, not as fixed structures to be pulled from memory on
+demand, but as recipes for generating organizational structures in a particular task
+context.
+(Kintsch, 1998, p. 37)
+The reader would activate a storage area (which I called the text world
+representation) as an empty sentential script, which will be filled by the
+lexical and inferential scripts (see Section 6.1.3.1) activated by the text:
+the model of text processing that I am outlining, consists in activating sequentially
+scripts, until the main script of a text is determined, and then the entire text is inter-
+preted as an instance of that script, filled with the actual details of the text instantiating
+the script.
+(Attardo, 2001a, pp. 56–57)
+In Attardo (2001a) I also review the considerable evidence for the
+psychological reality of this approach, e.g., Kintsch (1998).
+6.1.3.1 Implicit activation
+We now turn to the activation of scripts without a lexical handle.
+Consider the following example
+(38)
+“I drove to Dallas”
+The utterance of sentence (38) activates a number of scripts, beyond
+those activated by the lexical handles “I,” “drive,” “to,” and “Dallas.”
+In Attardo (2001a) I spoke of inferentially activated scripts. I would
+now like to distinguish more specifically between presuppositionally
+activated scripts, inferentially activated scripts, and scripts activated by
+implicatures. Consider that “drive” activates the script for “car” or, rather,
+less specifically “vehicle” (I could have driven to Dallas in my truck, for
+9 Needless to say, this applies also to people hearing a story, watching a movie, etc.
+124
+
+
+--- PAGE 148 ---
+6.1 THE SEMANTIC SCRIPT THEORY
+example). This is a necessary inference from (38): if I drove to Dallas it
+follows necessarily that I did so using some vehicle. Note also that if I
+utter (39)
+(39)
+“I did not drive to Dallas”
+it also follows that I did not do so using some kind of vehicle (so I
+could have walked to Dallas, or ridden a bus to Dallas). The resistance
+to negation is a clear indication that the inference that I went to Dallas
+(regardless of mode of transportation) is a presupposition.
+Now, (38) also activates personal scripts for SHOPPING (I occasion-
+ally go to Dallas to shop) or SYMPHONY (I occasionally go to the
+symphony at the Meyerson Symphony Center). So, upon hearing (38)
+my friends could reasonably say
+(40)
+“Oh, what was playing at the Meyerson?”
+or
+(41)
+“Went shopping, eh?”
+The fact that these inferences are entirely probabilistic (I could have
+gone to Dallas for another reason than shopping or going to the sym-
+phony) and would not resist negation (either (40) or (41) would be
+absurd following (39)) tells us that these are inferences, and more
+specifically, implicatures. Along the same lines, we could have inferences
+that activate scripts (they follow necessarily from the utterance, but do
+not resist the negation test). For example,
+(42)
+I drove to Dallas with my wife.
+would dis-activate the bachelor script (assuming it had been active, of
+course).
+The conclusion then is that “inferential activation” as I used it in
+2001a, is a generic term that covers all three kinds of inferences: presup-
+positions, inferences, and implicatures. All three can activate a script.
+Since all three are implicit forms of information, I speak of implicit
+activation of scripts.
+There is another way to activate a script, by “spreading activation.”
+Spreading activation is a term from cognitive-psychology: when a node
+is activated, its immediate neighbors are also activated, but at a much
+lower level. The neighbors of the latter nodes are also activated, but at
+125
+
+
+--- PAGE 149 ---
+THE SEMANTICS OF HUMOR
+at an even lower level, and so on, until the activation falls below the
+threshold of activation.
+Consider now a situation in which a set of adjacent nodes (because
+they are all related to a given concept) is activated, while the node they all
+are related to is not directly activated. Despite not having been explicitly
+activated (by being mentioned in the text), the node that is related to the
+others will receive enough spreading activation to become activated as
+well. Petruck (1996, p. 3) has a good example:
+consider the sentence Julia will open her presents after blowing out the candles and eating
+some cake. Although there is no mention of a birthday party, interpreters sharing the
+requisite cultural background invoke a birthday party scene.
+While birthday party has not been lexically activated by being men-
+tioned in the text, it becomes activated by spreading activation because
+enough activation “spills over” from the lexically activated scripts for
+present, cake, blow out candles to activate the script for birthday
+party, at least within a culture that celebrates birthdays with cakes with
+candles, etc.
+6.1.4 Combinatorial explosion
+As we have seen, scripts can be activated lexically, by spreading acti-
+vation, and inferentially. It is not clear whether there is a distinction
+between the last two modalities of activation. How is the sentence
+meaning arrived at? Plainly by combining all the lexical and implicit
+activation into a macro-script. This immediately presents a problem,
+described in Attardo (2001a) as a combinatorial explosion. Indeed, if
+one considers all the possible meanings of all the scripts activated in a
+text, the combinations among them reach the hundreds of thousands
+even for relatively short texts.
+The combinatorial proliferation is kept in check by disambiguation,
+which eliminates most alternative meanings as incompatible with the
+script being activated but also by strictly pragmatic factors such as
+relevance and appropriateness. This explains why the storage area does
+not run out of space.
+The combination of the various meanings is technically called
+“unification.” Unification is an “information-combining operation”
+(Shieber, 2003, p. 9). For example, the words “she” and “loves” both have
+126
+
+
+--- PAGE 150 ---
+6.2 THE SEMANTIC SCRIPT THEORY OF HUMOR’S TWO CONDITIONS
+Table 6.1 Combinatorics for two scripts
+unmarried
+academic title
+knight
+seal
+disease
+paralyzed unmarried
+paralyzed BA
+paralyzed knight
+paralyzed seal
+moral
+indecisive unmarried
+indecisive BA
+indecisive knight
+indecisive seal
+the features [3rd person] and [singular] (she [3rd person], [singular];
+loves [3rd person], [singular]) and thus they can be unified, yielding she
+loves [3rd person], [singular]). In its most abstract notation, unification
+can be represented as aa = a.
+What this all boils down to is that if one of the possible meanings of
+the script is incompatible with another, their unification fails (i.e., they
+are not combined) and another meaning is tried. Raskin represents this
+as a matrix of combinations among the numbered senses of the scripts
+(1985, p. 86). For example, “paralyzed” has a disease meaning and a
+moral meaning (as in unable to act); “bachelor” is famously analyzed
+by Katz and Fodor as 4-way ambiguous: 1 marriage (as in un-married);
+2 academic title (as in bachelor of art); 3 knight, and 4 seal (without
+a mate). This yields potentially 8 combinations listed in Table 6.1 above.
+Contextual pressure would then select among these combinations to
+reduce the acceptable meanings to one (ideally) or a few more.
+We have now reviewed all the technical information about script-
+based semantics necessary to understand the original formulation of the
+script-based semantic theory of humor, to which we turn next.
+6.2 The Semantic Script Theory of Humor’s two conditions
+Let us repeat here Raskin’s formulation of the Semantic Script Theory of
+Humor’s central hypothesis:
+(43)
+A text can be characterized as a single-joke-carrying-text if both
+of the [following] conditions are satisfied:
+i) The text is compatible, fully or in part, with two different
+scripts.
+ii) The two scripts with which the text is compatible are oppo-
+site ( . . . ). The two scripts with which some text is compat-
+ible are said to overlap fully or in part in this text (Raskin,
+1985, p. 99).
+127
+
+
+--- PAGE 151 ---
+THE SEMANTICS OF HUMOR
+6.2.1 Oppositeness
+The concept of oppositeness was examined in some detail in Attardo
+(1997). The following is the operational definition I proposed as the
+synthesis of previous research:
+It should be clear from the highlighted sections that incongruity is essentially defined as
+divergence from expectations, in a way consistent with its ordinary meaning indicating
+the opposite of “the quality or state of agreeing, coinciding, or being congruent”
+(Merriam-Webster).
+(Attardo, 1997, p. 398)
+Raskin’s definition of opposition is as follows:
+[the opposed scripts are] local antonyms, i.e., two linguistic entities whose meanings are
+opposite only within a particular discourse and solely for the purpose of this discourse.
+(1985, p. 108)
+As I noted in Attardo (1997), Lyons’ definition of antonymy is of no use
+here, despite being quoted by Raskin, because Raskin is rejecting that
+definition. I proceeded to provide a definition of local antonymy, that
+borrows from Lyons, but that avoids Raskin’s criticism:
+the locality requirement of the Semantic Script Theory of Humor is to be interpreted
+as constructing a context in which being a doctor is the opposite of (i.e., is not) being
+a lover.
+while the antonymy is to be interpreted simply as the logical negation of
+the script (i.e., any other script).10 Tinholt (2007, p. 50) further refines
+the definition proposing that
+two words are antonyms when they have all characteristics in common, except for one
+where characteristics are defined as nodes and links. Essentially,
+antonymic scripts would differ in one node and/or link, whereas the
+rest of the activated nodes and links would overlap.
+6.2.2 Overlapping
+The definition of “overlapping” is simpler: two scripts are said to be over-
+lapping in a text if the text overall is, or parts of it are compatible with
+10 In Attardo (1997), I also carry out an attempt at redefining opposition in terms of
+accessibility and informativeness. This is not the place to discuss that hypothesis.
+128
+
+
+--- PAGE 152 ---
+6.2 THE SEMANTIC SCRIPT THEORY OF HUMOR’S TWO CONDITIONS
+both scripts. Thus, putting on one’s cowboy boots, hat, and bandanna,
+are compatible both with the scripts bronco busting and honky-tonk
+dancing. In Raskin’s infamous doctor’s wife joke (44), the knocking on
+the door of the patient, the breathy voice, and the inquiry as to whether
+the doctor is home are compatible both with the script for patient
+visiting the doctor and man visiting his lover.
+6.2.3 The exemplar doctor’s wife joke
+As mentioned in Chapter 1, the doctor’s wife joke, analyzed by Raskin
+(1985, pp. 117–127) has become an exemplar text for the linguistics of
+humor. It should be emphasized that Raskin chose the joke not because
+it is a good joke, as in aesthetically pleasing or interesting, but on the
+contrary, because it is a simple, clear joke, with a single opposition, and
+no special complications. Below is the text:
+(44)
+“Is the doctor at home?” the patient asked in his bronchial
+whisper. “No,” the doctor’s young and pretty wife whispered in
+reply. “Come right in.”
+The exposition of the analysis is going to be non-technical, as a full
+blown analysis would require extensive discussion, mostly repetitive in
+nature (see Raskin, 1985, pp. 117–127; Attardo, 2001a, pp. 10–16, for
+examples).
+The reader will activate the lexical scripts for doctor, patient and
+bronchi, even assuming that the latter script is minimal and includes
+only vague information such as links with medical and possibly lungs.
+Inferentially, the script for medical visit is activated. Here the joke
+shows its age as today doctors rarely if ever receive patients at home.
+However, one will probably be familiar (i.e., have as part of their script
+for doctor) with the fact that in the past, they used to have their office
+in a room of their home, at least in smaller villages.11 So far, so good.
+We have activated a macro-script doctor visit in which the patient is
+the man asking if the doctor is at home. His whispering is compatible
+with the script, as respiratory track illnesses often affect breathing and
+speaking patterns, for example by making speaking painful.
+However, the second sentence complicates things: first, the speaker is
+the doctor’s wife, who informs the man that the doctor is not home.
+11 I can attest visiting my childhood doctor in his office at his home.
+129
+
+
+--- PAGE 153 ---
+THE SEMANTICS OF HUMOR
+From the script for doctor we know that physical presence is a
+prerequisite for a visit12 and hence the reader can extrapolate that the
+man’s purpose having been defeated he will leave (perhaps to return
+later, when the doctor will be home). Second, the text informs the
+reader that the wife is young and pretty. This information is irrelevant
+to the man’s goal of seeing the doctor, thus it is odd with what has
+been presented. Third, the wife is also whispering. It is possible that the
+wife is also ill: maybe an epidemic of respiratory illnesses has struck
+the village. However, this is again an odd bit of information, which a
+well-behaved text would topicalize. Fourth, the wife invites the man to
+enter the house. This last detail, which is incompatible with the first
+script entirely, forces the reader to stop trying to patch up the first
+hypothesis and to try to come up with a different hypothesis. Here, the
+wife’s youth and beauty become potentially relevant (as presumably,
+young people have more sex than older people), but the whispering is
+compatible with a secrecy script (people who want to keep something
+secret often whisper it rather that speaking in a full voice for fear of
+being overheard), and the invitation to come in the absence of the
+doctor/husband is compatible with an adultery script (one tends to
+commit adultery when one’s spouse is not present, as spouses tend to
+react negatively to their partner’s adultery).13 So, if we reinterpret the
+text as a secret (hence the whispering) meeting between lovers in the
+absence of the husband, the second part of the text makes sense and
+the behavior of the wife is explained.
+Thus the text is compatible in part with two scripts: doctor and
+lover (Raskin, 1985, p. 117) or to be more precise medical visit
+and adultery. Note that the overlap is not full: in the first sentence
+the man is described as a “patient” thus negating the adultery script.
+Clearly a different wording of the text could have produced a fully
+overlapping text. The two scripts are opposed, for the purposes of the
+text: either the man is there to see the doctor or he is there to see his
+wife.14 Hence the Semantic Script Theory of Humor concludes that the
+12 Again, the quaintness of the text is apparent, as in today’s age, telemedicine would fix
+that problem.
+13 There exist sexual perversions in which spouses actively encourage adultery. If this
+were the case, the text would have focalized this detail. Since it did not we can safely assume
+that the doctor would be upset if he found out his wife is sleeping with a patient.
+14 I guess it is possible that the lover of the doctor’s wife is ill that day and goes to the
+doctor opportunistically thinking that he either will get cured or will have sex with the wife.
+However, we are now writing another story.
+130
+
+
+--- PAGE 154 ---
+6.2 THE SEMANTIC SCRIPT THEORY OF HUMOR’S TWO CONDITIONS
+text in question has all the necessary and sufficient characteristics to be
+potentially humorous.
+6.2.4 Methodological issues
+The Semantic Script Theory of Humor is essentialist, that is it provides
+the necessary and sufficient conditions for a text to be humorous, and
+reductivist, i.e., it reduces its object of study to simpler, better known
+phenomena. Specifically, it reduces humor to three simpler concepts:
+scripts and the overlap and opposition thereof. As we saw, it is also an
+essentialist theory, since it provides us with the necessary and sufficient
+conditions for a text to be funny, potentially. This brings about the
+next topic: the Semantic Script Theory of Humor is a theory of humor
+competence.
+6.2.4.1 The Semantic Script Theory of Humor is a theory of humor
+competence
+Probably the biggest misunderstanding about the Semantic Script The-
+ory of Humor is that it is a theory of humor competence, not of humor
+performance. As such it has nothing to say about whether a given text
+is perceived as humorous (performance). So to be precise, we should
+state the goal of the theory as presenting the necessary and sufficient
+conditions for a text to be potentially perceived as humorous. Whether
+this is actually humorous to a given audience, etc. is the subject of the
+third part of the volume.
+6.2.4.2 The Semantic Script Theory of Humor is a theory of jokes
+This too has been seriously misunderstood. The Semantic Script Theory
+of Humor is elaborated on the basis of a corpus of jokes for a simple
+and very effective methodological reason: jokes are simpler forms of
+humor, in the sense that they tend to be limited to one source of humor
+at a time. Other texts are hyperdetermined (Attardo, 1994), i.e., have
+multiple concurrent sources of humor. When elaborating a theory one
+should start from the simpler cases and then build up the theory to
+account also for the more complex cases. Indeed, pre-theoretically, one
+would not even know how to isolate the various sources of humor from
+a hyperdetermined text.
+131
+
+
+--- PAGE 155 ---
+THE SEMANTICS OF HUMOR
+6.2.4.3 Relational nature of the Semantic Script Theory of Humor
+Let us focus our attention on the fact that this semantic definition of
+humor has in fact very little to say about the “content” of humor. Raskin
+(1985, pp. 111–114; 126–127) has some more specific considerations,
+but they are contingent, and in fact extraneous to the theory itself
+(Raskin, p.c.). Let us consider an example: Raskin (1985, p. 127) lists the
+following basic oppositions on which all the numerous jokes analyzed
+in his book are based:
+good / bad
+life / death
+sex / no sex
+money / no money
+high status / low status15
+While indeed the list has a very broad coverage we note that the
+oppositions
+excrement / non-excrement
+physical handicap / non-physical handicap
+are missing although a large segment of humor is based precisely on
+those. It should be emphasized again that this is not an inadequacy
+of the semantic theory of humor, but merely an indication of breadth
+of coverage of the corpus used to develop it. While the readers may
+be quite familiar with excretory jokes, jokes on physical handicaps are
+an absolute social taboo in our society today. Yet, during a period
+ranging from the Middle Ages to the Renaissance court jesters were
+often persons afflicted by some physical handicap.
+Moreover, different cultures may have different sets of scripts available
+for humor. In the Middle Ages, people affected by dwarfism and by
+other deformities (hunchbacks) were considered perfectly acceptable
+targets for pranks and humor. In fact, they sometimes became jesters.
+Today, laughing at someone’s physical deformity is considered beyond
+the pale, at least in polite society. Likewise, blackface minstrel shows
+are now considered offensive, but between 1850 and 1950 they were
+quite popular and taken to be funny in the US. Another example, about
+mocking a blind man, considered humorous in an African culture, is
+analyzed in Section 13.1. Phallophoric processions were common in
+15 I am slightly altering the wording of the oppositions for clarity.
+132
+
+
+--- PAGE 156 ---
+6.3 NON-BONA-FIDE
+ancient Greece and still are in contemporary Japan, but are unheard of
+in contemporary Western society. One could multiply the examples.
+While the historical and cultural changes of what counts as appro-
+priate for humorous exchanges are a fascinating subject of inquiry, the
+entire issue is irrelevant from the point of view of the semantics of
+humor: what matters is that all humor can be accounted for in terms
+of overlapping and opposed scripts, regardless of the fact that a given
+society, group or individual will or will not consider a given combination
+of scripts a fitting subject for humor. In other words, the semantic theory
+of humor is a relational or functional description of humor, in which
+what matters are the interrelations of the various scripts, and not their
+substance (i.e., what specific scripts are involved).
+6.3 Non-bona-fide
+The Semantic Script Theory of Humor has another facet, seldom
+discussed in conjunction with the overlap and opposition hypothesis
+discussed above, namely that humor is a non-bona-fide mode of
+communication. Non-bona-fide is defined as an utterance that does
+not follow Grice’s principle of cooperation (Raskin, 1985, p. 100); bona-
+fide (Latin: “in good faith”) communication are utterances that follow
+the principle of cooperation. We discuss in full the violation of Grice’s
+principle of cooperation and its maxims in Chapter 8, so a discussion of
+this aspect of Raskin’s theory will be found there.
+Here we must however address another common misconception,
+namely the idea that the Semantic Script Theory of Humor does not
+include a pragmatic component. While one must admit that the name of
+the theory may be misleading in that respect16 even a superficial reading
+of Raskin’s text immediately reveals that the Semantic Script Theory of
+Humor contains a significant pragmatic component at two levels:
+1. script-based semantics incorporates a lot of what has been called
+encyclopedic information (world knowledge), as opposed to
+lexical information (word meaning); encyclopedic information
+lies on the pragmatic end of the semantics-pragmatics continuum.
+16 After all it is called the Semantic Script Theory of Humor, not the Pragmatic and
+Semantic Script Theory of Humor.
+133
+
+
+--- PAGE 157 ---
+THE SEMANTICS OF HUMOR
+For example, the differences between “spinster” and “bachelorette”
+are exclusively encyclopedic, because their lexical meaning
+([+human][+/−female][+adult][−married]) is identical.
+2. the theory directly addresses the non-bona-fide nature of humor,
+going so far as to propose (admittedly, tongue-in-cheek) a set of
+maxims for non-bona-fide communication joke telling.
+It is Raskin’s contention that semantics cannot fruitfully be sepa-
+rated from pragmatics. One cannot do semantics properly without
+pragmatics. Pragmatics is part of semantics, in other words. So, in
+conclusion, the Semantic Script Theory of Humor is in fact a Semantic
+Script and Pragmatic Theory of Humor in fact if not in name.
+6.4 The Ontological Semantics Theory of Humor
+Script-based semantics, much like frame-based semantics, has evolved
+in a computational direction: having started out as semantic/pragmatic
+theories of meaning, both theories have been implemented in compu-
+tational applications. Raskin’s script-based semantics work was one of
+the foundations of ontological semantics (Nirenburg & Raskin, 2004)
+which was later a major influence on the work on ontologies that swept
+computational linguistics and computer science at large and is at the
+base of the semantic web and related initiatives (see for example Huang
+et al., 2010; Poli et al., 2010).
+Raskin, Taylor and Hempelmann have developed the Ontological
+Semantic Theory of Humor, a fully computational theory of humor,
+which embodies the Semantic Script Theory of Humor principles in a
+fully computational development. For a discussion, see Raskin (2017b).
+Because in order to understand properly the position of the Ontological
+Semantic Theory of Humor vis-à-vis other approaches to computa-
+tional humor would require an understanding of the non-semantic (or
+marginally semantic) other approaches, we will not undertake this task
+in this context.
+6.5 Conclusions
+This chapter reviewed briefly the Semantic Script Theory of Humor,
+which is the favored semantic theory of humor competence. The theory
+134
+
+
+--- PAGE 158 ---
+6.6 FURTHER READINGS
+consists of a central hypothesis, which provides the necessary and
+sufficient conditions for a text to be potentially humorous: the text must
+be compatible with two scripts (overlap) and the two scripts must be
+opposed, in a technical sense (opposition). Pragmatically, the Semantic
+Script Theory of Humor maintains that humor is a non-bona-fide mode
+of communication, i.e., one in which the principle of cooperation and
+its maxims are violated, i.e., the speaker does not speak in earnest. Since
+the Semantic Script Theory of Humor reduces humor to the presence
+of overlapping and opposed scripts in a text, under certain pragmatic
+conditions (non-bona-fide) it is a reductionist and essentialist theory.
+These are positive qualities, as explained in Chapter 3.
+6.6 Further readings
+Probably because the foundational text of the Semantic Script Theory of
+Humor is easily accessible, there have been no definitive introductory
+treatments of the subject. Someone interested in going deeper should
+just read Raskin (1985). Attardo (1994, 2001a, 2008) review the theory
+and some of its offshoots.
+There exists no comprehensive treatment of frame or script semantics
+that surveys the entirety of the literature. Useful surveys are Andor
+(1985), Raskin (1985 ch. 3), Attardo (2001a ch. 3), and Attardo (2020).
+Collections of papers were edited by Raskin (1985, 1986) and Lehrer and
+Kittay (1992). On Fillmore’s frame semantics, see Petruck (1996). On the
+evolution of Raskin’s work into ontological semantics, see Raskin et al.
+(2009); Taylor & Raskin (2012); Raskin (2017b).
+135
+
