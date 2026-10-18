@@ -6,3 +6,8 @@
 ## gcomedy
 - THESIS-timing-is-composition.md
 - experiments/FINDINGS.md
+
+## characters/characters2 source files
+
+- `/root/characters/theory/LAUGHTER-THEORIES.md`
+- `/root/characters2/theory/FORMATS-joke-types.md`
