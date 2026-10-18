@@ -1,0 +1,28 @@
+# STORYBOARD — Video 6: Button (11.5 min)
+
+## EXPOSITION
+
+| # | t0–t1 | Visual | Audio | Overlay data | Dur |
+|---|---|---|---|---|---|
+| S01 | 0:00–0:30 | Black → "Close it so it stays closed." + verdict hit | Narrator cold open | none | 30s |
+| S02 | 0:30–1:30 | Applause curves: closed (spike+decay) vs open (plateau+dribble) | Narrator proof | waveform compare | 60s |
+| S03 | 1:30–2:30 | Vocabulary: closure, discharge, trajectory, handoff | Narrator defines | glossary cards | 60s |
+
+## DEVELOPMENT
+
+| # | t0–t1 | Visual | Audio | Overlay data | Dur |
+|---|---|---|---|---|---|
+| S04 | 2:30–4:00 | Perfect cadence V–I (tension demands resolution) | Narrator lens + audio | cadence diagram | 90s |
+| S05 | 4:30–6:00 | Carlin verdict vs Normand shrug (split, same geometry) | Narrator persona + 2 clips | monument vs dismissal tags | 90s |
+| S06 | 6:00–9:30 | Closer dissected: trajectory map wandering→returning; return starts 30–60s before final line; applause starts BEFORE line ends | Narrator + full 90s clip | trajectory map, prediction-applause marker | 210s |
+| S07 | 9:30–10:15 | Seinfeld circular close (final bit reuses first premise) | Narrator + clips | circular trajectory (start=end coords) | 45s |
+
+## RECAPITULATION
+
+| # | t0–t1 | Visual | Audio | Overlay data | Dur |
+|---|---|---|---|---|---|
+| S08 | 10:15–11:00 | Split: leaver (trail-off, uphill next bit) vs double-button (reopen, cheaper second close) | Narrator failure modes | open-trajectory hum markers | 45s |
+| S09 | 11:00–11:30 | Thesis restated + premise hook ("where worlds come from") | Narrator close | series map, premise highlighted | 30s |
+
+## Totals
+690s = 11.5 min. Render order: S06 anchor (trajectory map build), then S05/S02.
