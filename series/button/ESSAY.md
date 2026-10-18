@@ -70,9 +70,15 @@ close once, move on. The applause is the room's — leave it with them.
 
 **[17:00] UNIVERSAL + CLOSE.** Everything that matters ends with a
 button or haunts you without one. Conversations, relationships, careers,
-lives: open trajectories hum in the background forever (the Zeigarnik
-effect — the mind holds unfinished tasks tighter than finished ones).
-Comedians are professional closers. They practice, nightly, the thing
+lives: open trajectories hum in the background forever (psychologists
+have a name for it — unfinished business sticks tighter than finished
+business). Comedians are professional closers. They practice, nightly, the thing
 everyone else avoids: ending cleanly, on purpose, and walking away.
 Series hook for Premise video: "But every trajectory needs somewhere to
 start. Next week: where worlds come from."
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- Zeigarnik effect underlies "open trajectories hum"; unnamed on screen.
+  Cadence lens carries the closure mechanics narratively.

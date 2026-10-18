@@ -90,3 +90,10 @@ go anywhere else.
 ladder — same direction, bigger steps, logic intact. Next week: the
 shortest distance in comedy. The punch: minimal violence, maximum
 rearrangement.
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- UCB heightening + rule-of-three arithmetic (McKeague 2021) underlie the
+  machines; cited as craft sources (UCB, "comedy lore"), never as papers.
+  Carlin 18-in-46 counts measured on screen in gold.

@@ -69,3 +69,9 @@ the follow-up line that's funnier than the story. Arguments: the second
 example that ends it. Music: the encore riff. Tags are what you do with
 leftover energy before it decays — in comedy and everywhere else. Next
 week: what comes back months later. Callbacks — time travel for comedians.
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- Decay-window economics from laugh-decay slopes; Dean tag pipeline as
+  craft source. Louis Monopoly tags as case (GOLD.md transcript).

@@ -114,3 +114,10 @@ by the comic, half by you — and you never noticed doing your half. That's
 not a trick. That's the job. But a platform is only good for standing on.
 Next week: what you do once you're up there — how to climb without falling
 off. Escalation. How to get bigger without getting stupider.
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- Rock quote (Talking Funny, sourced), 2.8:1 platform ratio (335 KT sets),
+  setup predictability r=+0.33 (Exp 3), Pollio 1974 converges. Priority
+  ordering (Nanavira) underlies "shared world" passages; unnamed on screen.

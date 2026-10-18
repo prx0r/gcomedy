@@ -12,31 +12,30 @@ consequence. And the whole thing — the entire machinery of setup,
 expectation, violation, laughter — happens in under three seconds. This
 video is about those three seconds.
 
-**[0:30] PROOF.** Our data, on screen in gold: across 154 scored bits,
-punch length correlates with score at r = −0.32. Shorter punch, funnier
-bit. Not longer setup, not bigger violation — shorter punch. The most
-efficient thing in comedy is also the most effective. And word overlap
-between setup and punch: r = +0.04. Zero. The punch shares almost no words
-with the setup, because the move happens in meaning-space, not word-space.
-One relabeling. Whole world rearranged.
+**[0:30] PROOF.** Across 154 scored bits, one pattern held: the shorter
+the punch, the funnier the bit. Not longer setups, not bigger violations —
+shorter punches. And here's the stranger part: the punch shares almost no
+words with the setup. Count them and see. One relabeling. Whole world
+rearranged. The move happens in meaning, not in vocabulary.
 
 **[1:30] THESIS + VOCABULARY.** A punch does three things in under three
-seconds: it selects one alternative reading (from all the ones the setup
-left live), it promotes that reading from background to foreground
-(priority inversion), and it does it with the fewest possible words. New
-term, one only: reinterpretation distance — how far the audience's model
-has to travel. Short travel, big arrival. That's the whole game.
+seconds: it picks one alternative reading (from all the ones the setup
+left live), it promotes that reading from background to foreground, and it
+does it in as few words as possible. Think of it as travel distance: how
+far does your brain have to go from what you expected to what you got?
+Short trip, big arrival. That's the whole game.
 
 **[2:30] LENS (music first).** The downbeat. Not the crescendo, not the
 melody — the single moment the harmony resolves and the whole preceding
 passage reorganizes itself backward in your memory. Beethoven's Fifth:
 three shorts and a long, and the long reframes everything before it.
 Beethoven doesn't explain the motif. He lands it, and your brain does the
-reorganizing for free. A punchline is a downbeat in meaning-space. Same
+reorganizing for free. A punchline is a downbeat in meaning. Same
 mechanics: preparation accrues, one event lands, the past rearranges
-itself. Bhartṛhari said it about language a thousand years ago — sphoṭa,
-meaning grasped whole in a flash. The punch doesn't give you new
-information. It gives you an entirely new past.
+itself. A thousand years ago, Sanskrit grammarians noticed the same thing
+about sentences — that meaning can arrive whole, in a flash, reorganizing
+everything behind it. The punch doesn't give you new information. It gives
+you an entirely new past.
 
 **[5:00] PERSONA.** Louis: the punch as confession. His punchlines land
 like admissions — short, flat, no performance on top, because the
@@ -85,3 +84,12 @@ the whole picture changes.
 changes everything — one relabeling, whole world rearranged. Next week:
 what you do in the wreckage. Tags — hitting it again before the room
 recovers.
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- Punch length r=−0.32, word overlap r=+0.04 (Exp 2, n=154). Numbers may
+  appear on screen in gold; never spoken as statistics.
+- Sphoṭa/Bhartṛhari underlies the "new past" passage; unnamed on screen.
+- Minimal-displacement claim backed by Marinkovic 2011 (smaller N400 for
+  funny punchlines, right-prefrontal reprocessing).

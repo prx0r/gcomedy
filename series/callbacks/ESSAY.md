@@ -53,10 +53,10 @@ material intervenes). Then [CLIP callback]. On screen: the return arc
 leaving the present position and landing on the earlier marker, which
 lights up gold. Word counts: original 40 words of setup, callback 9
 words. The 9 words carry the 40 invisibly — the audience supplies them
-from memory. That's Bergson's two memories firing at once: habit (the
-motif is familiar) + recollection (that specific night, that specific
-room). Either alone is weaker. Together they're the biggest laugh of the
-hour.
+from memory. That's two memories firing at once: the familiar (you've
+heard this before, it's recognizable) + the specific (that night, that
+specific room). Either alone is weaker. Together they're the biggest laugh
+of the hour.
 
 **[13:00] SECOND SPECIMEN.** Vonnegut, Slaughterhouse-Five: "mustard gas
 and roses" → "roses and mustard gas" (order reversed, significance
@@ -82,3 +82,10 @@ every experiment is a callback to a hypothesis. To call back is to say:
 what happened before still matters, and it means more now than it did
 then. Next week: how it all ends. The button — closing trajectories so
 they stay closed.
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- Bergson habit/recollective memory underlies the "two memories" passage;
+  unnamed on screen. Vonnegut mustard-gas-and-roses (Yagoda) as second
+  specimen. Callback economy (x1.5/half/zero) enforced in analysis.

@@ -83,3 +83,10 @@ machinery audible — the one art form that builds a world nightly, in
 front of witnesses, from eleven words and a microphone. Series hook for
 the Pause video: "But worlds need weather, and weather needs air. Next
 week: the instrument nobody sees — silence."
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- Rock exact quote (Talking Funny) + Acaster red-dress case (true rejected
+  vs fiction bought). Premise-as-shared-priority-ordering (Nanavira)
+  underlies the essay; unnamed on screen.

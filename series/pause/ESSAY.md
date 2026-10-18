@@ -57,14 +57,15 @@ containing zero words. Count the words in the hold (zero) against the
 laugh it produced (the set's biggest). That ratio — infinity to one — is
 why the pause is the most efficient instrument in comedy.
 
-**[14:00] SECOND SPECIMEN.** TAMS 2026: twenty performances of one
-Scooby-Doo routine, measured like music. Finding: repeated silences MORE
-temporally consistent than laughter across performances. The comic holds
-the same silences nightly to the tenth of a second; the laughs vary.
-Different handling that proves the rule from the other side: the silence
-is composed (fixed, deliberate, repeatable), the laughter is weather
-(variable, emergent). The instrument is the constant. The room is the
-variable. Play the constant exactly, let the variable do what it does.
+**[14:00] SECOND SPECIMEN.** A 2026 study measured twenty performances of
+one routine the way musicologists measure concertos — same song, twenty
+nights. Finding: the silences stayed identical to the tenth of a second
+while the laughs moved around. The comic holds the same silences nightly;
+the laughs vary. Different handling that proves the rule from the other
+side: the silence is composed (fixed, deliberate, repeatable), the laughter
+is weather (variable, emergent). The instrument is the constant. The room
+is the variable. Play the constant exactly, let the variable do what it
+does.
 
 **[16:30] FAILURE MODE.** Two deaths. One: dead air mistaken for a hold —
 silence with no accrued weight (nothing expected, nothing suspended).
@@ -86,3 +87,10 @@ climb, break, echo, return, close, world, silence. Same instrument the
 whole time. You were listening to it in video one. You just couldn't hear
 it yet — because you didn't know that what you were hearing, between every
 word that mattered, was nothing. Played perfectly.
+
+---
+
+## PRODUCTION NOTES (not narrated — grounding only)
+- 14x holds, TAMS, DPV, Attardo/Pickering, Zhong 2026 back every claim;
+  paper names never spoken. Hold-then-snap trajectory (pause 1.4-2x, 1.48x
+  delivery) in overlays only. Twain pause passage quotable (public domain).
