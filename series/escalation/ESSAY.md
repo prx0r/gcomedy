@@ -1,6 +1,6 @@
 # HOW TO ESCALATE LIKE A GOD — full script
 
-> Video 2, Fundamentals of Comedy. ~20 min. Thesis: Escalation is climbing
+> Episode 3, Fundamentals of Comedy. ~14 min (840s board). Thesis: Escalation is climbing
 > without leaving the ladder — every step bigger, none sideways.
 
 ---
@@ -8,16 +8,16 @@
 **[0:00] ENGINE NAMED.** Anybody can be surprising once. The pros are
 surprising four times in a row about the same thing, each time bigger
 than the last, and the fourth one kills harder than the first three
-combined. That's escalation. And it's a separate skill from writing jokes
-— it's the skill of climbing.
+combined. That's escalation. Escalation is climbing without leaving the
+ladder — every step bigger, none sideways. And it's a separate skill from
+writing jokes — it's the skill of climbing.
 
-**[0:30] PROOF.** Carlin, planet bit: earthquakes, volcanoes, plate
-tectonics, continental drift, solar flares, sunspots, magnetic storms,
-pole reversals, comets, asteroids, meteors, sandstorms, erosion, cosmic
-radiation, worldwide fires, worldwide floods, recurring ice ages — eighteen
-phenomena in forty-six words in twenty seconds — versus humanity's
-contribution: two things, ten words, ten seconds, whined like a child.
-[CLIP] The avalanche versus the pathetic. The ratio IS the joke. If he'd
+**[0:30] PROOF.** Carlin, planet bit. [CLIP: ≤15s excerpts] Eighteen
+phenomena in twenty seconds — earthquakes to ice ages, an avalanche of
+disaster. [GOLD CARD: 18 items / 46 words / 20s — count verified against
+transcript at pull, method in ANALYSIS.md] Versus humanity's contribution,
+whined like a child. [GOLD CARD: payoff excerpt counts on card] The
+avalanche versus the pathetic. The ratio IS the joke. If he'd
 listed four disasters it would be a remark. Eighteen makes it a
 crescendo, and the tiny ending detonates because of the climb, not despite
 it.
@@ -39,7 +39,7 @@ each confirming the assumption and raising it. A rule-of-three list ends
 by telling you were wrong. An escalation list ends by telling you had no
 idea how right you were. Different machines. Don't confuse them.
 
-**[5:00] PERSONA.** The UCB game: find the first unusual thing, then bear
+**[4:30] PERSONA.** The UCB game: find the first unusual thing, then bear
 hug it in ONE direction — heaven or heck, never both. Mick Napier's
 warning: performers are "too nice," reluctant to push a dynamic to its
 logical extreme. The pros aren't nicer. Norm Macdonald could ride one
@@ -50,8 +50,8 @@ Going sideways — new idea instead of bigger same idea — is the amateur
 tell. If the third item is merely different, the machine stalls. If it's
 bigger, it flies.
 
-**[8:00] CASE STUDY.** Take an escalation list apart beat by beat. [CLIP:
-KT list bit or Carlin planet bit, full] Items one and two install the
+**[6:00] CASE STUDY.** Take an escalation list apart beat by beat. [CLIP
+×4, each ≤15s: KT list bit or Carlin planet bit, pause-analyze-resume] Items one and two install the
 category — ordinary, confident, fast. Item three confirms and raises.
 Item four raises again. Watch the room: each laugh is bigger, and each
 laugh is ABOUT the previous laugh as much as the new item. The audience is
@@ -60,7 +60,21 @@ sentence that reinterprets the entire climb. Overlays: intensity curve
 rising per item, the break marked in red. Count the words per item on
 screen. The pattern is visible before anyone explains it.
 
-**[14:00] SECOND SPECIMEN.** Improv game, heightening live: same scene,
+**[9:00] THE STEPS, COUNTED (case coda).** Back to Carlin's planet bit with a
+counter on screen. Item one (earthquakes): room chuckles — recognition.
+Item two (volcanoes): bigger — pattern confirmed. Items three through six:
+the room stops laughing at items and starts laughing at ACCUMULATION.
+Watch faces in the crowd shot: by item eight nobody's processing content
+anymore, they're riding velocity. Items ten through fifteen: pure rhythm,
+the words barely matter (plate tectonics could be anything — it's the
+PILE that kills). Then the stop: "aluminum cans and plastic bags." [GOLD
+CARD: climb/p payoff counts — pending transcript verification] The avalanche
+exists for exactly one purpose — to make a few whined words feel like a
+verdict on the species. Steeper climbs feel thin; flatter ones feel
+indulgent — exact bands are calibration at build, not law.
+
+
+**[10:00] SECOND SPECIMEN.** Improv game, heightening live: same scene,
 three beats, each bigger, no script. [CLIP: UCB-style game ride] Different
 handling — written escalation is engineered, improvised escalation is
 discovered — but the shape is identical. Direction held, stakes raised,
@@ -69,23 +83,8 @@ because the audience can now predict the direction and is rewarding
 themselves for seeing it coming. Surprising them with what they knew was
 coming — that's the paradox only escalation can pull off.
 
-**[12:00] THE STEPS, COUNTED.** Back to Carlin's planet bit with a
-counter on screen. Item one (earthquakes): room chuckles — recognition.
-Item two (volcanoes): bigger — pattern confirmed. Items three through six:
-the room stops laughing at items and starts laughing at ACCUMULATION.
-Watch faces in the crowd shot: by item eight nobody's processing content
-anymore, they're riding velocity. Items ten through fifteen: pure rhythm,
-the words barely matter (plate tectonics could be anything — it's the
-PILE that kills). Then the stop: "aluminum cans and plastic bags." Ten
-words. Ten seconds. Whined like a child. The eighteen-item avalanche
-exists for exactly one purpose — to make ten whined words feel like a
-verdict on the species. Measure it: 46 words of climb, 10 words of payoff,
-4.6:1 ratio. Escalation steeper than 3:1 feels thin (not enough climb);
-flatter than 6:1 feels indulgent (too much climb). The masters live
-between 4 and 5. That's not taste. That's engineering.
 
-
-**[15:30] WHAT ESCALATION BUYS.** The climb isn't the point. The climb is
+**[10:45] WHAT ESCALATION BUYS (specimen coda).** The climb isn't the point. The climb is
 what the ending spends. [CLIP: same bit's finale — a quiet line that only
 detonates because of the five minutes beneath it] Play that final line
 cold, with no climb before it: polite chuckle, maybe. Play it after the
@@ -99,7 +98,7 @@ That's interest accruing. The audience can feel the account growing and
 they're excited about what it's going to buy.
 
 
-**[17:00] FAILURE MODE.** Two ways to die. One: the stall — item four
+**[11:30] FAILURE MODE.** Two ways to die. One: the stall — item four
 doesn't beat item three. Same size, or smaller. The machine stops and the
 room feels the stop like a dropped call. (This is what people mean when
 they say list gags are cheap — no, stalled lists are cheap.) Two: the
@@ -108,7 +107,7 @@ new world, all accrued weight abandoned. The room has to rebuild
 priority from zero mid-bit, and it won't. Escalation asks for discipline:
 up, never sideways, and stop while the curve still climbs.
 
-**[19:00] UNIVERSAL.** Everything that grows works this way or dies.
+**[12:45] UNIVERSAL.** Everything that grows works this way or dies.
 Stories, careers, relationships, revolutions: hold the direction, raise
 the stakes, preserve the logic. What kills them is never smallness — it's
 sideways drift mistaken for growth. The comedian who can climb one idea
@@ -116,7 +115,7 @@ for five minutes without stepping off it is demonstrating the rarest
 discipline there is: knowing exactly where you're going and refusing to
 go anywhere else.
 
-**[20:00] CLOSE + HOOK.** Escalation is climbing without leaving the
+**[13:30] CLOSE + HOOK.** Escalation is climbing without leaving the
 ladder — same direction, bigger steps, logic intact. Next week: the
 shortest distance in comedy. The punch: minimal violence, maximum
 rearrangement.
@@ -126,4 +125,6 @@ rearrangement.
 ## PRODUCTION NOTES (not narrated — grounding only)
 - UCB heightening + rule-of-three arithmetic (McKeague 2021) underlie the
   machines; cited as craft sources (UCB, "comedy lore"), never as papers.
-  Carlin 18-in-46 counts measured on screen in gold.
+- Carlin 18-item count: hand-count against transcript at pull, method in
+  ANALYSIS.md; gold cards tagged pending until verified. Ratio bands CUT
+  (no source) — steep/flat guidance is qualitative until calibrated.

@@ -1,4 +1,4 @@
-# STORYBOARD — Video 3: The Punch (12 min)
+# STORYBOARD — Episode 4: The Punch (12 min)
 
 ## EXPOSITION
 

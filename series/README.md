@@ -6,9 +6,26 @@
 > side by side, no lectures. Theory lives in production notes, never in
 > narration. Book shelf: BOOKS.md.
 
-> 8 videos, one per function. Magnum-opus styling (track bar + glyphs,
+> 15 episodes in 5 phases (first principles: unit → text → performance →
+> dynamics → origin). Magnum-opus styling (track bar + glyphs,
 > Funnier palette, gold measurements). Human comics only — no fictional
 > freaks as examples. Every claim lands on measured data or a sourced clip.
+>
+> | Phase | Episodes | Rule |
+> |---|---|---|
+> | THE UNIT (what is a joke?) | 0. Joke | The atomic unit first — decompose before performing |
+> | THE TEXT (what you say) | 1. Premise → 2. Setup → 3. Escalation → 4. Punch → 5. Tags → 6. Callbacks → 7. Button | Write before saying: world, platform, climb, snap, extend, return, close |
+> | THE PERFORMANCE (how you say it) | 8. Pause → 9. Delivery → 10. Timing | Instrument (delivery) before score (timing); pause is one note, timing the composition |
+> | THE DYNAMICS (invisible forces) | 11. Status → 12. Target → 13. Misdirection | Operate on top of text + performance; perceived through voice and pauses |
+> | THE ORIGIN (where it comes from) | 14. Where Jokes Come From | Esoteric payoff last — the source, after the machinery |
+>
+> Hook chain (each close hands to the next): joke→premise→setup→escalation→
+> punch→tags→callbacks→button→pause→delivery→timing→status→target→
+> misdirection→origin. Origin has no hook-out (series coda).
+>
+> Folder mapping (episode dir ↔ resources topic — names differ in 3 places):
+> escalation↔escalate, tags↔tag, callbacks↔callback; origin lives at
+> series/where-jokes-come-from/ ↔ resources/where-jokes-come-from/.
 
 ## The template (copy this folder structure per video)
 
@@ -45,22 +62,27 @@ Derived from Tymoczko's five components, restated as production law:
    moments (max 2 per video). Pause discipline: 2–3s after key lines only.
    Section changes on musical bar lines (fixed BPM bed per video).
 
-## §2. Beat order (gold 11-beat arc, tightened for 18–22 min)
+## §2. Beat order (gold 10-beat arc, tightened for 9–15 min)
 
 ```
 1. ENGINE NAMED (0:00–0:30) — the function in one line + thesis sentence
 2. PROOF (0:30–1:30) — one clip showing the function working, unexplained
 3. SPECIFIC THESIS (1:30–2:30) — what this video claims + vocabulary list
-4. CROSS-DOMAIN LENS (2:30–5:00) — the device defined via music/film FIRST
-5. PERSONA LAYER (5:00–8:00) — one comic's relationship to this function
-6. CASE STUDY (8:00–14:00) — one bit, chronological, clip IS text, overlays fire
-7. SECOND SPECIMEN (14:00–17:00) — same function, different comic, different handling
-8. FAILURE MODE (17:00–19:00) — the function done wrong (overshoot taxonomy)
-9. HUMAN UNIVERSAL (19:00–20:30) — mechanism → claim about being alive
-10. CLOSE (20:30–22:00) — thesis restated + series hook (next function)
+4. CROSS-DOMAIN LENS (2:30–4:00) — the device defined via music/film FIRST
+5. PERSONA LAYER (4:00–6:00) — one comic's relationship to this function
+6. CASE STUDY (6:00–10:00) — one bit, chronological, clip IS text, overlays fire
+7. SECOND SPECIMEN (10:00–12:00) — same function, different comic, different handling
+8. FAILURE MODE (12:00–13:00) — the function done wrong (overshoot taxonomy)
+9. HUMAN UNIVERSAL (13:00–13:30) — mechanism → claim about being alive
+10. CLOSE (13:30–14:00) — thesis restated + series hook (next function)
 ```
 
-Word budget: 18–22 min × 160 WPM = 2,880–3,520 words spoken.
+Total: 30+60+60+90+120+240+120+60+30+30 = 840s = 14 min target.
+Range: 9–15 min (matches STORYBOARD-TEMPLATE + BUILD-PIPELINE stage 1).
+
+Word budget: narration carries the beats; clips/pauses carry the rest.
+Narration 1,100–1,600 words @160 WPM (7–10 min spoken) + clips/pauses
+fills to 9–15 min total. Boards fail review outside 9–15 min.
 
 ## §3. Data discipline (all videos)
 

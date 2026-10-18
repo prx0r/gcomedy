@@ -21,9 +21,14 @@
 
 ### 1. SCRIPT LOCK
 Assemble narration from ESSAY.md at 160 WPM against the beat map.
-Word budget per beat; total 9–15 min with clips/pauses.
+Word budget per beat; narration 1,100–1,600 words + clips/pauses =
+total 9–15 min (matches README §2 + STORYBOARD-TEMPLATE).
 GATE: word counts per beat sum to budget. No theory in narration
-(check against production notes — statistics/names out).
+(check against production notes — paper/author names out; at most ONE
+measured number per beat, always paired with its on-screen gold card;
+all other statistics live on gold overlay cards + production notes,
+never in voiceover). This is the two-channel rule: accessible voiceover,
+precise overlays.
 
 ### 2. CLIP PULL
 Pull candidates from CLIPS.md + exemplars. Fair-use ≤15s each.

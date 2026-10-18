@@ -1,4 +1,4 @@
-# STORYBOARD — Video 7: Premise (12 min)
+# STORYBOARD — Episode 1: Premise (12 min)
 
 ## EXPOSITION
 
@@ -22,7 +22,7 @@
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
 | S08 | 10:15–11:15 | Split: unbuilt world (mumbled premise, punch dies) vs abandoned world (beautiful setup, joke goes elsewhere) | Narrator failure modes | flatline + betrayal markers | 60s |
-| S09 | 11:15–12:00 | Thesis restated + pause hook ("worlds need weather") | Narrator close | series map, pause highlighted | 45s |
+| S09 | 11:15–12:00 | Thesis restated + setup hook ("a world is only good to stand in") | Narrator close | series map, setup highlighted | 45s |
 
 ## Totals
 720s = 12 min. Render order: S06 anchor, then S04/S02.

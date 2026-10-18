@@ -1,4 +1,4 @@
-# STORYBOARD — Video 2: Escalation (12.5 min)
+# STORYBOARD — Episode 3: Escalation (12.5 min)
 
 ## EXPOSITION
 
@@ -13,7 +13,7 @@
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
 | S04 | 2:30–4:30 | Ravel Bolero waveform (repetition + growth) + rule-of-three diagram | Narrator lens (music first) | intensity curve template | 120s |
-| S05 | 4:30–6:00 | Normand moth arc + UCB game-ride clip (bear-hug one direction) | Narrator persona | direction arrow (heaven/heck), no-sideways marker | 90s |
+| S05 | 4:30–6:00 | Norm Macdonald moth arc + UCB game-ride clip (bear-hug one direction) | Narrator persona | direction arrow (heaven/heck), no-sideways marker | 90s |
 | S06 | 6:00–10:00 | Carlin planet bit full: 18-item count-up, intensity curve per item, break marked red | Narrator + clip, play→pause→analyze | per-item counters, 4.6:1 payoff card | 240s |
 | S07 | 10:00–11:00 | Improv heightening run (3 beats, discovered live) | Narrator + clip | same curve shape, "discovered" tag | 60s |
 
@@ -29,5 +29,5 @@
 
 ## CLIP KEY (embed URLs for render)
 - Carlin planet bit: pull from resources CLIPS.md (18-in-46 counts verified in transcript)
-- Normand moth: jJN9mBRX3uo (escalation-by-investment variant)
+- Norm Macdonald moth: jJN9mBRX3uo (escalation-by-investment variant)
 - UCB game ride: pull improv-game clip from resources

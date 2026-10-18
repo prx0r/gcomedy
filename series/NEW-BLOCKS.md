@@ -25,6 +25,23 @@
 ## Folders scaffolded (structure to follow series template)
 delivery/ timing/ status/ target/ frame/ misdirection/ confession/ rule/ voice/
 Each needs: STRUCTURE.md + ESSAY.md + STORYBOARD.md + MICRO-TECHNIQUES.md
-+ resources packs (other agent). Gold-formula order: delivery, timing first
-(they complete the performance axis); status/target/frame next (persona
-axis); misdirection/confession/rule/voice last (mechanism axis).
++ resources packs.
+
+## 15-episode order (locked 2026-10-18, first principles)
+Core series (README phase map): Ep 0 joke → 1 premise → 2 setup →
+3 escalation → 4 punch → 5 tags → 6 callbacks → 7 button → 8 pause →
+9 delivery → 10 timing → 11 status → 12 target → 13 misdirection →
+14 where-jokes-come-from (origin; thesis: inverted possibility space).
+- STRUCTURE.md DONE for Ep 9–13 + origin (scaffold status; ESSAY +
+  STORYBOARD + MICRO-SCHEMA entries pending).
+- Packs DONE for all six (series/resources/delivery|timing|status|target|
+  misdirection|where-jokes-come-from/ — CLIPS + CRAFT_TALK + DATA + THEORY).
+- Supersedes the old gold-formula build order below (kept for reference).
+
+## Still open (owner call)
+- frame/ confession/ rule/ voice/ have MICRO-TECHNIQUES.md only. They are
+  NOT in the 15-episode order. Cut, hold as technique banks, or schedule as
+  a second season? No STRUCTUREs until decided.
+- Old gold-formula order (superseded): delivery, timing first (performance
+  axis); status/target/frame next (persona axis); misdirection/confession/
+  rule/voice last (mechanism axis).

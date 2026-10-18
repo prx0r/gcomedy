@@ -1,15 +1,17 @@
 # THE ART OF THE SETUP — full script
 
-> Video 1, Fundamentals of Comedy. ~21 min. Thesis: A setup is a shared
-> world being built in real time — and the audience builds half of it
-> themselves without knowing.
+> Episode 2, Fundamentals of Comedy. ~14 min (840s board). Thesis: A setup
+> is a shared world being built in real time — and the audience builds
+> half of it themselves without knowing.
 
 ---
 
 **[0:00] ENGINE NAMED.** Every joke you've ever laughed at was decided
 before the punchline. Not during it. Before it. By the time the punchline
-arrives, the room has already voted — they just don't know it yet. This
-video is about the part of the joke nobody applauds: the setup.
+arrives, the room has already voted — they just don't know it yet. A setup
+is a shared world being built in real time — and the audience builds half
+of it themselves without knowing. This video is about the part of the joke
+nobody applauds: the setup.
 
 **[0:30] PROOF.** Chris Rock, talking with Seinfeld and Louis CK and
 Gervais on HBO's Talking Funny, said the quiet part out loud: "A lot of
@@ -21,11 +23,12 @@ Rock's fix, by the way, is to repeat the premise — say it again halfway
 through a long chunk, remind the room what world they're in. He treats the
 setup like a campfire. It goes out if you stop feeding it.
 
-Here's a number: across 335 Kill Tony sets — 4,517 beats measured — there
-are 2,941 setups and 1,048 punchlines. Nearly three to one. Working comics,
-including open-mic killers fighting for their lives, spend almost three
-times as many beats building the world as breaking it. The setup isn't the
-boring part before the joke. The setup is most of the joke.
+Here's the number — on screen, in gold: working comics, including
+open-mic killers fighting for their lives, spend nearly three times as
+many beats building the world as breaking it. [GOLD CARD: 2,941 setups /
+1,048 punchlines / 335 Kill Tony sets, measured — method in
+resources/setup/DATA.md] The setup isn't the boring part before the joke.
+The setup is most of the joke.
 
 **[1:30] THESIS + VOCABULARY.** A setup does three jobs. One: it declares
 a world — here's where we are, here's who's here, here's what's normal
@@ -33,11 +36,13 @@ here. Two: it assigns priority — this is foreground, that's background,
 pay attention here and not there. Three: it starts accruing weight — every
 setup beat makes the eventual violation heavier, because there's more
 normal to break. Miss any one of the three and the punch fires into a
-void. Seven words for this series, by the way, and then no new jargon:
-premise, platform, weight, priority, shared world, AAB, setup, punch.
+void. Eight words for this series, by the way, and then no new jargon:
+premise, platform, weight, priority, shared world, AAB (two beats install,
+third breaks), setup, punch.
 That's the whole vocabulary. Everything else is showing, not telling.
 
-**[2:30] LENS (music first).** Autumn Leaves. Eight bars and you know
+**[2:30] LENS (music first).** Showing, not telling, is how music works
+too. Autumn Leaves. [GOLD CARD: 8-bar head, E minor] Eight bars and you know
 everything: the key, the scale, the weather of the thing. E minor the
 first time, E minor the fiftieth time, and it still works, because the
 head isn't information — it's an invitation. Here's the room we're in.
@@ -49,11 +54,11 @@ Everything after is improvisation on a theme the room agreed to in the
 first ten seconds. And here's the part nobody says: the audience builds
 half of it. You hear "Monopoly" and you supply the board, the pieces, the
 fights at Christmas, your own father taking your houses. The comedian said
-eleven words. You built a childhood. That's the deal, and it's why the
+eight words. You built a childhood. That's the deal, and it's why the
 setup is invisible when it works — you're too busy living inside it to
 notice someone constructed it around you.
 
-**[5:00] PERSONA.** Seinfeld builds platforms the way engineers build
+**[4:30] PERSONA.** Seinfeld builds platforms the way engineers build
 bridges — every word load-bearing, transitions shaved until they fit the
 time budget. His Pop-Tart bit exists on a yellow legal pad in longhand,
 and if a transition runs a split second long he doesn't deliver it faster,
@@ -65,7 +70,7 @@ inside narrative and excavated later, so the audience doesn't know when
 the setup ended and the joke began. Three relationships to the same
 function. Same job, different hands.
 
-**[8:00] CASE STUDY (Louis, Monopoly, 207 words).** Play it. [CLIP] Now
+**[6:00] CASE STUDY (Louis, Monopoly, 207 words).** Play it in ≤15s excerpts, pause-analyze-resume. [CLIP ×4] Now
 watch the first two sentences do all three jobs at once. World: Monopoly
 with his daughters — board, pieces, Christmas, everyone's been there.
 Priority: the six-year-old's perspective is foreground, Louis-the-father
@@ -80,7 +85,25 @@ counterpoint — visual, innocent, the perfect foil — and the tags land like
 they were inevitable. 207 words. Not one wasted. Count them if you don't
 believe me.
 
-**[14:00] SECOND SPECIMEN.** Kill Tony, pick a roaring set with a clean
+**[9:00] INSIDE THE 207 (case-study coda).** Slow the Monopoly bit to half speed and walk
+every sentence. Sentence one (daughters, ages, exciting age): world
+declared, zero jokes, room nodding — the platform pours its foundation.
+Sentence two ("to handle her"): FIRST micro-surprise (why "her" not
+"losing"?) + pause + room laughs at grammar. The premise is TWO
+sentences old and already paying. Sentence three (Candyland counterpoint):
+visual detonates (fudgy thing, gummy twirly-o's — words chosen for mouth
+feel as much as meaning), second pause, bigger laugh. By the time Louis
+reaches the actual premise's end, the room has laughed three times at
+zero punchlines. [GOLD CARD: 3 anticipatory laughs, timestamps attached;
+pause + word counts per sentence, measured at TIMING EXTRACTION] Then the
+turn: "gotta give it all to me" — six words after two hundred of platform.
+[GOLD CARD: punch-to-setup 1:34 — 6 words withdraw 201 deposited] New comics
+invert this (all punch, no platform) and wonder why rooms stay cold. The
+math: every platform word is a deposit; the punch withdraws them all at
+once. Louis deposits 201 words to spend 6. That's not inefficiency. That's
+leverage.
+
+**[10:00] SECOND SPECIMEN.** Kill Tony, pick a roaring set with a clean
 arc — thirty seconds of platform, not six minutes. [CLIP] Same three jobs,
 different economy. World in two lines. Priority assigned by the second
 line. Weight accruing so fast the punch has to come early or the room
@@ -90,28 +113,11 @@ apps), so the comic starts at item two of three. The test is never how
 many beats you use. It's whether the room is confident about the world at
 the moment the break arrives.
 
-**[13:00] INSIDE THE 207.** Slow the Monopoly bit to half speed and walk
-every sentence. Sentence one (daughters, ages, exciting age): world
-declared, zero jokes, room nodding — the platform pours its foundation.
-Sentence two ("to handle her"): FIRST micro-surprise (why "her" not
-"losing"?) + pause (0.8s) + room laughs at grammar. The premise is TWO
-sentences old and already paying. Sentence three (Candyland counterpoint):
-visual detonates (fudgy thing, gummy twirly-o's — words chosen for mouth
-feel as much as meaning), second pause, bigger laugh. By the time Louis
-reaches the actual premise's end, the room has laughed three times at
-zero punchlines. Count them on screen: three anticipatory laughs, timestamps
-attached. Then the turn: "gotta give it all to me" — nine words after two
-hundred of platform. The punch-to-setup ratio is 1:23. New comics invert
-this (1:3, all punch, no platform) and wonder why rooms stay cold. The
-math: every platform word is a deposit; the punch withdraws them all at
-once. Louis deposits 198 words to spend 9. That's not inefficiency. That's
-leverage.
 
-
-**[16:00] THE THEFT.** The room built their half of the world FASTER here
+**[10:45] THE THEFT (specimen coda).** The room built their half of the world FASTER here
 than in the Louis bit, from FEWER words — because open-mic crowds walk in
 holding half the premise. Great open-mic comics aren't better writers than
-Louis. They're better thieves. [CLIP: comic says three words — "my
+Louis. They're better thieves. [CLIP: comic says two words — "my
 landlord" — room groans knowingly] Three words. No world built, no priority
 assigned — and yet the room responds like a full setup landed. The comic
 didn't build a platform. They pointed at one the room walked in with.
@@ -122,26 +128,26 @@ aren't constructions. They're activations. The world was already in the
 room. The comic just turned on the lights.
 
 
-**[17:00] FAILURE MODE.** What happens when the setup never lands. [CLIP:
+**[11:30] FAILURE MODE.** What happens when the setup never lands. [CLIP ×2,
 low-outcome KT set, muddled beats.] The punch arrives on schedule and dies
 — not because it's a bad punch, but because there's no platform under it.
 The room is still asking "wait, where are we" while the comic is already
 at the payoff. Second failure: the abandoned platform — beautiful setup,
 joke goes somewhere unrelated. Priority betrayal. The room lent you its
 attention on false pretenses and it knows. Rock's rule in the negative:
-no shared world, no laugh, no exceptions.
+no platform, no punch. No exceptions.
 
-**[19:00] UNIVERSAL.** Every shared world works this way, not just jokes.
-Conversations: you agree what's foreground before anything funny can
-happen. Relationships: years of accrued platform, so a single look can
-punch. Cultures: entire priority orderings, inherited, invisible until
+**[12:45] UNIVERSAL.** Every shared world works this way, not just jokes.
+Dinner parties: you agree what's foreground before anyone relaxes.
+Bands: years of accrued platform, so a single look can start the song.
+Families: entire priority orderings, inherited, invisible until
 someone violates them. Comedy just makes the machinery audible. You have
 never understood anyone without first agreeing, silently, on what is
 'this.' The setup is that agreement, renewed nightly, in rooms full of
 strangers who leave as temporary citizens of a world that didn't exist an
 hour ago.
 
-**[20:30] CLOSE + HOOK.** The setup is the joke's world, built live, half
+**[13:30] CLOSE + HOOK.** The setup is the joke's world, built live, half
 by the comic, half by you — and you never noticed doing your half. That's
 not a trick. That's the job. But a platform is only good for standing on.
 Next week: what you do once you're up there — how to climb without falling

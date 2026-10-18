@@ -16,7 +16,7 @@
 | S05 | 6:00–8:00 | Louis clip, full track-bar + glyphs (premise/setup/pause/tag/button fire) | Clip + narrator names functions as they fire | timed exemplar: Louis 18 beats/8.16s | 120s |
 | S06 | 8:00–9:30 | Norm clip, same treatment (minimalist variant) | Clip + narrator | timed exemplar: Norm 5 beats/1.7s | 90s |
 | S07 | 9:30–10:30 | Hedberg/Vine density clip (one-liners back to back) | Clip + narrator | rapid blue/red switching | 60s |
-| S08 | 10:30–11:30 | Beethoven Fifth motif → symphony map; series map (8 blocks + titles) | Narrator lens + hook into Setup | series map graphic | 60s |
+| S08 | 10:30–11:30 | Beethoven Fifth motif → symphony map; series map (15 blocks + titles) | Narrator lens + hook into Premise | series map graphic | 60s |
 
 ## RECAPITULATION (return changed + coda)
 

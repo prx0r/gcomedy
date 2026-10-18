@@ -63,10 +63,11 @@ from the first frame (the visual grammar debuts here, Café-ready):
 phrase = joke, movement = bit, symphony = hour. Beethoven's Fifth, four
 notes. Same compositional logic (Wikipedia ladder cited on screen).
 
-**7. SERIES MAP (11:00–12:00).** The box lid: 8 blocks, each with its
-video title. "Each one gets its own video. You just watched all eight
-moves three times over — now we take them apart one by one." Hook into
-Setup: "We start at the bottom. The world before the break."
+**7. SERIES MAP (11:00–12:00).** The box lid: 15 blocks, each with its
+episode title. "Each one gets its own episode. You just watched the core
+moves three times over — now we take them apart one by one, then perform
+them, then turn the invisible forces." Hook into
+Premise: "We start at the beginning. The world everything lives in."
 
 **8. FAILURE MODE (12:00–12:45).** Tags standalone (die without their
 punch's world), stories with no laugh points (travelogues), premises

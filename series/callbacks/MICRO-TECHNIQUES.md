@@ -1,6 +1,6 @@
 # CALLBACKS MICRO-TECHNIQUES — good vs bad, banked
 
-> Sources: Yagoda (Nieman), Vonnegut practice, Mulaney dogs/horses,
+> Sources: Yagoda (Nieman), Mulaney dogs/horses,
 > Acaster tsunami, Lee failed-callback, Bergson memory distinction
 > (production notes only).
 
@@ -9,7 +9,7 @@
 | Good | Bad |
 |---|---|
 | Returns changed (revoiced by everything since) | Microwaved rehash (same words, same context) |
-| 2–8 min gap (retrieval + surprise both live) | Too early (echo, no retrieval) or too late (homework) |
+| 2–8 min gap heuristic (retrieval + surprise both live — corpus query pending) | Too early (echo, no retrieval) or too late (homework) |
 | Signposted (turn of phrase/gesture says "we're back") | Esoteric (half the room missed the original) |
 | Fits the new context (makes local sense AND recalls) | Parasitic (only funny if you remember; dead otherwise) |
 | Rewards attention (room feels smart) | Punishes absence (latecomers confused, punished) |
@@ -39,14 +39,12 @@
 8. **Mulaney shape (dogs/horses).** Plant absurd, wait 40 minutes, return
    minimal ("dogs without horses" — 3 words carrying 40). Study the ratio:
    maximum distance, minimum words.
-9. **Vonnegut shape (mustard gas ↔ roses).** Reverse the ORDER on return
-   (significance inverted, not just repeated). Order-reversal is the
-   cheapest revoicing available.
+9. **Mulaney shape (plant absurd, return minimal).** Absurd original, bare
+   return — gap measured at build; revoicing by subtraction.
 10. **Close the loop or cut it.** Every planted callback either pays by
     the finale or gets cut in rewrite. Unpaid plants are broken promises;
     rooms remember being owed.
 
 ## Books/voices (1 quote each max)
 Acaster (Recognise tsunami + Nish Kumar "owe it to the audience"), Lee
-(Carpet Remnant World wreckage), Mulaney (Tiny interview on structure),
-Vonnegut (Slaughterhouse method — novels count, same machine).
+(Carpet Remnant World wreckage), Mulaney (Tiny interview on structure).

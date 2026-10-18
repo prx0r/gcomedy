@@ -1,4 +1,4 @@
-# STORYBOARD — Video 5: Callbacks (12.5 min)
+# STORYBOARD — Episode 6: Callbacks (12.5 min)
 
 ## EXPOSITION
 
@@ -15,7 +15,7 @@
 | S04 | 2:30–4:30 | Sonata recapitulation (themes return changed) | Narrator lens + audio | return-arc diagram | 120s |
 | S05 | 4:30–6:30 | Acaster tsunami vs Lee failed-callback (split) | Narrator persona + 2 clips | detonation vs demolition tags | 120s |
 | S06 | 6:30–10:00 | Callback clock: original → 37-min gap → return; arc leaves present, lands on lit marker; word counts 40→9 | Narrator + both clips | return arc, clock, dual-memory markers | 210s |
-| S07 | 10:00–10:45 | Vonnegut mustard-gas reversal (order flip = cheapest revoice) | Narrator + text cards | order-flip diagram | 45s |
+| S07 | 10:00–10:45 | Norm anti-callback (moth: return refused, retrieval on nothing) | Narrator + jJN9mBRX3uo excerpts | return-arc withheld marker, 5-beat/1.7s card | 45s |
 
 ## RECAPITULATION
 
@@ -30,4 +30,4 @@
 ## CLIP KEY (embed URLs for render)
 - Mulaney dogs/horses: JhkZMxgPxXU (251s Netflix clip) + Kid Gorgeous exemplar (timed, estimated)
 - Acaster tsunami: pull Recognise finale from resources CLIPS.md
-- Vonnegut text cards: public-domain-adjacent quotes (short, attributed)
+- Norm anti-callback: jJN9mBRX3uo excerpts (start/end + transcript at pull; measured 5 beats/1.7s)

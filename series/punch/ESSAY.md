@@ -1,6 +1,6 @@
 # THE PUNCH: MINIMAL VIOLENCE — full script
 
-> Video 3, Fundamentals of Comedy. ~20 min. Thesis: The punch travels the
+> Episode 4, Fundamentals of Comedy. ~14 min (840s board). Thesis: The punch travels the
 > shortest distance that changes everything — one relabeling, whole world
 > rearranged.
 
@@ -9,11 +9,14 @@
 **[0:00] ENGINE NAMED.** The punch is the smallest unit of comedy that
 still counts. Everything before it is preparation. Everything after it is
 consequence. And the whole thing — the entire machinery of setup,
-expectation, violation, laughter — happens in under three seconds. This
+expectation, violation, laughter — happens in under three seconds. The punch
+travels the shortest distance that changes everything — one relabeling,
+whole world rearranged. This
 video is about those three seconds.
 
-**[0:30] PROOF.** Across 154 scored bits, one pattern held: the shorter
-the punch, the funnier the bit. Not longer setups, not bigger violations —
+**[0:30] PROOF.** One pattern held across every scored bit: the shorter
+the punch, the funnier the bit. [GOLD CARD: shorter punch = funnier,
+r=−0.32, 154 bits — Exp 2] Not longer setups, not bigger violations —
 shorter punches. And here's the stranger part: the punch shares almost no
 words with the setup. Count them and see. One relabeling. Whole world
 rearranged. The move happens in meaning, not in vocabulary.
@@ -37,7 +40,7 @@ about sentences — that meaning can arrive whole, in a flash, reorganizing
 everything behind it. The punch doesn't give you new information. It gives
 you an entirely new past.
 
-**[5:00] PERSONA.** Louis: the punch as confession. His punchlines land
+**[4:30] PERSONA.** Louis: the punch as confession. His punchlines land
 like admissions — short, flat, no performance on top, because the
 relabelling does all the work. Compare Normand: the punch as snap —
 fast, rhythmic, percussive, the joke cracking like a whip. Same function
@@ -45,7 +48,8 @@ fast, rhythmic, percussive, the joke cracking like a whip. Same function
 vs rhythmic speed). The punch is not a style. It's a distance. Styles are
 how different comics travel it.
 
-**[8:00] CASE STUDY.** One punch, frame by frame. [CLIP] Setup words on
+**[6:00] CASE STUDY.** One punch, frame by frame. [CLIP ×3, each ≤15s,
+pause-analyze-resume] Setup words on
 screen, each tagged with the reading it supports. Watch the readings
 accumulate — all pointing one way. Then the punch word: ONE word
 highlighted, and every tag on screen flips. Same words behind it,
@@ -55,25 +59,17 @@ Count the setup words. Ratio on screen. Then show the same joke told with
 a longer punch (reconstruction) — watch it die. The extra words aren't
 information, they're friction. Every syllable past the minimum is tax.
 
-**[14:00] SECOND SPECIMEN.** A pun — the purest punch there is. [CLIP]
-Two readings alive simultaneously the whole time (ambiguity high the
-entire setup, not resolved but superimposed). The punch doesn't select
-one reading — it confirms both were live all along. Different handling
-from the case study (selection vs superposition), same geometry (minimal
-travel). Puns are the center of joke-space: maximum ambiguity, minimum
-distance, every callback in the language available from one point.
-
-**[12:30] THREE PUNCHES, ONE SETUP.** Same setup, three different punches,
+**[9:00] THREE PUNCHES, ONE SETUP (case coda).** Same setup, three different punches,
 three different laugh sizes — the controlled experiment comedy performs
-nightly. [CLIP or reconstruction: setup held constant, punch swapped]
-Punch A (obvious): the room nods — predicted, no travel, polite sound.
+nightly. [CLIP or reconstruction: setup held constant, punch swapped, each
+≤15s] Punch A (obvious): the room nods — predicted, no travel, polite sound.
 Punch B (absurd, disconnected): confusion ripple — travel too far, no
 landing zone, the model can't complete the trip. Punch C (the real one):
-minimal travel, maximal rearrangement — detonation. Same 40 setup words
-three times. Only the last nine words change. The room's three responses
+minimal travel, maximal rearrangement — detonation. [GOLD CARD: controlled
+swap — word counts pending transcript verification] The room's responses
 prove the punch carries the joke almost entirely: setup quality held
-constant, outcomes diverge 10x. This is why punch writing is rewriting:
-Louis does forty drafts of nine words, not nine drafts of forty words.
+constant, outcomes diverge. This is why punch writing is rewriting: drafts
+of the final line, not of the setup.
 The setup just needs to hold still. The punch needs to land within a
 phoneme of perfect. Practice drill the film gives the audience: take any
 joke you love, keep the setup, write five alternate final lines. Four will
@@ -81,30 +77,38 @@ be worse. The exercise teaches your hands what minimal travel feels like
 better than any theory paragraph.
 
 
-**[15:30] AUTOPSY.** Let's kill a punch and examine the body. [CLIP: one
+**[10:00] SECOND SPECIMEN.** A pun — the purest punch there is. [CLIP,
+≤15s] Two readings alive simultaneously the whole time (ambiguity held the
+entire setup — both readings live, neither resolved). The punch doesn't select
+one reading — it confirms both were live all along. Different handling
+from the case study (selection vs held ambiguity), same geometry (minimal
+travel). Puns are the center of joke-space: maximum ambiguity, minimum
+distance, every callback in the language available from one point.
+
+
+**[10:45] AUTOPSY (specimen coda).** Let's kill a punch and examine the body. [CLIP: one
 perfect punch, then FREEZE on the last word] Remove the final word: the
 setup stands there naked, pointing at nothing. The room feels the absence
 like a missing step. Now remove the FIRST word of the setup instead: the
 punch still works. Lopsided, but alive. That asymmetry is the whole
-secret — the punch carries ~90% of the joke's information and ~10% of its
-words, while the setup carries 10% of the information and 90% of the
-words. The setup is scaffolding. The punch is the building. And here's
+secret — the punch carries the information in a fraction of the words.
+The setup is scaffolding. The punch is the building. And here's
 the part that should bother you: the audience never sees the scaffolding
 at all. Ask anyone leaving the show what the setup was and they'll quote
 the punch. The platform that made everything possible is invisible by
 design. Great setups are self-erasing machines.
 
 
-**[17:00] FAILURE MODE.** Two deaths. One: the explained punch — the comic
+**[11:30] FAILURE MODE.** Two deaths. One: the explained punch — the comic
 adds a second sentence clarifying the first. The model already arrived;
 the extra words drag it back to do paperwork. Watch a room deflate in
 real time. [CLIP] Two: the long punch — twelve words where three would
 do. The travel is the same but the trip takes so long the arrival feels
 scheduled. Disappointment isn't the wrong reading — it's the right
-reading arriving late. Our data again: every word past the minimum costs
-score. Brevity isn't style. It's physics.
+reading arriving late. [GOLD CARD: r=−0.32 — every word past the minimum
+costs, Exp 2] Brevity isn't style. It's physics.
 
-**[19:00] UNIVERSAL.** Everything important arrives this way — minimally.
+**[12:45] UNIVERSAL.** Everything important arrives this way — minimally.
 Diagnoses. Verdicts. Realizations. The moment you understand anything that
 matters, it comes as a relabeling of what was already there, not as new
 content. Nobody ever learned the truth because someone added more words
@@ -112,7 +116,7 @@ to it. The punch is the smallest possible demonstration that meaning was
 never in the words at all. It was in the arrangement. Move one piece, and
 the whole picture changes.
 
-**[20:00] CLOSE + HOOK.** The punch travels the shortest distance that
+**[13:30] CLOSE + HOOK.** The punch travels the shortest distance that
 changes everything — one relabeling, whole world rearranged. Next week:
 what you do in the wreckage. Tags — hitting it again before the room
 recovers.
