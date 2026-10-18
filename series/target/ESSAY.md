@@ -22,7 +22,7 @@ Opposite weather. One number in this beat: two laughs, same joke — count
 the tags after each. The self-aimed one grows tags. The outward one kills
 them. [GOLD CARD: hesitation-shape coding PENDING at build.]
 
-**[1:30] SPECIFIC THESIS + VOCABULARY.** Targeting does three jobs, and
+**[1:30] THESIS + VOCABULARY.** Targeting does three jobs, and
 this video checks all three on every bit. It names the butt first —
 powerful, self, or species, decided before writing, never discovered
 after. It matches assumed to intended — the room assigns the target
@@ -75,7 +75,7 @@ subject. [CLIP: Carlin, "a house is just a place for your stuff while you
 go out and get more stuff" — setup holds everyone, punch happens to
 species.]
 
-**[9:00] CASE PAYOFF.** Run the ledger on that repair, because this is the
+**[9:00] CASE PAYOFF (case coda).** Run the ledger on that repair, because this is the
 instrument the video leaves you with. Every joke pays somebody; write down
 who, weekly, in one column. The draft's column said: friend. The repair's
 column says: office. Patterns emerge fast — always-safe targets mean
@@ -97,7 +97,7 @@ confessional gets tags, additions, the audience building on it. The shield
 gets the short laugh, no tags, topic change. One number for the specimen
 beat: two frames, one target. Earnest buys distance. Performative spends it.
 
-**[10:45] SPECIMEN TURN.** And here's the veto from the other side — when
+**[10:45] SPECIMEN TURN (specimen coda).** And here's the veto from the other side — when
 the room revokes a license you used to hold. Rock's twelve-minute routine
 didn't change a word between 1996 and 2005. The *assignment* changed: what
 the room heard the joke to be on drifted, year by year, from the behavior
@@ -119,7 +119,7 @@ time the shared enemy is just the people who paid, and that's not a bit,
 that's a billing dispute. No number in this beat. Failures you recognize;
 only machinery gets counted.
 
-**[12:45] HUMAN UNIVERSAL.** Every joke has a butt — and so does every
+**[12:45] UNIVERSAL.** Every joke has a butt — and so does every
 argument you've ever lost, every review you've ever received, every family
 story that starts "remember when." Naming the butt is honesty: it says who
 pays for the laugh before the laugh is spent. People who learn to name
@@ -128,7 +128,7 @@ the meeting where the joke was on the intern, the thread where it was on
 nobody and therefore everybody. A named butt is a fair fight. An unnamed
 one is just bleeding the room and calling it comedy.
 
-**[13:30] CLOSE.** The target decides the safety math. Name the butt first —
+**[13:30] CLOSE + HOOK.** The target decides the safety math. Name the butt first —
 powerful, self, species. Match assumed to intended — the room assigns, you
 don't. Hold one butt per joke — the ledger keeps you honest. Self pays and
 the room leans in. The powerful pay and the room calls it justice. Everyone

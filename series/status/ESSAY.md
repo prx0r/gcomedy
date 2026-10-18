@@ -21,7 +21,7 @@ himself at the bottom, so the room could enjoy the fall. One measured
 number in this beat: he declares himself the idiot inside the first 15
 seconds. [GOLD CARD: declaration-latency coding PENDING at build.]
 
-**[1:30] SPECIFIC THESIS + VOCABULARY.** Status does three jobs, and every
+**[1:30] THESIS + VOCABULARY.** Status does three jobs, and every
 bit in this video does all three. It declares rank — the room knows the
 chart within half a minute. It aims punches upward — shared enemies get
 laughs, victims get groans. And it earns every shift — falls need events,
@@ -72,7 +72,7 @@ authority, a tiny rise that buys him the next attack on the system. Fall
 with an event, rise with permission: that's the whole invert, twice in
 fifteen seconds.
 
-**[9:00] CASE PAYOFF.** Now replay it the wrong way — the reconstruction the
+**[9:00] CASE PAYOFF (case coda).** Now replay it the wrong way — the reconstruction the
 film owes you. Same story. Competent customer. System genuinely broken —
 no self-lowering: "I called UPS and their process wasted my time." True.
 Tight. Dead. The room hears a complaint from an equal and waits for the
@@ -97,7 +97,7 @@ from above. He stands exactly one step up and holds the step. One number
 for the specimen beat: one step. That's the distance — close enough to
 touch, high enough to lead.
 
-**[10:45] SPECIMEN TURN.** Here's what separates the shepherd from the
+**[10:45] SPECIMEN TURN (specimen coda).** Here's what separates the shepherd from the
 bully, frame by frame. [CLIP: Carr, frozen on the heckler's face.] The
 room checks the target's face — that glance *is* the measurement. If the
 target is laughing, the comic held the step. If the target shrinks, the
@@ -119,7 +119,7 @@ Confession anchors; shields deflect; rooms can smell the difference by the
 second tag. No number here — the failure beat gets none, on purpose. Some
 things you count. This one you recognize.
 
-**[12:45] HUMAN UNIVERSAL.** Every group has rank. Dinner tables, group
+**[12:45] UNIVERSAL.** Every group has rank. Dinner tables, group
 chats, locker rooms, review meetings — the see-saw creaks wherever someone
 climbs, and everyone in the room hears it whether or not anyone says it
 out loud. Comedy is just the one art that makes the hierarchy audible on
@@ -128,7 +128,7 @@ it. Once you hear status in a set, you'll hear it in every meeting you've
 ever sat through. That's not a curse. It's a seating chart you finally get
 to read.
 
-**[13:30] CLOSE.** Status declares rank, aims punches up, earns every shift.
+**[13:30] CLOSE + HOOK.** Status declares rank, aims punches up, earns every shift.
 Rock above the room with a shared enemy. Louis below it with a confession.
 Lock swinging between the poles. Regan submitting to the suits, Carr
 shepherding the drunks — same instrument, opposite rooms. Positions set.
