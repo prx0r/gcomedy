@@ -1,0 +1,2978 @@
+[
+ {
+  "role": "opener",
+  "bit_id": "eddie-izzard-unrepeatable_p0c54",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-unrepeatable",
+  "score": 1.395,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.159,
+  "paper": 0.017,
+  "violation": 0.171,
+  "benign": 0.893,
+  "thesis": "everyday",
+  "setup": "And actually you can get away with anything!",
+  "punch": "then you should!\u201d Kind of a dodgy argument there, you know\u2026",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-stand-up-comedian_p0c3",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-stand-up-comedian",
+  "score": 1.414,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.026,
+  "violation": 0.444,
+  "benign": 0.463,
+  "thesis": "everyday",
+  "setup": "You know, I didn\u2019t plan it.",
+  "punch": "And I was actually in the city of Granada in southern Spain, right.",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-carlin-campus-1984-full-transcript_p0c79",
+  "comic": "george-carlin",
+  "special": "george-carlin-carlin-campus-1984-full-transcript",
+  "score": 1.409,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.239,
+  "paper": 0.016,
+  "violation": 0.274,
+  "benign": 0.514,
+  "thesis": "everyday",
+  "setup": "And you\u2019d like an office right near the front so you can get the fuck out at 5:00 o\u2019clock ",
+  "punch": "Tell him you don\u2019t need a two-martini lunch, but you gotta have a one-joint coffee break.",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "george-carlin-you-are-all-diseased-transcript_p0c121",
+  "comic": "george-carlin",
+  "special": "george-carlin-you-are-all-diseased-transcript",
+  "score": 1.393,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.047,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Maybe a little more frequently over the holidays, you know what I mean?",
+  "punch": "",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "chris-rock-tamborine-transcript_p0c427",
+  "comic": "chris-rock",
+  "special": "chris-rock-tamborine-transcript",
+  "score": 1.389,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.04,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I mean, unless Rihanna, you know\u2026",
+  "punch": "",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-stand-up-comedian_p0c154",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-stand-up-comedian",
+  "score": 1.364,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "unmask"
+  ],
+  "punch_ratio": 0.064,
+  "paper": 0.02,
+  "violation": 0.0,
+  "benign": 0.469,
+  "thesis": "everyday",
+  "setup": "I\u2019ll give you an example of what I mean.",
+  "punch": "You know, with a stranger.",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "chris-rock-bring-pain-transcript_p0c552",
+  "comic": "chris-rock",
+  "special": "chris-rock-bring-pain-transcript",
+  "score": 1.388,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.039,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "Women, you know, they can be good, but sometimes they\u2019re trying not to be too good, you kn",
+  "punch": "",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c111",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.347,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "unmask"
+  ],
+  "punch_ratio": 0.149,
+  "paper": 0.02,
+  "violation": 0.0,
+  "benign": 0.708,
+  "thesis": "everyday",
+  "setup": "You know, whatever your politics, you\u2019ve got to admit it, it\u2019s a difficult\u2026",
+  "punch": "But, anyway, what I\u2019m saying is, it\u2019s\u2026",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c278",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.384,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.031,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "It\u2019s like the fitness craze in this country well [noise] doesn\u2019t work that way you know wh",
+  "punch": "",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c116",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.271,
+  "ops": [
+   "split_knowledge",
+   "character_violation"
+  ],
+  "punch_ratio": 0.345,
+  "paper": 0.009,
+  "violation": 1.0,
+  "benign": 0.391,
+  "thesis": "everyday",
+  "setup": "Yes, we can hear one person clapping on their own.",
+  "punch": "I\u2019ve got hearing aids now, the last couple of years.",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-you-are-all-diseased-transcript_p0c205",
+  "comic": "george-carlin",
+  "special": "george-carlin-you-are-all-diseased-transcript",
+  "score": 1.384,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.031,
+  "violation": 0.0,
+  "benign": 0.446,
+  "thesis": "everyday",
+  "setup": "you get about 100,000 of these f*cking men; you know the ones I mean, these macho motherf*",
+  "punch": "",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c200",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.226,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.061,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "finally, a person that\u2019s speaking not at me, but for me.\u201d You know what I read, actually?",
+  "punch": "",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "press",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c32",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.22,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.042,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "You gotta\u2013 you can\u2019t be rational to actually gamble, because it doesn\u2019t make no sense, you",
+  "punch": "",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "closer",
+  "bit_id": "bill-hicks-revelations_p0c41",
+  "comic": "bill-hicks",
+  "special": "bill-hicks-revelations",
+  "score": 1.151,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.361,
+  "paper": 0.023,
+  "violation": 0.333,
+  "benign": 0.347,
+  "thesis": "everyday",
+  "setup": "I was just down in Dallas, Texas.",
+  "punch": "And you can actually go to the sixth floor of the Schoolbook Depository.",
+  "_roster": "the-confessional-storyteller"
+ },
+ {
+  "role": "opener",
+  "bit_id": "louis-c-k-live-at-the-comedy-store-2015-transcript_p0c10",
+  "comic": "louis-ck",
+  "special": "louis-c-k-live-at-the-comedy-store-2015-transcript",
+  "score": 1.235,
+  "ops": [
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.034,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "That\u2019s why I like- I always like to stand just a little bit wrong, you know?",
+  "punch": "",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c312",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.296,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.049,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Like, I try, you know, but then I\u2019ll go, \u201cOkay, you come over here with your \u2018Victoria Sec",
+  "punch": "",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript_p0c463",
+  "comic": "chris-rock",
+  "special": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript",
+  "score": 1.295,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.048,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "But then you know what happens?",
+  "punch": "",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "dave-chappelle-the-closer-transcript_p0c259",
+  "comic": "dave-chappelle",
+  "special": "dave-chappelle-the-closer-transcript",
+  "score": 1.291,
+  "ops": [
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.381,
+  "paper": 0.029,
+  "violation": 0.202,
+  "benign": 0.379,
+  "thesis": "everyday",
+  "setup": "Any other comedian I\u2019ve ever seen, if they had bombed as bad as she did, would have snuck ",
+  "punch": "You know, when a new comedian watches an experienced comedian in comedy we call this \u201ctaki",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-carlin-campus-1984-full-transcript_p0c35",
+  "comic": "george-carlin",
+  "special": "george-carlin-carlin-campus-1984-full-transcript",
+  "score": 1.29,
+  "ops": [
+   "status_invert",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.507,
+  "paper": 0.042,
+  "violation": 0.171,
+  "benign": 0.536,
+  "thesis": "everyday",
+  "setup": "That\u2019s the first thing I always looked for when I worked in an office, you know, the water",
+  "punch": "Actually, it\u2019s just a little place for my stuff, you gotta have that, you gotta have a lit",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "dave-chappelle-equanimity-2017-full-transcript_p0c101",
+  "comic": "dave-chappelle",
+  "special": "dave-chappelle-equanimity-2017-full-transcript",
+  "score": 1.277,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.227,
+  "paper": 0.02,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "But then\u2013 But I read it.",
+  "punch": "And you know what, man?",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript_p0c123",
+  "comic": "chris-rock",
+  "special": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript",
+  "score": 1.279,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.857,
+  "paper": 0.022,
+  "violation": 0.0,
+  "benign": 0.463,
+  "thesis": "everyday",
+  "setup": "Yo, check this out.",
+  "punch": "If 100 people ever got stabbed at the same time, in the same place, by the same person, yo",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-selective-outrage-transcript_p0c293",
+  "comic": "chris-rock",
+  "special": "chris-rock-selective-outrage-transcript",
+  "score": 1.275,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.086,
+  "paper": 0.016,
+  "violation": 0.0,
+  "benign": 0.987,
+  "thesis": "everyday",
+  "setup": "\u2018Cause on one hand, you know, I\u2019m loving, I want a real relationship.",
+  "punch": "I\u2019m just bad.",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-tamborine-transcript_p0c49",
+  "comic": "chris-rock",
+  "special": "chris-rock-tamborine-transcript",
+  "score": 1.275,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.774,
+  "paper": 0.016,
+  "violation": 0.0,
+  "benign": 0.417,
+  "thesis": "everyday",
+  "setup": "Yo, check this out.",
+  "punch": "If 100 people ever got stabbed, at the same time, in the same place by the same person, yo",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "dave-chappelle-the-bird-revelation-2017-full-transcript_p0c59",
+  "comic": "dave-chappelle",
+  "special": "dave-chappelle-the-bird-revelation-2017-full-transcript",
+  "score": 1.275,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.167,
+  "paper": 0.016,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "You are right.",
+  "punch": "I don\u2019t know.",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-never-scared-2004-full-transcript_p0c51",
+  "comic": "chris-rock",
+  "special": "chris-rock-never-scared-2004-full-transcript",
+  "score": 1.228,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.022,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "So I\u2019m always gonna have a soft spot for Whodini, you know what I mean?",
+  "punch": "",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c106",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.275,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.016,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "then you can hide them and take them at the same time you know?",
+  "punch": "",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c261",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.241,
+  "ops": [
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.045,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "Some people go, \u201cOh, mentally retarded people aren\u2019t always happy.\u201d I go, \u201cWell, I never s",
+  "punch": "",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "closer",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c396",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.236,
+  "ops": [
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.559,
+  "paper": 0.037,
+  "violation": 0.0,
+  "benign": 0.987,
+  "thesis": "everyday",
+  "setup": "This is a move\u2013 I\u2019ve never seen\u2013 I\u2019ve never been through a revolution like this.",
+  "punch": "It\u2019s very exciting, you know, to see women get what they\u2019ve always deserved in the first p",
+  "_roster": "the-warm-noticer"
+ },
+ {
+  "role": "opener",
+  "bit_id": "chris-rock-never-scared-2004-full-transcript_p0c51",
+  "comic": "chris-rock",
+  "special": "chris-rock-never-scared-2004-full-transcript",
+  "score": 1.734,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.022,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "So I\u2019m always gonna have a soft spot for Whodini, you know what I mean?",
+  "punch": "",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c381",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.687,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.217,
+  "paper": 0.018,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I got to get me a piece of peach pie.\u201d It\u2019s always the most violent, sexual, horrifying in",
+  "punch": "You know what I mean?",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c82",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.651,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.231,
+  "paper": 0.009,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Did you read the story?",
+  "punch": "They made, like, f*cking 15 of them, you know?",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "bill-hicks-revelations_p0c240",
+  "comic": "bill-hicks",
+  "special": "bill-hicks-revelations",
+  "score": 1.639,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.429,
+  "paper": 0.011,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "He\u2019s killing us.",
+  "punch": "Always that same LSD story, you\u2019ve all seen it.",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-never-scared-2004-full-transcript_p0c3",
+  "comic": "chris-rock",
+  "special": "chris-rock-never-scared-2004-full-transcript",
+  "score": 1.596,
+  "ops": [
+   "rigidify",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.543,
+  "paper": 0.017,
+  "violation": 0.0,
+  "benign": 0.329,
+  "thesis": "everyday",
+  "setup": "I think he\u2019s a very progressive black man.",
+  "punch": "He hits home, I mean, all his jokes are on point and you know exactly what he\u2019s talking ab",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-let-go_p0c127",
+  "comic": "bill-burr",
+  "special": "bill-burr-let-go",
+  "score": 1.637,
+  "ops": [
+   "rigidify",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.128,
+  "paper": 0.028,
+  "violation": 0.0,
+  "benign": 0.962,
+  "thesis": "everyday",
+  "setup": "That\u2019s exactly it.",
+  "punch": "That\u2019s, like, the big thing.",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript_p0c192",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript",
+  "score": 1.453,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.022,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "And so it has that, but also, literally it\u2019s true, because you could be the handsomest guy",
+  "punch": "",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-you-are-all-diseased-transcript_p0c121",
+  "comic": "george-carlin",
+  "special": "george-carlin-you-are-all-diseased-transcript",
+  "score": 1.547,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.047,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Maybe a little more frequently over the holidays, you know what I mean?",
+  "punch": "",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "eddie-izzard-unrepeatable_p0c54",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-unrepeatable",
+  "score": 1.546,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.159,
+  "paper": 0.017,
+  "violation": 0.171,
+  "benign": 0.893,
+  "thesis": "everyday",
+  "setup": "And actually you can get away with anything!",
+  "punch": "then you should!\u201d Kind of a dodgy argument there, you know\u2026",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-tamborine-transcript_p0c427",
+  "comic": "chris-rock",
+  "special": "chris-rock-tamborine-transcript",
+  "score": 1.542,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.04,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I mean, unless Rihanna, you know\u2026",
+  "punch": "",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-bring-pain-transcript_p0c552",
+  "comic": "chris-rock",
+  "special": "chris-rock-bring-pain-transcript",
+  "score": 1.541,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.039,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "Women, you know, they can be good, but sometimes they\u2019re trying not to be too good, you kn",
+  "punch": "",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c278",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.536,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.031,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "It\u2019s like the fitness craze in this country well [noise] doesn\u2019t work that way you know wh",
+  "punch": "",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-you-are-all-diseased-transcript_p0c205",
+  "comic": "george-carlin",
+  "special": "george-carlin-you-are-all-diseased-transcript",
+  "score": 1.536,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.031,
+  "violation": 0.0,
+  "benign": 0.446,
+  "thesis": "everyday",
+  "setup": "you get about 100,000 of these f*cking men; you know the ones I mean, these macho motherf*",
+  "punch": "",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "closer",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c134",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.468,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.385,
+  "paper": 0.044,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "[laughs] But, anyways, enough of this grim nonsense.",
+  "punch": "You know what I mean?",
+  "_roster": "the-slow-burn-confessor"
+ },
+ {
+  "role": "opener",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c32",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.425,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.042,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "You gotta\u2013 you can\u2019t be rational to actually gamble, because it doesn\u2019t make no sense, you",
+  "punch": "",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c200",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.439,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.061,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "finally, a person that\u2019s speaking not at me, but for me.\u201d You know what I read, actually?",
+  "punch": "",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "chris-rock-bigger-blacker-1999-full-transcript_p0c301",
+  "comic": "chris-rock",
+  "special": "chris-rock-bigger-blacker-1999-full-transcript",
+  "score": 1.422,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.037,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "do you know who the most racist people are for real, the real most racist people?",
+  "punch": "",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "bill-burr-you-people-are-all-same_p0c86",
+  "comic": "bill-burr",
+  "special": "bill-burr-you-people-are-all-same",
+  "score": 1.416,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.294,
+  "paper": 0.029,
+  "violation": 0.6,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "[Laughs] You know what\u2019s really\u2026",
+  "punch": "that\u2019s predominately a white problem.",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-at-usc-1977-full-transcript_p0c400",
+  "comic": "george-carlin",
+  "special": "george-carlin-at-usc-1977-full-transcript",
+  "score": 1.416,
+  "ops": [
+   "status_invert",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.029,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "Actually, it always meant that, we just didn\u2019t know, you know?",
+  "punch": "",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c196",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.412,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.786,
+  "paper": 0.023,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I certainly don\u2019t.",
+  "punch": "You know what these morons are actually telling us don\u2019t you?",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "chris-rock-tamborine-transcript_p0c272",
+  "comic": "chris-rock",
+  "special": "chris-rock-tamborine-transcript",
+  "score": 1.41,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.471,
+  "paper": 0.021,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "They actually missed each other.",
+  "punch": "You know you can\u2019t miss nobody in 2017.",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c100",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.41,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.706,
+  "paper": 0.021,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "All right.",
+  "punch": "Well that\u2019s enough fantasy stuff let\u2019s get back to the real world.",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-doin-it-again-transcript_p0c92",
+  "comic": "george-carlin",
+  "special": "george-carlin-doin-it-again-transcript",
+  "score": 1.409,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.188,
+  "paper": 0.019,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "Actually, I don\u2019t care if it\u2019s safe or not, I drink it anyway.",
+  "punch": "You know why?",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "dave-chappelle-deep-heart-texas-2017-full-transcript_p0c170",
+  "comic": "dave-chappelle",
+  "special": "dave-chappelle-deep-heart-texas-2017-full-transcript",
+  "score": 1.408,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.176,
+  "paper": 0.018,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I think that she actually loves him.\u201d And I said, \u201cWait a minute, ladies.",
+  "punch": "You know what?",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "louis-c-k-sorry-transcript_p0c70",
+  "comic": "louis-ck",
+  "special": "louis-c-k-sorry-transcript",
+  "score": 1.407,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.016,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I don\u2019t actually know, though.",
+  "punch": "Do you know why I don\u2019t know?",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "eddie-izzard-stripped_p0c50",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-stripped",
+  "score": 1.402,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.583,
+  "paper": 0.01,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "And I died.",
+  "punch": "They had to pump me, you know.",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c328",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.317,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.071,
+  "paper": 0.032,
+  "violation": 0.261,
+  "benign": 0.815,
+  "thesis": "everyday",
+  "setup": "It\u2019s actually, Stew, \u201cGame Of Thrones is a really amazing programme because, actually, \u201cit",
+  "punch": "Game Of Thrones?",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "closer",
+  "bit_id": "bill-burr-paper-tiger_p0c223",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.402,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.444,
+  "paper": 0.009,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "You know, it just doesn\u2019t work out.",
+  "punch": "You guys have The Real Housewives out here?",
+  "_roster": "the-status-inverter"
+ },
+ {
+  "role": "opener",
+  "bit_id": "louis-ck-oh-my-god-full-transcript_p0c40",
+  "comic": "louis-ck",
+  "special": "louis-ck-oh-my-god-full-transcript",
+  "score": 1.246,
+  "ops": [
+   "double_interpret",
+   "false_analogy"
+  ],
+  "punch_ratio": 0.19,
+  "paper": 0.028,
+  "violation": 0.465,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "We\u2019re the only ones that get to just die old in a bed, Just \u201cI love you.",
+  "punch": "Imagine if we were in the food chain.",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-carpet-remnant-world_p0c191",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-carpet-remnant-world",
+  "score": 0.975,
+  "ops": [
+   "status_invert",
+   "false_analogy"
+  ],
+  "punch_ratio": 0.59,
+  "paper": 0.039,
+  "violation": 0.279,
+  "benign": 0.581,
+  "thesis": "everyday",
+  "setup": "They\u2019ve thought, \u201cOh, yeah, samples of jokes.",
+  "punch": "\u201cSamples of what jokes could be like.\u201d But up there, you\u2019re just going, \u201cWhy is he talking",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "louis-c-k-live-at-the-beacon-theatre-2011-full-transcript_p0c205",
+  "comic": "louis-ck",
+  "special": "louis-c-k-live-at-the-beacon-theatre-2011-full-transcript",
+  "score": 0.948,
+  "ops": [
+   "double_interpret",
+   "status_invert"
+  ],
+  "punch_ratio": 0.286,
+  "paper": 0.022,
+  "violation": 0.375,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "You could do that every day and it wouldn\u2019t matter.",
+  "punch": "But they won\u2019t\u2013 They won\u2019t actually remember why.",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "bill-burr-let-go_p0c197",
+  "comic": "bill-burr",
+  "special": "bill-burr-let-go",
+  "score": 1.113,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret"
+  ],
+  "punch_ratio": 0.219,
+  "paper": 0.015,
+  "violation": 0.0,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "So then by Friday\u2014I mean, by Friday, the dog was literally messing up my relationship.",
+  "punch": "I\u2019m sitting there spooning with the dog.",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "bill-burr-paper-tiger_p0c82",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.11,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.231,
+  "paper": 0.009,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Did you read the story?",
+  "punch": "They made, like, f*cking 15 of them, you know?",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-stand-up-comedian_p0c3",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-stand-up-comedian",
+  "score": 0.943,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.026,
+  "violation": 0.444,
+  "benign": 0.463,
+  "thesis": "everyday",
+  "setup": "You know, I didn\u2019t plan it.",
+  "punch": "And I was actually in the city of Granada in southern Spain, right.",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-90s-comedian_p0c51",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-90s-comedian",
+  "score": 0.956,
+  "ops": [
+   "double_interpret"
+  ],
+  "punch_ratio": 0.583,
+  "paper": 0.034,
+  "violation": 0.408,
+  "benign": 0.51,
+  "thesis": "everyday",
+  "setup": "But there\u2019s lots of good stories from the war against terror, though.",
+  "punch": "I hate it when comedians do that as a kind of intro, \u2019cause basically the link between wha",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c385",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 0.91,
+  "ops": [
+   "double_interpret",
+   "status_invert"
+  ],
+  "punch_ratio": 0.208,
+  "paper": 0.024,
+  "violation": 0.245,
+  "benign": 0.51,
+  "thesis": "everyday",
+  "setup": "Anyway, so\u2026",
+  "punch": "I mean, we are talking about something very, very different.",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c303",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 0.954,
+  "ops": [
+   "double_interpret"
+  ],
+  "punch_ratio": 0.58,
+  "paper": 0.052,
+  "violation": 0.37,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "But I don\u2019t know\u2026",
+  "punch": "I mean, not all Americans that voted for Trump wanted to see America immediately descend i",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "eddie-izzard-unrepeatable_p0c76",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-unrepeatable",
+  "score": 0.898,
+  "ops": [
+   "literalize",
+   "status_invert"
+  ],
+  "punch_ratio": 0.153,
+  "paper": 0.014,
+  "violation": 0.13,
+  "benign": 0.272,
+  "thesis": "everyday",
+  "setup": "I don\u2019t know how they do that, (mimes petting pet) you sort of stroke them, you go to slee",
+  "punch": "They\u2019ve actually got a jumpy spider behind your back and that\u2019s why they\u2019re\u2026",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "bill-burr-live-at-red-rocks_p0c216",
+  "comic": "bill-burr",
+  "special": "bill-burr-live-at-red-rocks",
+  "score": 0.951,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.403,
+  "paper": 0.01,
+  "violation": 0.312,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Dada, I sorry.\u201d And I was like, \u201cOh, shit!\u201d So I literally just squatted down, I was like,",
+  "punch": "Daddy was yelling at the phone, okay?\u201d \u201cDad yells at the phone when it says stuff that he ",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "dave-chappelle-age-spin-2017-full-transcript_p0c83",
+  "comic": "dave-chappelle",
+  "special": "dave-chappelle-age-spin-2017-full-transcript",
+  "score": 0.897,
+  "ops": [
+   "double_interpret",
+   "status_invert"
+  ],
+  "punch_ratio": 0.542,
+  "paper": 0.027,
+  "violation": 0.2,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "I mean, that would be my guess.",
+  "punch": "A couple of weeks ago, I was supposed to be in Flint, Michigan, for a charity benefit that",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c138",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 0.942,
+  "ops": [
+   "double_interpret"
+  ],
+  "punch_ratio": 0.373,
+  "paper": 0.021,
+  "violation": 0.357,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "They are self-replicating.",
+  "punch": "Well, I mean, especially with the state of you, you\u2019re obviously in the worst physical con",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "closer",
+  "bit_id": "george-carlin-1978-full-transcript_p0c100",
+  "comic": "george-carlin",
+  "special": "george-carlin-1978-full-transcript",
+  "score": 0.928,
+  "ops": [
+   "double_interpret",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.646,
+  "paper": 0.024,
+  "violation": 0.308,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "I hate digital clocks.",
+  "punch": "Isn\u2019t it true, I mean, don\u2019t you always feel that this half hour when it comes down from 1",
+  "_roster": "the-playful-absurdist"
+ },
+ {
+  "role": "opener",
+  "bit_id": "bill-burr-you-people-are-all-same_p0c86",
+  "comic": "bill-burr",
+  "special": "bill-burr-you-people-are-all-same",
+  "score": 1.479,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.294,
+  "paper": 0.029,
+  "violation": 0.6,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "[Laughs] You know what\u2019s really\u2026",
+  "punch": "that\u2019s predominately a white problem.",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-at-usc-1977-full-transcript_p0c400",
+  "comic": "george-carlin",
+  "special": "george-carlin-at-usc-1977-full-transcript",
+  "score": 1.678,
+  "ops": [
+   "status_invert",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.029,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "Actually, it always meant that, we just didn\u2019t know, you know?",
+  "punch": "",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-carlin-campus-1984-full-transcript_p0c35",
+  "comic": "george-carlin",
+  "special": "george-carlin-carlin-campus-1984-full-transcript",
+  "score": 1.663,
+  "ops": [
+   "status_invert",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.507,
+  "paper": 0.042,
+  "violation": 0.171,
+  "benign": 0.536,
+  "thesis": "everyday",
+  "setup": "That\u2019s the first thing I always looked for when I worked in an office, you know, the water",
+  "punch": "Actually, it\u2019s just a little place for my stuff, you gotta have that, you gotta have a lit",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c196",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.573,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.786,
+  "paper": 0.023,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I certainly don\u2019t.",
+  "punch": "You know what these morons are actually telling us don\u2019t you?",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c100",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.556,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.706,
+  "paper": 0.021,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "All right.",
+  "punch": "Well that\u2019s enough fantasy stuff let\u2019s get back to the real world.",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "eddie-izzard-stripped_p0c50",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-stripped",
+  "score": 1.524,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.583,
+  "paper": 0.01,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "And I died.",
+  "punch": "They had to pump me, you know.",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c135",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.518,
+  "ops": [
+   "status_invert",
+   "split_knowledge",
+   "mistake_identity"
+  ],
+  "punch_ratio": 0.741,
+  "paper": 0.036,
+  "violation": 0.414,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "\u201cHe looked ill, actually.",
+  "punch": "\u201cHe looked like he was struggling, you know?\u201d We\u2019ll drop the charity shop routine, we\u2019ll m",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "louis-c-k-sorry-transcript_p0c70",
+  "comic": "louis-ck",
+  "special": "louis-c-k-sorry-transcript",
+  "score": 1.511,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.016,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I don\u2019t actually know, though.",
+  "punch": "Do you know why I don\u2019t know?",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "chris-rock-tamborine-transcript_p0c272",
+  "comic": "chris-rock",
+  "special": "chris-rock-tamborine-transcript",
+  "score": 1.509,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.471,
+  "paper": 0.021,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "They actually missed each other.",
+  "punch": "You know you can\u2019t miss nobody in 2017.",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c82",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.509,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.714,
+  "paper": 0.031,
+  "violation": 0.414,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Actually, you know what?",
+  "punch": "All last year, that was a big laugh, that joke, but it\u2019s sort of gone off the boil since C",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "bill-burr-paper-tiger_p0c223",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.495,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.444,
+  "paper": 0.009,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "You know, it just doesn\u2019t work out.",
+  "punch": "You guys have The Real Housewives out here?",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-stand-up-comedian_p0c3",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-stand-up-comedian",
+  "score": 1.471,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.026,
+  "violation": 0.444,
+  "benign": 0.463,
+  "thesis": "everyday",
+  "setup": "You know, I didn\u2019t plan it.",
+  "punch": "And I was actually in the city of Granada in southern Spain, right.",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "press",
+  "bit_id": "eddie-izzard-unrepeatable_p0c54",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-unrepeatable",
+  "score": 1.315,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.159,
+  "paper": 0.017,
+  "violation": 0.171,
+  "benign": 0.893,
+  "thesis": "everyday",
+  "setup": "And actually you can get away with anything!",
+  "punch": "then you should!\u201d Kind of a dodgy argument there, you know\u2026",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "closer",
+  "bit_id": "bill-hicks-revelations_p0c240",
+  "comic": "bill-hicks",
+  "special": "bill-hicks-revelations",
+  "score": 1.187,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.429,
+  "paper": 0.011,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "He\u2019s killing us.",
+  "punch": "Always that same LSD story, you\u2019ve all seen it.",
+  "_roster": "the-rant-engine"
+ },
+ {
+  "role": "opener",
+  "bit_id": "bill-burr-you-people-are-all-same_p0c86",
+  "comic": "bill-burr",
+  "special": "bill-burr-you-people-are-all-same",
+  "score": 1.353,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.294,
+  "paper": 0.029,
+  "violation": 0.6,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "[Laughs] You know what\u2019s really\u2026",
+  "punch": "that\u2019s predominately a white problem.",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c196",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.447,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.786,
+  "paper": 0.023,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I certainly don\u2019t.",
+  "punch": "You know what these morons are actually telling us don\u2019t you?",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c100",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.43,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.706,
+  "paper": 0.021,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "All right.",
+  "punch": "Well that\u2019s enough fantasy stuff let\u2019s get back to the real world.",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "stewart-lee-content-provider_p0c116",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.405,
+  "ops": [
+   "split_knowledge",
+   "character_violation"
+  ],
+  "punch_ratio": 0.345,
+  "paper": 0.009,
+  "violation": 1.0,
+  "benign": 0.391,
+  "thesis": "everyday",
+  "setup": "Yes, we can hear one person clapping on their own.",
+  "punch": "I\u2019ve got hearing aids now, the last couple of years.",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "eddie-izzard-stripped_p0c50",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-stripped",
+  "score": 1.398,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.583,
+  "paper": 0.01,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "And I died.",
+  "punch": "They had to pump me, you know.",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c135",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.391,
+  "ops": [
+   "status_invert",
+   "split_knowledge",
+   "mistake_identity"
+  ],
+  "punch_ratio": 0.741,
+  "paper": 0.036,
+  "violation": 0.414,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "\u201cHe looked ill, actually.",
+  "punch": "\u201cHe looked like he was struggling, you know?\u201d We\u2019ll drop the charity shop routine, we\u2019ll m",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "louis-c-k-sorry-transcript_p0c70",
+  "comic": "louis-ck",
+  "special": "louis-c-k-sorry-transcript",
+  "score": 1.385,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.016,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "I don\u2019t actually know, though.",
+  "punch": "Do you know why I don\u2019t know?",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "chris-rock-tamborine-transcript_p0c272",
+  "comic": "chris-rock",
+  "special": "chris-rock-tamborine-transcript",
+  "score": 1.383,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.471,
+  "paper": 0.021,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "They actually missed each other.",
+  "punch": "You know you can\u2019t miss nobody in 2017.",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-content-provider_p0c82",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.382,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.714,
+  "paper": 0.031,
+  "violation": 0.414,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Actually, you know what?",
+  "punch": "All last year, that was a big laugh, that joke, but it\u2019s sort of gone off the boil since C",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "bill-burr-paper-tiger_p0c223",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.37,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.444,
+  "paper": 0.009,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "You know, it just doesn\u2019t work out.",
+  "punch": "You guys have The Real Housewives out here?",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "stewart-lee-stand-up-comedian_p0c3",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-stand-up-comedian",
+  "score": 1.345,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.026,
+  "violation": 0.444,
+  "benign": 0.463,
+  "thesis": "everyday",
+  "setup": "You know, I didn\u2019t plan it.",
+  "punch": "And I was actually in the city of Granada in southern Spain, right.",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-you-are-all-diseased-transcript_p0c400",
+  "comic": "george-carlin",
+  "special": "george-carlin-you-are-all-diseased-transcript",
+  "score": 1.34,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.606,
+  "paper": 0.032,
+  "violation": 0.343,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Unlike some other Gods I could mention, I can actually see the sun.",
+  "punch": "I\u2019m big on that, if I can see something, I don\u2019t know, kind of helps the credibility along",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "press",
+  "bit_id": "george-carlin-doin-it-again-transcript_p0c92",
+  "comic": "george-carlin",
+  "special": "george-carlin-doin-it-again-transcript",
+  "score": 1.325,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.188,
+  "paper": 0.019,
+  "violation": 0.6,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "Actually, I don\u2019t care if it\u2019s safe or not, I drink it anyway.",
+  "punch": "You know why?",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "closer",
+  "bit_id": "george-carlin-religion-is-bullshit_p0c16",
+  "comic": "george-carlin",
+  "special": "george-carlin-religion-is-bullshit",
+  "score": 1.311,
+  "ops": [
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.024,
+  "violation": 0.333,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Unlike some other gods I could mention, I can actually see the sun.",
+  "punch": "If I can see something, I don\u2019t know, it kind of helps the credibility along, you know?",
+  "_roster": "the-escalation-ghoul"
+ },
+ {
+  "role": "opener",
+  "bit_id": "bill-hicks-revelations_p0c43",
+  "comic": "bill-hicks",
+  "special": "bill-hicks-revelations",
+  "score": 1.324,
+  "ops": [
+   "rigidify",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.297,
+  "paper": 0.035,
+  "violation": 0.0,
+  "benign": 0.938,
+  "thesis": "everyday",
+  "setup": "I can\u2019t be too sure of the chronology here but\u2026",
+  "punch": "And it\u2019s really accurate, you know, cos Oswald\u2019s not in it.",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript_p0c192",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript",
+  "score": 1.621,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.022,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "And so it has that, but also, literally it\u2019s true, because you could be the handsomest guy",
+  "punch": "",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c142",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.622,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.625,
+  "paper": 0.023,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Like, literally make her leave her shoes.",
+  "punch": "[laughter] But the other side of my brain\u2019s like, \u201cNo, dude, you can\u2019t do that.",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "bill-burr-paper-tiger_p0c284",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.619,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.375,
+  "paper": 0.02,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Not smoking, not f*cking, you know, leaking oil, whatever you would do as a nervous robot,",
+  "punch": "He\u2019s like, \u201cWhat are your goals?\u201d And I am alone in a hotel room, and I literally lean tow",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-walk-your-way-out_p0c316",
+  "comic": "bill-burr",
+  "special": "bill-burr-walk-your-way-out",
+  "score": 1.611,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.033,
+  "paper": 0.011,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Like, Nike literally should have made him a sneaker, like a giant fucking boot.",
+  "punch": "Right?",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c82",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.609,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.231,
+  "paper": 0.009,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Did you read the story?",
+  "punch": "They made, like, f*cking 15 of them, you know?",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-i-m-sorry-you-feel-that-way_p0c413",
+  "comic": "bill-burr",
+  "special": "bill-burr-i-m-sorry-you-feel-that-way",
+  "score": 1.389,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.024,
+  "violation": 0.244,
+  "benign": 0.915,
+  "thesis": "everyday",
+  "setup": "Dude, nobody can do that other than a porn star for longer than 18 seconds before they\u2019re ",
+  "punch": "I can literally feel you getting on with your day with every pathetic attempt to try and r",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-let-go_p0c127",
+  "comic": "bill-burr",
+  "special": "bill-burr-let-go",
+  "score": 1.319,
+  "ops": [
+   "rigidify",
+   "split_knowledge",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.128,
+  "paper": 0.028,
+  "violation": 0.0,
+  "benign": 0.962,
+  "thesis": "everyday",
+  "setup": "That\u2019s exactly it.",
+  "punch": "That\u2019s, like, the big thing.",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-let-go_p0c180",
+  "comic": "bill-burr",
+  "special": "bill-burr-let-go",
+  "score": 1.384,
+  "ops": [
+   "rigidify",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.538,
+  "paper": 0.03,
+  "violation": 0.286,
+  "benign": 0.179,
+  "thesis": "everyday",
+  "setup": "That thing was choking out coyotes, you know, breaking the necks of squirrels.",
+  "punch": "Why don\u2019t you just rescue an alligator while you\u2019re at it just to add to the excitement?\u201d ",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "stewart-lee-content-provider_p0c206",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.318,
+  "ops": [
+   "rigidify",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.098,
+  "paper": 0.027,
+  "violation": 0.0,
+  "benign": 0.387,
+  "thesis": "everyday",
+  "setup": "Alan Partridge, the fictional character, he can appear on Rupert Murdoch\u2019s evil Sky becaus",
+  "punch": "Because the character of Stewart Lee that I\u2019ve created\u2026",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-live-at-red-rocks_p0c216",
+  "comic": "bill-burr",
+  "special": "bill-burr-live-at-red-rocks",
+  "score": 1.363,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.403,
+  "paper": 0.01,
+  "violation": 0.312,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Dada, I sorry.\u201d And I was like, \u201cOh, shit!\u201d So I literally just squatted down, I was like,",
+  "punch": "Daddy was yelling at the phone, okay?\u201d \u201cDad yells at the phone when it says stuff that he ",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c13",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.314,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.385,
+  "paper": 0.021,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Her discarded d!ck will block her head from the canopy.",
+  "punch": "That\u2019s literally like watching a movie, \u201cWhy didn\u2019t you have a murderer play a murderer?",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-hicks-revelations_p0c212",
+  "comic": "bill-hicks",
+  "special": "bill-hicks-revelations",
+  "score": 1.317,
+  "ops": [
+   "rigidify",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.733,
+  "paper": 0.025,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "You know what I\u2019m talking about.",
+  "punch": "Oh duuude, you gotta play miniature golf.\u201d [Bill hangs onto the table] Ha ha Yeah, that\u2019s ",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "closer",
+  "bit_id": "bill-burr-walk-your-way-out_p0c176",
+  "comic": "bill-burr",
+  "special": "bill-burr-walk-your-way-out",
+  "score": 1.314,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "mistake_identity"
+  ],
+  "punch_ratio": 0.564,
+  "paper": 0.021,
+  "violation": 0.0,
+  "benign": 0.641,
+  "thesis": "everyday",
+  "setup": "It was one of those pull switches.",
+  "punch": "I immediately thought, \u201cWhat if I stuck my head in there and just\u2026\u201d \u201cand just turn the lig",
+  "_roster": "the-premise-explorer"
+ },
+ {
+  "role": "opener",
+  "bit_id": "louis-ck-oh-my-god-full-transcript_p0c40",
+  "comic": "louis-ck",
+  "special": "louis-ck-oh-my-god-full-transcript",
+  "score": 1.231,
+  "ops": [
+   "double_interpret",
+   "false_analogy"
+  ],
+  "punch_ratio": 0.19,
+  "paper": 0.028,
+  "violation": 0.465,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "We\u2019re the only ones that get to just die old in a bed, Just \u201cI love you.",
+  "punch": "Imagine if we were in the food chain.",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-let-go_p0c197",
+  "comic": "bill-burr",
+  "special": "bill-burr-let-go",
+  "score": 1.255,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret"
+  ],
+  "punch_ratio": 0.219,
+  "paper": 0.015,
+  "violation": 0.0,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "So then by Friday\u2014I mean, by Friday, the dog was literally messing up my relationship.",
+  "punch": "I\u2019m sitting there spooning with the dog.",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c82",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.251,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.231,
+  "paper": 0.009,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Did you read the story?",
+  "punch": "They made, like, f*cking 15 of them, you know?",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "bill-burr-live-at-red-rocks_p0c216",
+  "comic": "bill-burr",
+  "special": "bill-burr-live-at-red-rocks",
+  "score": 1.042,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.403,
+  "paper": 0.01,
+  "violation": 0.312,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Dada, I sorry.\u201d And I was like, \u201cOh, shit!\u201d So I literally just squatted down, I was like,",
+  "punch": "Daddy was yelling at the phone, okay?\u201d \u201cDad yells at the phone when it says stuff that he ",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-i-m-sorry-you-feel-that-way_p0c413",
+  "comic": "bill-burr",
+  "special": "bill-burr-i-m-sorry-you-feel-that-way",
+  "score": 1.027,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.024,
+  "violation": 0.244,
+  "benign": 0.915,
+  "thesis": "everyday",
+  "setup": "Dude, nobody can do that other than a porn star for longer than 18 seconds before they\u2019re ",
+  "punch": "I can literally feel you getting on with your day with every pathetic attempt to try and r",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "stewart-lee-content-provider_p0c138",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.004,
+  "ops": [
+   "double_interpret"
+  ],
+  "punch_ratio": 0.373,
+  "paper": 0.021,
+  "violation": 0.357,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "They are self-replicating.",
+  "punch": "Well, I mean, especially with the state of you, you\u2019re obviously in the worst physical con",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "stewart-lee-content-provider_p0c303",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-content-provider",
+  "score": 1.01,
+  "ops": [
+   "double_interpret"
+  ],
+  "punch_ratio": 0.58,
+  "paper": 0.052,
+  "violation": 0.37,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "But I don\u2019t know\u2026",
+  "punch": "I mean, not all Americans that voted for Trump wanted to see America immediately descend i",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "louis-c-k-live-at-the-beacon-theatre-2011-full-transcript_p0c205",
+  "comic": "louis-ck",
+  "special": "louis-c-k-live-at-the-beacon-theatre-2011-full-transcript",
+  "score": 0.999,
+  "ops": [
+   "double_interpret",
+   "status_invert"
+  ],
+  "punch_ratio": 0.286,
+  "paper": 0.022,
+  "violation": 0.375,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "You could do that every day and it wouldn\u2019t matter.",
+  "punch": "But they won\u2019t\u2013 They won\u2019t actually remember why.",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "dave-chappelle-equanimity-2017-full-transcript_p0c285",
+  "comic": "dave-chappelle",
+  "special": "dave-chappelle-equanimity-2017-full-transcript",
+  "score": 0.997,
+  "ops": [
+   "double_interpret"
+  ],
+  "punch_ratio": 0.103,
+  "paper": 0.012,
+  "violation": 0.328,
+  "benign": 0.41,
+  "thesis": "everyday",
+  "setup": "I\u2019m going to my ranch in Texas.\u201d Obama was the first motherfucker to move into the White H",
+  "punch": "I mean, it was still early.",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "eddie-izzard-unrepeatable_p0c76",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-unrepeatable",
+  "score": 0.989,
+  "ops": [
+   "literalize",
+   "status_invert"
+  ],
+  "punch_ratio": 0.153,
+  "paper": 0.014,
+  "violation": 0.13,
+  "benign": 0.272,
+  "thesis": "everyday",
+  "setup": "I don\u2019t know how they do that, (mimes petting pet) you sort of stroke them, you go to slee",
+  "punch": "They\u2019ve actually got a jumpy spider behind your back and that\u2019s why they\u2019re\u2026",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c142",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 0.953,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.625,
+  "paper": 0.023,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Like, literally make her leave her shoes.",
+  "punch": "[laughter] But the other side of my brain\u2019s like, \u201cNo, dude, you can\u2019t do that.",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-carlin-campus-1984-full-transcript_p0c79",
+  "comic": "george-carlin",
+  "special": "george-carlin-carlin-campus-1984-full-transcript",
+  "score": 0.982,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.239,
+  "paper": 0.016,
+  "violation": 0.274,
+  "benign": 0.514,
+  "thesis": "everyday",
+  "setup": "And you\u2019d like an office right near the front so you can get the fuck out at 5:00 o\u2019clock ",
+  "punch": "Tell him you don\u2019t need a two-martini lunch, but you gotta have a one-joint coffee break.",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-1978-full-transcript_p0c100",
+  "comic": "george-carlin",
+  "special": "george-carlin-1978-full-transcript",
+  "score": 0.995,
+  "ops": [
+   "double_interpret",
+   "repeat_variation"
+  ],
+  "punch_ratio": 0.646,
+  "paper": 0.024,
+  "violation": 0.308,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "I hate digital clocks.",
+  "punch": "Isn\u2019t it true, I mean, don\u2019t you always feel that this half hour when it comes down from 1",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "closer",
+  "bit_id": "stewart-lee-90s-comedian_p0c51",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-90s-comedian",
+  "score": 0.993,
+  "ops": [
+   "double_interpret"
+  ],
+  "punch_ratio": 0.583,
+  "paper": 0.034,
+  "violation": 0.408,
+  "benign": 0.51,
+  "thesis": "everyday",
+  "setup": "But there\u2019s lots of good stories from the war against terror, though.",
+  "punch": "I hate it when comedians do that as a kind of intro, \u2019cause basically the link between wha",
+  "_roster": "the-deadpan-absurdist"
+ },
+ {
+  "role": "opener",
+  "bit_id": "bill-burr-paper-tiger_p0c13",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.274,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.385,
+  "paper": 0.021,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Her discarded d!ck will block her head from the canopy.",
+  "punch": "That\u2019s literally like watching a movie, \u201cWhy didn\u2019t you have a murderer play a murderer?",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-let-go_p0c197",
+  "comic": "bill-burr",
+  "special": "bill-burr-let-go",
+  "score": 1.542,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret"
+  ],
+  "punch_ratio": 0.219,
+  "paper": 0.015,
+  "violation": 0.0,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "So then by Friday\u2014I mean, by Friday, the dog was literally messing up my relationship.",
+  "punch": "I\u2019m sitting there spooning with the dog.",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-walk-your-way-out_p0c176",
+  "comic": "bill-burr",
+  "special": "bill-burr-walk-your-way-out",
+  "score": 1.54,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "mistake_identity"
+  ],
+  "punch_ratio": 0.564,
+  "paper": 0.021,
+  "violation": 0.0,
+  "benign": 0.641,
+  "thesis": "everyday",
+  "setup": "It was one of those pull switches.",
+  "punch": "I immediately thought, \u201cWhat if I stuck my head in there and just\u2026\u201d \u201cand just turn the lig",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "bill-burr-paper-tiger_p0c82",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.539,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.231,
+  "paper": 0.009,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Did you read the story?",
+  "punch": "They made, like, f*cking 15 of them, you know?",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-i-m-sorry-you-feel-that-way_p0c413",
+  "comic": "bill-burr",
+  "special": "bill-burr-i-m-sorry-you-feel-that-way",
+  "score": 1.372,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.024,
+  "violation": 0.244,
+  "benign": 0.915,
+  "thesis": "everyday",
+  "setup": "Dude, nobody can do that other than a porn star for longer than 18 seconds before they\u2019re ",
+  "punch": "I can literally feel you getting on with your day with every pathetic attempt to try and r",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-live-at-red-rocks_p0c217",
+  "comic": "bill-burr",
+  "special": "bill-burr-live-at-red-rocks",
+  "score": 1.273,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "identity_contradict"
+  ],
+  "punch_ratio": 0.394,
+  "paper": 0.016,
+  "violation": 0.0,
+  "benign": 0.735,
+  "thesis": "everyday",
+  "setup": "I\u2019m sorry, buddy.",
+  "punch": "I was like, \u201cBuddy, I would never do that, okay?\u201d \u201cI love you.",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-live-at-red-rocks_p0c216",
+  "comic": "bill-burr",
+  "special": "bill-burr-live-at-red-rocks",
+  "score": 1.358,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.403,
+  "paper": 0.01,
+  "violation": 0.312,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Dada, I sorry.\u201d And I was like, \u201cOh, shit!\u201d So I literally just squatted down, I was like,",
+  "punch": "Daddy was yelling at the phone, okay?\u201d \u201cDad yells at the phone when it says stuff that he ",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c284",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.271,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.375,
+  "paper": 0.02,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Not smoking, not f*cking, you know, leaking oil, whatever you would do as a nervous robot,",
+  "punch": "He\u2019s like, \u201cWhat are your goals?\u201d And I am alone in a hotel room, and I literally lean tow",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c142",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.323,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.625,
+  "paper": 0.023,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Like, literally make her leave her shoes.",
+  "punch": "[laughter] But the other side of my brain\u2019s like, \u201cNo, dude, you can\u2019t do that.",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c208",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.269,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.383,
+  "paper": 0.013,
+  "violation": 0.0,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "So I\u2019m literally alone, I start drawing a bath, and the water came all the way up.",
+  "punch": "[chuckles] There\u2019s just no way as a man to take a bath and not think about killing yoursel",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript_p0c22",
+  "comic": "chris-rock",
+  "special": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript",
+  "score": 1.294,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.526,
+  "paper": 0.007,
+  "violation": 0.0,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "I literally said that.",
+  "punch": "I said \u201cYou\u2019ll be aight.\u201d [Jimmy] To the First Lady.",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-walk-your-way-out_p0c386",
+  "comic": "bill-burr",
+  "special": "bill-burr-walk-your-way-out",
+  "score": 1.268,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.381,
+  "paper": 0.011,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Okay?",
+  "punch": "This thing could, like, talk about its emotions.",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "soften",
+  "bit_id": "kevin-hart-let-me-explain_p0c138",
+  "comic": "kevin-hart",
+  "special": "kevin-hart-let-me-explain",
+  "score": 1.281,
+  "ops": [
+   "rigidify",
+   "literalize"
+  ],
+  "punch_ratio": 0.455,
+  "paper": 0.008,
+  "violation": 0.0,
+  "benign": 0.0,
+  "thesis": "everyday",
+  "setup": "This show\u2019s gonna be hot.",
+  "punch": "[Pause as crowd cheers] Um\u2026",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "closer",
+  "bit_id": "chris-rock-never-scared-2004-full-transcript_p0c3",
+  "comic": "chris-rock",
+  "special": "chris-rock-never-scared-2004-full-transcript",
+  "score": 1.278,
+  "ops": [
+   "rigidify",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.543,
+  "paper": 0.017,
+  "violation": 0.0,
+  "benign": 0.329,
+  "thesis": "everyday",
+  "setup": "I think he\u2019s a very progressive black man.",
+  "punch": "He hits home, I mean, all his jokes are on point and you know exactly what he\u2019s talking ab",
+  "_roster": "the-one-liner-purist"
+ },
+ {
+  "role": "opener",
+  "bit_id": "eddie-izzard-unrepeatable_p0c54",
+  "comic": "eddie-izzard",
+  "special": "eddie-izzard-unrepeatable",
+  "score": 1.315,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.159,
+  "paper": 0.017,
+  "violation": 0.171,
+  "benign": 0.893,
+  "thesis": "everyday",
+  "setup": "And actually you can get away with anything!",
+  "punch": "then you should!\u201d Kind of a dodgy argument there, you know\u2026",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c82",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.572,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.231,
+  "paper": 0.009,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Did you read the story?",
+  "punch": "They made, like, f*cking 15 of them, you know?",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript_p0c192",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript",
+  "score": 1.375,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.022,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "And so it has that, but also, literally it\u2019s true, because you could be the handsomest guy",
+  "punch": "",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "anchor",
+  "bit_id": "dave-chappelle-the-bird-revelation-2017-full-transcript_p0c59",
+  "comic": "dave-chappelle",
+  "special": "dave-chappelle-the-bird-revelation-2017-full-transcript",
+  "score": 1.566,
+  "ops": [
+   "double_interpret",
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.167,
+  "paper": 0.016,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "You are right.",
+  "punch": "I don\u2019t know.",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca_p0c184",
+  "comic": "bill-hicks",
+  "special": "bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca",
+  "score": 1.488,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.176,
+  "paper": 0.012,
+  "violation": 1.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "It\u2019s a round world last time I checked, OK?",
+  "punch": "I hate patriotism.",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c312",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.369,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.049,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Like, I try, you know, but then I\u2019ll go, \u201cOkay, you come over here with your \u2018Victoria Sec",
+  "punch": "",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript_p0c463",
+  "comic": "chris-rock",
+  "special": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript",
+  "score": 1.368,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.048,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "But then you know what happens?",
+  "punch": "",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-walk-your-way-out_p0c316",
+  "comic": "bill-burr",
+  "special": "bill-burr-walk-your-way-out",
+  "score": 1.361,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.033,
+  "paper": 0.011,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Like, Nike literally should have made him a sneaker, like a giant fucking boot.",
+  "punch": "Right?",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "bill-burr-paper-tiger_p0c284",
+  "comic": "bill-burr",
+  "special": "bill-burr-paper-tiger",
+  "score": 1.299,
+  "ops": [
+   "rigidify",
+   "literalize",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.375,
+  "paper": 0.02,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Not smoking, not f*cking, you know, leaking oil, whatever you would do as a nervous robot,",
+  "punch": "He\u2019s like, \u201cWhat are your goals?\u201d And I am alone in a hotel room, and I literally lean tow",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-what-am-i-doing-in-new-jersey-transcript_p0c106",
+  "comic": "george-carlin",
+  "special": "george-carlin-what-am-i-doing-in-new-jersey-transcript",
+  "score": 1.346,
+  "ops": [
+   "split_knowledge",
+   "juxtapose"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.016,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "then you can hide them and take them at the same time you know?",
+  "punch": "",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "stewart-lee-stand-up-comedian_p0c3",
+  "comic": "stewart-lee",
+  "special": "stewart-lee-stand-up-comedian",
+  "score": 1.335,
+  "ops": [
+   "double_interpret",
+   "status_invert",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.5,
+  "paper": 0.026,
+  "violation": 0.444,
+  "benign": 0.463,
+  "thesis": "everyday",
+  "setup": "You know, I didn\u2019t plan it.",
+  "punch": "And I was actually in the city of Granada in southern Spain, right.",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-carlin-campus-1984-full-transcript_p0c79",
+  "comic": "george-carlin",
+  "special": "george-carlin-carlin-campus-1984-full-transcript",
+  "score": 1.329,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.239,
+  "paper": 0.016,
+  "violation": 0.274,
+  "benign": 0.514,
+  "thesis": "everyday",
+  "setup": "And you\u2019d like an office right near the front so you can get the fuck out at 5:00 o\u2019clock ",
+  "punch": "Tell him you don\u2019t need a two-martini lunch, but you gotta have a one-joint coffee break.",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "soften",
+  "bit_id": "george-carlin-you-are-all-diseased-transcript_p0c121",
+  "comic": "george-carlin",
+  "special": "george-carlin-you-are-all-diseased-transcript",
+  "score": 1.315,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.0,
+  "paper": 0.047,
+  "violation": 0.0,
+  "benign": 1.0,
+  "thesis": "everyday",
+  "setup": "Maybe a little more frequently over the holidays, you know what I mean?",
+  "punch": "",
+  "_roster": "grey-fieldworker"
+ },
+ {
+  "role": "closer",
+  "bit_id": "norm-macdonald-nothing-special-transcript_p0c134",
+  "comic": "norm-macdonald",
+  "special": "norm-macdonald-nothing-special-transcript",
+  "score": 1.236,
+  "ops": [
+   "double_interpret",
+   "split_knowledge"
+  ],
+  "punch_ratio": 0.385,
+  "paper": 0.044,
+  "violation": 0.0,
+  "benign": 0.5,
+  "thesis": "everyday",
+  "setup": "[laughs] But, anyways, enough of this grim nonsense.",
+  "punch": "You know what I mean?",
+  "_roster": "grey-fieldworker"
+ }
+]
