@@ -15,7 +15,7 @@ never has to carry — the room brings it, and the comic plays it like a
 horn. This video is about the instrument that
 plays you while you think nobody's playing.
 
-**[0:45] PROOF.** Numbers, gold, on screen. Across five Kill Tony sets
+**[0:45] PROOF.** Numbers in gold, on screen. Across five Kill Tony sets
 — 44 laughs, word-timed to the millisecond — pauses
 before laughs average 2.51 seconds against baseline gaps of 0.178.
 [GOLD CARD: 2.51s vs 0.178s, 14x, p<0.0001, 44 laughs — 5 KT sets;
@@ -41,8 +41,7 @@ on one sound. Then the rush — the accelerated passage that fills the space
 before the room can re-form its expectations. Our data: the punch pause
 runs 1.4–2x the set's normal pause, then delivery accelerates to 1.48x the
 pre-punch rate. [GOLD CARD: punch faster than setup — Norrick via Attardo,
-second source for the snap] Hold, then snap. Fermata, then rush. Not competing
-theories — sequential phases of one gesture, measured independently in
+second source for the snap] Hold, then snap. Fermata, then rush. A single gesture in sequential phases — measured independently in
 comedy rooms and concert halls that never spoke to each other.
 
 **[4:30] PERSONA.** Louis: the hold as weapon — 8.16 seconds in the Road
@@ -65,7 +64,7 @@ laugh it produced. [GOLD CARD: 0 words vs set-peak laugh — pending] That ratio
 why the pause is the most efficient instrument in comedy.
 
 **[9:00] THE ROOM BREATHES (case coda).** Slow a hold to quarter speed and watch the
-audience, not the comic. [CLIP: Louis 8.16s hold, crowd wide shot] Second
+audience. [CLIP: Louis 8.16s hold, crowd wide shot] Second
 0–2: faces forward, still — prediction engaged. Second 2–4: micro-movements
 begin (shifts, swallows) — the body spending tension physically. Second
 4–6: stillness returns, deeper — the room has committed to waiting, and
@@ -104,12 +103,11 @@ a loan against the punch, and overdue loans collect in embarrassment.
 
 
 **[11:30] FAILURE MODE.** Two deaths. One: dead air mistaken for a hold —
-silence with no accrued weight (nothing expected, nothing suspended).
+silence with nothing behind it — nothing expected, nothing suspended.
 The room doesn't lean in, it checks out. Difference between a hold and
-dead air is everything before it: no platform, no tension, no instrument.
+dead air is everything before it: an empty platform.
 Two: the stepped-on laugh — talking over the room's release to get to the
-next bit. The snap needs its own silence AFTER it (the room's snap, not
-yours). Comedians who fear silence talk through their own punchlines and
+next bit. The snap needs its own silence AFTER it (the room's own snap). Comedians who fear silence talk through their own punchlines and
 wonder why the laughs feel small. The laughs were big. They just never
 got their silence.
 
@@ -118,8 +116,7 @@ silence around it. Diagnoses. Verdicts. Vows. Proposals. The pause before
 them isn't empty — it's the weight of everything unsaid, held open, then
 released in one movement. Comedy discovered this before anyone measured
 it, the way sailors discovered currents before oceanography. The eight
-episodes so far described one machinery from eight angles: world, platform,
-climb, break, echo, return, close, silence. Same instrument the
+episodes so far described one machinery from eight angles — the eight you just watched. Same instrument the
 whole time. You were listening to it in episode zero. You just couldn't hear
 it yet — because you didn't know that what you were hearing, between every
 word that mattered, was nothing. Played perfectly.

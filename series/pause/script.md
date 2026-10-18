@@ -12,7 +12,7 @@
 
 ## [0:45] PROOF
 
-Numbers, gold, on screen. Across five Kill Tony sets — 44 laughs, word-timed to the millisecond — pauses before laughs average 2.51 seconds against baseline gaps of 0.178.
+Numbers in gold, on screen. Across five Kill Tony sets — 44 laughs, word-timed to the millisecond — pauses before laughs average 2.51 seconds against baseline gaps of 0.178.
 
 > DIR: OVERLAY 2.51s-vs-0.178s 14x gold card + chart (provenance: p<0.0001, 44 laughs across 5 KT sets; Louis/Norm punch-timing cited separately for hold-then-snap) — fires on the timestamp stream, never narrated.
 > DIR: OVERLAY 0.6s+ pre-punch-pause operationalization card (second source; authors in production notes, never voiced) — fires on the timestamp stream, never narrated.
@@ -36,7 +36,7 @@ The fermata. A note held past its written value, length at the performer's discr
 > DIR: OVERLAY hold-then-snap trajectory diagram — fires on the timestamp stream, never narrated.
 > DIR: OVERLAY punch-faster-than-setup card (second source; authors in production notes, never voiced) — fires on the timestamp stream, never narrated.
 
-Hold, then snap. Fermata, then rush. Not competing theories — sequential phases of one gesture, measured independently in comedy rooms and concert halls that never spoke to each other.
+Hold, then snap. Fermata, then rush. A single gesture in sequential phases — measured independently in comedy rooms and concert halls that never spoke to each other.
 
 ## [4:30] PERSONA
 
@@ -62,7 +62,7 @@ That ratio is why the pause is the most efficient instrument in comedy.
 
 ## [9:00] THE ROOM BREATHES
 
-Slow a hold to quarter speed and watch the audience, not the comic.
+Slow a hold to quarter speed and watch the audience.
 
 > DIR: CLIP auHzTfeF64Y crowd wide shot (Louis 8.16s hold) ≤15s — stop narration, play ≤15s, resume.
 
@@ -96,13 +96,13 @@ The punch still lands, but on a room that's already spent half its tension fidge
 
 ## [11:30] FAILURE MODE
 
-Two deaths. One: dead air mistaken for a hold — silence with no accrued weight (nothing expected, nothing suspended). The room doesn't lean in, it checks out. Difference between a hold and dead air is everything before it: no platform, no tension, no instrument. Two: the stepped-on laugh — talking over the room's release to get to the next bit. The snap needs its own silence AFTER it (the room's snap, not yours). Comedians who fear silence talk through their own punchlines and wonder why the laughs feel small. The laughs were big. They just never got their silence.
+Two deaths. One: dead air mistaken for a hold — silence with nothing behind it — nothing expected, nothing suspended. The room doesn't lean in, it checks out. Difference between a hold and dead air is everything before it: an empty platform. Two: the stepped-on laugh — talking over the room's release to get to the next bit. The snap needs its own silence AFTER it (the room's own snap). Comedians who fear silence talk through their own punchlines and wonder why the laughs feel small. The laughs were big. They just never got their silence.
 
 > DIR: SPLIT dead air (coughs, chairs, empty timer) vs stepped-on laugh (release cut mid-flight); empty-vs-cut markers (canonical); laugh ticks only. No clips — narrator only.
 
 ## [12:45] UNIVERSAL
 
-Every important thing arrives with silence around it. Diagnoses. Verdicts. Vows. Proposals. The pause before them isn't empty — it's the weight of everything unsaid, held open, then released in one movement. Comedy discovered this before anyone measured it, the way sailors discovered currents before oceanography. The eight episodes so far described one machinery from eight angles: world, platform, climb, break, echo, return, close, silence. Same instrument the whole time. You were listening to it in episode zero. You just couldn't hear it yet — because you didn't know that what you were hearing, between every word that mattered, was nothing. [soft tone] Played perfectly.
+Every important thing arrives with silence around it. Diagnoses. Verdicts. Vows. Proposals. The pause before them isn't empty — it's the weight of everything unsaid, held open, then released in one movement. Comedy discovered this before anyone measured it, the way sailors discovered currents before oceanography. The eight episodes so far described one machinery from eight angles — the eight you just watched. Same instrument the whole time. You were listening to it in episode zero. You just couldn't hear it yet — because you didn't know that what you were hearing, between every word that mattered, was nothing. [soft tone] Played perfectly.
 
 > DIR: No clips — breathe. Text-phase recap montage (dissolves: ontology of recap). Music bed low under narration.
 
