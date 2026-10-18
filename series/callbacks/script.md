@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-Somewhere in the middle of every great hour, something from the beginning comes back — changed. The room explodes. Not because the line is funnier than everything around it, but because the room has been carrying it, unknowingly, for forty minutes. That's a callback. [break] Time travel for comedians.
+Somewhere in the middle of every great hour, something from the beginning comes back — changed. The room explodes. Forty minutes of quiet carrying detonate at once. That's a callback. [break] Time travel for comedians.
 
 > DIR: No clips — narrator cold open. SFX rewind under cold open (STORYBOARD S01).
 
@@ -24,7 +24,7 @@ Why? Because the audience did half the work earlier and forgot. The callback col
 
 > DIR: OVERLAY first-return-premium gold card (craft rule; method in ANALYSIS.md) — fires on the timestamp stream, never narrated.
 
-That's not a scoring rule we invented — it's what rooms do.
+That's what rooms do.
 
 ## [1:30] THESIS + VOCABULARY
 
@@ -66,11 +66,11 @@ The few words carry the many invisibly — the audience supplies them from memor
 
 ## [9:00] THE CLOCK
 
-How long must pass before a return counts as a callback instead of a repetition? Working rule, not law: quick returns read as running gags (same energy, no retrieval needed). Mid-range gaps are the sweet spot — long enough that the room stopped actively holding it, short enough that retrieval fires instantly on the cue. Past long absences without reinforcement and you need to rebuild the context (half a setup's worth of reminding) or half the room won't come with you. Big originals survive longer absences than small ones.
+How long must pass before a return counts as a callback rather than a repetition? Working rule: quick returns read as running gags (same energy, no retrieval needed). Mid-range gaps are the sweet spot — long enough that the room stopped actively holding it, short enough that retrieval fires instantly on the cue. Past long absences without reinforcement and you need to rebuild the context (half a setup's worth of reminding) or half the room won't come with you. Big originals survive longer absences than small ones.
 
 > DIR: OVERLAY gap-heuristics gold card (craft rule; corpus query pending; NOT measured) — fires on the timestamp stream, never narrated.
 
-The rule underneath: retrieval cost must stay below the recognition payoff. If the room works harder remembering than the return gives back, it's homework, not comedy. Great comics calibrate this by feel. When in doubt, re-plant: one reminder line halfway through resets the clock for free.
+The rule underneath: retrieval cost must stay below the recognition payoff. If the room works harder remembering than the return gives back, it's homework. Great comics calibrate this by feel. When in doubt, re-plant: one reminder line halfway through resets the clock for free.
 
 ## [10:00] SECOND SPECIMEN
 
@@ -90,11 +90,11 @@ Callbacks have a second job nobody talks about: saving dying rooms.
 
 > DIR: CLIP mid-set energy sag to callback reignite (early big laugh return) ≤15s — stop narration, play ≤15s, resume.
 
-The callback doesn't just get its own laugh. It re-activates the earlier laugh's corpse. Two laughs for the price of one reference: the recognition laugh now, plus the remembered laugh then, superimposed. This is why headliners plant callbacks early even when they don't need them yet. They're burying batteries around the set. Later, when the energy sags and new material would cost full price, they dig one up and it's still charged. The whole set is a battery farm and the closer runs on stored power. Advanced class, one line: callbacks can call back to callbacks — but go wide before deep. Acaster's finales work because they're wide (many threads, one level each), not deep. Depth past two collapses under its own weight. Breadth scales; depth doesn't.
+The callback doesn't just get its own laugh. It re-activates the earlier laugh's corpse. Two laughs for the price of one reference: the recognition laugh now, plus the remembered laugh then, superimposed. This is why headliners plant callbacks early even when they don't need them yet. They're burying batteries around the set. Later, when the energy sags and new material would cost full price, they dig one up and it's still charged. The whole set is a battery farm and the closer runs on stored power. Advanced class, one line: callbacks can call back to callbacks — but go wide before deep. Acaster's finales work because they're wide — many threads at a single level. Depth past two collapses under its own weight. Breadth scales; depth doesn't.
 
 ## [11:30] FAILURE MODE
 
-Two deaths. One: the microwaved rehash — same words, same context, no change. The room hears repetition, not return. Zero payout, and it spends the original's capital (that bit is now cheaper too). Two: the esoteric callback — referring to something half the room missed or forgot. No shared memory, no recognition, just confusion wearing a callback costume. Rule: revoice or die, and signpost the return (a turn of phrase, a gesture) so the room knows where it's being taken. Never punish the audience for your own memory.
+Two deaths. One: the microwaved rehash — same words in the same context, unchanged. The room hears repetition. Zero payout, and it spends the original's capital (that bit is now cheaper too). Two: the esoteric callback — referring to something half the room missed or forgot. No shared memory, no recognition, just confusion wearing a callback costume. Rule: revoice or die, and signpost the return (a turn of phrase, a gesture) so the room knows where it's being taken. Never punish the audience for your own memory.
 
 > DIR: OVERLAY repetition-vs-confusion glyphs (canonical). No clips — narrator only.
 

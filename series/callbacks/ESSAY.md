@@ -7,9 +7,7 @@
 ---
 
 **[0:00] ENGINE NAMED.** Somewhere in the middle of every great hour,
-something from the beginning comes back — changed. The room explodes.
-Not because the line is funnier than everything around it, but because the
-room has been carrying it, unknowingly, for forty minutes. That's a
+something from the beginning comes back — changed. The room explodes. Forty minutes of quiet carrying detonate at once. That's a
 callback. Time travel for comedians.
 
 **[0:30] PROOF.** Mulaney, New in Town: babysitting is like hiring "a horse
@@ -20,8 +18,7 @@ bigger laugh. [GOLD CARD: callback out-earns original — gap timing pending
 stage-3] Why? Because the audience did half the work earlier
 and forgot. The callback collects on a debt the room didn't know it
 owed. First invocation pays the premium. [GOLD CARD: first-return premium —
-craft rule, method in ANALYSIS.md] That's not a scoring rule we invented —
-it's what rooms do.
+craft rule, method in ANALYSIS.md] That's what rooms do.
 
 **[1:30] THESIS + VOCABULARY.** A callback does three things: it returns
 to an earlier point (not a new joke, a visited one), it arrives changed
@@ -62,7 +59,7 @@ specific room). Either alone is weaker. Together they're the biggest laugh
 of the hour.
 
 **[9:00] THE CLOCK (case coda).** How long must pass before a return counts as a
-callback instead of a repetition? Working rule, not law: quick returns
+callback rather than a repetition? Working rule: quick returns
 read as running gags (same energy, no retrieval needed). Mid-range gaps
 are the sweet spot — long enough that the room
 stopped actively holding it, short enough that retrieval fires instantly
@@ -72,7 +69,7 @@ won't come with you. Big originals survive longer absences than small
 ones. [GOLD CARD: gap heuristics — craft rule, corpus query pending;
 NOT measured] The rule underneath: retrieval cost must stay below
 the recognition payoff. If the room works harder remembering than the
-return gives back, it's homework, not comedy. Great comics calibrate this
+return gives back, it's homework. Great comics calibrate this
 by feel. When in doubt, re-plant: one reminder line halfway through
 resets the clock for free.
 
@@ -99,12 +96,12 @@ new material would cost full price, they dig one up and it's still
 charged. The whole set is a battery farm and the closer runs on stored
 power. Advanced class, one line: callbacks can call back to callbacks —
 but go wide before deep. Acaster's finales work because they're wide
-(many threads, one level each), not deep. Depth past two collapses under
+— many threads at a single level. Depth past two collapses under
 its own weight. Breadth scales; depth doesn't.
 
 
 **[11:30] FAILURE MODE.** Two deaths. One: the microwaved rehash — same
-words, same context, no change. The room hears repetition, not return.
+words in the same context, unchanged. The room hears repetition.
 Zero payout, and it spends the original's capital (that bit is now
 cheaper too). Two: the esoteric callback — referring to something half
 the room missed or forgot. No shared memory, no recognition, just
