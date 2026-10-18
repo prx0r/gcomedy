@@ -43,3 +43,8 @@
 ## Books/voices (1 quote each max)
 Hedberg (economy), Wright (misdirection), Twain (nub-slurring),
 Jeselnik (Ruby interviews, third thought + reaction-size bar).
+
+11. **Assumption-question.** Ask what question the audience was answering
+    when they built Story 1. Answer a DIFFERENT question = proto-punchline.
+    Edit into shape. (If you can't name their question, your setup has no
+    target assumption — fix that first.)

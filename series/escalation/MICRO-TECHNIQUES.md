@@ -42,3 +42,8 @@
 ## Books/voices (1 quote each max)
 Carlin (autobiography, sledgehammer vs rapier), Normand (podcast process),
 Napier (*Improvise* — "too nice"), UCB Manual (game chapter).
+
+11. **Mullen extremes.** State opinion + exact opposite. Take both to
+    extremes. More extreme. Combine — mock both sides. Add three tags +
+    punchline. Escalation by opposition instead of magnitude: the climb
+    splits in two directions at once.

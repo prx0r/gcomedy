@@ -44,3 +44,8 @@
 ## Books/voices (1 quote each max)
 Twain (humorous/comic/witty taxonomy), Dean (setup/punch definitions),
 Laffstr (glossary ladder), GTVH (two-scripts-opposed, production notes only).
+
+11. **Chunking (rooms NOT mics).** Group jokes by topic; narrative thread
+    between them for large rooms. 20–25 laughs per 5 minutes or the thread
+    starves. Study Jeselnik/Barry set flow: order is architecture, not
+    accident. Rearrange at mics until the seams vanish.

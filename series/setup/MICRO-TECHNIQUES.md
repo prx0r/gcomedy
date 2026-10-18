@@ -56,3 +56,13 @@ Seinfeld (*Is This Anything?* process), Jeselnik interviews (Ruby),
 Gervais (Fast Company creation story), Normand (podcast process),
 Acaster (process interviews in ACASTER-GOLD). Pull 1 quote each max —
 craft voices, not chapters.
+
+11. **Corley formula.** Truth statement → association lists (nouns, verbs,
+    adjectives — consonant-heavy words punch harder) → emotion finish ("I
+    [love/hate/fear] X because ___") → pick format → brevity → never put
+    punch words in the setup. Mechanical, unglamorous, works.
+12. **Pipeline check (Workshop).** Truth (boring fact, one line) →
+    Attributes (quirks list) → Angle (attitude + cartoon exaggeration) →
+    Combo (Truth→Exaggeration→Misdirection / Sarcasm→Rule-of-3 /
+    Understatement→Absurd / Persona→Flip→Tag) → Trim (halve it, funniest
+    word last). Run every setup through all five gates before staging.

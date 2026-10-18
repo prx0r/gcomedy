@@ -48,3 +48,8 @@
 Rock (Talking Funny exact quote), Seinfeld (Is This Anything? process),
 Gervais (Fast Company creation story), Acaster (red-dress interviews),
 Johnstone (Impro, offers).
+
+11. **Andrew premise formula.** Opinion → opposite → extreme → more
+    extreme → first memory it triggers → "if 1 and 5 are both true, what
+    else must be true?" → specify → the belief underneath is your premise.
+    Won't write the joke; finds what the joke is ABOUT.

@@ -40,3 +40,13 @@
 ## Books/voices (1 quote each max)
 Dean (tag/edit pipeline), Gulman (state routine), Louis (Monopoly tags in
 GOLD.md), Normand (podcast on stacking).
+
+11. **POV-shift tags (Meltzer/Dean).** Tag by changing WHO speaks:
+    Narrator→Self→Character→Audience→Object. Gaffigan: 21 POV shifts in
+    2.5 minutes. Act-outs ARE tags — embodiment instead of wording.
+    Physical tags extend the laugh without new laughs (act out the punch's
+    consequences while the room is still going).
+12. **Switchback tags (Martin).** Shatter NEW assumptions your own punch
+    created ("what happens next if my punch is true?"). Chain them:
+    three switchbacks = the nice-girl cat shape. Each tag breaks the last
+    tag's world, not the original setup's.
