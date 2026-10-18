@@ -6,14 +6,19 @@
 
 ## The definitions (stated once, on screen as glossary cards, used forever)
 
+- **One-liner:** maximally compressed joke — setup + punch in a single
+  sentence. (Wikipedia: "delivered in a single line"; Hedberg, Wright,
+  Youngman. Paraprosdokian = its Greek-rhetoric backbone.)
 - **Joke:** atomic unit. One setup, one punch, one laugh point. Seconds long.
-- **Bit:** developed sequence on one premise. Multiple jokes + tags, minutes
-  long. (Louis Monopoly = one bit, several jokes.)
+- **Bit:** complete section — main premise plus several examples, tags,
+  beats. (r/Standup; Laffstr: "a joke is a single setup/punchline; a bit
+  develops a premise across multiple angles.") Minutes long.
+- **Chunk:** multiple bits linked by a topic, ~10–15 min. (Wikipedia:
+  stand-up set made of jokes, bits, chunks.)
+- **Set:** the entirety of one performance.
 - **Premise:** the shared world assumption everything stands on.
 - **Setup / punch / tag / callback / button:** the six moves (each gets its
   own video — no definitions here beyond one line each).
-- **Chunk / set / hour:** larger containers (bits on a theme; the whole
-  performance). Mentioned once, never examined.
 
 ## Beats (10-beat arc, ~12 min)
 
@@ -33,10 +38,13 @@ forever). Promise: "You will never hear a definition again. From here on,
 we only point."
 
 **4. LENS (2:30–5:00, music first).** Motif vs movement vs symphony. A
-motif (da-da-da-DUM) is a joke: tiny, complete, reusable. A movement
-develops motifs the way a bit develops jokes. A symphony programs movements
-the way an hour programs bits. Beethoven's Fifth opening as the demo:
-four notes, entire universe. Same compositional logic, different material.
+motif (da-da-da-DUM) is a one-liner: tiny, complete, reusable. A phrase is
+a joke. A movement develops phrases the way a bit develops jokes. A
+symphony programs movements the way an hour programs bits. Beethoven's
+Fifth opening as the demo: four notes, entire universe. Same
+compositional logic, different material. (Wikipedia's ladder — jokes,
+bits ("a joke or 3 or 4 jokes"), chunks ("10–15 minutes"), set — cited
+on screen. Laffstr glossary for one-liner/paraprosdokian.)
 
 **5. PERSONA (5:00–7:00).** Twain: humorous (manner) vs comic/witty
 (matter) stories — the first taxonomy of joke vs bit, 1895, free forever.
