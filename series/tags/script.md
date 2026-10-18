@@ -28,7 +28,7 @@ A tag does three things: it assumes the punch's world (no rebuilding, no re-expl
 
 ## [2:30] LENS
 
-The encore riff. A guitarist lands the big bend, the crowd roars, and instead of stopping he squeezes two more bent notes out of the same string position — same fret, same string, new cries. Nobody applauds the encore riff as composition. They applaud it as nerve: he stayed up there. Tags are encore riffs in meaning-space. Same position (the broken world), new cries (new fractures), nerve over architecture.
+The encore riff. A guitarist lands the big bend to a roar, then squeezes two more bent notes out of the same string position instead of stopping. Same fret. Same string. New cries. Nobody applauds the encore riff as composition. They applaud it as nerve: he stayed up there. Tags are encore riffs in meaning-space. Same position (the broken world), new cries (new fractures), nerve over architecture.
 
 > DIR: OVERLAY same-position white label (not gold — analogy, not data); guitarist cleared audio ≤15s if used.
 
@@ -44,7 +44,7 @@ Tag chain dissected.
 
 > DIR: CLIP tag chain ×4 (1 punch + 3 tags, each ≤15s) — stop narration, play, pause-analyze-resume.
 
-On screen: word counts descending — punch longest, each tag shorter, the typical decay curve.
+On screen: word counts descending — punch longest with each tag shorter down the typical decay curve.
 
 > DIR: OVERLAY descending counts — pending transcript verification.
 
@@ -68,15 +68,15 @@ Freeze a single tag mid-flight and take it apart.
 
 > DIR: CLIP punch + one tag, looped twice (each ≤15s) — stop narration, play, resume.
 
-The tag assumes four things without stating them: the world (still broken), the priority (still foreground), the tone (still the punch's register), the audience position (still leaning in). A tag that re-establishes any of these is not a tag — it's a new setup wearing a tag costume, and it pays setup prices. The real tag adds exactly one new fracture and trusts the rest.
+The tag silently assumes four things: the world (still broken), the priority (still foreground), the tone (still the punch's register), the audience position (still leaning in). A tag that re-establishes any of these is a new setup wearing a tag costume, and it pays setup prices. The real tag adds exactly one new fracture and trusts the rest.
 
 > DIR: OVERLAY assumed vs added meaning — annotated on screen.
 
-And notice the tag's grammar: fragments, not sentences. No subject restated, no context rebuilt ("going down hard" — going WHERE down? The room knows. Saying it would cost the laugh). Tags speak in shorthand because the punch already taught the language. First tag in a set teaches the shorthand; every tag after spends it.
+And notice the tag's grammar: fragments. Subjects dropped, context trusted ("going down hard" — going WHERE down? The room knows. Saying it would cost the laugh). Tags speak in shorthand because the punch already taught the language. First tag in a set teaches the shorthand; every tag after spends it.
 
 ## [10:00] SECOND SPECIMEN
 
-Improv tag-run: same game, new instances, no script.
+Improv tag-run: same game with new instances and no script.
 
 > DIR: CLIP improv tag-run <window> — stop narration, play ≤15s excerpts, resume.
 
@@ -90,11 +90,11 @@ The advanced class: tags that change the game instead of just scoring in it.
 
 > DIR: CLIP key-change tag <window> — stop narration, play ≤15s, resume. Tag reframes the punch retroactively; the tag doesn't extend the broken world, it reveals the world was different all along.
 
-Most tags deepen the existing fracture. Gymnastics tags rotate the whole structure: same words behind, new meaning in front. The room laughs twice — once at the new fracture, once at realizing the old one meant something else. These are rare because they require the tag to carry model-revision weight, not just fracture weight. When they land they're the biggest laughs in sets that contain them, and comics who can do them reliably (a short list, headed by the usual suspects) guard them like trade secrets. If regular tags are encore riffs, these are key changes mid-song.
+Most tags deepen the existing fracture. Gymnastics tags rotate the whole structure: same words behind, new meaning in front. The room laughs twice — once at the new fracture, once at realizing the old one meant something else. These are rare because they require the tag to carry model-revision weight as well as fracture weight. When they land they're the biggest laughs in sets that contain them, and comics who can do them reliably (a short list, headed by the usual suspects) guard them like trade secrets. If regular tags are encore riffs, these are key changes mid-song.
 
 ## [11:30] FAILURE MODE
 
-Two deaths. One: the Explainer tag — restating the punch instead of fracturing anew. Zero new fracture, zero laugh, and it spends the decay window on nothing. Two: the fourth-tag overreach — pushing past the window because the third tag worked. The room's laughter was already decaying; the extra tag doesn't extend it, it exposes the machinery. The extra tag earns a polite chuckle — the room paying in small coins for a lesson the comic bought at full price. Rule: tags diminish or die. Never tag sideways (new world = new setup economics, and you're spending setup money you don't have).
+Two deaths. One: the Explainer tag — restating the punch instead of fracturing anew. Zero new fracture. Zero laugh. And it spends the decay window on nothing. Two: the fourth-tag overreach — pushing past the window because the third tag worked. The room's laughter was already decaying; the extra tag doesn't extend it, it exposes the machinery. The extra tag earns a polite chuckle — the room paying in small coins for a lesson the comic bought at full price. Rule: tags diminish or die. Never tag sideways (new world = new setup economics, and you're spending setup money you don't have).
 
 > DIR: OVERLAY laugh-tick decay per case (pending).
 
@@ -106,7 +106,7 @@ Everything good has tags. Conversations: the follow-up line that's funnier than 
 
 ## [13:30] CLOSE + HOOK
 
-A tag spends the punch's leftover energy before it decays — same broken world, second fracture, smaller hammer. Hit it again before the room recovers. Next week: what comes back months later. Callbacks — time travel for comedians.
+A tag spends the punch's leftover energy before it decays — same world, new fracture, smaller hammer. Hit it again before the room recovers. Next week: what comes back months later. Callbacks — time travel for comedians.
 
 > DIR: OVERLAY series map, callbacks highlighted. Fade to black (level-5 silence).
 

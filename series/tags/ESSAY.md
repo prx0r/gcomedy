@@ -29,8 +29,8 @@ New term, one only: decay window — the ~4 seconds of laugh-energy during
 which tags live. After it closes, you're back to setup economics.
 
 **[2:30] LENS (music first).** The encore riff. A guitarist lands the big
-bend, the crowd roars, and instead of stopping he squeezes two more bent
-notes out of the same string position — same fret, same string, new cries.
+bend to a roar, then squeezes two more bent notes out of the same string
+position instead of stopping. Same fret. Same string. New cries.
 Nobody applauds the encore riff as composition. They applaud it as nerve:
 he stayed up there. Tags are encore riffs in meaning-space. Same position
 (the broken world), new cries (new fractures), nerve over architecture.
@@ -44,8 +44,7 @@ opposite risk profiles (speed vs depth).
 
 **[6:00] CASE STUDY.** Tag chain dissected. [CLIP ×4, each ≤15s: 1 punch +
 3 tags, pause-analyze-resume] On
-screen: word counts descending — punch longest, each tag shorter, the
-typical decay curve. [GOLD CARD: descending counts — pending transcript
+screen: word counts descending — punch longest with each tag shorter down the typical decay curve. [GOLD CARD: descending counts — pending transcript
 verification] Laugh under each: punch laugh longest,
 tags progressively shorter but denser — laughs per word rises even as total
 laugh falls. [GOLD CARD: density curve — pending laugh-onset measurement]
@@ -59,21 +58,19 @@ hour of laughs. [GOLD CARD: tag economics — craft rule, run-length records
 pending] Audiences feel cheated by comics who never tag: they paid for a
 platform and only got one joke off it.
 **[9:00] ANATOMY OF ONE TAG (case coda).** Freeze a single tag mid-flight and take
-it apart. [CLIP: punch + one tag, looped twice, each ≤15s] The tag assumes four
-things without stating them: the world (still broken), the priority (still
+it apart. [CLIP: punch + one tag, looped twice, each ≤15s] The tag silently
+assumes four: the world (still broken), the priority (still
 foreground), the tone (still the punch's register), the audience position
-(still leaning in). A tag that re-establishes any of these is not a tag —
-it's a new setup wearing a tag costume, and it pays setup prices. The real
+(still leaning in). A tag that re-establishes any of these is a new setup wearing a tag costume, and it pays setup prices. The real
 tag adds exactly one new fracture and trusts the rest. [GOLD CARD: assumed
-vs added meaning — annotated on screen] And notice the tag's grammar: fragments, not sentences. No subject restated,
-no context rebuilt ("going down hard" — going WHERE down? The room knows.
+vs added meaning — annotated on screen] And notice the tag's grammar: fragments. Subjects dropped, context trusted
+("going down hard" — going WHERE down? The room knows.
 Saying it would cost the laugh). Tags speak in shorthand because the punch
 already taught the language. First tag in a set teaches the shorthand;
 every tag after spends it.
 
 
-**[10:00] SECOND SPECIMEN.** Improv tag-run: same game, new instances,
-no script. [CLIP: ≤15s excerpts] Different handling — written tags are engineered
+**[10:00] SECOND SPECIMEN.** Improv tag-run: same game with new instances and no script. [CLIP: ≤15s excerpts] Different handling — written tags are engineered
 fractures, improv tags are discovered ones — but the decay economics are
 identical. The improviser feels the window closing in their body and
 either lands the tag or edits the scene. That feeling has a name in the
@@ -88,7 +85,7 @@ world was different all along] Most tags deepen the existing fracture.
 Gymnastics tags rotate the whole structure: same words behind, new meaning
 in front. The room laughs twice — once at the new fracture, once at
 realizing the old one meant something else. These are rare because they
-require the tag to carry model-revision weight, not just fracture weight.
+require the tag to carry model-revision weight as well as fracture weight.
 When they land they're the biggest laughs in sets that contain them, and
 comics who can do them reliably (a short list, headed by the usual
 suspects) guard them like trade secrets. If regular tags are encore riffs,
@@ -96,8 +93,7 @@ these are key changes mid-song.
 
 
 **[11:30] FAILURE MODE.** Two deaths. One: the Explainer tag — restating
-the punch instead of fracturing anew. Zero new fracture, zero laugh,
-and it spends the decay window on nothing. Two: the fourth-tag overreach —
+the punch instead of fracturing anew. Zero new fracture. Zero laugh. And it spends the decay window on nothing. Two: the fourth-tag overreach —
 pushing past the window because the third tag worked. The room's laughter
 was already decaying; the extra tag doesn't extend it, it exposes the
 machinery. The extra tag earns a polite chuckle — the room paying in small
@@ -110,7 +106,7 @@ example that ends it. Music: the encore riff. Tags are what you do with
 leftover energy before it decays — in comedy and everywhere else.
 
 **[13:30] CLOSE + HOOK.** A tag spends the punch's leftover energy before it
-decays — same broken world, second fracture, smaller hammer. Hit it again
+decays — same world, new fracture, smaller hammer. Hit it again
 before the room recovers. Next
 week: what comes back months later. Callbacks — time travel for comedians.
 
