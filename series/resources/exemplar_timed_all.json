@@ -1,16 +1,389 @@
 {
- "note": "Timing data for millisecond overlay system. Each sequence has beats with word-level timing.",
+ "note": "Overlay-ready timing + laugh onsets. ESTIMATED = word-count based.",
  "sequences": [
+  {
+   "id": "chris-rock-tamborine",
+   "comedian": "chris-rock",
+   "special": "tamborine",
+   "duration_s": 81.7,
+   "total_words": 183,
+   "max_pause_s": 1.2,
+   "n_beats": 15,
+   "n_punches": 9,
+   "n_laughs": 0,
+   "beats": [
+    {
+     "t0": 0.0,
+     "t1": 3.7,
+     "pause_after": 0.4,
+     "words": 10,
+     "text": "[Jimmy Fallon] Were you at the, uh, White House party?",
+     "estimated": true
+    },
+    {
+     "t0": 4.1,
+     "t1": 9.8,
+     "pause_after": 1.2,
+     "words": 15,
+     "text": "[Chris Rock] Yes, I was at the White House. Everybody was there. It was like\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 11.0,
+     "t1": 14.0,
+     "pause_after": 1.2,
+     "words": 8,
+     "text": "whoa. The last party at the White House\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 15.2,
+     "t1": 18.2,
+     "pause_after": 0.4,
+     "words": 8,
+     "text": "[chuckles softly] You been to the White House?",
+     "estimated": true
+    },
+    {
+     "t0": 18.6,
+     "t1": 21.2,
+     "pause_after": 1.2,
+     "words": 7,
+     "text": "[Jimmy] Yes. It\u2019s amazing. [Jimmy] It\u2019s unbelievable.",
+     "estimated": true
+    },
+    {
+     "t0": 22.4,
+     "t1": 28.0,
+     "pause_after": 0.4,
+     "words": 15,
+     "text": "You walk in, you see these humongous portraits of the presidents everywhere you go, right?",
+     "estimated": true
+    },
+    {
+     "t0": 28.4,
+     "t1": 34.0,
+     "pause_after": 0.4,
+     "words": 15,
+     "text": "So I\u2019m there, and it\u2019s me, and Ahmir is there, and Jay-Z, Beyonc\u00e9, Oprah, Steve\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 34.4,
+     "t1": 38.2,
+     "pause_after": 0.4,
+     "words": 10,
+     "text": "It\u2019s like I died and went to Black heaven, right?",
+     "estimated": true
+    },
+    {
+     "t0": 38.6,
+     "t1": 41.2,
+     "pause_after": 0.4,
+     "words": 7,
+     "text": "[audience laughing] [Chris chuckles] They were all\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 41.6,
+     "t1": 47.2,
+     "pause_after": 1.2,
+     "words": 15,
+     "text": "[Jimmy] Something to see. It was unbelievable. There were a few white people there, too.",
+     "estimated": true
+    },
+    {
+     "t0": 48.4,
+     "t1": 50.3,
+     "pause_after": 1.2,
+     "words": 5,
+     "text": "Kid Rock or somebody. Anyway\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 51.5,
+     "t1": 53.3,
+     "pause_after": 1.2,
+     "words": 5,
+     "text": "Katie Couric or something. And\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 54.5,
+     "t1": 60.9,
+     "pause_after": 1.2,
+     "words": 17,
+     "text": "[both laughing] They had a couple. [Jimmy] Sure. There\u2019s a lot more now, I\u2019ll tell you that.",
+     "estimated": true
+    },
+    {
+     "t0": 62.1,
+     "t1": 67.0,
+     "pause_after": 1.2,
+     "words": 13,
+     "text": "[chuckles] It\u2019s a lot more now. [Jimmy laughing] Yeah. And they had entertainment\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 68.2,
+     "t1": 80.5,
+     "pause_after": 1.2,
+     "words": 33,
+     "text": "You\u2019re sitting around, you\u2019re meeting people, and you mingle, first you mingle. And at one point, it\u2019s me and Michelle Obama just talking. I\u2019m not really supposed to be alone with Michelle Obama.",
+     "estimated": true
+    }
+   ],
+   "punch_candidates": [
+    {
+     "t": 4.1,
+     "pause_before": 1.2,
+     "text": "It was like\u2026"
+    },
+    {
+     "t": 11.0,
+     "pause_before": 1.2,
+     "text": "The last party at the White House\u2026"
+    },
+    {
+     "t": 18.6,
+     "pause_before": 1.2,
+     "text": "[Jimmy] It\u2019s unbelievable."
+    },
+    {
+     "t": 41.6,
+     "pause_before": 1.2,
+     "text": "There were a few white people there, too."
+    },
+    {
+     "t": 48.4,
+     "pause_before": 1.2,
+     "text": "Anyway\u2026"
+    },
+    {
+     "t": 51.5,
+     "pause_before": 1.2,
+     "text": "And\u2026"
+    },
+    {
+     "t": 54.5,
+     "pause_before": 1.2,
+     "text": "There\u2019s a lot more now, I\u2019ll tell you that."
+    },
+    {
+     "t": 62.1,
+     "pause_before": 1.2,
+     "text": "And they had entertainment\u2026"
+    },
+    {
+     "t": 68.2,
+     "pause_before": 1.2,
+     "text": "I\u2019m not really supposed to be alone with Michelle Obama."
+    }
+   ],
+   "laugh_onsets": [],
+   "overlay_ready": true,
+   "has_laugh_onsets": false,
+   "estimated": true
+  },
+  {
+   "id": "john-mulaney-kid-gorgeous",
+   "comedian": "john-mulaney",
+   "special": "kid-gorgeous",
+   "duration_s": 286.4,
+   "total_words": 671,
+   "max_pause_s": 1.2,
+   "n_beats": 15,
+   "n_punches": 10,
+   "n_laughs": 0,
+   "beats": [
+    {
+     "t0": 0.0,
+     "t1": 5.2,
+     "pause_after": 1.2,
+     "words": 13,
+     "text": "[organ music playing] Welcome to Radio City Music Hall. It\u2019s time. Any questions?",
+     "estimated": true
+    },
+    {
+     "t0": 6.4,
+     "t1": 12.8,
+     "pause_after": 1.2,
+     "words": 16,
+     "text": "No. Walk with me. [eerie organ music playing] [mechanical whirring] [audience applauding and cheering] Good evening.",
+     "estimated": true
+    },
+    {
+     "t0": 14.0,
+     "t1": 24.0,
+     "pause_after": 1.2,
+     "words": 25,
+     "text": "Hi, I\u2019m John Mulaney, nice to meet you. Jon Brion, ladies and gentlemen. Thank you for coming to see me at Radio City Music Hall.",
+     "estimated": true
+    },
+    {
+     "t0": 25.2,
+     "t1": 42.0,
+     "pause_after": 1.2,
+     "words": 42,
+     "text": "I love to play venues where if the guy that built the venue could see me on the stage, he would be a little bit bummed about it. Look at this. This is so much nicer than what I\u2019m about to do.",
+     "estimated": true
+    },
+    {
+     "t0": 43.2,
+     "t1": 49.6,
+     "pause_after": 1.2,
+     "words": 16,
+     "text": "It\u2019s really\u2026 It\u2019s really tragic. What a historic and beautiful and deeply haunted building this is.",
+     "estimated": true
+    },
+    {
+     "t0": 50.8,
+     "t1": 76.4,
+     "pause_after": 1.2,
+     "words": 64,
+     "text": "I keep walking through cold spots being like, \u201cI wonder who that used to be.\u201d I\u2019ve never seen a ghost, by the way. I asked my mom if she\u2019d ever seen a ghost. That\u2019s where we\u2019re at conversation-wise in",
+     "estimated": true
+    },
+    {
+     "t0": 77.6,
+     "t1": 140.0,
+     "pause_after": 1.2,
+     "words": 156,
+     "text": "So I was home for Christmas and we were just eating Triscuits in\u00a0silence and I was staring at the floor and I was like, \u201cWell, here goes nothing. \u2018You ever seen a ghost?'\u201d And my mom said, \u201cYes.\u201d Whic",
+     "estimated": true
+    },
+    {
+     "t0": 141.2,
+     "t1": 147.6,
+     "pause_after": 1.2,
+     "words": 16,
+     "text": "\u201cLet\u2019s change the subject! Why are we even talking about Penelope\u2026 or whatever her name was?",
+     "estimated": true
+    },
+    {
+     "t0": 148.8,
+     "t1": 158.8,
+     "pause_after": 1.2,
+     "words": 25,
+     "text": "I didn\u2019t kill her! Whoever did kill\u00a0her only did it to protect her from this world.\u201d None of us really know our fathers. Anyway\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 160.0,
+     "t1": 174.8,
+     "pause_after": 1.2,
+     "words": 37,
+     "text": "My dad is so weird. I\u2019d love to meet him someday. You know, my friend was telling me that his dad used to beat him with a belt and that\u2019s just the setup to my story, so\u2026",
+     "estimated": true
+    },
+    {
+     "t0": 176.0,
+     "t1": 186.0,
+     "pause_after": 1.2,
+     "words": 25,
+     "text": "Forget about that poor son of a bitch. Anyway\u2026 He was talking and I was waiting for him to be done so I could talk.",
+     "estimated": true
+    },
+    {
+     "t0": 187.2,
+     "t1": 199.6,
+     "pause_after": 1.2,
+     "words": 31,
+     "text": "So he\u2019s \u201ctalk, talk, talk.\u201d It\u2019s my turn next! And\u2026 [audience laughing] I said, \u201cMy dad never hit us.\u201d My dad is a lawyer and he was a debate team champion.",
+     "estimated": true
+    },
+    {
+     "t0": 200.8,
+     "t1": 224.8,
+     "pause_after": 1.2,
+     "words": 60,
+     "text": "So he would pick us apart psychologically. One time I was at the dinner table when I was like six, because I had to be. My dad goes, \u201cHow was school today?\u201d I said, \u201cIt was good but someone pushed Tyl",
+     "estimated": true
+    },
+    {
+     "t0": 226.0,
+     "t1": 267.2,
+     "pause_after": 1.2,
+     "words": 103,
+     "text": "I was over on the bench.\u201d \u201cBut you saw what\u00a0happened?\u201d \u201cYeah, \u2019cause I was over on the bench.\u201d \u201cSo you saw what happened and you did nothing?\u201d \u201cYeah, \u2019cause I was sitting over on the bench.\u201d \u201cLet me a",
+     "estimated": true
+    },
+    {
+     "t0": 268.4,
+     "t1": 285.2,
+     "pause_after": 1.2,
+     "words": 42,
+     "text": "How are you better than a Nazi?\u201d And then my mom said, \u201cI made a salad with Craisins!\u201d And the conversation ended. My dad\u2019s a very weird, informal guy. A lot of people ask me if he gave me a sex talk.",
+     "estimated": true
+    }
+   ],
+   "punch_candidates": [
+    {
+     "t": 0.0,
+     "pause_before": 1.2,
+     "text": "Any questions?"
+    },
+    {
+     "t": 6.4,
+     "pause_before": 1.2,
+     "text": "[eerie organ music playing] [mechanical whirring] [audience applauding and cheer"
+    },
+    {
+     "t": 14.0,
+     "pause_before": 1.2,
+     "text": "Thank you for coming to see me at Radio City Music Hall."
+    },
+    {
+     "t": 25.2,
+     "pause_before": 1.2,
+     "text": "This is so much nicer than what I\u2019m about to do."
+    },
+    {
+     "t": 43.2,
+     "pause_before": 1.2,
+     "text": "What a historic and beautiful and deeply haunted building this is."
+    },
+    {
+     "t": 50.8,
+     "pause_before": 1.2,
+     "text": "That\u2019s where we\u2019re at conversation-wise in our relationship as a mother and son,"
+    },
+    {
+     "t": 77.6,
+     "pause_before": 1.2,
+     "text": "She said, \u201cI never told you this before but our house, when you were growing up,"
+    },
+    {
+     "t": 141.2,
+     "pause_before": 1.2,
+     "text": "or whatever her name was?"
+    },
+    {
+     "t": 148.8,
+     "pause_before": 1.2,
+     "text": "Anyway\u2026"
+    },
+    {
+     "t": 160.0,
+     "pause_before": 1.2,
+     "text": "You know, my friend was telling me that his dad used to beat him with a belt and"
+    }
+   ],
+   "laugh_onsets": [],
+   "overlay_ready": true,
+   "has_laugh_onsets": false,
+   "estimated": true
+  },
   {
    "id": "louis-ck-road-rage-window",
    "comedian": "louis-ck",
    "special": "road-rage-window",
-   "source": "characters2/scribe",
    "duration_s": 239.78,
    "total_words": 337,
    "max_pause_s": 8.16,
    "n_beats": 18,
    "n_punches": 10,
+   "n_laughs": 1,
    "beats": [
     {
      "t0": 121.8,
@@ -191,19 +564,26 @@
      "text": "So I got in the van and you know, I was trying to pull the door to the sliding d"
     }
    ],
+   "laugh_onsets": [
+    {
+     "t": 232.74,
+     "type": "laugh"
+    }
+   ],
    "overlay_ready": true,
-   "has_laugh_onsets": false
+   "has_laugh_onsets": true,
+   "estimated": false
   },
   {
    "id": "norm-macdonald-moth-joke",
    "comedian": "norm-macdonald",
    "special": "moth-joke",
-   "source": "characters2/scribe",
    "duration_s": 119.98,
    "total_words": 384,
    "max_pause_s": 1.7,
    "n_beats": 5,
    "n_punches": 4,
+   "n_laughs": 0,
    "beats": [
     {
      "t0": 0.0,
@@ -263,83 +643,203 @@
      "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I "
     }
    ],
+   "laugh_onsets": [],
    "overlay_ready": true,
-   "has_laugh_onsets": false
+   "has_laugh_onsets": true,
+   "estimated": false
   },
   {
    "id": "stewart-lee-carpet-remnant-world-2012-live",
    "comedian": "stewart-lee",
    "special": "carpet-remnant-world-2012-live",
-   "source": "r2:comedy-specials",
-   "duration_s": 185.68,
+   "duration_s": 751.28,
    "total_words": 14998,
-   "max_pause_s": 1.88,
-   "n_beats": 8,
-   "n_punches": 5,
+   "max_pause_s": 2.44,
+   "n_beats": 26,
+   "n_punches": 15,
+   "n_laughs": 9,
    "beats": [
     {
      "t0": 5.89,
      "t1": 41.88,
      "pause_after": 0.52,
      "words": 106,
-     "text": "[applause] Uh, that was a bit um heavy metal. Rock and roll that. Can we have some funny music at the start of the second half? Yep. Thanks for coming. Um, okay. What news do you know about Leon inquiry? That's ongoing. News the world went down. I was sorry to see the news of the world go down. I think it was a great campaigning newspaper. Not everything I say is sarcastic. Sheffield. Now, who can forget the News of the World's high-profile campaign against child sex offenders, which led, didn't it, to News of the World readers burning down the home of a pediatrician,",
-     "syllables": 166
+     "text": "[applause] Uh, that was a bit um heavy metal. Rock and roll that. Can we have some funny music at the start of the second half? Yep. Thanks for coming. Um, okay. What news do you know about Leon inquiry? That's ongoing. News the world went down. I was sorry to see the news of the world go down. I think it was a great campaigning newspaper. Not everything I say is sarcastic. Sheffield. Now, who can forget the News of the World's high-profile campaign against child sex offenders, which led, didn't it, to News of the World readers burning down the home of a pediatrician,"
     },
     {
      "t0": 42.4,
      "t1": 46.44,
      "pause_after": 1.4,
      "words": 5,
-     "text": "throwing rocks at a pedalo",
-     "syllables": 8
+     "text": "throwing rocks at a pedalo"
     },
     {
      "t0": 47.84,
      "t1": 51.88,
      "pause_after": 1.88,
      "words": 5,
-     "text": "and stamping on a centipede.",
-     "syllables": 9
+     "text": "and stamping on a centipede."
     },
     {
      "t0": 53.76,
      "t1": 67.48,
      "pause_after": 0.84,
      "words": 35,
-     "text": "Top of the show, pedophile jokes going down well. Good to have been on television and finally managed to attract so much of Jimmy Carr's audience. The show's not aimed at you. Don't come again.",
-     "syllables": 64
+     "text": "Top of the show, pedophile jokes going down well. Good to have been on television and finally managed to attract so much of Jimmy Carr's audience. The show's not aimed at you. Don't come again."
     },
     {
      "t0": 68.32,
      "t1": 94.28,
      "pause_after": 0.68,
      "words": 88,
-     "text": "I'm trying to find out what news you know about so I can weave the stories into a seamless 2-hour narrative driven hole. A seamless narrative driven hole. You have to do that. I think if you're a if you're a Neigh going out doing the long theater shows, you can't just go out and do 90 minutes of unrelated little gags that you can subsequently chop up into smaller parcels and resell to mock the weekend live at the Apollo. Yeah, you can do that, can't you?",
-     "syllables": 159
+     "text": "I'm trying to find out what news you know about so I can weave the stories into a seamless 2-hour narrative driven hole. A seamless narrative driven hole. You have to do that. I think if you're a if you're a Neigh going out doing the long theater shows, you can't just go out and do 90 minutes of unrelated little gags that you can subsequently chop up into smaller parcels and resell to mock the weekend live at the Apollo. Yeah, you can do that, can't you?"
     },
     {
      "t0": 94.96,
      "t1": 124.04,
      "pause_after": 0.52,
      "words": 71,
-     "text": "So, what news do you know about? Um, I think the funniest uh news story at the moment is the uh trial of the Norwegian neo-Nazi mass murderer Anders Bear and Brevitt. You're going, \"Hang on, there's nothing funny about that, Stu.\" Uh, but there is. And, um, it's this that on his website, Anders Baron Breik, the Norwegian neo-Nazi mass murderer, has written this genuine sentence. Jeremy Clarkson's Top Gear",
-     "syllables": 124
+     "text": "So, what news do you know about? Um, I think the funniest uh news story at the moment is the uh trial of the Norwegian neo-Nazi mass murderer Anders Bear and Brevitt. You're going, \"Hang on, there's nothing funny about that, Stu.\" Uh, but there is. And, um, it's this that on his website, Anders Baron Breik, the Norwegian neo-Nazi mass murderer, has written this genuine sentence. Jeremy Clarkson's Top Gear"
     },
     {
      "t0": 124.56,
      "t1": 160.2,
      "pause_after": 1.72,
      "words": 106,
-     "text": "is one of the few programs worth watching on the BBC. I know. [applause] Now, very rarely do you see a better example of what philosophers call the benality of evil. And remember, all that's required for Jeremy Clark to triumph is that Richard Hammond do nothing. Remember when Jeremy Clarkson made those jokes about shooting strikers and everyone complained? There was a guy from the Daily Telegraph went on the Channel 4 News to defend him and he said, \"Come on,\" he said. It was just a joke. He said, \"It's not as if a Jeremy Clarkson fan has ever gone out and shot anyone.\"",
-     "syllables": 181
+     "text": "is one of the few programs worth watching on the BBC. I know. [applause] Now, very rarely do you see a better example of what philosophers call the benality of evil. And remember, all that's required for Jeremy Clark to triumph is that Richard Hammond do nothing. Remember when Jeremy Clarkson made those jokes about shooting strikers and everyone complained? There was a guy from the Daily Telegraph went on the Channel 4 News to defend him and he said, \"Come on,\" he said. It was just a joke. He said, \"It's not as if a Jeremy Clarkson fan has ever gone out and shot anyone.\""
     },
     {
      "t0": 161.92,
-     "t1": 185.68,
+     "t1": 218.44,
+     "pause_after": 0.84,
+     "words": 168,
+     "text": "I thought, well, there was that one guy, the mass murderer. Poor old uh old poor old Colonel Gaddafi had a bad year last year, didn't he? Uh the Libyans got fed up of their leader, pulled him out of a sewer, shot him in the face, mutilated the anus of his corpse with a knife, and chucked him in a meat refrigeration unit. But they did that off their own backs, didn't they, the Libyans? No one made them do it. They did it entirely voluntarily of their own initiative. What better example is there of the big society in action? Will the big society work? Whether we think so depends on our immediate experience of society around us. Now, of course, David Cameron thinks the big society will work because he lives in a nice little village in Oxfordshire, Whitney. And all the four times a year, all the local people in Whitney, that's David Cameron, Jeremy Clarkson, Rebecca Brooks, and the cheese bloke from Blur."
+    },
+    {
+     "t0": 219.28,
+     "t1": 280.2,
+     "pause_after": 1.08,
+     "words": 166,
+     "text": "They all get together voluntarily. They go out and they clear out the waste ground in the village. Big society in action. Now I know the big society will work cuz where I live in Hackne in East London last August, all the local Turkish shopkeepers went out onto Dston High Road and attacked the riers with kebab knives. Now this show is called Carpet Remnant World. Uh now since I've been on the telly I'm picking up a lot of stragglers uh people that don't normally uh come and see me. There's twice as many people as I've played to uh in Sheffield before here tonight. And um the kind of people that come and see people just off the telly, the kind of shows you go and see by comics, they're normally called things like Laugh Time, aren't they? Or uh Joker Six, something like that. Um, now if you've seen me before, and I hope you have, I don't like new people coming."
+    },
+    {
+     "t0": 281.28,
+     "t1": 328.2,
+     "pause_after": 0.52,
+     "words": 125,
+     "text": "Uh, you you'll know what I my shows, they tend to be a relationship between the title and the content. That's the bare minimum of what you should offer. Uh, I think uh not so much this year though. It's uh it's not really come together very well this show. It was supposed to be about idealized notions of society and how we behave as collective groups and uh but I've been a bit busy with one thing or another. It's not really uh worked. So, but what I will do is about 5 minutes from the end um I it's about 10:00 I will I will repeat the phrase carpet remnant world uh over some music and that will give the illusion of structure."
+    },
+    {
+     "t0": 328.72,
+     "t1": 374.28,
+     "pause_after": 0.6,
+     "words": 131,
+     "text": "And big big laughs down here for that. People down here, the people that bought the tickets first, they've seen him before and they go, \"Oh, of course there'll be content and structure. We've seen him before. This is a comedic double bluff.\" Haha. Right. But up there, there's a lot of people, they don't really know what they've come to. They've come friends have brought them. They were a worst couple of people that like me. They've they've gone, \"Oh, let's get Jean and Chris to come as well. And they've not they've they've come and they don't know who I am and they've been whispering all through it up there in the top bit there. Is this is this who you wanted to see? Seems like an aggressive lecture."
+    },
+    {
+     "t0": 374.88,
+     "t1": 410.2,
+     "pause_after": 2.44,
+     "words": 113,
+     "text": "It's very strong and it will gradually that [laughter] that whispering doubt that will spread all around the top balcony up there and that will be no one laughing up there by the end because of people bringing their friends and I was I was quite happy with one night in Sheffield to be honest because and you've brought friends along and you can feel it's not as good as it was last time which is a shame because we're filming it tonight. So thanks you know being on I won some awards Brit that doesn't help British comedy awards cuz people go oh he's won an award we'll enjoy that you won't"
+    },
+    {
+     "t0": 412.64,
+     "t1": 420.84,
+     "pause_after": 1.4,
+     "words": 21,
+     "text": "winning a British comedy award it's like having a big sign put over your head saying hey dicks come to this"
+    },
+    {
+     "t0": 422.24,
+     "t1": 426.96,
+     "pause_after": 1.92,
+     "words": 13,
+     "text": "what can you do there you can't you can't stop people coming you"
+    },
+    {
+     "t0": 428.88,
+     "t1": 453.24,
+     "pause_after": 1.56,
+     "words": 65,
+     "text": "It'll be all right. It's strong down here. I'll just I won't even look up there. So, we'll press on into the void. Now, I thought I'd record this here cuz last time it was in this theater. It was really was fantastic. But the audiences, we've got two nights now if more people come. But you can see it's a worse kind of person."
+    },
+    {
+     "t0": 454.8,
+     "t1": 483.16,
+     "pause_after": 1.4,
+     "words": 86,
+     "text": "Shame. It's gone to all this trouble with all these cameras now. Oh, come to Sheffield. It was brilliant last time. You know, it was, but it's all right. Is it? It's not going well down here, isn't it? But up there, there's people down here thinking, I was kind of think he does mucks about like this. It'll be all right. And up there, there's people going, \"No, he doesn't. I've not seen him before. He doesn't seem to be able to do stand up."
+    },
+    {
+     "t0": 484.56,
+     "t1": 522.6,
+     "pause_after": 2.44,
+     "words": 132,
+     "text": "I can. I can do it really well. Actually, I'm really good at it. I'm so good at it. One of the things that I do, they'll make it look like I can't do it. But I can. And if you're sitting there having been brought by friends thinking, \"Oh, you can't you can't do it.\" You have the question you have to I I I've been on stage thousands of times, literally. The question you have to ask yourselves up there, people's friends, is how many times have you been to stand up? And what kind of acts have you seen? Maybe four or five times. You haven't seen the right sorts of people. You've got no context for me. So, you're not in any position to have an opinion about it."
+    },
+    {
+     "t0": 525.04,
+     "t1": 529.08,
+     "pause_after": 1.48,
+     "words": 6,
+     "text": "Good. That's warmed the room up."
+    },
+    {
+     "t0": 530.56,
+     "t1": 598.04,
+     "pause_after": 1.16,
+     "words": 186,
+     "text": "It'll be all right. Don't worry about it. Okay. So, on May the 2nd last year, I was driving along the M4. That's what I mainly do now. I mainly uh drive around on motorways or look after my kids. That's why I've not had really uh enough time to make this show good. So, I was driving on the M4. It was the day Bin Laden was shot by the Americans. And there were all different Americans coming on the radio talking about what they thought about it. And it made me think what we like collective groups of people, human society. Here's four real quotes by real Americans on May the day Bin Laden was shot. This uh first guy, he's called Thomas Cox. He's a construction worker talking in Times Square on Radio 4. And he said, \"I made photoshopped pictures of the Statue of Liberty holding Assama's bloody severed head and handed them out to the crowd. It's payback.\" It's not, is it? The payback for Assama surely was being shot in the face at point blank range. Thomas Cox's offensive collage."
+    },
+    {
+     "t0": 599.2,
+     "t1": 603.48,
+     "pause_after": 0.84,
+     "words": 6,
+     "text": "It merely adds insult to injury."
+    },
+    {
+     "t0": 604.32,
+     "t1": 629.56,
+     "pause_after": 2.36,
+     "words": 73,
+     "text": "Bin Laden was buried at sea. You'll remember as Thomas Cox goes on. He says, \"We should have mounted his head on a spike. I am hoping that the fish and the crabs are having a good that's never got a laugh before. I'm glad. I'm glad we came to Sheffield. After all, he will find the combination of fish and crab amusing here in a way that no other British city has."
+    },
+    {
+     "t0": 631.92,
+     "t1": 661.88,
+     "pause_after": 1.72,
+     "words": 72,
+     "text": "It was worth it. Well, only down here. The people up there with their fish and crab. Who cares? He said, \"There isn't time to improvise tonight. Unfortunately, we're filming it. So, I just move on. Otherwise, I could have got 10 minutes out of that fishing crowd, you know. Hello, Michael. Yes, I'm in. Are you bringing the road show here to Sheffield? >> Yeah. Fish and crab stuff. They love it."
+    },
+    {
+     "t0": 663.6,
+     "t1": 682.6,
+     "pause_after": 0.52,
+     "words": 43,
+     "text": "I basically go everywhere first and I sound it out for him. Ignores what I say. [laughter] We should have mounted his head on a spike. He said, \"I am hoping that the fish and the crabs are having no see.\" Second time."
+    },
+    {
+     "t0": 683.12,
+     "t1": 716.12,
+     "pause_after": 0.52,
+     "words": 95,
+     "text": "Yeah. Only once though. Only once. Don't milk it. Paul Tonkinson will sort it out for you. All right. [laughter] Um, we should have mounted his head on a spike. I'm hoping that the fish and the crabs are having a good meal on his eyeballs. Now, it's a very opposite quote that because as you all know under Sharia law, if a Muslim man is buried at sea, it is required that their body be protected from the attentions of fish. And I think it was that that this Thomas Cox was alluding to there."
+    },
+    {
+     "t0": 716.64,
+     "t1": 745.96,
+     "pause_after": 1.56,
+     "words": 75,
+     "text": "Uh, if you've not seen me before, I don't think that. I think the opposite of that. Okay, that's one of the things I do. I I I'll make a very bold statement about something, but the implication is it's actually the opposite of I'll do that about I'm going to do that about six times tonight. And then later on uh about quart to 10 uh I'll go on about something for too long."
+    },
+    {
+     "t0": 747.52,
+     "t1": 751.28,
      "pause_after": 0,
-     "words": 84,
-     "text": "I thought, well, there was that one guy, the mass murderer. Poor old uh old poor old Colonel Gaddafi had a bad year last year, didn't he? Uh the Libyans got fed up of their leader, pulled him out of a sewer, shot him in the face, mutilated the anus of his corpse with a knife, and chucked him in a meat refrigeration unit. But they did that off their own backs, didn't they, the Libyans? No one made them do it. They did",
-     "syllables": 131
+     "words": 8,
+     "text": "That'll be later. All right. Now this next quote"
     }
    ],
    "punch_candidates": [
@@ -367,10 +867,99 @@
      "t": 124.56,
      "pause_before": 1.72,
      "text": "is one of the few programs worth watching on the BBC. I know. [applause] Now, ve"
+    },
+    {
+     "t": 161.92,
+     "pause_before": 0.84,
+     "text": "I thought, well, there was that one guy, the mass murderer. Poor old uh old poor"
+    },
+    {
+     "t": 219.28,
+     "pause_before": 1.08,
+     "text": "They all get together voluntarily. They go out and they clear out the waste grou"
+    },
+    {
+     "t": 328.72,
+     "pause_before": 0.6,
+     "text": "And big big laughs down here for that. People down here, the people that bought "
+    },
+    {
+     "t": 374.88,
+     "pause_before": 2.44,
+     "text": "It's very strong and it will gradually that [laughter] that whispering doubt tha"
+    },
+    {
+     "t": 412.64,
+     "pause_before": 1.4,
+     "text": "winning a British comedy award it's like having a big sign put over your head sa"
+    },
+    {
+     "t": 422.24,
+     "pause_before": 1.92,
+     "text": "what can you do there you can't you can't stop people coming you"
+    },
+    {
+     "t": 428.88,
+     "pause_before": 1.56,
+     "text": "It'll be all right. It's strong down here. I'll just I won't even look up there."
+    },
+    {
+     "t": 454.8,
+     "pause_before": 1.4,
+     "text": "Shame. It's gone to all this trouble with all these cameras now. Oh, come to She"
+    },
+    {
+     "t": 484.56,
+     "pause_before": 2.44,
+     "text": "I can. I can do it really well. Actually, I'm really good at it. I'm so good at "
+    },
+    {
+     "t": 525.04,
+     "pause_before": 1.48,
+     "text": "Good. That's warmed the room up."
+    }
+   ],
+   "laugh_onsets": [
+    {
+     "t": 5.89,
+     "type": "[applause]"
+    },
+    {
+     "t": 131.0,
+     "type": "[applause]"
+    },
+    {
+     "t": 266.4,
+     "type": "Laugh"
+    },
+    {
+     "t": 329.52,
+     "type": "laughs"
+    },
+    {
+     "t": 376.63,
+     "type": "[laughter]"
+    },
+    {
+     "t": 382.24,
+     "type": "laughing"
+    },
+    {
+     "t": 616.48,
+     "type": "laugh"
+    },
+    {
+     "t": 670.73,
+     "type": "[laughter]"
+    },
+    {
+     "t": 691.03,
+     "type": "[laughter]"
     }
    ],
    "overlay_ready": true,
-   "has_laugh_onsets": false
+   "has_laugh_onsets": true,
+   "estimated": false
   }
  ]
 }
