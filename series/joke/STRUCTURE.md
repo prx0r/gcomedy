@@ -1,82 +1,73 @@
 # EPISODE 0 — WHAT IS A JOKE?
 
-> Series opener. Defines every term the series uses, so no later video
-> ever stops to define anything. Thesis: A joke is the atom — one setup,
-> one punch, one laugh point. Everything else is jokes composed.
+> Series opener. Cold open: "What is a joke? Your life." Then iconic jokes,
+> then the geometric decomposition: every joke taken apart into blocks that
+> snap together into bits, chunks, sets. The series videos ARE the blocks —
+> this episode hands you the box.
 
-## The definitions (stated once, on screen as glossary cards, used forever)
+## The definitions (glossary cards, stated once, used forever)
 
-- **One-liner:** maximally compressed joke — setup + punch in a single
-  sentence. (Wikipedia: "delivered in a single line"; Hedberg, Wright,
-  Youngman. Paraprosdokian = its Greek-rhetoric backbone.)
-- **Joke:** atomic unit. One setup, one punch, one laugh point. Seconds long.
-- **Bit:** complete section — main premise plus several examples, tags,
-  beats. (r/Standup; Laffstr: "a joke is a single setup/punchline; a bit
-  develops a premise across multiple angles.") Minutes long.
-- **Chunk:** multiple bits linked by a topic, ~10–15 min. (Wikipedia:
-  stand-up set made of jokes, bits, chunks.)
-- **Set:** the entirety of one performance.
-- **Premise:** the shared world assumption everything stands on.
-- **Setup / punch / tag / callback / button:** the six moves (each gets its
-  own video — no definitions here beyond one line each).
+- **One-liner:** setup + punch in a single sentence. (Hedberg, Wright,
+  Youngman. Paraprosdokian = its Greek backbone.)
+- **Joke:** atomic unit. One setup, one punch, one laugh point.
+- **Bit:** premise + several jokes + tags. Minutes long.
+- **Chunk:** bits on one topic, ~10–15 min. (Wikipedia ladder.)
+- **Set:** the whole performance.
+- **Premise / setup / punch / tag / callback / button:** the six moves —
+  one line each here, one video each later.
 
-## Beats (10-beat arc, ~12 min)
+## Beats (~13 min)
 
-**1. ENGINE NAMED (0:00–0:30).** "Everything in this series is made of one
-thing. This is a joke." [Play one perfect joke, whole, 15 seconds. Laugh.
-Then:] "That took eleven seconds. The next eight videos explain those
-eleven seconds."
+**1. COLD OPEN (0:00–0:45).** Black. "What is a joke?" [2s] "Your life."
+Then: five iconic jokes back to back, 8 seconds each, no commentary —
+Hedberg one-liner, Louis story-punch, Normand snap, Lock absurdity, Pryor
+confession. Five laughs in forty seconds. Then freeze: "Every one of
+those is made of the same parts. This series takes them apart."
 
-**2. PROOF (0:30–1:30).** Replay the same joke with the anatomy overlaid:
-setup highlighted (world built), punch highlighted (world broken), laugh
-timestamped. Same eleven seconds, now transparent. The audience sees the
-machine inside the moment they just enjoyed innocently.
+**2. DECOMPOSITION (0:45–3:00).** Take the Hedberg line back. On screen it
+SNAPS into blocks: setup block (blue) + punch block (red). Play it again
+with the blocks separating as they're spoken — setup assembles, punch
+detonates. Then a Louis bit: same blocks, more of them, stacked on a
+premise plate. Then tags snapping on like Lego studs. The geometry is
+literal: blocks with studs, snapping together on screen. A joke is two
+blocks. A bit is a plate of jokes. A chunk is plates stacked. A set is
+the whole build.
 
-**3. THESIS + VOCAB (1:30–2:30).** Joke vs bit, premise vs setup, the six
-moves in one line each. Glossary cards on screen (kept in the description
-forever). Promise: "You will never hear a definition again. From here on,
-we only point."
+**3. THESIS + VOCAB (3:00–4:00).** "Jokes compose. Every unit in comedy is
+smaller units snapped together — all the way from a one-liner to an hour.
+Learn the blocks once" — glossary cards fan out — "and every video from
+here recognizes itself." Promise: no definitions ever again. Only pointing.
 
-**4. LENS (2:30–5:00, music first).** Motif vs movement vs symphony. A
-motif (da-da-da-DUM) is a one-liner: tiny, complete, reusable. A phrase is
-a joke. A movement develops phrases the way a bit develops jokes. A
-symphony programs movements the way an hour programs bits. Beethoven's
-Fifth opening as the demo: four notes, entire universe. Same
-compositional logic, different material. (Wikipedia's ladder — jokes,
-bits ("a joke or 3 or 4 jokes"), chunks ("10–15 minutes"), set — cited
-on screen. Laffstr glossary for one-liner/paraprosdokian.)
+**4. LENS (4:00–6:00, music first).** Motif (da-da-da-DUM) = one-liner.
+Phrase = joke. Movement = bit. Symphony = hour. Beethoven's Fifth opening:
+four notes, entire universe. Same compositional logic (Wikipedia's ladder
+cited: jokes, bits "3 or 4 jokes", chunks "10–15 min", set).
 
-**5. PERSONA (5:00–7:00).** Twain: humorous (manner) vs comic/witty
-(matter) stories — the first taxonomy of joke vs bit, 1895, free forever.
-Twain's pause rule as the atomic timing law. The old man defines the atom
-before anyone else in the series touches it.
+**5. PERSONA (6:00–7:30).** Twain 1895: humorous (manner) vs comic/witty
+(matter). First taxonomy, free forever. His pause rule ("exactly the right
+length") as the atomic timing law.
 
-**6. CASE STUDY (7:00–10:30).** One joke, frame by frame: setup words
-tagged with the reading each supports → punch word → all tags flip.
-Word counts on screen (setup 31 words, punch 6). The 5:1 ratio typical of
-atomic jokes (bits run richer; closers run leaner — noted, not explored).
+**6. CASE STUDY (7:30–10:00).** One joke, frame by frame: setup words
+tagged → punch word → tags flip. Counts on screen (setup 31, punch 6).
+Then rebuild it wrong: punch first (dies), tag without punch (dies),
+premise removed (dies). Three autopsies proving each block load-bearing.
 
-**7. SECOND SPECIMEN (10:30–12:00).** A bit (Louis Monopoly, 207 words):
-count the jokes inside it (setup/punch pairs: premise micro-surprises +
-main punch + 2 tags = 4 laugh points, 1 premise). A bit is jokes composed
-on a shared premise the way a movement is motifs composed in a key.
+**7. SERIES MAP (10:00–11:30).** The box lid: 8 blocks laid out, each with
+its video title. Setup. Escalation. Punch. Tags. Callbacks. Button.
+Premise. Pause. "Each one gets its own video. Each video takes its block
+apart the way we just did this joke. By the end you'll see every hour of
+stand-up ever performed as Lego." Hook into Setup: "We start at the
+bottom. The first block. The world before the break."
 
-**8. FAILURE MODE (12:00–13:00).** Calling everything "a joke": tags
-presented as standalone jokes (die without their punch's world), stories
-called bits with no laugh points (travelogues, not comedy), premises
-mistaken for jokes (funny situations with no break). Name the unit wrong
-and you misdiagnose every failure.
+**8. FAILURE MODE (11:30–12:15).** Calling everything "a joke": tags
+presented standalone (die without their punch's world), stories with no
+laugh points (travelogues), premises mistaken for jokes. Name the unit
+wrong, misdiagnose every failure.
 
-**9. UNIVERSAL (13:00–13:45).** Sentences/paragraphs. Motifs/movements.
-Cells/organisms. Everything durable is small units composed under shared
-rules. Jokes are just the version where you can hear the composition
-happen in real time, eleven seconds at a time.
-
-**10. CLOSE + HOOK (13:45–14:30).** "Eight videos, eight moves, all made
-of this." Series map on screen (8 titles). Hook: "We start where every
-joke starts: the world before the break. Next week: the setup."
+**9. CLOSE (12:15–13:00).** "What is a joke? Your life — in eleven
+seconds, on purpose." Black. Glossary cards persist in description.
 
 ## Rhythm map
-Hook 30s / proof 60s / thesis+vocab 60s / lens 150s / persona 120s /
-case 210s / specimen 90s / failure 60s / universal 45s / close 45s =
-14.5 min + pauses. Glossary cards persist in description.
+Cold open 45s / decompose 135s / thesis 60s / lens 120s / persona 90s /
+case 150s / map 90s / failure 45s / close 45s = 13 min + pauses.
+Lego-block visual grammar debuts here and never changes.
