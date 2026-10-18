@@ -7,7 +7,7 @@
 ---
 
 **[0:00] ENGINE NAMED.** Watch what happens after the last laugh of a
-great bit. Nothing. Not a tag, not a comment, not a sip of water played
+great bit. Nothing follows. No tag. No comment. No sip of water played
 for laughs. The comedian moves on, and the room lets them — because the
 bit is closed. That closedness is engineered. It's called a button, and
 it's the difference between a bit that ends and a bit that just stops.
@@ -17,8 +17,7 @@ center carrying everything it gathered.
 **[0:30] PROOF.** Two endings, same comic. [CLIP A: named comic, button
 close — final line lands, room erupts, clean move on, each ≤15s; CLIP B:
 same comic, trail-off — laughs decay into nodding, next topic uphill.
-Comic + start/end at pull.] Same comedian, same quality of material, different
-endings, different rooms afterward. The button doesn't add laughs. It
+Comic + start/end at pull.] Same comedian, same material. Different endings, different rooms afterward. The button doesn't add laughs. It
 protects the ones already banked — stops the decay curve from eating them
 on the way out.
 
@@ -33,8 +32,7 @@ defined where they debuted.) Open sets end far from center. Closed sets come hom
 **[2:30] LENS (music first).** The perfect cadence. V–I. The dominant
 chord demands resolution the way an open bit demands a button — and the
 tonic that follows isn't new information, it's permission to stop
-listening forward. Jazz musicians know: you can play anything, however
-far out, provided you resolve cleanly. The audience forgives the
+listening forward. Jazz musicians know: you can play anything however far out, provided you resolve cleanly. The audience forgives the
 wilderness if the return is exact. A button is a perfect cadence in
 meaning-space. Same function: close the trajectory so the journey was
 worth it.
@@ -51,27 +49,23 @@ final minutes of a tight set, pause-analyze-resume] On screen: the trajectory ma
 (premise), wanders through violations (bits), and the button walks it
 home. Mark the exact line where wandering stops and returning starts
 (it's usually earlier than you think — good closers begin returning
-well before the final line; timestamps at TIMING EXTRACTION). The final line itself: short — buttons are
-landings, not journeys. [GOLD CARD: final-line word count — pending]
+well before the final line; timestamps at TIMING EXTRACTION). The final line itself: short — buttons are landings. [GOLD CARD: final-line word count — pending]
 Watch the room start BEFORE the line ends — predicting the closure
 and applauding the prediction. [GOLD CARD: prediction-applause onset —
 pending laugh-onset measurement] That's setup-predictability at set scale.
 
 **[9:00] THE APPLAUSE CURVE (case coda).** Two rooms, same comic, different endings
-— watch the release, not the jokes. [SPLIT: closed-set release vs open-set
-dribble, laugh-onset ticks only — applause≠laugh] Closed: sharp attack,
-quick peak, clean decay. [GOLD CARD: release shape — pending laugh-onset
+— watch the release. [SPLIT: closed-set release vs open-set
+dribble, laugh-onset ticks only — applause≠laugh] Closed: sharp attack with a quick peak and clean decay. [GOLD CARD: release shape — pending laugh-onset
 measurement] The room discharges completely and
-the next bit starts on silence — full attention available. Open: slow
-attack, no peak, long dribble. The room
+the next bit starts on silence — full attention available. Open sets get the opposite: slow attack with no peak and a long dribble. The room
 never discharges, so the next bit starts partial — carrying residue.
 Compound across a set: unclosed bits mean the closer
 performs into a room holding unresolved trajectories — attention
 fractured, no single thread strong enough to pull. This is why
-great closers obsess over EARLY buttons, not just the finale: every closed
+great closers obsess over EARLY buttons. Every closed
 bit frees its attention for the next. The set is an attention economy and
-buttons are how you collect. (Economy here is metaphor, defined once,
-this episode only.)
+buttons are how you collect.
 
 
 **[10:00] SECOND SPECIMEN.** Seinfeld's closer architecture: whole shows
@@ -105,17 +99,14 @@ else's unfinished business. Two: the double-button — closing, then
 reopening with "oh, one more thing." The second close never lands as hard
 (the room already discharged) and retroactively cheapens the first. Rule:
 close once, move on. The applause is the room's — leave it with them.
-Stacked underneath: the open-set autopsy — unclosed trajectory, new
-platform with no time to build, priority betrayal, apology disguised as
+Stacked underneath: the open-set autopsy — unclosed trajectory; new
+platform with no time to build; priority betrayal; apology disguised as
 gratitude. The button isn't the last joke. It's the discharge switch for
 everything before it.
 
 **[12:45] UNIVERSAL.** Everything that matters ends with a
-button or haunts you without one. Conversations, relationships, careers,
-lives: open trajectories hum in the background forever (psychologists
-have a name for it — unfinished business sticks tighter than finished
-business). Comedians are professional closers. They practice, nightly, the thing
-everyone else avoids: ending cleanly, on purpose, and walking away.
+button or haunts you without one. Open trajectories hum in the background forever. Everywhere people gather. Psychologists have a name for it. Comedians are professional closers. They practice, nightly, the thing
+everyone else avoids: ending cleanly and on purpose before walking away.
 
 **[13:30] CLOSE + HOOK.** A button closes the bit so it stays closed — the
 trajectory returns to center carrying everything it gathered.
