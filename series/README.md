@@ -1,5 +1,11 @@
 # FUNDAMENTALS OF COMEDY — series bible + copyable template
 
+> Simple by design. Each video: the best version of one thing, taken apart
+> next to the worst version of the same thing. What makes a good setup vs
+> a bad setup. What makes a good punch vs a dead one. Deconstructed,
+> side by side, no lectures. Theory lives in production notes, never in
+> narration. Book shelf: BOOKS.md.
+
 > 8 videos, one per function. Magnum-opus styling (track bar + glyphs,
 > Funnier palette, gold measurements). Human comics only — no fictional
 > freaks as examples. Every claim lands on measured data or a sourced clip.
