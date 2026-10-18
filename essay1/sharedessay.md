@@ -113,6 +113,64 @@
 
 ---
 
+## BEAT 4 — METRONOME, TENSION BAR, HOT ROOM 🟨 rendering
+
+### SPEECH (agent-drafted, owner to approve/replace — NOT locked)
+> "Watch Louis's set with a metronome over it. Steady tick, tick, tick —
+> the setup runs on rails. Every pause lands on the beat. The room breathes
+> with it. Then the punchline comes — and the metronome stops.
+>
+> That stop is the whole game. While it ticks, your brain knows exactly
+> where it is. When it stops, you don't. And into that gap pours everything
+> you've been holding back.
+>
+> Now watch the pause itself. [3 seconds, waveform flat, tension bar rising]
+> That rising line is real. It's your expectation, measured. The longer the
+> silence holds, the more you have invested in what comes next. The comedian
+> is spending your own anticipation back at you — with interest.
+>
+> And here's what nobody tells you: the same joke, same words, same pause —
+> lands differently in a hot room than a dead one. A hot crowd is already
+> laughing before the punch. A dead room needs the joke to be twice as good
+> to break even. The audience isn't a crowd. It's a state machine — heat,
+> memory, trajectory. The comedian reads the state and plays the room the
+> way a musician plays the key they're in."
+
+### RENDER (agent)
+- **Metronome overlay:** tick track under Louis Monopoly setup (sourced
+  pause timings from scribe word-timing). Visual metronome arm swings on
+  beat; on punch onset it FREEZES mid-swing, holds 1s, drops. (Gold rule:
+  the freeze is the thesis made visible.)
+- **Tension bar:** thin gold fill rising during each hold, calibrated to
+  hold duration (2.51s mean pre-laugh vs 0.178s baseline → bar scale).
+  Bar discharges vertically at laugh onset (scribe laugh timestamps where
+  measured; room track otherwise). Bar + waveform + pause timer = one
+  composite overlay (track-bar grammar, Ch.5 visual language).
+- **Hot-room split:** same bit, two room renders — hot club (dense overlapping
+  laughs, fast onset) vs dead room (sparse, delayed). Laugh audio via
+  characters laugh-sim (crowd_state heat 8 vs heat 2) or earshot bank
+  layers. Split screen, same timestamps. The difference IS the argument.
+- **State-machine card:** crowd_state dict on screen (heat/memory/trajectory/
+  sensitivity), values updating per beat. RL frame (STATE/ACTION/POLICY/
+  REWARD) as corner overlay during the director's explanation.
+- **Tech:** HyperFrames composition (seek(t) canvas: metronome arm, tension
+  fill, split-screen). Laugh beds: characters LAUGH-SIM crowd_state presets
+  or earshot `sfx`/`kit` layers. Timings from scribe word/pause data
+  (measured, gold). `earshot critique` before acceptance.
+- **Voice:** louis_reference_lab, 145 WPM teacher mode. "Stops" lands on
+  the actual freeze (sync to frame). The 3s pause demo has NO voice —
+  tension bar + flat waveform only. "State machine" stated plainly, no
+  jargon buildup (term arrives defined by everything before it).
+- **Words:** ~230 → ~90s + demo holds/music ≈ 2.5 min. ✅
+
+### NOTES
+- Speech above is agent-drafted in owner's voice — owner replaces/approves
+  before locking. Do NOT treat as verbatim until confirmed.
+- Needs: Louis Monopoly scribe timings (word-level, in repo? verify) +
+  one hot + one dead laugh bed.
+
+---
+
 ## TEMPLATE FOR NEW BEATS (copy-paste)
 
 ## BEAT N — <title> ⬜ todo
