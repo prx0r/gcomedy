@@ -13,19 +13,20 @@
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
 | S04 | 2:30–4:30 | Fermata → rush (score notation + audio); hold-then-snap trajectory (1.4–2x pause, 1.48x delivery) | Narrator lens + audio | trajectory diagram | 120s |
-| S05 | 4:30–6:30 | Louis 8.16s hold vs Norm Macdonald 1.7s minimal-hold velocity (split, same function, different scale) | Narrator persona + clips | hold vs rush tags | 120s |
-| S06 | 6:30–10:00 | Louis 8.16s hold dissected (auHzTfeF64Y t=187–196s): pause timer running, tension bar filling, waveform flat, laugh BEFORE punch, punch doubles it | Narrator + clip, frame-level | timer + bar + ribbon + laugh markers (exemplar word timings; room-shift/laugh-onset stamps pending stage-3) | 210s |
-| S07 | 10:00–11:00 | Amstell 10s opener (empty-stage hold, opposite load) + constancy card (study table deposited) | Narrator + K4mH6E0hMbI opening | hold tags; constancy diagram (authors in notes, never voiced) | 60s |
+| S05 | 4:30–6:00 | Louis 8.16s hold vs Norm Macdonald 1.7s minimal-hold velocity (split, same function, different scale) | Narrator persona + clips | hold vs rush tags; Norrick-faster-punch card (second source) | 90s |
+| S06 | 6:00–10:00 | Louis 8.16s hold dissected (auHzTfeF64Y t=187–196s): pause timer running, tension bar filling, waveform flat, laugh BEFORE punch, punch doubles it; 9:00 ROOM-BREATHES coda (quarter-speed crowd) | Narrator + clip, frame-level | timer + bar + ribbon + laugh markers (exemplar word timings; room-shift/laugh-onset stamps pending stage-3); 0.6s-operationalization card | 240s |
+| S07 | 10:00–11:30 | Amstell 10s opener (empty-stage hold, opposite load) + 10:45 MISJUDGE coda (overdue-loan room turn) + constancy card | Narrator + K4mH6E0hMbI opening | hold tags; constancy diagram (authors in notes, never voiced); window-threshold cards (calibrate) | 90s |
 
-## RECAPITULATION (series coda)
+## RECAPITULATION (performance handoff)
 
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
-| S08 | 11:00–12:00 | Split: dead air (coughs, chairs, empty timer) vs stepped-on laugh (waveform cut mid-release) | Narrator failure modes | empty vs cut markers | 60s |
-| S09 | 12:00–13:00 | Text-phase recap montage (world/platform/climb/break/echo/return/close/silence) → "between every word was nothing" → delivery hook → black | Narrator close | montage + final black (level-5) | 60s |
+| S08 | 11:30–12:45 | Split (hard cuts): dead air (coughs, chairs, empty timer) vs stepped-on laugh (release cut mid-flight) | "The laughs were big. They just never got their silence." | empty vs cut markers (canonical); laugh ticks only | 75s |
+| S09 | 12:45–13:30 | Text-phase recap montage (world/platform/climb/break/echo/return/close/silence) | "Between every word was nothing. Played perfectly." | montage (dissolves: ontology of recap) | 45s |
+| S10 | 13:30–14:00 | Thesis white card + delivery hook → black (fade, level-5) | "Silence is the only instrument the comedian never has to carry." + "The voice that plays inside it — delivery." | series map, delivery highlighted | 30s |
 
 ## Totals
-780s = 13 min. Render order: S06 anchor (needs timed exemplar + full overlay stack), then S01 (silence bed), then S04.
+840s = 14 min. Render order: S06 anchor (needs timed exemplar + full overlay stack), then S01 (silence bed), then S04.
 
 ## CLIP KEY (embed URLs for render)
 - Louis 8.16s hold: auHzTfeF64Y t=187s (timed exemplar: 18 beats, pause_after present)

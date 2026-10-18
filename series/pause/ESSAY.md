@@ -20,6 +20,8 @@ plays you while you think nobody's playing.
 before laughs average 2.51 seconds against baseline gaps of 0.178.
 [GOLD CARD: 2.51s vs 0.178s, 14x, p<0.0001, 44 laughs — 5 KT sets;
 Louis/Norm punch-timing cited separately for the hold-then-snap]
+[GOLD CARD: 0.6s+ pre-punch pause — the literature's operationalization,
+independently sourced (Attardo ch10); our H1 lands 14x above baseline]
 Fourteen times longer. Every set independently. [CHART] The laugh doesn't fire at the punchline's content arriving. It
 fires at the temporal structure breaking. The silence IS the event the
 room responds to. Content arrived a beat earlier; the hold is what makes
@@ -38,7 +40,8 @@ value, length at the performer's discretion, the whole ensemble suspended
 on one sound. Then the rush — the accelerated passage that fills the space
 before the room can re-form its expectations. Our data: the punch pause
 runs 1.4–2x the set's normal pause, then delivery accelerates to 1.48x the
-pre-punch rate. Hold, then snap. Fermata, then rush. Not competing
+pre-punch rate. [GOLD CARD: punch faster than setup — Norrick via Attardo,
+second source for the snap] Hold, then snap. Fermata, then rush. Not competing
 theories — sequential phases of one gesture, measured independently in
 comedy rooms and concert halls that never spoke to each other.
 
