@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-The punch is the smallest unit of comedy that still counts. Everything before it is preparation. Everything after it is consequence. And the whole thing — the entire machinery of setup, expectation, violation, laughter — happens in under three seconds. The punch travels the shortest distance that changes everything — one relabeling, whole world rearranged. This video is about those three seconds.
+The punch is the smallest unit of comedy that still counts. Everything before it is preparation. Everything after it is consequence. And the whole thing — the entire machinery of setup-to-laughter — happens in under three seconds. The punch travels the shortest distance that changes everything — one relabeling, whole world rearranged. This video is about those three seconds.
 
 ## [0:30] PROOF
 
@@ -14,7 +14,7 @@ One pattern held across every scored bit: the shorter the punch, the funnier the
 
 > DIR: OVERLAY shorter punch = funnier, r=−0.32, 154 bits (Exp 2 gold numbers).
 
-Not longer setups, not bigger violations — shorter punches. And here's the stranger part: the punch shares almost no words with the setup. Count them and see. One relabeling. Whole world rearranged. The move happens in meaning, not in vocabulary.
+And here's the stranger part: the punch shares almost no words with the setup. Count them and see. One relabeling. Whole world rearranged. The move happens in meaning while the vocabulary stands still.
 
 ## [1:30] THESIS + VOCABULARY
 
@@ -24,13 +24,13 @@ A punch does three things in under three seconds: it picks one alternative readi
 
 ## [2:30] LENS
 
-The downbeat. Not the crescendo, not the melody — the single moment the harmony resolves and the whole preceding passage reorganizes itself backward in your memory. Beethoven's Fifth: three shorts and a long, and the long reframes everything before it. Beethoven doesn't explain the motif. He lands it, and your brain does the reorganizing for free. A punchline is a downbeat in meaning. Same mechanics: preparation accrues, one event lands, the past rearranges itself. A thousand years ago, Sanskrit grammarians noticed the same thing about sentences — that meaning can arrive whole, in a flash, reorganizing everything behind it. The punch doesn't give you new information. It gives you an entirely new past.
+The downbeat. The single moment the harmony resolves and the whole preceding passage reorganizes itself backward in your memory. Beethoven's Fifth: three shorts and a long, and the long reframes everything before it. Beethoven doesn't explain the motif. He lands it, and your brain does the reorganizing for free. A punchline is a downbeat in meaning. Same mechanics: preparation accrues while one event lands and the past rearranges itself. A thousand years ago, Sanskrit grammarians noticed the same thing about sentences — that meaning can arrive whole and in a flash, reorganizing everything behind it. The punch adds nothing but reorganization — an entirely new past.
 
 > DIR: OVERLAY motif map, reframe marker; Beethoven Fifth motif audio if cleared.
 
 ## [4:30] PERSONA
 
-Louis: the punch as confession. His punchlines land like admissions — short, flat, no performance on top, because the relabelling does all the work. Compare Normand: the punch as snap — fast, rhythmic, percussive, the joke cracking like a whip. Same function (minimal travel, maximal rearrangement), opposite voicing (deadpan weight vs rhythmic speed). The punch is not a style. It's a distance. Styles are how different comics travel it.
+Louis: the punch as confession. His punchlines land like admissions — short and flat, with no performance on top, because the relabelling does all the work. Compare Normand: the punch as snap — fast and rhythmic and percussive, the joke cracking like a whip. Same function (minimal travel, maximal rearrangement), opposite voicing (deadpan weight vs rhythmic speed). The punch is a distance. Styles are how different comics travel it.
 
 > DIR: OVERLAY deadpan-weight vs rhythmic-speed white tags.
 
@@ -52,11 +52,11 @@ Same setup, three different punches, three different laugh sizes — the control
 
 > DIR: CLIP or reconstruction: setup held constant, punch swapped (each ≤15s) — stop narration, play, resume.
 
-Punch A (obvious): the room nods — predicted, no travel, polite sound. Punch B (absurd, disconnected): confusion ripple — travel too far, no landing zone, the model can't complete the trip. Punch C (the real one): minimal travel, maximal rearrangement — detonation.
+Punch A (obvious): the room nods at a landing it saw coming — a polite sound. Punch B (absurd, disconnected): confusion ripple — travel too far, no landing zone, the model can't complete the trip. Punch C (the real one): minimal travel, maximal rearrangement — detonation.
 
 > DIR: OVERLAY controlled swap — word counts pending transcript verification.
 
-The room's responses prove the punch carries the joke almost entirely: setup quality held constant, outcomes diverge. This is why punch writing is rewriting: drafts of the final line, not of the setup. The setup just needs to hold still. The punch needs to land within a phoneme of perfect. Practice drill the film gives the audience: take any joke you love, keep the setup, write five alternate final lines. Four will be worse. The exercise teaches your hands what minimal travel feels like better than any theory paragraph.
+The room's responses prove the punch carries the joke almost entirely: setup quality held constant, outcomes diverge. This is why punch writing is rewriting: drafts of the final line. The setup just needs to hold still. The punch needs to land within a phoneme of perfect. Practice drill the film gives the audience: take any joke you love, keep the setup, write five alternate final lines. Four will be worse. The exercise teaches your hands what minimal travel feels like better than any theory paragraph.
 
 ## [10:00] SECOND SPECIMEN
 
@@ -68,7 +68,7 @@ Two readings alive simultaneously the whole time (ambiguity held the entire setu
 
 > DIR: OVERLAY resolution types — full (classic reframe), partial (absurdist remnant), foregrounded (anti-joke), backgrounded (confession).
 
-Not every punch resolves clean. Some leave residue on purpose — and the residue is the style.
+Some punches leave residue on purpose — and the residue is the style.
 
 ## [10:45] AUTOPSY
 
@@ -96,7 +96,7 @@ Brevity isn't style. It's physics.
 
 ## [12:45] UNIVERSAL
 
-Everything important arrives this way — minimally. Diagnoses. Verdicts. Realizations. The moment you understand anything that matters, it comes as a relabeling of what was already there, not as new content. Nobody ever learned the truth because someone added more words to it. The punch is the smallest possible demonstration that meaning was never in the words at all. It was in the arrangement. Move one piece, and the whole picture changes.
+Everything important arrives this way — minimally. Diagnoses. Verdicts. Realizations. The moment you understand anything that matters, it comes as a relabeling of what was already there. The punch is the smallest possible demonstration: meaning was always in the arrangement. Move one piece, and the whole picture changes.
 
 > DIR: No clips — breathe. Montage low under narration.
 
