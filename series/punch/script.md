@@ -40,7 +40,7 @@ One punch, frame by frame.
 
 > DIR: CLIP autopsy ×3 (each ≤15s) — stop narration, play, pause-analyze-resume.
 
-Setup words on screen, each tagged with the reading it supports — call it reading A, the room's working model. Watch the readings accumulate — all pointing one way. Then the punch word: ONE word highlighted, and every tag on screen flips to reading B.
+Setup words on screen, each tagged with the reading it supports — call it reading A, the room's working model. Watch the readings accumulate — all pointing one way. Then the punch word: [emphasis] ONE word highlighted, and every tag on screen flips to reading B.
 
 > DIR: OVERLAY isotopy A → disjunction → re-read (IDM — linguists' name for the move, card only).
 

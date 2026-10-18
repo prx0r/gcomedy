@@ -52,7 +52,7 @@ Slow the Monopoly bit to half speed and walk every sentence. Sentence one (daugh
 
 > DIR: OVERLAY 3 anticipatory laughs, timestamps attached; pause and word counts per sentence.
 
-Then the turn: "gotta give it all to me" — six words after two hundred of platform.
+Then the turn: "gotta give it all to me" — six words after two hundred of platform. [break]
 
 > DIR: OVERLAY punch-to-setup 1:34 — 6 words withdraw 201 deposited. PAUSE 1s after the turn line.
 

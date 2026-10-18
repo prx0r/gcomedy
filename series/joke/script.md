@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-Black. "What is a joke?" "Your life."
+Black. "What is a joke?" [long-break] "Your life."
 
 > DIR: PAUSE 2s after "Your life." CLIP vrIw2i4TtA4 <window> — stop narration, play Hedberg line whole ≤15s, laugh, freeze.
 
@@ -64,7 +64,7 @@ Slow those sentences to half speed. Premise two lines old and already paying. Co
 
 > DIR: OVERLAY 3 anticipatory-laugh timestamps (stage-3).
 
-Then the turn: "gotta give it all to me."
+Then the turn: "gotta give it all to me." [break]
 
 > DIR: OVERLAY punch-to-setup 1:34 — 6 words withdraw 201 deposited. PAUSE 1s after the turn line.
 

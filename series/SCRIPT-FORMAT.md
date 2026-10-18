@@ -34,12 +34,17 @@ SPEAK lines — exact Fish input. Plain sentences, punctuation-tuned
 
 1. **SPEAK = ESSAY narration, in order, verbatim except normalization.**
    Every essay sentence appears. Nothing added, nothing reworded.
-2. **Normalization (speakable):** drop ALL `[BRACKET cues]` (→ DIR lines);
-   drop beat-header artifacts, markdown, videoIds, dates-as-metadata
-   ("2026-10-18", "840s", "160 WPM", "Ep N"), card/method citations
-   ("see ANALYSIS", "method in X"); keep content dates ("2005"), spoken
-   numbers (the beat's one), quotes with attribution; `&` → `and`;
-   `≤`/`×`/`→` never in SPEAK (DIR only); em-dashes kept (Fish pauses).
+2. **Normalization (speakable):** drop ALL production `[BRACKET cues]`
+   (→ DIR lines); drop beat-header artifacts, markdown, videoIds,
+   dates-as-metadata, card/method citations; keep content dates, spoken
+   numbers, quotes with attribution; `&` → `and`.
+   **Fish-native cues STAY in SPEAK** (they synthesize — verified docs):
+   whitelist `[break]` `[long-break]` `[emphasis]` `[whispering]`
+   `[soft tone]` `[calm]` `[confident]` `[curious]` `[sarcastic]`
+   `[chuckling]` `[sighing]` — nothing else in brackets, ever.
+   Mapping: DIR `PAUSE ≤1s` → SPEAK `[break]`; DIR `PAUSE >1s` →
+   `[long-break]`; punch-word stress → `[emphasis]` directly before it
+   (max 1 per beat); never `[laughing]` (narrator never laughs).
 3. **Punctuation tuning (delivery/timing in text):** periods for punch
    weight, em-dashes for turns, fragments for emphasis — already in the
    essays; do not retune beyond converting stray commas that would rush a

@@ -86,7 +86,7 @@ Every group has rank. Dinner tables, group chats, locker rooms, review meetings 
 
 ## [13:30] CLOSE + HOOK
 
-Status declares rank, aims punches up, earns every shift. Rock above the room with a shared enemy. Louis below it with a confession. Lock swinging between the poles. Regan submitting to the suits, Carr shepherding the drunks — same instrument, opposite rooms. Positions set. Next week: who you aim at — target.
+[confident] Status declares rank, aims punches up, earns every shift. Rock above the room with a shared enemy. Louis below it with a confession. Lock swinging between the poles. Regan submitting to the suits, Carr shepherding the drunks — same instrument, opposite rooms. Positions set. Next week: who you aim at — target.
 
 ---
 

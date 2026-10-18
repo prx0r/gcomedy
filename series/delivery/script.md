@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-Last week was the silence between the notes. This week is the voice that plays inside it. Same words, different comic, different room — and only one version gets the laugh. That difference has a name. Delivery is the instrument: voice, pace, energy, body. Timing will tell us when to play. Delivery decides whether anyone hears it.
+Last week was the silence between the notes. This week is the voice that plays inside it. Same words, different comic, different room — and only one version gets the laugh. That difference has a name. [confident] Delivery is the instrument: voice, pace, energy, body. Timing will tell us when to play. Delivery decides whether anyone hears it.
 
 > DIR: No clips — narrator cold open (black to "The voice that plays inside it.").
 

@@ -78,7 +78,7 @@ Every joke has a butt — and so does every argument you've ever lost, every rev
 
 ## [13:30] CLOSE + HOOK
 
-The target decides the safety math. Name the butt first — powerful, self, species. Match assumed to intended. Hold one butt — the ledger keeps you honest. Victims never pay — that's the veto, and the veto is final. Butt named. Next week: the path you lead them down — misdirection.
+The target decides the safety math. Name the butt first — powerful, self, species. Match assumed to intended. Hold one butt — the ledger keeps you honest. Victims never pay — that's the veto, and the veto is [emphasis] final. Butt named. Next week: the path you lead them down — misdirection.
 
 ---
 

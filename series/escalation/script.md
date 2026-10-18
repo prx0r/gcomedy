@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-Anybody can be surprising once. Try it four times in a row about the same thing — each pass bigger, each pass risking the room — and watch the fourth kill harder than the first three combined. That's escalation. Escalation is climbing without leaving the ladder — every step bigger, none sideways. And it's a separate skill from writing jokes — it's the skill of climbing.
+Anybody can be surprising once. Try it four times in a row about the same thing — each pass bigger, each pass risking the room — and watch the [emphasis] fourth kill harder than the first three combined. That's escalation. Escalation is climbing without leaving the ladder — every step bigger, none sideways. And it's a separate skill from writing jokes — it's the skill of climbing.
 
 ## [0:30] PROOF
 

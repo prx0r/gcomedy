@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-The punch broke the world. The room is laughing. You have about four seconds before the laugh decays and the world seals itself back up. A tag is what you do in those four seconds: hit it again. Same world, new fracture, smaller hammer. Tags are the highest-ROI words in comedy — the punch did all the expensive setup work, and the tag spends the change.
+The punch broke the world. The room is laughing. You have about four seconds before the laugh decays and the world seals itself back up. A tag is what you do in those four seconds: [emphasis] hit it again. Same world, new fracture, smaller hammer. Tags are the highest-ROI words in comedy — the punch did all the expensive setup work, and the tag spends the change.
 
 ## [0:30] PROOF
 

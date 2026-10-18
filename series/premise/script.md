@@ -18,7 +18,7 @@ Verified. The sentence after it — "if I set this premise up right, this joke w
 
 > DIR: OVERLAY quote verification pending (gold quote card) + campfire white metaphor card.
 
-If it holds, read it twice: ALWAYS work would be the strongest causal claim any comic has made on camera. His fix is repetition: say the premise again mid-chunk, remind the room what world they're in. Premises decay. They need feeding, like campfires.
+If it holds, read it twice: [emphasis] ALWAYS work would be the strongest causal claim any comic has made on camera. His fix is repetition: say the premise again mid-chunk, remind the room what world they're in. Premises decay. They need feeding, like campfires.
 
 ## [1:30] THESIS + VOCABULARY
 

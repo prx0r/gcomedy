@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-Somewhere in the middle of every great hour, something from the beginning comes back — changed. The room explodes. Not because the line is funnier than everything around it, but because the room has been carrying it, unknowingly, for forty minutes. That's a callback. Time travel for comedians.
+Somewhere in the middle of every great hour, something from the beginning comes back — changed. The room explodes. Not because the line is funnier than everything around it, but because the room has been carrying it, unknowingly, for forty minutes. That's a callback. [break] Time travel for comedians.
 
 > DIR: No clips — narrator cold open. SFX rewind under cold open (STORYBOARD S01).
 

@@ -8,7 +8,7 @@
 
 > DIR: Level-5 silence — 10s black open, true silence (no words, no music, no image), then narration enters.
 
-That was the most important ten seconds of this series. No words. No music. No image. And you felt all of it — the checking (is it broken?), the adjusting (oh, it's deliberate), the leaning in. Nothing happened, and your brain did three things. Silence is the only instrument the comedian never has to carry — the room brings it, and the comic plays it like a horn. This video is about the instrument that plays you while you think nobody's playing.
+[calm] That was the most important ten seconds of this series. No words. No music. No image. And you felt all of it — the checking (is it broken?), the adjusting (oh, it's deliberate), the leaning in. Nothing happened, and your brain did three things. Silence is the only instrument the comedian never has to carry — the room brings it, and the comic plays it like a horn. This video is about the instrument that plays you while you think nobody's playing.
 
 ## [0:45] PROOF
 
@@ -102,7 +102,7 @@ Two deaths. One: dead air mistaken for a hold — silence with no accrued weight
 
 ## [12:45] UNIVERSAL
 
-Every important thing arrives with silence around it. Diagnoses. Verdicts. Vows. Proposals. The pause before them isn't empty — it's the weight of everything unsaid, held open, then released in one movement. Comedy discovered this before anyone measured it, the way sailors discovered currents before oceanography. The eight episodes so far described one machinery from eight angles: world, platform, climb, break, echo, return, close, silence. Same instrument the whole time. You were listening to it in episode zero. You just couldn't hear it yet — because you didn't know that what you were hearing, between every word that mattered, was nothing. Played perfectly.
+Every important thing arrives with silence around it. Diagnoses. Verdicts. Vows. Proposals. The pause before them isn't empty — it's the weight of everything unsaid, held open, then released in one movement. Comedy discovered this before anyone measured it, the way sailors discovered currents before oceanography. The eight episodes so far described one machinery from eight angles: world, platform, climb, break, echo, return, close, silence. Same instrument the whole time. You were listening to it in episode zero. You just couldn't hear it yet — because you didn't know that what you were hearing, between every word that mattered, was nothing. [soft tone] Played perfectly.
 
 > DIR: No clips — breathe. Text-phase recap montage (dissolves: ontology of recap). Music bed low under narration.
 

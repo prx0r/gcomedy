@@ -128,7 +128,7 @@ Everything alive has tempo. Hearts beat. Days cycle. Conversations breathe — t
 
 ## [13:30] CLOSE + HOOK
 
-Timing is the whole score — pace that varies, peaks placed where energy lives, breathers that let the room survive the biggest laughs. Instrument, then score. The score is played. Next week: the hierarchy you play it from — status.
+Timing is the whole score — pace that varies, peaks placed where energy lives, breathers that let the room survive the biggest laughs. Instrument, then score. The score is [emphasis] played. Next week: the hierarchy you play it from — status.
 
 > DIR: Thesis white card + series map, status highlighted.
 

@@ -98,7 +98,7 @@ Everything that matters ends with a button or haunts you without one. Conversati
 
 ## [13:30] CLOSE + HOOK
 
-A button closes the bit so it stays closed — the trajectory returns to center carrying everything it gathered. "But closing means nothing without the instrument that makes the close land. Next week: the hold — silence."
+A button closes the bit so it [emphasis] stays closed — the trajectory returns to center carrying everything it gathered. "But closing means nothing without the instrument that makes the close land. Next week: the hold — silence."
 
 > DIR: Thesis white card + series map, pause highlighted.
 

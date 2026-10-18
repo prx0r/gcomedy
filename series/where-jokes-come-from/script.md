@@ -70,7 +70,7 @@ Everyone lives like this, not just comics. Conversations run on blanks you leave
 
 ## [13:30] CODA
 
-So where do jokes come from. From noticing what is real. From letting what is true bleed through what is played. From leaving a blank the room can fill. From the flash where the past re-weights itself. And here is the subject in his own words, to close the series the way every video in it closes — with them naming their engine. Acaster, on the red dress in Basingstoke, on entering the world instead of checking the facts: the audience will go with you if the world holds — they only object when you sell them a truth that is not one. Build the world. Enter it. Let them enter it with you. What is a joke? Your life.
+So where do jokes come from. From noticing what is real. From letting what is true bleed through what is played. From leaving a blank the room can fill. From the flash where the past re-weights itself. And here is the subject in his own words, to close the series the way every video in it closes — with them naming their engine. Acaster, on the red dress in Basingstoke, on entering the world instead of checking the facts: the audience will go with you if the world holds — they only object when you sell them a truth that is not one. Build the world. Enter it. Let them enter it with you. [calm] What is a joke? Your life.
 
 > DIR: match-cut to Episode 0 black — same framing, new context. Glossary persists; no hook-out.
 
