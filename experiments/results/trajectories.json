@@ -1,0 +1,188 @@
+{
+  "louis_roadrage": {
+    "overall_rate": 4.284624512629259,
+    "curves": [
+      {
+        "t": 126.44,
+        "pause": 2.26,
+        "normalized_rate": [
+          1.4,
+          null,
+          null,
+          1.4,
+          1.75
+        ]
+      },
+      {
+        "t": 130.08,
+        "pause": 0.6,
+        "normalized_rate": [
+          1.4,
+          1.75,
+          1.4,
+          2.801,
+          0.7
+        ]
+      },
+      {
+        "t": 133.68,
+        "pause": 1.88,
+        "normalized_rate": [
+          2.101,
+          0.7,
+          null,
+          2.101,
+          null
+        ]
+      },
+      {
+        "t": 136.3,
+        "pause": 1.12,
+        "normalized_rate": [
+          0.35,
+          1.75,
+          null,
+          2.801,
+          1.05
+        ]
+      },
+      {
+        "t": 143.52,
+        "pause": 0.78,
+        "normalized_rate": [
+          1.4,
+          0.7,
+          0.7,
+          1.4,
+          null
+        ]
+      },
+      {
+        "t": 145.66,
+        "pause": 1.32,
+        "normalized_rate": [
+          0.35,
+          1.4,
+          null,
+          2.451,
+          0.35
+        ]
+      },
+      {
+        "t": 148.66,
+        "pause": 1.48,
+        "normalized_rate": [
+          1.05,
+          1.75,
+          null,
+          1.4,
+          0.7
+        ]
+      },
+      {
+        "t": 161.0,
+        "pause": 2.04,
+        "normalized_rate": [
+          2.451,
+          0.7,
+          null,
+          1.75,
+          0.7
+        ]
+      },
+      {
+        "t": 163.68,
+        "pause": 1.38,
+        "normalized_rate": [
+          0.35,
+          2.101,
+          null,
+          1.4,
+          1.05
+        ]
+      },
+      {
+        "t": 177.22,
+        "pause": 2.86,
+        "normalized_rate": [
+          1.05,
+          null,
+          null,
+          1.4,
+          1.75
+        ]
+      },
+      {
+        "t": 187.6,
+        "pause": 1.48,
+        "normalized_rate": [
+          1.75,
+          1.05,
+          null,
+          2.801,
+          1.05
+        ]
+      },
+      {
+        "t": 190.7,
+        "pause": 1.4,
+        "normalized_rate": [
+          1.75,
+          2.101,
+          null,
+          1.05,
+          0.7
+        ]
+      }
+    ]
+  },
+  "norm_moth": {
+    "overall_rate": 4.800800133355559,
+    "curves": [
+      {
+        "t": 53.32,
+        "pause": 1.7,
+        "normalized_rate": [
+          0.312,
+          0.312,
+          null,
+          1.875,
+          null
+        ]
+      },
+      {
+        "t": 96.8,
+        "pause": 1.22,
+        "normalized_rate": [
+          3.124,
+          1.25,
+          1.875,
+          5.312,
+          1.875
+        ]
+      },
+      {
+        "t": 107.4,
+        "pause": 1.16,
+        "normalized_rate": [
+          1.875,
+          0.937,
+          1.562,
+          4.374,
+          3.124
+        ]
+      },
+      {
+        "t": 112.02,
+        "pause": 1.58,
+        "normalized_rate": [
+          2.812,
+          3.437,
+          null,
+          4.374,
+          6.874
+        ]
+      }
+    ]
+  }
+}
