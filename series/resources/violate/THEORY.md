@@ -13,3 +13,6 @@
 
 - `/root/characters/theory/LAUGHTER-THEORIES.md`
 - `/root/characters2/theory/SKILL-jeselnik-dark.md`
+
+## Books
+- `/root/gcomedy/library/comedy/ATTARDO-LINGUISTICS-OF-HUMOR-2020.pdf` (Attardo 2020, 488pp)

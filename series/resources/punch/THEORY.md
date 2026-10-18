@@ -15,3 +15,6 @@
 - `/root/characters2/theory/FORMATS-joke-types.md`
 - `/root/characters2/theory/SKILL-joke-writing.md`
 - `/root/characters2/theory/SKILL-storytelling.md`
+
+## Books
+- `/root/gcomedy/library/comedy/ATTARDO-LINGUISTICS-OF-HUMOR-2020.pdf` (Attardo 2020, 488pp)

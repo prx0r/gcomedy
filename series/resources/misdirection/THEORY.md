@@ -14,3 +14,6 @@
 - `/root/characters/theory/LAUGH-PHYSICS.md`
 - `/root/characters/theory/DVP-FINDINGS.md`
 - `/root/characters2/theory/SKILL-normand.md`
+
+## Books
+- `/root/gcomedy/library/comedy/ATTARDO-LINGUISTICS-OF-HUMOR-2020.pdf` (Attardo 2020, 488pp)
