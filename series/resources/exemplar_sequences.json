@@ -1,0 +1,253 @@
+{
+ "note": "Complete bit sequences for full-function deconstruction. Each contains setup\u2192punch\u2192tag arc.",
+ "sequences": [
+  {
+   "source": "louis-c-k-hilarious-2010-full-transcript.bits.json",
+   "comic": "louis-ck",
+   "chunks": 0,
+   "n_chunks": 12,
+   "total_words": 159,
+   "text": "\u2013 You have your key in there, sir? \u2013 Yeah. \u2013 House lights? Go-wally, go on house lights. \u2013 You ready? \u2013 Thank you. Hi. Thank you very much. Uh, thank you. Hello, everybody. Um, Hello. I mean, by everybody, I mean, uh, you guys. Uh, I mean everybody who\u2019s here. Really I shouldn\u2019t say \u201ceverybody,\u201d Because most people are not here. By a pretty huge majority, most people are not here. Most people are in China, actually. It\u2019s true. Actually, that\u2019s not true. Most people are dead. Did you know that? It\u2019s true. Out of all the people that ever were, almost all of them are dead. There are way more dead people. And you\u2019re all gonna die, and\u2026 and then you\u2019re gonna be dead for way longer than your life. Like, that\u2019s mostly What you\u2019re ever gonna be. You\u2019re just dead people That didn\u2019t die yet. There are so many dead people. Ray Charles is dead. Hitler.",
+   "setup_punch_pairs": [
+    {
+     "setup": "\u2013 Yeah.",
+     "punch": "\u2013 House lights?"
+    },
+    {
+     "setup": "Go-wally, go on house lights.",
+     "punch": "\u2013 You ready?"
+    },
+    {
+     "setup": "\u2013 Thank you.",
+     "punch": "Thank you very much."
+    },
+    {
+     "setup": "Uh, thank you.",
+     "punch": "Um, Hello."
+    },
+    {
+     "setup": "I mean, by everybody, I mean, uh, you guys.",
+     "punch": "Really I shouldn\u2019t say \u201ceverybody,\u201d Because most people are not here."
+    },
+    {
+     "setup": "By a pretty huge majority, most people are not here.",
+     "punch": "It\u2019s true."
+    },
+    {
+     "setup": "Actually, that\u2019s not true.",
+     "punch": "Did you know that?"
+    },
+    {
+     "setup": "It\u2019s true.",
+     "punch": "There are way more dead people."
+    },
+    {
+     "setup": "and then you\u2019re gonna be dead for way longer than your life.",
+     "punch": "You\u2019re just dead people That didn\u2019t die yet."
+    },
+    {
+     "setup": "There are so many dead people.",
+     "punch": "Hitler."
+    }
+   ],
+   "label": "Louis CK \u2014 Hilarious opening"
+  },
+  {
+   "source": "norm-macdonald-nothing-special-transcript.bits.json",
+   "comic": "norm-macdonald",
+   "chunks": 0,
+   "n_chunks": 15,
+   "total_words": 224,
+   "text": "Norm was working hard preparing material for his Netflix special \u2013 until COVID shut things down. In the summer of 2020, he was scheduled to undergo a procedure and as he put it, \u201cdidn\u2019t want to leave anything on the table in case things went south.\u201d At home, the night before going in, he shot this \u2013 in one take. [Lori Jo] Talk, talk. Hello there, everybody. That sounds good to me\u2026 [Lori Jo] Okay. \u2026through my earphones\u2026 [Lori Jo] All right. Good. [Lori Jo] The boom\u2019s a little loud. I\u2019ll turn that down. Just give me a second. [dog barking] [Norm] Lori Jo. Do you like where my hand comes in? [Lori Jo] I\u2019m not watching the camera. Oh. Okay. [Lori Jo] Testing, testing. [Norm] Testing, testing. [Norm] We don\u2019t know where\u2026 [Lori Jo] You were talking about\u2026 [Norm] I know where. [Norm] Okay. Hey, everybody. It\u2019s Norm Macdonald. And this is my comedy special. That\u2019s right. Now, of course I\u2019m looking forward to getting back out there, you know. Seeing you folks in person, you know. I love doing gigs. And I miss it. My God, I miss it. Especially casinos. Those were my favorite gigs because I\u2019m a degenerate gambler as it turns out. I think the casinos know that. Often they\u2019ll pay me in chips. that\u2019s not nice, you know?",
+   "setup_punch_pairs": [
+    {
+     "setup": "Norm was working hard preparing material for his Netflix special \u2013 until COVID shut things down.",
+     "punch": "[Lori Jo] Talk, talk."
+    },
+    {
+     "setup": "Hello there, everybody.",
+     "punch": "That sounds good to me\u2026"
+    },
+    {
+     "setup": "[Lori Jo] Okay.",
+     "punch": "\u2026through my earphones\u2026"
+    },
+    {
+     "setup": "[Lori Jo] All right.",
+     "punch": "[Lori Jo] The boom\u2019s a little loud."
+    },
+    {
+     "setup": "I\u2019ll turn that down.",
+     "punch": "[dog barking] [Norm] Lori Jo."
+    },
+    {
+     "setup": "[Lori Jo] I\u2019m not watching the camera.",
+     "punch": "Okay."
+    },
+    {
+     "setup": "[Lori Jo] Testing, testing.",
+     "punch": "[Norm] We don\u2019t know where\u2026"
+    },
+    {
+     "setup": "[Norm] I know where.",
+     "punch": "Hey, everybody."
+    },
+    {
+     "setup": "It\u2019s Norm Macdonald.",
+     "punch": "That\u2019s right."
+    },
+    {
+     "setup": "Now, of course I\u2019m looking forward to getting back out there, you know.",
+     "punch": "I love doing gigs."
+    },
+    {
+     "setup": "And I miss it.",
+     "punch": "Especially casinos."
+    },
+    {
+     "setup": "Those were my favorite gigs because I\u2019m a degenerate gambler as it turns out.",
+     "punch": "Often they\u2019ll pay me in chips."
+    }
+   ],
+   "label": "Norm Macdonald \u2014 Nothing Special opening"
+  },
+  {
+   "source": "chris-rock-total-blackout-the-tamborine-extended-cut-transcript.bits.json",
+   "comic": "chris-rock",
+   "chunks": 0,
+   "n_chunks": 10,
+   "total_words": 110,
+   "text": "[Jimmy Fallon] Were you at the, uh, White House party? [Chris Rock] Yes, I was at the White House. Everybody was there. It was like\u2026 whoa. The last party at the White House\u2026 [chuckles softly] You been to the White House? [Jimmy] Yes. It\u2019s amazing. [Jimmy] It\u2019s unbelievable. You walk in, you see these humongous portraits of the presidents everywhere you go, right? So I\u2019m there, and it\u2019s me, and Ahmir is there, and Jay-Z, Beyonc\u00e9, Oprah, Steve\u2026 It\u2019s like I died and went to Black heaven, right? [audience laughing] [Chris chuckles] They were all\u2026 [Jimmy] Something to see. It was unbelievable. There were a few white people there, too.",
+   "setup_punch_pairs": [
+    {
+     "setup": "[Chris Rock] Yes, I was at the White House.",
+     "punch": "It was like\u2026"
+    },
+    {
+     "setup": "whoa.",
+     "punch": "The last party at the White House\u2026"
+    },
+    {
+     "setup": "[Jimmy] Yes.",
+     "punch": "[Jimmy] It\u2019s unbelievable."
+    },
+    {
+     "setup": "[Jimmy] Something to see.",
+     "punch": "There were a few white people there, too."
+    }
+   ],
+   "label": "Chris Rock \u2014 Tamborine opening"
+  },
+  {
+   "source": "john-mulaney-kid-gorgeous-at-radio-city.bits.json",
+   "comic": "john-mulaney",
+   "chunks": 0,
+   "n_chunks": 12,
+   "total_words": 466,
+   "text": "[organ music playing] Welcome to Radio City Music Hall. It\u2019s time. Any questions? No. Walk with me. [eerie organ music playing] [mechanical whirring] [audience applauding and cheering] Good evening. Hi, I\u2019m John Mulaney, nice to meet you. Jon Brion, ladies and gentlemen. Thank you for coming to see me at Radio City Music Hall. I love to play venues where if the guy that built the venue could see me on the stage, he would be a little bit bummed about it. Look at this. This is so much nicer than what I\u2019m about to do. It\u2019s really\u2026 It\u2019s really tragic. What a historic and beautiful and deeply haunted building this is. I keep walking through cold spots being like, \u201cI wonder who that used to be.\u201d I\u2019ve never seen a ghost, by the way. I asked my mom if she\u2019d ever seen a ghost. That\u2019s where we\u2019re at conversation-wise in our relationship as a mother and son, because I\u2019m 35 and I don\u2019t have any children to talk about and she doesn\u2019t understand my career. So I was home for Christmas and we were just eating Triscuits in\u00a0silence and I was staring at the floor and I was like, \u201cWell, here goes nothing. \u2018You ever seen a ghost?'\u201d And my mom said, \u201cYes.\u201d Which is the best answer. She said, \u201cI never told you this before but our house, when you were growing up, was haunted.\u201d I said, \u201cSay more right now!\u201d She said, \u201cOutside you and your brother\u2019s room, I used to see the ghost of a little girl in a Victorian nightgown and then she would walk down the hallway and then she would evaporate.\u201d And then my dad said, \u201cLet\u2019s change the subject!\u201d And I think he was just doing that dad-thing of, like, \u201cThis is a weird topic and I want to talk about a book\u00a0I read about World War II.\u201d But the way it came off was\u00a0that he definitely killed that little girl. \u201cLet\u2019s change the subject! Why are we even talking about Penelope\u2026 or whatever her name was? I didn\u2019t kill her! Whoever did kill\u00a0her only did it to protect her from this world.\u201d None of us really know our fathers. Anyway\u2026 My dad is so weird. I\u2019d love to meet him someday. You know, my friend was telling me that his dad used to beat him with a belt and that\u2019s just the setup to my story, so\u2026 Forget about that poor son of a bitch. Anyway\u2026 He was talking and I was waiting for him to be done so I could talk. So he\u2019s \u201ctalk, talk, talk.\u201d It\u2019s my turn next! And\u2026 [audience laughing] I said, \u201cMy dad never hit us.\u201d My dad is a lawyer and he was a debate team champion.",
+   "setup_punch_pairs": [
+    {
+     "setup": "[organ music playing] Welcome to Radio City Music Hall.",
+     "punch": "Any questions?"
+    },
+    {
+     "setup": "No.",
+     "punch": "[eerie organ music playing] [mechanical whirring] [audience applauding and cheering] Good evening."
+    },
+    {
+     "setup": "Hi, I\u2019m John Mulaney, nice to meet you.",
+     "punch": "Thank you for coming to see me at Radio City Music Hall."
+    },
+    {
+     "setup": "I love to play venues where if the guy that built the venue could see me on the stage, he would be a little bit bummed about it.",
+     "punch": "This is so much nicer than what I\u2019m about to do."
+    },
+    {
+     "setup": "It\u2019s really\u2026",
+     "punch": "What a historic and beautiful and deeply haunted building this is."
+    },
+    {
+     "setup": "I keep walking through cold spots being like, \u201cI wonder who that used to be.\u201d I\u2019ve never seen a ghost, by the way.",
+     "punch": "That\u2019s where we\u2019re at conversation-wise in our relationship as a mother and son, because I\u2019m 35 and I don\u2019t have any children to talk about and she doesn\u2019t understand my career."
+    },
+    {
+     "setup": "So I was home for Christmas and we were just eating Triscuits in\u00a0silence and I was staring at the floor and I was like, \u201cWell, here goes nothing.",
+     "punch": "She said, \u201cI never told you this before but our house, when you were growing up, was haunted.\u201d I said, \u201cSay more right now!\u201d She said, \u201cOutside you and your brother\u2019s room, I used to see the ghost of a little girl in a Victorian nightgown and then she would walk down the hallway and then she would evaporate.\u201d And then my dad said, \u201cLet\u2019s change the subject!\u201d And I think he was just doing that dad-thing of, like, \u201cThis is a weird topic and I want to talk about a book\u00a0I read about World War II.\u201d But the way it came off was\u00a0that he definitely killed that little girl."
+    },
+    {
+     "setup": "\u201cLet\u2019s change the subject!",
+     "punch": "or whatever her name was?"
+    },
+    {
+     "setup": "I didn\u2019t kill her!",
+     "punch": "Anyway\u2026"
+    },
+    {
+     "setup": "My dad is so weird.",
+     "punch": "You know, my friend was telling me that his dad used to beat him with a belt and that\u2019s just the setup to my story, so\u2026"
+    },
+    {
+     "setup": "Forget about that poor son of a bitch.",
+     "punch": "He was talking and I was waiting for him to be done so I could talk."
+    },
+    {
+     "setup": "So he\u2019s \u201ctalk, talk, talk.\u201d It\u2019s my turn next!",
+     "punch": "[audience laughing] I said, \u201cMy dad never hit us.\u201d My dad is a lawyer and he was a debate team champion."
+    }
+   ],
+   "label": "John Mulaney \u2014 Kid Gorgeous opening"
+  },
+  {
+   "source": "stewart-lee-carpet-remnant-world.bits.json",
+   "comic": "stewart-lee",
+   "chunks": 0,
+   "n_chunks": 10,
+   "total_words": 338,
+   "text": "(\u201970s GERMAN ROCK MUSIC PLAYING) ANNOUNCER: Ladies and gentlemen, it\u2019s time to enter the Carpet Remnant World of Stewart Lee! (AUDIENCE APPLAUDING) That was a bit heavy metal, rock and roll that. Can we have some funny music at the start of the second half? Yup. Thanks for coming. (LAUGHTER) Okay. What news do you know about? Leveson Inquiry. That\u2019s ongoing. News of the World went down. I was sorry to see The News of the World go down. I think it was a great campaigning newspaper. Not everything I say is sarcastic, Sheffield. Who can forget the News of the World\u2019s high-profile campaign against child sex offenders which led, didn\u2019t it, to News of the World readers burning down the home of a paediatrician. (LAUGHTER) Throwing rocks at a pedalo. (LAUGHTER) And stamping on a centipede. (LAUGHTER) Top-of-the-show pedophile jokes going down well. Good to have been on television and finally managed to attract so much of Jimmy Carr\u2019s audience. The show\u2019s not aimed at you, don\u2019t come again. (LAUGHTER) I\u2019m trying to find out what news you know about so I can weave stories into a seamless two-hour narrative-driven whole. A seamless narrative-driven whole. You have to do that, I think\u2026 If you\u2019re a name comic out doing a long theatre show, you just can\u2019t go out and do 90-minutes of unrelated little gags that you can subsequently chop up into smaller parcels and resell to Mock the Week and Live at the Apollo. Oh, yeah. You can do that, can\u2019t you? (LAUGHTER) So what news do you know about? I think the funniest news story at the moment is the trial of the Norwegian Neo-Nazi mass murderer Anders Behring Breivik. You\u2019re going, \u201cHang on, there\u2019s nothing funny about that, Stew.\u201d But there is and, erm, (LAUGHTER) it\u2019s this. That on his website, Anders Behring Brievik, the Norwegian Neo-Nazi mass murderer, has written this genuine sentence. \u201cJeremy Clarkson\u2019s Top Gear (LAUGHTER) \u201cis one of the few programmes worth watching on the BBC.\u201d (LAUGHTER, APPLAUSE) I know.",
+   "setup_punch_pairs": [
+    {
+     "setup": "(\u201970s GERMAN ROCK MUSIC PLAYING) ANNOUNCER: Ladies and gentlemen, it\u2019s time to enter the Carpet Remnant World of Stewart Lee!",
+     "punch": "Can we have some funny music at the start of the second half?"
+    },
+    {
+     "setup": "Yup.",
+     "punch": "(LAUGHTER) Okay."
+    },
+    {
+     "setup": "What news do you know about?",
+     "punch": "That\u2019s ongoing."
+    },
+    {
+     "setup": "News of the World went down.",
+     "punch": "I think it was a great campaigning newspaper."
+    },
+    {
+     "setup": "Not everything I say is sarcastic, Sheffield.",
+     "punch": "(LAUGHTER) Throwing rocks at a pedalo."
+    },
+    {
+     "setup": "(LAUGHTER) And stamping on a centipede.",
+     "punch": "Good to have been on television and finally managed to attract so much of Jimmy Carr\u2019s audience."
+    },
+    {
+     "setup": "The show\u2019s not aimed at you, don\u2019t come again.",
+     "punch": "A seamless narrative-driven whole."
+    },
+    {
+     "setup": "You have to do that, I think\u2026",
+     "punch": "Oh, yeah."
+    },
+    {
+     "setup": "You can do that, can\u2019t you?",
+     "punch": "I think the funniest news story at the moment is the trial of the Norwegian Neo-Nazi mass murderer Anders Behring Breivik."
+    },
+    {
+     "setup": "You\u2019re going, \u201cHang on, there\u2019s nothing funny about that, Stew.\u201d But there is and, erm, (LAUGHTER) it\u2019s this.",
+     "punch": "\u201cJeremy Clarkson\u2019s Top Gear (LAUGHTER) \u201cis one of the few programmes worth watching on the BBC.\u201d (LAUGHTER, APPLAUSE) I know."
+    }
+   ],
+   "label": "Stewart Lee \u2014 Carpet Remnant World opening"
+  }
+ ],
+ "gold_monopoly_bit": "I try to make it seem like I'm just getting this out, but I know\nall the moves, I know every little piece of it.\n\n[0:05] One... Two... Three... It's just here, just go here.\n\n[0:15] This is what a Louis C. K. joke looks like. It's a short\none, only 207 words.\n\n[0:21] But they're 207 words that are chosen very purposefully,\npracticed until every one counts for something.\n\n[0:28] Today I want to go through this joke beat by beat, and\nexplore how Louis C. K. constructs and performs his comedy.\n\n[0:37] My girls are six and nine now. They're actually a really\nexciting age because they're learning to do some cool stuff.\n\n[0:42] Every joke has to have a premise, an idea that the inevitable\npunch line will snap comedically into place.\n\n[0:50] The premise should be really clear, whether it's implied as\nin some one-liners or stated outright.\n\n[0:56] As Chris Rock once said, \"A lot of comedians have great\njokes, and they don't... why isn't this working? It's not working\nbecause the audience does not understand the premise.\"\n\n[1:05] In this case the premise has two parts, accomplished in two\nsentences.\n\n[1:09] First, Louis is playing monopoly with his daughters, and\nsecond\u2014\n\n[1:27] The second part of this premise is beautifully structured.\n\n[1:30] Because besides very lucidly delivering the premise that this\njoke is going to be how a six-year-old girl learns what it means to\nlose in Monopoly\u2014\n\n[1:37] Louis actually gets some laughs out of the sentence by the\naddition of a couple words and a strategic rhythm.\n\n[1:44] I mean the simplest way to end the sentence is to say that\nshe's not emotionally developed enough to handle losing at Monopoly,\n\n[1:51] But instead, he says, \"to handle her.\" In this way Louis adds\ntwo little comedic surprises in the premise, and makes sure to include\na pause so that each can be appreciated in their own beat.\n\n[2:06] \"To handle her.\" Comedians like Louis C.K. are experienced\nenough to master not only their own delivery, but where the laughs\nwill occur in their jokes, and how to deal with them.\n\n[2:26] Telling a joke is like riding a wave of feeling, and if you\nwatch Louis C.K.'s comedy, you'll see that during laughs what he does\nis emphasize his last line.\n\n[2:35] It doesn't give the audience new information.\n\n[2:38] He augments the information just given \u2014 something he actually\nlearned how to do brilliantly from Jerry Seinfeld.\n\n[2:44] \"I'm opening for Jerry in front of like twelve hundred or\ntwenty-five hundred people, and people are applauding bits. And I had\nnever encountered that. I didn't know how to handle it. I asked Jerry\nwhat to do, and he said, 'You stay in the bit.' You stay in the bit\nthey're reacting to.\"\n\n[3:01] If you're angry and that's why they're applauding, you stay\nin that energy. Because the Monopoly loss is dark. It's heavy.\n\n[3:11] It's not like... the choice of Candyland here, though Louis\nacts as if it was pulled out of thin air, is the perfect counterpoint\nto Monopoly.\n\n[3:28] It's visual. The game pops straight into your mind as an\nobject of colourful innocence. The dramatization and the funny voices\nare also performed like they were spontaneously made up.\n\n[3:37] But the words and the images he uses \u2014 like \"fudgy thing\" and\n\"gummy twirly-o's\" \u2014 are carefully chosen to enhance that visual sense.\n\n[3:46] Louis is never not in control. And that's important, because\nsince the premise has been so strongly set up and the counterpoint\ndrawn out so vividly\u2014\n\n[3:55] The laughs that Louis gets here are actually laughs in\nanticipation of a punchline not yet said.\n\n[4:01] The audience is already imagining how dark the Monopoly loss\nis going to be.\n\n[4:06] Just watch how he gradually increases these anticipatory\nlaughs, like the audience is a fiddle, to the final three-word punchline.\n\n[4:32] \"Gotta give it all to me. Give it to me. That's right.\"\n\n[4:36] One thing Louis doesn't get recognized for enough, in my\nopinion, is his ability to dramatize in his jokes.\n\n[4:42] When he acts out this conversation with his daughter, the\nlight touch he gives \u2014 especially with that hand movement right on\nthe punchline \u2014 really locks the audience into the space where he\nwants them to be.\n\n[4:52] The audience needs to see this situation from a six-year-old\nperspective for it to work.\n\n[4:56] And if he succeeds, the tags \u2014 the two additional punchlines\nthat follow \u2014 will be that much more devastating and hilarious.\n\n[5:16] \"You're going down hard. It's really bad.\"\n\n[5:18] Casting the audience in the perspective of a six-year-old is\nimportant for another reason, because I think on a deeper level Louis\nis actually trying to make a comment here\n\n[5:27] On the actual ruthlessness of the economy we live in, where\nproperty really is taken away from people, sometimes by monopolistic\ninterests with debt to spare.\n\n[5:38] That's the thing his daughter is not emotionally developed\nenough to comprehend.\n\n[5:42] And when we see it through her eyes, the reality seems even\ndarker than it usually does.\n\n[5:48] Especially in the final tag.\n\n[6:08] You know, more than anything else, I think I'm obsessed with\narticulation, with the magic of putting things just the right way.\n\n[6:15] There are 207 words in this joke, and not a single one is\nwasted. They're used either in meaning or in rhythm to contribute to\nthe overall effect \u2014 an effect that lets us see the world from a\ndifferent angle, and more importantly, makes us laugh.\n\n[6:30] Like great poetry, great stand-up comedy is language distilled\nto its most potent form.\n\n[6:36] And these days, few people distill it better than Louis C.K.\n\n---"
+}

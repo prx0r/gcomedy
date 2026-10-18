@@ -1,0 +1,497 @@
+{
+ "Louis CK \u2014 Hilarious opening": [
+  {
+   "chunk": 0,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "\u2013 You have your key in there, sir?",
+   "has_punch": false
+  },
+  {
+   "chunk": 1,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "\u2013 Yeah. \u2013 House lights?",
+   "has_punch": true
+  },
+  {
+   "chunk": 2,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "Go-wally, go on house lights. \u2013 You ready?",
+   "has_punch": true
+  },
+  {
+   "chunk": 3,
+   "functions": [
+    "tag",
+    "button"
+   ],
+   "text_preview": "\u2013 Thank you. Hi. Thank you very much.",
+   "has_punch": true
+  },
+  {
+   "chunk": 4,
+   "functions": [
+    "tag",
+    "button"
+   ],
+   "text_preview": "Uh, thank you. Hello, everybody. Um, Hello.",
+   "has_punch": true
+  },
+  {
+   "chunk": 5,
+   "functions": [
+    "punch"
+   ],
+   "text_preview": "I mean, by everybody, I mean, uh, you guys. Uh, I mean everybody who\u2019s here. Rea",
+   "has_punch": true
+  },
+  {
+   "chunk": 6,
+   "functions": [
+    "punch",
+    "tag"
+   ],
+   "text_preview": "By a pretty huge majority, most people are not here. Most people are in China, a",
+   "has_punch": true
+  },
+  {
+   "chunk": 7,
+   "functions": [
+    "setup",
+    "punch"
+   ],
+   "text_preview": "Actually, that\u2019s not true. Most people are dead. Did you know that?",
+   "has_punch": true
+  },
+  {
+   "chunk": 8,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "It\u2019s true. Out of all the people that ever were, almost all of them are dead. Th",
+   "has_punch": true
+  },
+  {
+   "chunk": 9,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "And you\u2019re all gonna die, and\u2026",
+   "has_punch": false
+  },
+  {
+   "chunk": 10,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "and then you\u2019re gonna be dead for way longer than your life. Like, that\u2019s mostly",
+   "has_punch": true
+  },
+  {
+   "chunk": 11,
+   "functions": [
+    "setup",
+    "tag"
+   ],
+   "text_preview": "There are so many dead people. Ray Charles is dead. Hitler.",
+   "has_punch": true
+  }
+ ],
+ "Norm Macdonald \u2014 Nothing Special opening": [
+  {
+   "chunk": 0,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "Norm was working hard preparing material for his Netflix special \u2013 until COVID s",
+   "has_punch": true
+  },
+  {
+   "chunk": 1,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "Hello there, everybody. That sounds good to me\u2026",
+   "has_punch": true
+  },
+  {
+   "chunk": 2,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "[Lori Jo] Okay. \u2026through my earphones\u2026",
+   "has_punch": true
+  },
+  {
+   "chunk": 3,
+   "functions": [
+    "tag"
+   ],
+   "text_preview": "[Lori Jo] All right. Good. [Lori Jo] The boom\u2019s a little loud.",
+   "has_punch": true
+  },
+  {
+   "chunk": 4,
+   "functions": [
+    "tag"
+   ],
+   "text_preview": "I\u2019ll turn that down. Just give me a second. [dog barking] [Norm] Lori Jo.",
+   "has_punch": true
+  },
+  {
+   "chunk": 5,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "Do you like where my hand comes in?",
+   "has_punch": false
+  },
+  {
+   "chunk": 6,
+   "functions": [
+    "setup",
+    "tag"
+   ],
+   "text_preview": "[Lori Jo] I\u2019m not watching the camera. Oh. Okay.",
+   "has_punch": true
+  },
+  {
+   "chunk": 7,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "[Lori Jo] Testing, testing. [Norm] Testing, testing. [Norm] We don\u2019t know where\u2026",
+   "has_punch": true
+  },
+  {
+   "chunk": 8,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "[Lori Jo] You were talking about\u2026",
+   "has_punch": false
+  },
+  {
+   "chunk": 9,
+   "functions": [
+    "setup",
+    "tag"
+   ],
+   "text_preview": "[Norm] I know where. [Norm] Okay. Hey, everybody.",
+   "has_punch": true
+  },
+  {
+   "chunk": 10,
+   "functions": [
+    "setup",
+    "tag"
+   ],
+   "text_preview": "It\u2019s Norm Macdonald. And this is my comedy special. That\u2019s right.",
+   "has_punch": true
+  },
+  {
+   "chunk": 11,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "Now, of course I\u2019m looking forward to getting back out there, you know. Seeing y",
+   "has_punch": true
+  },
+  {
+   "chunk": 12,
+   "functions": [
+    "setup",
+    "tag"
+   ],
+   "text_preview": "And I miss it. My God, I miss it. Especially casinos.",
+   "has_punch": true
+  },
+  {
+   "chunk": 13,
+   "functions": [
+    "setup",
+    "punch"
+   ],
+   "text_preview": "Those were my favorite gigs because I\u2019m a degenerate gambler as it turns out. I ",
+   "has_punch": true
+  },
+  {
+   "chunk": 14,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "that\u2019s not nice, you know?",
+   "has_punch": false
+  }
+ ],
+ "Chris Rock \u2014 Tamborine opening": [
+  {
+   "chunk": 0,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "[Jimmy Fallon] Were you at the, uh, White House party?",
+   "has_punch": false
+  },
+  {
+   "chunk": 1,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "[Chris Rock] Yes, I was at the White House. Everybody was there. It was like\u2026",
+   "has_punch": true
+  },
+  {
+   "chunk": 2,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "whoa. The last party at the White House\u2026",
+   "has_punch": true
+  },
+  {
+   "chunk": 3,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "[chuckles softly] You been to the White House?",
+   "has_punch": false
+  },
+  {
+   "chunk": 4,
+   "functions": [
+    "tag"
+   ],
+   "text_preview": "[Jimmy] Yes. It\u2019s amazing. [Jimmy] It\u2019s unbelievable.",
+   "has_punch": true
+  },
+  {
+   "chunk": 5,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "You walk in, you see these humongous portraits of the presidents everywhere you ",
+   "has_punch": false
+  },
+  {
+   "chunk": 6,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "So I\u2019m there, and it\u2019s me, and Ahmir is there, and Jay-Z, Beyonc\u00e9, Oprah, Steve\u2026",
+   "has_punch": false
+  },
+  {
+   "chunk": 7,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "It\u2019s like I died and went to Black heaven, right?",
+   "has_punch": false
+  },
+  {
+   "chunk": 8,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "[audience laughing] [Chris chuckles] They were all\u2026",
+   "has_punch": false
+  },
+  {
+   "chunk": 9,
+   "functions": [
+    "tag"
+   ],
+   "text_preview": "[Jimmy] Something to see. It was unbelievable. There were a few white people the",
+   "has_punch": true
+  }
+ ],
+ "John Mulaney \u2014 Kid Gorgeous opening": [
+  {
+   "chunk": 0,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "[organ music playing] Welcome to Radio City Music Hall. It\u2019s time. Any questions",
+   "has_punch": true
+  },
+  {
+   "chunk": 1,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "No. Walk with me. [eerie organ music playing] [mechanical whirring] [audience ap",
+   "has_punch": true
+  },
+  {
+   "chunk": 2,
+   "functions": [
+    "button"
+   ],
+   "text_preview": "Hi, I\u2019m John Mulaney, nice to meet you. Jon Brion, ladies and gentlemen. Thank y",
+   "has_punch": true
+  },
+  {
+   "chunk": 3,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "I love to play venues where if the guy that built the venue could see me on the ",
+   "has_punch": true
+  },
+  {
+   "chunk": 4,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "It\u2019s really\u2026 It\u2019s really tragic. What a historic and beautiful and deeply haunte",
+   "has_punch": true
+  },
+  {
+   "chunk": 5,
+   "functions": [
+    "setup",
+    "punch"
+   ],
+   "text_preview": "I keep walking through cold spots being like, \u201cI wonder who that used to be.\u201d I\u2019",
+   "has_punch": true
+  },
+  {
+   "chunk": 6,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "So I was home for Christmas and we were just eating Triscuits in\u00a0silence and I w",
+   "has_punch": true
+  },
+  {
+   "chunk": 7,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "\u201cLet\u2019s change the subject! Why are we even talking about Penelope\u2026 or whatever h",
+   "has_punch": true
+  },
+  {
+   "chunk": 8,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "I didn\u2019t kill her! Whoever did kill\u00a0her only did it to protect her from this wor",
+   "has_punch": true
+  },
+  {
+   "chunk": 9,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "My dad is so weird. I\u2019d love to meet him someday. You know, my friend was tellin",
+   "has_punch": true
+  },
+  {
+   "chunk": 10,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "Forget about that poor son of a bitch. Anyway\u2026 He was talking and I was waiting ",
+   "has_punch": true
+  },
+  {
+   "chunk": 11,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "So he\u2019s \u201ctalk, talk, talk.\u201d It\u2019s my turn next! And\u2026 [audience laughing] I said, ",
+   "has_punch": true
+  }
+ ],
+ "Stewart Lee \u2014 Carpet Remnant World opening": [
+  {
+   "chunk": 0,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "(\u201970s GERMAN ROCK MUSIC PLAYING) ANNOUNCER: Ladies and gentlemen, it\u2019s time to e",
+   "has_punch": true
+  },
+  {
+   "chunk": 1,
+   "functions": [
+    "setup",
+    "tag"
+   ],
+   "text_preview": "Yup. Thanks for coming. (LAUGHTER) Okay.",
+   "has_punch": true
+  },
+  {
+   "chunk": 2,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "What news do you know about? Leveson Inquiry. That\u2019s ongoing.",
+   "has_punch": true
+  },
+  {
+   "chunk": 3,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "News of the World went down. I was sorry to see The News of the World go down. I",
+   "has_punch": true
+  },
+  {
+   "chunk": 4,
+   "functions": [
+    "callback"
+   ],
+   "text_preview": "Not everything I say is sarcastic, Sheffield. Who can forget the News of the Wor",
+   "has_punch": true
+  },
+  {
+   "chunk": 5,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "(LAUGHTER) And stamping on a centipede. (LAUGHTER) Top-of-the-show pedophile jok",
+   "has_punch": true
+  },
+  {
+   "chunk": 6,
+   "functions": [
+    "setup",
+    "callback"
+   ],
+   "text_preview": "The show\u2019s not aimed at you, don\u2019t come again. (LAUGHTER) I\u2019m trying to find out",
+   "has_punch": true
+  },
+  {
+   "chunk": 7,
+   "functions": [
+    "unknown"
+   ],
+   "text_preview": "You have to do that, I think\u2026 If you\u2019re a name comic out doing a long theatre sh",
+   "has_punch": true
+  },
+  {
+   "chunk": 8,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "You can do that, can\u2019t you? (LAUGHTER) So what news do you know about? I think t",
+   "has_punch": true
+  },
+  {
+   "chunk": 9,
+   "functions": [
+    "setup"
+   ],
+   "text_preview": "You\u2019re going, \u201cHang on, there\u2019s nothing funny about that, Stew.\u201d But there is an",
+   "has_punch": true
+  }
+ ]
+}
