@@ -5,9 +5,7 @@
 ---
 
 **[0:00] ENGINE NAMED.** Last week was timing — when to move. This week is
-the hierarchy you play it from. Every joke has a seating chart: who is
-above whom — you, the room, the target, the world — and the laugh goes to
-whoever the chart says it should. Get the chart wrong and the same joke
+the hierarchy you play it from. Every joke has a seating chart. You. The room. The target. The world. The laugh goes to whoever the chart says it should. Get the chart wrong and the same joke
 dies. Nobody announces the chart. That's the whole game. Status is the
 invisible hierarchy, and this video is about who stands where.
 
@@ -37,18 +35,15 @@ mock the crown itself — because his seat was so low no sentence could
 lower him further. Same words from a duke: treason. Who may mock whom was
 never about the joke. It was about the chair. Comedy rooms run the same
 court. The headliner walks in holding the king's chair; the open-mic kid
-holds the fool's. r/Standup argues about this weekly — punch up, punch
-down, nonsense term, necessary term, 207 comments last time — but the
+holds the fool's. r/Standup argues about this weekly: punch-up versus punch-down, two hundred seven comments deep — but the
 arguers all describe the same furniture. [GOLD CARD: Johnstone see-saw —
 "a comedian is someone paid to lower his own or other people's status."]
 The number for this beat: two chairs. King, fool. Everything else is
 negotiation.
 
-**[4:30] PERSONA.** Three comics, three seats, and I've watched each of
-them hold theirs for an hour without slipping. Rock plays above the room —
+**[4:30] PERSONA.** Three comics in three seats — I've watched each hold theirs for an hour without slipping. Rock plays above the room —
 the shared enemy sermon, the whole crowd seated *with* him looking down at
-something broken. The rank was earned before the taping: two years of club
-sets, every night, then a tour, then the special. [GOLD CARD: 2-year hone →
+something broken. The rank was earned before the taping: two years of nightly club sets before the tour before the special. [GOLD CARD: 2-year hone →
 Takoma taping.] Louis plays below the room — the confession anchor, the
 sad-eyed guy of the emotional lowlands telling you he's the worst person
 in the building, so the room mothers him while he says the unsayable.
@@ -66,7 +61,7 @@ a man who doesn't know what girth means, being spoken to like he's four.
 The fall is the joke — event first (the rep's question), then the drop.
 Watch the track bar: the setup block builds the competent man in blue, the
 punch block swaps him for the idiot in red, and the laugh marker fires
-*on* the swap, not on any information. He learns nothing. The room learns
+*on* the swap. He learns nothing. The room learns
 his seat. Then the reclaim — "three girth units," said with total
 authority, a tiny rise that buys him the next attack on the system. Fall
 with an event, rise with permission: that's the whole invert, twice in
@@ -78,8 +73,7 @@ no self-lowering: "I called UPS and their process wasted my time." True.
 Tight. Dead. The room hears a complaint from an equal and waits for the
 scapegoat. r/Standup's top comment on this exact bit nailed it years ago:
 the piece isn't about UPS, it's about Regan being an idiot — and that's
-*why* it works. The idiot is the anchor. Without the anchor there's no
-license, and without license the identical facts read as whining. Status
+*why* it works. The idiot is the anchor, and the anchor licenses everything: the identical facts read as whining. Status
 isn't decoration on the joke. It's the permit the joke performs under.
 
 **[10:00] SECOND SPECIMEN.** Same function, different rooms. Specimen A:
@@ -87,7 +81,7 @@ the room above you. Corporate crowd, clean conference set, the audience
 outranks the comic in every visible way — suits, titles, the company paid
 for the chairs. The move is the technician's: submit playfully, never
 challenge. Regan again — "I just think it's different," rock versus jazz —
-the comic who treats the room's rank as weather, not enemy. Specimen B:
+the comic who treats the room's rank as weather. Specimen B:
 the room below you. Drunk Friday, bachelorette on the left, birthday
 table on the right, blenders going off. The move is the shepherd's:
 authority without contempt. [CLIP: Carr heckle amnesty — the comic who
@@ -103,7 +97,7 @@ room checks the target's face — that glance *is* the measurement. If the
 target is laughing, the comic held the step. If the target shrinks, the
 comic took two steps and it's bullying with timing. Comedy's only
 instrument that measures this in real time is the audience's eyes, and
-great crowd workers watch the eyes, not the heckler's mouth. [GOLD CARD:
+great crowd workers watch the eyes and ignore the mouth. [GOLD CARD:
 Socratopia assumed-target rule — the room assigns rank automatically;
 intention unavailable.]
 
@@ -119,19 +113,15 @@ Confession anchors; shields deflect; rooms can smell the difference by the
 second tag. No number here — the failure beat gets none, on purpose. Some
 things you count. This one you recognize.
 
-**[12:45] UNIVERSAL.** Every group has rank. Dinner tables, group
-chats, locker rooms, review meetings — the see-saw creaks wherever someone
-climbs, and everyone in the room hears it whether or not anyone says it
-out loud. Comedy is just the one art that makes the hierarchy audible on
+**[12:45] UNIVERSAL.** Every group has rank, from dinner tables to review meetings — the see-saw creaks wherever someone
+climbs, and everyone in the room hears it, said or unsaid. Comedy is just the one art that makes the hierarchy audible on
 purpose, night after night, with the chart drawn where everyone can see
 it. Once you hear status in a set, you'll hear it in every meeting you've
-ever sat through. That's not a curse. It's a seating chart you finally get
-to read.
+ever sat through. That's a seating chart you finally get to read.
 
 **[13:30] CLOSE + HOOK.** Status declares rank, aims punches up, earns every shift.
-Rock above the room with a shared enemy. Louis below it with a confession.
-Lock swinging between the poles. Regan submitting to the suits, Carr
-shepherding the drunks — same instrument, opposite rooms. Positions set.
+Rock above the room with a shared enemy; Louis below it with a confession; Lock swinging between the poles. Regan submitting to the suits while Carr
+shepherds the drunks — same instrument, opposite rooms. Positions set.
 Next week: who you aim at — target.
 
 ---
