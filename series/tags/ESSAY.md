@@ -51,7 +51,13 @@ tags progressively shorter but denser — laughs per word rises even as total
 laugh falls. [GOLD CARD: density curve — pending laugh-onset measurement]
 Then the fourth tag that shouldn't exist:
 show a tag chain pushed one past its decay window — watch the room go
-polite. The window is real and it closes.
+polite. The window is real and it closes. [GOLD CARD: window edge —
+overreach case, pending] This is why headliners tag and open-micers move
+on. The beginner thinks each laugh needs a new setup, buying every laugh
+at full price. The headliner spends the change. A tight twenty can hold an
+hour of laughs. [GOLD CARD: tag economics — craft rule, run-length records
+pending] Audiences feel cheated by comics who never tag: they paid for a
+platform and only got one joke off it.
 **[9:00] ANATOMY OF ONE TAG (case coda).** Freeze a single tag mid-flight and take
 it apart. [CLIP: punch + one tag, looped twice, each ≤15s] The tag assumes four
 things without stating them: the world (still broken), the priority (still
@@ -94,7 +100,8 @@ the punch instead of fracturing anew. Zero new fracture, zero laugh,
 and it spends the decay window on nothing. Two: the fourth-tag overreach —
 pushing past the window because the third tag worked. The room's laughter
 was already decaying; the extra tag doesn't extend it, it exposes the
-machinery. Rule: tags diminish or die. Never tag sideways (new world =
+machinery. The extra tag earns a polite chuckle — the room paying in small
+coins for a lesson the comic bought at full price. Rule: tags diminish or die. Never tag sideways (new world =
 new setup economics, and you're spending setup money you don't have).
 
 **[12:45] UNIVERSAL.** Everything good has tags. Conversations:
