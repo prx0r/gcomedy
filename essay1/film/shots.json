@@ -1,0 +1,16 @@
+{
+  "film": "Comedy, Music, and the Illusion of Self",
+  "scene": "03A-laptop-prototype",
+  "composition": "compositions/scene-03a.html",
+  "fps": 24,
+  "duration": 20,
+  "shots": [
+    { "id": "s1", "start": 0, "end": 3, "camera": "static", "action": "Closed laptop. Title 'where is the laptop?' fades in.", "audio": "room tone" },
+    { "id": "s2", "start": 3, "end": 5, "camera": "static", "action": "Screen rises open. One real movement.", "audio": "hinge snap at 3.0 (peak)" },
+    { "id": "s3", "start": 5, "end": 11, "camera": "slow orbit hold", "action": "Wave explode: battery, board, chips, deck, keys, screen cascade upward.", "audio": "5 ticks staggered 5.2/6.5/7.8/9.0/10.2" },
+    { "id": "s4", "start": 11, "end": 15, "camera": "hold", "action": "6 gold labels draw: display, keyboard, top case, logic board, battery, bottom case.", "audio": "4 soft ticks 11.5/12.5/13.5/14.5" },
+    { "id": "s5", "start": 15, "end": 18, "camera": "hold", "action": "Parts ghost to 18% opacity. The word 'laptop' hangs solid center.", "audio": "downlifter, peak at 15.0" },
+    { "id": "s6", "start": 18, "end": 20, "camera": "static", "action": "Snap reassemble. Title out. Match-cut to s1 framing.", "audio": "bamboo tok at 18.0 (peak)" }
+  ],
+  "notes": "Transition rule: hard cuts for beats, dissolves for ontology only. Labels gold #f5c76b. Violation red #e8102e."
+}
