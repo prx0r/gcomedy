@@ -36,11 +36,11 @@ A motif is a one-liner. A phrase is a joke. A movement is a bit. A symphony is t
 
 > DIR: OVERLAY series count, 15 blocks.
 
-The Wikipedia ladder says the same thing in prose: joke, punch line, callback, each building on the last. Music first, because music never argues about this. Then back to comedy, where people do.
+The Wikipedia ladder says the same thing in prose — joke into punch line into callback. Music first, because music never argues about this. Then back to comedy, where people do.
 
 ## [4:30] PERSONA
 
-Three comics, three opposite economies, same six moves. Louis buries the premise inside story so you never notice signing — then excavates it later, tags digging darker each pass. Norm does the opposite: premise so thin it barely exists, a moth story that climbs for minutes toward a punch that refuses to punch — and the refusal IS the punch. Then density: Vine, Carr, one-liners back to back, premise implied per line, buttons every fifteen seconds, no tags needed because each atom completes. Same functions. Different universes. The moves are not styles. Styles are how different hands play the same moves.
+Three comics in three opposite economies — one shared set of moves underneath. Louis buries the premise inside story so you never notice signing — then excavates it later, tags digging darker each pass. Norm does the opposite: premise so thin it barely exists, a moth story that climbs for minutes toward a punch that refuses to punch — and the refusal IS the punch. Then density, from Vine and Carr: one-liners back to back with premise implied per line and buttons every fifteen seconds, no tags needed because each atom completes. Same functions. Different universes. The functions stay constant; only the hands change. Styles are how different hands play the same moves.
 
 > DIR: No clips in this beat — narrator only, tease only.
 
@@ -50,11 +50,11 @@ Play it in pieces, never over the punch.
 
 > DIR: CLIP QAYgeBuru34 region or Hilarious/Beacon pull, excerpt 1 of 4 ≤15s — stop narration, play, pause, resume.
 
-Two sentences do three jobs at once. World: Monopoly with his daughters — board, pieces, Christmas. Everyone has been there. Priority: the six-year-old's eyes are foreground, Louis-the-father is background — and that assignment is the engine, because everything cruel after is measured against a child. Weight: "to handle her" — two little surprises inside the premise itself, each with its own pause, so the room laughs before anything has happened. Anticipation laughs. The audience imagining how dark this gets, which means the setup did the punchline's scouting.
+Two sentences do three jobs at once. World: Monopoly with his daughters — board and pieces and Christmas. Everyone has been there. Priority: the six-year-old's eyes are foreground, Louis-the-father is background — and that assignment is the engine, because everything cruel after is measured against a child. Weight: "to handle her" — two little surprises inside the premise itself, each with its own pause, so the room laughs before anything has happened. Anticipation laughs. The audience imagining how dark this gets, which means the setup did the punchline's scouting.
 
 > DIR: CLIP excerpt 2 of 4 ≤15s — Candyland counterpoint ("fudgy thing," "gummy twirly-o's"), pause, resume.
 
-Then Candyland — visual, innocent, "fudgy thing" and "gummy twirly-o's," words chosen for mouth feel as much as meaning. 207 words. Not one wasted. Count them if you don't believe me.
+Then Candyland — visual, innocent: "fudgy thing" and "gummy twirly-o's." Words chosen for mouth feel as much as meaning. 207 words, every one earning its place. Count them if you don't believe me.
 
 > DIR: OVERLAY 207-word count card (transcript-verified).
 
@@ -68,7 +68,7 @@ Then the turn: "gotta give it all to me." [break]
 
 > DIR: OVERLAY punch-to-setup 1:34 — 6 words withdraw 201 deposited. PAUSE 1s after the turn line.
 
-New comics invert this — all punch, no platform — and wonder why rooms stay cold. Every platform word is a deposit. The punch withdraws them all at once. That is not inefficiency. That is leverage.
+New comics invert this — all punch, no platform — and wonder why rooms stay cold. Every platform word is a deposit. The punch withdraws them all at once. That's leverage.
 
 ## [10:00] SECOND SPECIMEN
 
@@ -92,11 +92,11 @@ Premise one shared assumption. Blue-red switches almost touching. Buttons every 
 
 ## [11:30] FAILURE MODE
 
-Three deaths, shown not lectured. Tags standalone — orphaned echoes dying without their punch's world.
+Three deaths, all shown. Tags standalone — orphaned echoes dying without their punch's world.
 
 > DIR: CLIP failure case 1 ≤15s. OVERLAY track-bar flat (no laugh ticks).
 
-Stories with no laugh points — travelogues, funny to the teller, flat to the room.
+Stories with no laugh points — travelogues: funny to the teller, flat to the room.
 
 > DIR: CLIP failure case 2 ≤15s. OVERLAY track-bar flat.
 
@@ -108,7 +108,7 @@ Name the unit wrong, misdiagnose every failure. The laugh-meter flatlines on scr
 
 ## [12:45] UNIVERSAL
 
-Every shared world works this way, not just jokes. Conversations: foreground agreed before anything funny can happen. Relationships: years of accrued platform, so a single look can punch. Cultures: inherited priority orderings, invisible until violated. Comedy just makes the machinery audible. You have never understood anyone without first agreeing, silently, on what is "this." A joke is that agreement, renewed nightly, in rooms full of strangers who leave as temporary citizens of a world that did not exist an hour before.
+Every shared world works this way. Conversations: foreground agreed before anything funny can happen. Relationships: years of accrued platform, so a single look can punch. Cultures: inherited priority orderings, invisible until violated. Comedy just makes the machinery audible. Every understanding starts the same way: agreeing, silently, on what is "this." A joke is that agreement, renewed nightly, in rooms full of strangers who leave as temporary citizens of a world built an hour ago.
 
 > DIR: No clips — breathe. Music bed low under narration.
 

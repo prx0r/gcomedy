@@ -22,13 +22,13 @@ If it holds, read it twice: [emphasis] ALWAYS work would be the strongest causal
 
 ## [1:30] THESIS + VOCABULARY
 
-A premise does three things: it declares a world (situation and inhabitants and norms), it assigns priority (this is foreground, that's background), and it recruits the audience as co-builders (you supply your Monopoly Christmases; the comic supplied eight words). New term, one only: shared world — the priority ordering performer and room agree to run. No shared world, no jokes. Not bad jokes. No jokes.
+A premise does three things: it declares a world (situation and inhabitants and norms), it assigns priority (this is foreground, that's background), and it recruits the audience as co-builders (you supply your Monopoly Christmases; the comic supplied eight words). New term, one only: shared world — the priority ordering performer and room agree to run. No shared world, no jokes.
 
 > DIR: OVERLAY glossary cards (premise, shared world); persist in description.
 
 ## [2:30] LENS
 
-Autumn Leaves, eight bars: key, scale, weather — declared, not argued. Nobody votes on whether we're in E minor. The head plays, the room accepts, and everything after (every solo, every reharmonization, every avant-garde departure) is measured against those eight bars. A jazz premise is never defended. It's stated, inhabited, departed from, returned to. Comedy premises work identically: stated ("my daughters play Monopoly"), inhabited (the whole bit lives there), departed from (the punch leaves it), returned to (the tag comes home). The head is the premise. The solo is the set. The return is the button.
+Autumn Leaves, eight bars. The head plays, and the room accepts the key and the scale and the weather. Nobody votes on whether we're in E minor. The head plays and the room accepts, and everything after is measured against those eight bars. A jazz premise is never defended. It's stated, inhabited, departed from, returned to. Comedy premises work identically: stated ("my daughters play Monopoly"), inhabited (the whole bit lives there), departed from (the punch leaves it), returned to (the tag comes home). The head is the premise. The solo is the set. The return is the button.
 
 > DIR: OVERLAY chord labels verified vs cleared recording; Autumn Leaves cleared recording ≤15s if used.
 
@@ -44,7 +44,7 @@ Premise installation, frame by frame.
 
 > DIR: CLIP Monopoly-premise-install <window> — stop narration, play ≤15s excerpts, pause-analyze-resume.
 
-On screen: the three jobs lighting up as they happen (world declared, priority assigned, audience co-building visible in the first anticipatory laugh — before any punch exists). The anticipatory laugh is the signature: the room laughing at a world, not a joke. It proves the platform holds weight before anything breaks it. Count the premise words.
+On screen: the three jobs lighting up as they happen (world declared, priority assigned, audience co-building visible in the first anticipatory laugh — before any punch exists). The anticipatory laugh is the signature: the room laughing at the world itself. It proves the platform holds weight before anything breaks it. Count the premise words.
 
 > DIR: OVERLAY premise word count card (short enough to hold in one breath).
 
@@ -52,7 +52,7 @@ Everything after is interest on that principal.
 
 ## [9:00] THE NINETY SECONDS
 
-Slow the Acaster red-dress story to quarter speed and watch premise-installation happen in real time. Second 0–15 (T-shirt, bush, Basingstoke): world declared — panel-show anecdote, everyone relaxed. Second 15–30 (wait — dress? cold? bag?): priority wobbles — the room's foreground assignment starts slipping. Second 30–45 ("bollocks!"): the room REJECTS the world. Not the joke — the world. They don't believe it, so they won't enter it, so nothing after can function. Second 45–60 (Acaster annoyed, "but that's TRUE"): the negotiation — comic insisting on a world the room refused. This sixty seconds contains the entire premise function succeeding then failing in miniature: install, wobble, rejection, negotiation. And the lesson Acaster took ("they don't care if it's true — they care whether they buy in") is the most expensive tuition in this series: truth is irrelevant to world-entry. Only shared priority matters. A false world unanimously entered beats a true world half-entered, every night, forever. Improv's version of the same rule: don't ask if it's true, ask if the room accepts the offer. Same machine, different century.
+Slow the Acaster red-dress story to quarter speed and watch premise-installation happen in real time. Second 0–15: world declared — a T-shirt glimpsed and a bush and Basingstoke named. Second 15–30 (wait — dress? cold? bag?): priority wobbles — the room's foreground assignment starts slipping. Second 30–45 ("bollocks!"): the room REJECTS the world outright. They don't buy it, so they won't enter it, and nothing after can function. Second 45–60 (Acaster annoyed, "but that's TRUE"): the negotiation — comic insisting on a world the room refused. This sixty seconds contains the entire premise function succeeding then failing in miniature: install, wobble, rejection, negotiation. And the lesson Acaster took ("they don't care if it's true — they care whether they buy in") is the most expensive tuition in this series: truth is irrelevant to world-entry. Only shared priority matters. A false world unanimously entered beats a true world half-entered, every night, forever. Improv's version of the same rule: don't ask if it's true, ask if the room accepts the offer. Same machine, different century.
 
 > DIR: OVERLAY the offer — improv's version of the same rule.
 
@@ -62,7 +62,7 @@ Acaster's Repertoire: premises "clearly made up" (undercover cop, jury duty, wit
 
 > DIR: CLIP Acaster Repertoire <window> — stop narration, play ≤15s excerpts, resume.
 
-Different handling that proves the rule: the shared world doesn't need to be TRUE, it needs to be SHARED. Belief is irrelevant; co-signing is everything. Fiction the room agrees to works better than fact the room doubts. (Red dress Basingstoke: true story the room rejected, versus cop-show fiction the room bought — same comic, same room, opposite outcomes, premise-clarity as the only variable.)
+Different handling that proves the rule: the shared world needs to be SHARED — truth optional. Belief is irrelevant; co-signing is everything. Fiction the room agrees to works better than fact the room doubts. (Red dress Basingstoke: true story the room rejected, versus cop-show fiction the room bought. Same comic. Same room. Opposite outcomes. Premise-clarity as the only variable.)
 
 ## [10:45] SAME PREMISE, DIFFERENT WORLDS
 
@@ -72,7 +72,7 @@ Give two comics the identical premise and watch them build incompatible worlds.
 
 > DIR: CLIP B airports-playground <window> — stop narration, play ≤15s, resume.
 
-Same situation — opposite priority assignments, opposite weight, opposite rooms recruited. Neither is wrong — that's the point. The premise was never the situation. The premise was always the comic's ATTITUDE toward the situation, installed as shared priority. Airports-as-purgatory and airports-as-playground share zero jokes and zero laughs, from identical raw material. Which means the world-building step — the first ninety seconds — contains the entire set in miniature. Change the attitude, keep the topic, and every downstream joke changes. Students ask for premises, but they should ask for attitudes. The topic is lumber. The attitude is the house.
+Same situation, opposite world in every seat that matters. Neither is wrong — that's the point. The premise was never the situation. The premise was always the comic's ATTITUDE toward the situation, installed as shared priority. Airports-as-purgatory and airports-as-playground share zero jokes and zero laughs, from identical raw material. Which means the world-building step — the first ninety seconds — contains the entire set in miniature. Change the attitude and keep the topic — every downstream joke changes. Students ask for premises, but they should ask for attitudes. The topic is lumber. The attitude is the house.
 
 ## [11:30] FAILURE MODE
 
@@ -90,7 +90,7 @@ Every shared world works this way. Conversations: foreground agreed before humor
 
 ## [13:30] CLOSE + HOOK
 
-A premise is a world the audience agrees to enter — and everything funny afterward happens inside the world they co-signed. Declare it, assign it, recruit the room. But a world is only good to stand in. Next week: how to build the platform inside it — setup.
+A premise is a world the audience agrees to enter — and everything funny afterward happens inside the world they co-signed. Declare the world and assign it and recruit the room. But a world is only good to stand in. Next week: how to build the platform inside it — setup.
 
 > DIR: OVERLAY series map, setup highlighted. Fade to black (level-5 silence).
 

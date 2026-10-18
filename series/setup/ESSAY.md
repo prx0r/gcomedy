@@ -17,8 +17,7 @@ nobody applauds: the setup.
 Gervais on HBO's Talking Funny, said the quiet part out loud: "A lot of
 comedians have great jokes, and they don't — why isn't this working? It's
 not working because the audience does not understand the premise." Let
-that sit. The punchline can be perfect and it won't save you, because the
-room is still back at the beginning trying to figure out where they are.
+that sit. The punchline can be perfect — and still starve. The room is still back at the beginning trying to figure out where they are.
 Rock's fix: repeat the premise mid-chunk — remind the room what world they're in. He treats the
 setup like a campfire. It goes out if you stop feeding it.
 
@@ -62,17 +61,17 @@ function. Same job, different hands.
 
 **[6:00] CASE STUDY (Louis, Monopoly, 207 words).** Play it in ≤15s excerpts, pause-analyze-resume. [CLIP ×4] Now
 watch the first two sentences do all three jobs at once. World: Monopoly
-with his daughters — board, pieces, Christmas, everyone's been there.
+with his daughters — board and pieces and Christmas. Everyone's been there.
 Priority: the six-year-old's perspective is foreground, Louis-the-father
 is background — and that assignment is the engine: everything cruel
 after is measured against a child. Weight:
 "to handle her" — two little surprises inside the premise itself, each
 with its own pause, so the room is already laughing before anything has
-happened. Those are laughs in anticipation of a punchline not yet said —
+happened. Those are laughs in anticipation of the punchline still to come —
 the audience is imagining how dark this is going to get, which means the
 setup has already done the punchline's scouting. Then Candyland as
 counterpoint — visual, innocent, the perfect foil — and the tags land like
-they were inevitable. 207 words. Not one wasted. Count them if you don't
+they were inevitable. 207 words, every one earning its place. Count them if you don't
 believe me.
 
 **[9:00] INSIDE THE 207 (case-study coda).** Slow the Monopoly bit to half speed and walk
@@ -90,11 +89,10 @@ turn: "gotta give it all to me" — six words after two hundred of platform.
 [GOLD CARD: punch-to-setup 1:34 — 6 words withdraw 201 deposited] New comics
 invert this (all punch, no platform) and wonder why rooms stay cold. The
 math: every platform word is a deposit; the punch withdraws them all at
-once. Louis deposits 201 words to spend 6. That's not inefficiency. That's
-leverage.
+once. Louis deposits 201 words to spend 6. That's leverage.
 
 **[10:00] SECOND SPECIMEN.** Kill Tony, pick a roaring set with a clean
-arc — thirty seconds of platform, not six minutes. [CLIP] Same three jobs,
+arc — thirty seconds of platform against Louis's six minutes. [CLIP] Same three jobs,
 different economy. World in two lines, priority by the second, weight
 so fast the punch comes early or the room overloads. Fast platforms work because the room already knows the genre —
 open-mic crowds walk in holding half the premise, so the comic starts at item two of three. The test is never how
@@ -117,28 +115,24 @@ room — the comic just turned on the lights.
 
 **[11:30] FAILURE MODE.** What happens when the setup never lands. [CLIP ×2,
 low-outcome KT set, muddled beats.] The punch arrives on schedule and dies
-— not because it's a bad punch, but because there's no platform under it.
+— because there's no platform under it.
 The room is still asking "wait, where are we" while the comic is already
 at the payoff. Second failure: the abandoned platform — beautiful setup,
 joke goes somewhere unrelated. Priority betrayal. The room lent you its
 attention on false pretenses and it knows. Rock's rule in the negative:
 no platform, no punch. No exceptions.
 
-**[12:45] UNIVERSAL.** Every shared world works this way, not just jokes.
+**[12:45] UNIVERSAL.** Every shared world works this way.
 Dinner parties: you agree what's foreground before anyone relaxes.
 Bands: years of accrued platform, so a single look can start the song.
 Families: entire priority orderings, inherited, invisible until
-someone violates them. Comedy just makes the machinery audible. You have
-never understood anyone without first agreeing, silently, on what is
+someone violates them. Comedy just makes the machinery audible. Every understanding starts the same way: agreeing, silently, on what is
 'this.' The setup is that agreement, renewed nightly, in rooms full of
 strangers who leave as temporary citizens of a world that didn't exist an
 hour ago.
 
-**[13:30] CLOSE + HOOK.** The setup is the joke's world, built live, half
-by the comic, half by you — and you never noticed doing your half. That's
-not a trick. That's the job. But a platform is only good for standing on.
-Next week: what you do once you're up there — how to climb without falling
-off. Escalation. How to get bigger without getting stupider.
+**[13:30] CLOSE + HOOK.** The setup is the joke's world. Half the comic's doing, half yours. That's the job. But a platform is only good for standing on.
+Next week: what you do once you're up there — how to keep climbing. Escalation. How to get bigger and stay sharp.
 
 ---
 

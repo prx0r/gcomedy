@@ -38,32 +38,30 @@ Laughter is the response. This series is about the text in between.
 movement is a bit. A symphony is the hour. Beethoven's Fifth says everything
 with four notes — same compositional logic, different century. [GOLD CARD:
 series count 15 blocks, on screen] The Wikipedia ladder says the same thing
-in prose: joke, punch line, callback, each building on the last. Music first,
+in prose — joke into punch line into callback. Music first,
 because music never argues about this. Then back to comedy, where people do.
 
-**[4:30] PERSONA.** Three comics, three opposite economies, same six moves.
+**[4:30] PERSONA.** Three comics in three opposite economies — one shared set of moves underneath.
 Louis buries the premise inside story so you never notice signing — then
 excavates it later, tags digging darker each pass. Norm does the opposite:
 premise so thin it barely exists, a moth story that climbs for minutes toward
-a punch that refuses to punch — and the refusal IS the punch. Then density:
-Vine, Carr, one-liners back to back, premise implied per line, buttons every
-fifteen seconds, no tags needed because each atom completes. Same functions.
-Different universes. The moves are not
-styles. Styles are how different hands play the same moves.
+a punch that refuses to punch — and the refusal IS the punch. Then density,
+from Vine and Carr: one-liners back to back with premise implied per line and
+buttons every fifteen seconds, no tags needed because each atom completes. Same functions.
+Different universes. The functions stay constant; only the hands change. Styles are how different hands play the same moves.
 
 **[6:00] CASE STUDY (Louis, Monopoly, 207 words).** Play it in pieces, never
 over the punch. [CLIP ×4, each ≤15s: QAYgeBuru34 region or Hilarious/Beacon
 pull, pause-analyze-resume] Two sentences do three jobs at once. World:
-Monopoly with his daughters — board, pieces, Christmas. Everyone has been
+Monopoly with his daughters — board and pieces and Christmas. Everyone has been
 there. Priority: the six-year-old's eyes are foreground, Louis-the-father is
 background — and that assignment is the engine, because everything cruel
 after is measured against a child. Weight: "to handle her" — two little
 surprises inside the premise itself, each with its own pause, so the room
 laughs before anything has happened. Anticipation laughs. The audience
 imagining how dark this gets, which means the setup did the punchline's
-scouting. Then Candyland — visual, innocent, "fudgy thing" and "gummy
-twirly-o's," words chosen for mouth feel as much as meaning. 207 words. Not
-one wasted. [GOLD CARD: 207 words, transcript-verified] Count them if you
+scouting. Then Candyland — visual, innocent: "fudgy thing" and "gummy
+twirly-o's." Words chosen for mouth feel as much as meaning. 207 words, every one earning its place. [GOLD CARD: 207 words, transcript-verified] Count them if you
 don't believe me.
 
 **[9:00] INSIDE THE 207 (case coda).** Slow those sentences to half speed.
@@ -73,8 +71,7 @@ nothing but platform. [GOLD CARD: 3 anticipatory laughs, timestamps at
 TIMING EXTRACTION] Then the turn: "gotta give it all to me." [GOLD CARD:
 1:34 — 6 words withdraw 201 deposited] New comics invert this — all punch,
 no platform — and wonder why rooms stay cold. Every platform word is a
-deposit. The punch withdraws them all at once. That is not inefficiency.
-That is leverage.
+deposit. The punch withdraws them all at once. That's leverage.
 
 **[10:00] SECOND SPECIMEN (Norm, moth, jJN9mBRX3uo).** Same atom, stretched.
 Long narrative setup, room leaning, then the punch that refuses to punch —
@@ -89,7 +86,7 @@ almost touching. Buttons every fifteen seconds. No tags — each fifteen-second
 atom completes and the next begins. Same six moves. You
 have now watched them three times over in three different universes.
 
-**[11:30] FAILURE MODE.** Three deaths, shown not lectured. Tags standalone —
+**[11:30] FAILURE MODE.** Three deaths, all shown. Tags standalone —
 orphaned echoes dying without their punch's world. [CLIP] Stories with no
 laugh points — travelogues, funny to the teller, flat to the room. [CLIP]
 Premises mistaken for jokes — worlds declared and never broken. [CLIP] Name
@@ -100,10 +97,8 @@ screen for all three. Same flat line, three different misnamings.
 Conversations: foreground agreed before anything funny can happen.
 Relationships: years of accrued platform, so a single look can punch.
 Cultures: inherited priority orderings, invisible until violated. Comedy just
-makes the machinery audible. You have never understood anyone without first
-agreeing, silently, on what is "this." A joke is that agreement, renewed
-nightly, in rooms full of strangers who leave as temporary citizens of a
-world that did not exist an hour before.
+makes the machinery audible. Every understanding starts the same way: agreeing, silently, on what is "this." A joke is that agreement, renewed
+nightly, in rooms full of strangers who leave as temporary citizens of a world built an hour ago.
 
 **[13:30] CLOSE + HOOK.** A joke is the atomic unit — one setup, one punch,
 one laugh point. Learn the blocks once; every video from here only points.

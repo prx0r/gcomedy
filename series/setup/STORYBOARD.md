@@ -27,7 +27,7 @@
 |---|---|---|---|---|---|
 | S08 | 11:30–12:45 | Split: platform vs no-platform meters (hard cuts; dissolves never for jokes) | "The punch arrives on schedule and dies […] no shared world, no laugh, no exceptions." | track-bar compare, laugh-onset ticks only (applause≠laugh); KT timings pending stage-3 | 75s |
 | S09 | 12:45–13:30 | Conversations/relationships montage | "You have never understood anyone without first agreeing, silently, on what is 'this.'" | none (breathe) | 45s |
-| S10 | 13:30–14:00 | Thesis restated (white card) + series map + escalation hook | "The setup is the joke's world, built live, half by the comic, half by you. […] How to get bigger without getting stupider." | series map graphic | 30s |
+| S10 | 13:30–14:00 | Thesis restated (white card) + series map + escalation hook | "Half the comic's doing, half yours." + "How to keep climbing. How to get bigger and stay sharp." | series map graphic | 30s |
 
 ## Totals
 840s = 14 min. Render order: S06 anchor, then S07/S02, then titles/cards.

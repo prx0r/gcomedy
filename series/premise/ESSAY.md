@@ -32,8 +32,7 @@ No jokes.
 
 **[2:30] LENS (music first).** Autumn Leaves, eight bars. Key, scale,
 weather — declared, not argued. Nobody votes on whether we're in E minor.
-The head plays, the room accepts, and everything after (every solo, every
-reharmonization, every avant-garde departure) is measured against those
+The head plays and the room accepts, and everything after is measured against those
 eight bars. A jazz premise is never defended. It's stated, inhabited,
 departed from, returned to. Comedy premises work identically: stated
 ("my daughters play Monopoly"), inhabited (the whole bit lives there),
@@ -53,15 +52,14 @@ Monopoly daughters premise-setting, ≤15s excerpts, pause-analyze-resume]
 On screen: the three jobs lighting up as they happen (world declared,
 priority assigned, audience co-building visible in the first anticipatory
 laugh — before any punch exists; timestamps at TIMING EXTRACTION). The anticipatory laugh is the
-signature: the room laughing at a world, not a joke. It proves the
+signature: the room laughing at the world itself. It proves the
 platform holds weight before anything breaks it. Count the premise words.
 [GOLD CARD: premise word count — short enough to hold in one breath]
 Everything after is interest on that principal.
 
 **[9:00] THE NINETY SECONDS (case coda).** Slow the Acaster red-dress story to
 quarter speed and watch premise-installation happen in real time. Second
-0–15 (T-shirt, bush, Basingstoke): world declared — panel-show anecdote,
-everyone relaxed. Second 15–30 (wait — dress? cold? bag?): priority
+0–15: world declared — a T-shirt glimpsed and a bush and Basingstoke named. Second 15–30 (wait — dress? cold? bag?): priority
 wobbles — the room's foreground assignment starts slipping. Second 30–45
 ("bollocks!"): the room REJECTS the world. Not the joke — the world. They
 don't believe it, so they won't enter it, so nothing after can function.
@@ -81,27 +79,24 @@ offer — improv's version of the same rule]
 **[10:00] SECOND SPECIMEN.** Acaster's Repertoire: premises "clearly made
 up" (undercover cop, jury duty, witness protection) — the audience knows
 the world is false and enters anyway. [CLIP: ≤15s excerpts] Different
-handling that proves the rule: the shared world doesn't need to be TRUE,
-it needs to be SHARED. Belief is irrelevant; co-signing is everything.
+handling that proves the rule: the shared world needs to be SHARED — truth optional. Belief is irrelevant; co-signing is everything.
 Fiction the room agrees to works better than fact the room doubts. (Red
 dress Basingstoke: true story the room rejected, versus cop-show fiction
-the room bought — same comic, same room, opposite outcomes,
-premise-clarity as the only variable. Red-dress case details pending
+the room bought. Same comic. Same room. Opposite outcomes. Premise-clarity as the only variable. Red-dress case details pending
 pull verification.)
 
 
 **[10:45] SAME PREMISE, DIFFERENT WORLDS (specimen coda).** Give two comics the identical
 premise and watch them build incompatible worlds. [CLIP A: comic does
 airports as purgatory — weary, existential] [CLIP B: comic does airports
-as playground — delighted, chaotic] Same situation. Opposite priority
-assignments, opposite weight, opposite rooms recruited. Neither is wrong —
+as playground — delighted, chaotic] Same situation, opposite world in every seat that matters. Neither is wrong —
 that's the point. The premise was never the situation. The premise was
 always the comic's ATTITUDE toward the situation, installed as shared
 priority. Airports-as-purgatory and airports-as-playground share zero
 jokes and zero laughs, from identical raw material. Which means the
 world-building step — the first ninety seconds — contains the entire set
-in miniature. Change the attitude, keep the topic, and every downstream
-joke changes. Students ask for premises. They should ask for attitudes.
+in miniature. Change the attitude and keep the topic — every downstream
+joke changes. Students ask for premises, but they should ask for attitudes.
 The topic is lumber. The attitude is the house.
 
 
@@ -122,7 +117,7 @@ front of witnesses, from eight words and a microphone.
 
 **[13:30] CLOSE + HOOK.** A premise is a world the audience agrees to enter
 — and everything funny afterward happens inside the world they co-signed.
-Declare it, assign it, recruit the room. Series hook for
+Declare the world and assign it and recruit the room. Series hook for
 the Setup episode: "But a world is only good to stand in. Next week: how
 to build the platform inside it — setup."
 
