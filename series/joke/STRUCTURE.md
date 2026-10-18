@@ -19,18 +19,21 @@
 ## Beats (~13 min)
 
 **1. COLD OPEN (0:00–0:45).** Black. "What is a joke?" [2s] "Your life."
-Then: five iconic jokes back to back, 8 seconds each, no commentary —
-Hedberg one-liner, Louis story-punch, Normand snap, Lock absurdity, Pryor
-confession. Five laughs in forty seconds. Then freeze: "Every one of
-those is made of the same parts. This series takes them apart."
+Then ONE iconic joke, whole, 15 seconds — Hedberg one-liner. Laugh. Freeze.
 
-**2. DECOMPOSITION (0:45–3:00).** Take the Hedberg line back. On screen it
-SNAPS into blocks: setup block (blue) + punch block (red). Play it again
-with the blocks separating as they're spoken — setup assembles, punch
-detonates. Then a Louis bit: same blocks, more of them, stacked on a
-premise plate. Then tags snapping on like Lego studs. The geometry is
-literal: blocks with studs, snapping together on screen. A joke is two
-blocks. A bit is a plate of jokes. A chunk is plates stacked. A set is
+**2. DECOMPOSE (0:45–2:30).** The same joke again — but now subtitles run
+underneath in two colors: setup in BLUE, punch in RED, switching exactly
+where the turn happens. Then the film says it once: "A joke is made up of
+a setup [blue flash] and a punchline [red flash + punch SFX]." That color
+grammar is now law — every clip in every video in this series runs blue
+setup / red punch subtitles. No exceptions.
+
+**3. TWO CLEAR EXAMPLES (2:30–5:00).** Same treatment, twice more: one
+story joke (Louis — blue holds long, red snaps), one fast one-liner (Vine
+or Carr — blue/red almost touching). Three jokes total, three color
+switches, the pattern unmissable by the third. Then the Lego beat: blocks
+snap apart on screen — blue setup block, red punch block. Tags snap on
+like studs. A bit is a plate of jokes. A chunk is stacked plates. A set is
 the whole build.
 
 **3. THESIS + VOCAB (3:00–4:00).** "Jokes compose. Every unit in comedy is
