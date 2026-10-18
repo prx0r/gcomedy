@@ -1,0 +1,1919 @@
+{
+ "escalate": [
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "three.*things",
+   "excerpt": "I think we should see other people.\u201d And without missing a beat, without missing one second, she goes, \u201cYou\u2019re getting fat, you\u2019re going bald, and your dick is whatever.\u201d [laughter] [shouts] Yeah! Those are the three things I care about in my life. [laughter] Going bald, getting fat, and my dick being whatever?"
+  },
+  {
+   "comedian": "andrew-santino-kaggle-corpus",
+   "pattern": "heighten",
+   "excerpt": "Edging is where you get close to ejaculation, then stop, you get close and stop, you get close and stop, and do this over and over and over again. Supposed to heighten pleasure sensors in your mind, your body, and your spirit, so you and your partner have this perfect orgasm. But when I read it, you know, I\u2019m not a smart man."
+  },
+  {
+   "comedian": "bill-burr-live-at-red-rocks",
+   "pattern": "heighten",
+   "excerpt": "Yeah. Any time a woman even has heightened emotion, there\u2019s some guy like, \u201cGet ahold of yourself!\u201d \u201cYeah, go make me a pie. Put it on the windowsill.\u201d Right?"
+  },
+  {
+   "comedian": "bill-burr-live-at-red-rocks",
+   "pattern": "escalat",
+   "excerpt": "Moves up a little bit. You\u2019re walking down the street, you actually bump into somebody, you actually have to turn around, \u201cSorry, I didn\u2019t see you.\u201d A little dojo bow, \u201cMy bad.\u201d Whatever you have to do\u2026 \u201cMy sensei\u201d\u2026 to keep it from escalating. And then there\u2019s the last one."
+  },
+  {
+   "comedian": "bill-burr-paper-tiger",
+   "pattern": "list.*joke",
+   "excerpt": "Thank you for coming out. Very prestigious\u2026 arena to listen to my d!ck and sh!t jokes over the next\u2026 [chuckles] \u202690 minutes. No, I\u2019m excited to be here."
+  },
+  {
+   "comedian": "bill-burr-paper-tiger",
+   "pattern": "build.*laugh",
+   "excerpt": "But even a homeless guy, you know, after, like, I don\u2019t know, a couple of years, he\u2019ll be able to drag some old, one-legged, f*cked-out robot model out of the trash, drag it back to its lair. That thing will still be building him up, you know, just laying there, like, \u201cI don\u2019t think you smell that bad.\u201d [robotic laughing] \u201cThis is my favorite bridge.\u201d [robotic laughing] Yeah. And we\u2019re all gonna f"
+  },
+  {
+   "comedian": "dave-chappelle-snl-monologue-2020",
+   "pattern": "three.*things",
+   "excerpt": "And when the northerners came down, they started educating some of the newly freed black children, and he learned how to read. Got enamored with education and dedicated his life to three things: Education, freedom of black people, Jesus Christ. Became a juggernaut in the AME Church."
+  },
+  {
+   "comedian": "dave-chappelle-whats-in-a-name",
+   "pattern": "list.*joke",
+   "excerpt": "And I would go there, and, uh\u2026 and everyone in the barbershop would just snap on each other. And I\u2019d sit in the corner, and I\u2013 and I\u2019d watch everybody, and just listen to all these jokes. The guys were funny as shit, but\u2013 but one day, after a few weeks of goin\u2019 there and gettin\u2019 my hair cut, they\u2013 they\u2013 they turned the jokes on me."
+  },
+  {
+   "comedian": "dave-chappelle-whats-in-a-name",
+   "pattern": "list.*joke",
+   "excerpt": "I call that day The Barbershop Massacre. I lit everybody in that barbershop up, I had been sittin\u2019 in there listening to \u2019em for weeks talk about each other, I knew every inside joke about each and every one of \u2019em, and they couldn\u2019t believe I knew this stuff. I lit their asses up."
+  },
+  {
+   "comedian": "eddie-izzard-dress-to-kill",
+   "pattern": "build.*laugh",
+   "excerpt": "Hope you enjoyed it. (Cheering) (Whistling) (Cheering continues) (Clapping dies out) (Cheering and clapping) (Clapping fades in and out) (Clapping) (Applause slowly builds) (Brief silence, then laughter) (Applause slowly builds) (Brief burst, then laughter) (Clapping in sync with Eddie) (Laughter) What? (Applause) Now, I just want to talk quickly about language, then we can all go."
+  },
+  {
+   "comedian": "eddie-izzard-stripped",
+   "pattern": "three.*things",
+   "excerpt": "\u201dHere is the news in Egypt: \u201dMan with a hat, man with a hat, dog, dog with a gun, \u201dwaIking, pig, pig, pig, coming, man, \u201dduck with a gun, man, there\u2019s an eyeball waIking aIong, \u201dchicken with a banjo, dog, really powerfuI dog, comes aIong, \u201dand the cat got him in an arm Iock. Three things, big eye, big eye, fish, cat. \u201dIt seems the orgy in the zoo continues into its seventh year."
+  },
+  {
+   "comedian": "eddie-murphy-delirious",
+   "pattern": "three.*things",
+   "excerpt": "Accurate! You\u2019d be in a supermarket and shit and be grabbing cereals off the counter going: \u201cMom, can we get this?\u201d \u201d I guess not!\u201d And could be doing three different things, be on the phone with my grandmother, be cooking with this hand have the phone like this and be sayin\u2019 \u201cYeah, mama, hold on a second.\u201d Fuck you up and God forbid, my mother be dressed up and had them high heels on. Them pumps,"
+  },
+  {
+   "comedian": "george-carlin-doin-it-again",
+   "pattern": "three.*things",
+   "excerpt": "Save my ass. There\u2019s three things I want if I\u2019m ever in that condition, three things I got to have, ice cream, morphine and television. You give me that ice cream every two hours, give me that morphine about\u2026 every ten minutes, and turn on the fucking TV."
+  },
+  {
+   "comedian": "george-carlin-dumb-americans",
+   "pattern": "three.*things",
+   "excerpt": "They USE it on you. Politicians have traditionally hidden behind three things, the flag, the Bible and children. \u201cNo child left behind."
+  },
+  {
+   "comedian": "george-carlin-life-worth-losing",
+   "pattern": "three.*things",
+   "excerpt": "They USE it on you. Politicians have traditionally hidden behind three things, the flag, the Bible and children. \u201cNo child left behind."
+  },
+  {
+   "comedian": "george-carlin-life-worth-losing",
+   "pattern": "heighten",
+   "excerpt": "Autoerotic asphyxia. It\u2019s the practice of cutting off the oxygen to the brain at the last moment during masturbation in order to heighten the orgasm. And when I say common, a thousand kids a year die this way, okay?"
+  },
+  {
+   "comedian": "george-carlin-playing-head-1986",
+   "pattern": "three.*things",
+   "excerpt": "And some women have more than one. Some women have two or three of those things in there. God, I could never have handled that."
+  },
+  {
+   "comedian": "john-mulaney-baby-j",
+   "pattern": "build.*laugh",
+   "excerpt": "So I gave him the street address of the rehab as if it was my home. [chuckles] And then in the special instructions I wrote, \u201cDon\u2019t stop at the big building.\u201d [laughter] \u201cDrive up the hill to the brick dorm and you\u2019ll see a 38-year-old man outside in a robe who\u2019s so excited.\u201d [laughter] So the food arrives, but it gets confiscated by the RS on duty. He calls me into his office and he goes, [angril"
+  },
+  {
+   "comedian": "john-mulaney-baby-j",
+   "pattern": "build.*laugh",
+   "excerpt": "Beginning with a line in their introduction, which says, \u201cGQ hopped on the phone with the comedian, for a wide ranging conversation.\u201d [laughter] First question. \u201cGQ: What are you up to today?\u201d \u201cMulaney: I walked past what is supposedly the most haunted building in New York City.\u201d [laughter] \u201cGQ: Oh!\u201d [laughter] \u201cWhere is that?\u201d \u201cMulaney: It\u2019s a vacuum cleaner store, and it\u2019s on 14th between 5th an"
+  },
+  {
+   "comedian": "john-mulaney-comeback-kid",
+   "pattern": "three.*things",
+   "excerpt": "I\u2019m in my 30s now. If you came to me now and you were like, \u201cHey, John, name three things that the Stamp Act of 1775 accomplished.\u201d I\u2019d go, \u201cI don\u2019t know. Get out of my apartment,\u201d you know?"
+  },
+  {
+   "comedian": "john-mulaney-new-town",
+   "pattern": "build.*laugh",
+   "excerpt": "Midgets were never enslaved, [widens eyes and uses a dramatic tone] unless you count the Wonka factory! [audience laughs] So we get into this argument, we\u2019re going back and forth, he goes [points and speaks sternly] \u201cYou can\u2019t put that word on TV,\u201d [turns to face other side and points while whining] and I said, \u201cI want to,\u201d and he said [outstretches pointing arm and moves it for emphasis] \u201cIf you "
+  },
+  {
+   "comedian": "kevin-hart-irresponsible",
+   "pattern": "escalat",
+   "excerpt": "Daughter\u2019s 13, my son is ten now. Older they get, the more the arguments escalate. I caught my kids cursing at each other the other day."
+  },
+  {
+   "comedian": "louis-c-k-2017",
+   "pattern": "build.*laugh",
+   "excerpt": "You need to make them know it against their will. \u201cWhile they\u2019re exploding sexually and beating the shit out of each other.\u201d [audience laughing] \u201cWho are these children?\u201d \u201cJust whatever kids live near the building.\u201d [audience laughing] Heh. \u201cHow much do I get paid?\u201d \u201cAbout $10 every four years.\u201d [audience laughing] \u201cWhat if I get good at it?"
+  },
+  {
+   "comedian": "louis-ck-oh-my-god",
+   "pattern": "three.*things",
+   "excerpt": "They don\u2019t care, and we don\u2019t care. There\u2019s, like, three scientists Who give a shit what we call all those things. The scientists could go on TV tomorrow And say, \u201cok, everybody."
+  },
+  {
+   "comedian": "louis-ck-oh-my-god",
+   "pattern": "three.*things",
+   "excerpt": "I don\u2019t have it!\u201d If you\u2019re older, you\u2019re smarter. A 55-year-old garbage man is a million times smarter than a 28-year-old with three ph.D.S, Especially smarter than him, \u2019cause this idiot Has been thinking about three things for, like, 15 years. He\u2019s worthless."
+  },
+  {
+   "comedian": "maria-bamford-kaggle-corpus",
+   "pattern": "rule of three",
+   "excerpt": "His two best friends leave him behind \u2019cause they\u2019ve got time management issues. Uh, a third guy, his sworn enemy, a Samaritan\u2013 always the rule of three in the Bible\u2013 one, two, then the kicker, just like comedy\u2013 and, uh, so the Samaritan, his enemy, stops, puts him on his donkey, rubs him down with oils and herbs and spices. Bible\u2019s a lot about spa treatments."
+  },
+  {
+   "comedian": "mitch-hedberg-comedy-central-special1999",
+   "pattern": "escalat",
+   "excerpt": "I can\u2019t be getting through a half-hour with that kind of action. I like an escalator, man. Because an escalator can never break."
+  },
+  {
+   "comedian": "mitch-hedberg-comedy-central-special1999",
+   "pattern": "escalat",
+   "excerpt": "I like an escalator, man. Because an escalator can never break. It can only become stairs."
+  },
+  {
+   "comedian": "mitch-hedberg-comedy-central-special1999",
+   "pattern": "escalat",
+   "excerpt": "All right. There would never be an \u201cescalator temporarily out of order\u201d sign. Only, an \u201cescalator temporarily stairs.\u201d \u201cSorry for the convenience.\u201d\n I\u2019m going to take it out tonight, boy."
+  },
+  {
+   "comedian": "stewart-lee-90s-comedian",
+   "pattern": "three.*things",
+   "excerpt": "And I\u2019d like to know what you propose to do about that, given the current state of the cat\u2019s-feet towel.\u2019 And then she said to me, \u2018It was you, wasn\u2019t it?\u2019 And I said, \u2018Yes.\u2019 And she said, \u2018Let me give you some advice.\u2019 And I listened because I love her and she tends to be right. She said, \u2018Given your current situation,\u2019 she said, \u2018and the state of the world as it is,\u2019 she said, \u2018under no circumst"
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "list.*joke",
+   "excerpt": "In 1986, when I started writing comedy with Richard Herring, you should know. Erm\u2026 We made a list of 10 things that we thought were too cliched to do jokes about. In 1986."
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "rule of three",
+   "excerpt": "(LAUGHTER) \u201cAnd I did all this,\u201d he said, \u201cwith a view \u201ctowards thwarting your attempts to get material out of coming here.\u201d (LAUGHTER) I said, \u201cWell, you didn\u2019t thwart it, did you?\u201d Demonstrably, I said to him, \u201cI got about four or five minutes out of it.\u201d (LAUGHTER) He said, \u201cI thwarted it in the long run,\u201d he said. I said, \u201cHow?\u201d He said, \u201cWell,\u201d \u201cYou\u2019re a professional comic I\u2019m not gonna patro"
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "three.*things",
+   "excerpt": "I said, \u201cHow?\u201d He said, \u201cWell,\u201d \u201cYou\u2019re a professional comic I\u2019m not gonna patronise you.\u201d He said, \u201cYou know the rule of three.\u201d I said, \u201cThat\u2019s right. Any list of things, \u201cfunny things, should be three things long. \u201cThe third one should be the funniest.\u201d He said, \u201cThat\u2019s right."
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "ratchet",
+   "excerpt": "I\u2019m not going to watch Game Of Thrones. I can get the same experience from sitting around with a Terry Pratchett novel in one hand and a copy of Hustler\u2019s Barely Legal in the other. \u201cIt\u2019s not like that, mate, if you actually watch Game\u2026\u201d I haven\u2019t watched Game Of Thrones!"
+  },
+  {
+   "comedian": "stewart-lee-stand-up-comedian",
+   "pattern": "three.*things",
+   "excerpt": "I won\u2019t be able to help you, on account of the fact that I am fashioned entirely from colourful wool. Perhaps you\u2019d like to ask one of my colleagues \u2013 the cardigan, the mitten, the balaclava helmet.\u2019 And again, you\u2019ll notice there a list of three things. Really they ought, comedically, to build."
+  },
+  {
+   "comedian": "stewart-lee-stand-up-comedian",
+   "pattern": "three.*things",
+   "excerpt": "So for the tea cosy to suggest to the customer that he seeks assistance from other exclusively woollen items, you know it simply adds insult to injury, it makes the situation worse.\u2019 So I said, \u2018Yeah, I\u2019d never thought of that, you know. What shall I do?\u2019 And he said, \u2018Well, just think of three things that aren\u2019t made of wool and you\u2019ll be all right.\u2019 And I thought, \u2018Yeah, I will, right, but I won"
+  },
+  {
+   "comedian": "stewart-lee-stand-up-comedian",
+   "pattern": "three.*things",
+   "excerpt": "I thought, \u2018Why\u2019s that?\u2019 And I went home, and I thought, \u2018Yeah, the problem is the toaster is an electrical item and people are thinking, \u201cIs that working in Currys or is it for sale there?\u201d\u2019 Yeah, but I was chasing the problem down. Basically, I realised I needed three things that were neither electrical nor woollen. Right."
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "escalat",
+   "excerpt": "Just like, \u201cUgh, tell her to get out of here.\u201d Yeah, I\u2019m sick of looking at her face.\u201d I still didn\u2019t know where to go or what to do. So I took the escalator down to the first floor and there\u2019s an ice cream shop down there. And I\u2019m an adult."
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "escalat",
+   "excerpt": "I just\u2026 personally, I don\u2019t sit alone in ice cream shops just\u2026 (audience laughs) And let me be certain\u2026 to not use\u2026 the object that is the exact shape\u2026 of an ice cream cone. (Audience laughing) So I finished my ice cream cone, I took the escalator back up, I did the final show, and, of course, I bombed. I got offstage."
+  },
+  {
+   "comedian": "vir-das-kaggle-corpus",
+   "pattern": "three.*things",
+   "excerpt": "I said that. Because if the three of you are Smarnika, then it\u2019s like one of those OSHO ashram things, you know what I mean? Like you are\u2026 \u201cAll women are Smarnika.\u201d [all laughing] \u201cYou must find your inner Smarnika.\u201d \u201cRelease your Smarnika.\u201d Oh."
+  }
+ ],
+ "punch": [
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "punch.?line",
+   "excerpt": "[cheering] I put a lot of thought into this special, of what I\u2019m gonna wear. I went with, uh, what I wear every day, so\u2026 Part of me wanted to wear a cape\u2026 just at the punchline so I could do shit like\u2026 [crowd whoops] I wanted to wear a cape so that, like, uh, when you guys are, like\u2013 you\u2019re here and you\u2019re like, \u201cMan, he\u2019s wearing a cape, that\u2019s funny, he\u2019s definitely gonna talk about the cape.\u201d A"
+  },
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "punch.?line",
+   "excerpt": "[cheering] No, it was a Chinese restaurant, but a nice one, you know? And it was like this, where, like, it was a theater, and I couldn\u2019t see the people in the background, you know, and at the punchline, where you guys laughed, \u2019cause we\u2019re having the best time of our lives tonight, right, guys? [cheering] Hit it, girls."
+  },
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "punch.?line",
+   "excerpt": "[laughter] No, not you guys. I hired some women with guns to come in and blow everybody, but\u2026 [laughter] Hard to find good help here evidently, but\u2026 At the punchline where you guys laughed, nobody laughed, and instead of laughing, one person goes\u2026 [booing] [booing continues] Took a breath\u2026 -\u2026ooo! -[laughter] You know how much hate that is to go back for a second \u201cOo\u201d?"
+  },
+  {
+   "comedian": "bill-burr-paper-tiger",
+   "pattern": "delivery",
+   "excerpt": "All right? You couldn\u2019t just order it off of an Amazon and some delivery guy shows up. He doesn\u2019t know what\u2019s in the box."
+  },
+  {
+   "comedian": "bill-hicks-revelations",
+   "pattern": "delivery",
+   "excerpt": "\u201cHoney, I\u2019m gonna check the mail\u2026 \u201cRrrrar, rrrrar, rrrrar, rrrrar, rrrrar!\u201d [mimes being attacked by a pitbull] \u201cWhaddya we stay inside tonight baby? Let the pizza delivery guy deal with that shit out there. Hello, pizza delivery, could you send another car over please."
+  },
+  {
+   "comedian": "bill-hicks-revelations",
+   "pattern": "delivery",
+   "excerpt": "Let the pizza delivery guy deal with that shit out there. Hello, pizza delivery, could you send another car over please. I know that\u2019s your third one, that last guy almost made it."
+  },
+  {
+   "comedian": "bill-hicks-revelations",
+   "pattern": "delivery",
+   "excerpt": "How come those pit bulls are eating your driver but they\u2019re not touching that fucking pizza? What do they know that we don\u2019t know, hellooo?\u201d Pretty soon we\u2019re all gonna be locked inside our homes with no-one on the street but pizza delivery guys and armoured cars with turrets shooting pizzas through the mail-slots of our front doors. Every house will glow with American Gladiators beamed in."
+  },
+  {
+   "comedian": "dave-chappelle-deep-heart-texas-2017",
+   "pattern": "punch.?line",
+   "excerpt": "I just picture Lil Wayne like\u2026 \u201cWhat is this strange oil\u2026 floating in my hot tub water? It\u2019s pussy juice.\u201d That shit was so funny to me, I must\u2019ve wrote, like, no less than 40 jokes with the punch line \u201cpussy juice,\u201d and all of them worked to some degree 100% of the time. I\u2019ll do one more just so you believe me."
+  },
+  {
+   "comedian": "dave-chappelle-equanimity-2017",
+   "pattern": "punch.?line",
+   "excerpt": "I actually write jokes backwards. I will write a punch line with no particular setup in mind. I just put it on a scrap of paper, and I\u2019ll throw that scrap of paper in my fishbowl."
+  },
+  {
+   "comedian": "dave-chappelle-equanimity-2017",
+   "pattern": "punch.?line",
+   "excerpt": "I just put it on a scrap of paper, and I\u2019ll throw that scrap of paper in my fishbowl. I have a fishbowl in my house filled with random punch lines. And every once in a while, I\u2019ll shake the bowl and I\u2019ll dig in there and pull one out, and see if I can make that shit work."
+  },
+  {
+   "comedian": "dave-chappelle-equanimity-2017",
+   "pattern": "punch.?line",
+   "excerpt": "And I picked one for this special. It\u2019s not an easy punch line to pull off. Are you ready?"
+  },
+  {
+   "comedian": "dave-chappelle-snl-monologue-2020",
+   "pattern": "punch.?line",
+   "excerpt": "Try wearing the mask I been wearing all these years! I can\u2019t even tell something true unless it has a punchline behind it. You guys aren\u2019t ready."
+  },
+  {
+   "comedian": "dave-chappelle-sticks-stones-epilogue-punchline",
+   "pattern": "punch.?line",
+   "excerpt": "Tacked onto the end of the Dave Chappelle\u2019s Sticks and Stones is a secret 23-minute special called Epilogue: The Punchline. The hidden special consists of Chappelle joking with the audience and inviting them to ask him questions, with the comedian touching on everything from the 2020 US presidential election to the most influential comedians in his life and the #MeToo movement."
+  },
+  {
+   "comedian": "dave-chappelle-sticks-stones-epilogue-punchline",
+   "pattern": "punch.?line",
+   "excerpt": "That\u2019s your answer. My favorite Club in America\u2026 is a club in San Francisco called the Punch Line. It\u2019s a very small room."
+  },
+  {
+   "comedian": "dave-chappelle-sticks-stones-epilogue-punchline",
+   "pattern": "punch.?line",
+   "excerpt": "No, Mike Pence. Now, this is the same club, the Punch Line, this is 15 years ago. And I had just gotten back from my infamous, uh, South Africa trip."
+  },
+  {
+   "comedian": "dave-chappelle-worth-2004",
+   "pattern": "timing",
+   "excerpt": "One minute they all love you, the next thing you know\u2026 you\u2019re in front of a courthouse dancing on top of a car\u2026 trying to figure out what the fuck happened to you. That\u2019s what I\u2019m waiting for\u2026 \u2019cause the timing of this Michael Jackson shit is what makes me doubt it. Every time there\u2019s wars going out of control, or the economy is bad\u2026 or something is wrong with the world at large\u2026 it\u2019s always these"
+  },
+  {
+   "comedian": "drew-micheal-kaggle-corpus",
+   "pattern": "punch.?line",
+   "excerpt": "Now I\u2019m 36. Now I see the punchline. Now it\u2019s like\u2026 (LAUGHS SARCASTICALLY) \u201cNobody is going to hug me as I die.\u201d (AUDIENCE CHUCKLING) (CHUCKLES SARCASTICALLY) Is that funny?"
+  },
+  {
+   "comedian": "drew-micheal-kaggle-corpus",
+   "pattern": "punch.?line",
+   "excerpt": "But I don\u2019t think that\u2019s how progress gets made. I think if you wanna make progress, you can\u2019t take that left turn at a punchline. You have to go\u2026 You have to sit there and process it there."
+  },
+  {
+   "comedian": "drew-micheal-kaggle-corpus",
+   "pattern": "timing",
+   "excerpt": "And just because people laugh at something doesn\u2019t inherently make it good. They could be just as emotionally immature or ignorant as the perspective in the joke, or they could be responding to joke structure and timing more than content. And then, one day\u2026 (MELANCHOLY MUSIC PLAYING) \u2026all the world\u2019s stages boarded up, so he sat alone in a room for a year, and he did nothing but talk to the walls "
+  },
+  {
+   "comedian": "eddie-izzard-eddie-izzard-glorious",
+   "pattern": "timing",
+   "excerpt": "And all the calendar people came and said, \u201cOh, Mary, Joseph, thank you. Good timing. \u201cSix days early, actually, so, er."
+  },
+  {
+   "comedian": "eddie-izzard-stripped",
+   "pattern": "delivery",
+   "excerpt": "And Tease-sus would aIways be fucking about. Pizz-sus does delivery. Caes-sus started the Roman Empire."
+  },
+  {
+   "comedian": "eddie-murphy-raw",
+   "pattern": "the punch",
+   "excerpt": "And he swung around my back and punched me in the mouth\u2026 \u2026real, real hard. Because the punch said: And my ego said, \u201cWhat was that?!\u201d I said, \u201cI don\u2019t know.\u201d And my lip said, \u201cHey, fellas!\u201d So I\u2019m standing there with my lips hanging down, looking like J.J. from Good Times and shit."
+  },
+  {
+   "comedian": "eric-andre-kaggle-corpus",
+   "pattern": "punch.?line",
+   "excerpt": "This guy keeps bothering my girlfriend, to the point where I get involved. Wanna know the punchline? Keep it up, you\u2019ll find out.\u201d [audience laughs] [groans nasally] Gulp."
+  },
+  {
+   "comedian": "gary-gulman-kaggle-corpus",
+   "pattern": "timing",
+   "excerpt": "If you could get to school by 6:15 a.m. for a school day that started at 8:50\u2026 The indignities they thrust upon poor kids never end, even in the timing of that, that you would be forced to get up at 5:45 to get some calories, it was almost\u2013 It had to have been planned. Let\u2019s prepare these kids for their futures as migrant apple pickers\u2026 \u2026and longshoremen\u2026 \u2026by getting them up at 5:45 for breakfast."
+  },
+  {
+   "comedian": "george-carlin-complaints-grievances",
+   "pattern": "the punch",
+   "excerpt": "Sitting on the fucking couch and nobody says a word. It\u2019s like if you\u2019re at a formal garden party and you go over to the punchbowl and you notice floating around there\u2019s a big turd and nobody says a word about it you know. Nobody says lovely party Jeffrey but there\u2019s a turd in the punchbowl."
+  },
+  {
+   "comedian": "george-carlin-complaints-grievances",
+   "pattern": "the punch",
+   "excerpt": "It\u2019s like if you\u2019re at a formal garden party and you go over to the punchbowl and you notice floating around there\u2019s a big turd and nobody says a word about it you know. Nobody says lovely party Jeffrey but there\u2019s a turd in the punchbowl. So we got to talk about it."
+  },
+  {
+   "comedian": "george-carlin-doin-it-again",
+   "pattern": "delivery",
+   "excerpt": "When I was a little kid, if I got sick they wanted me to go to the hospital and see the doctor. Now they want me to go to a health maintenance organization, or a wellness center to consult a healthcare delivery professional. Poor people used to live in slums."
+  },
+  {
+   "comedian": "george-carlin-life-worth-losing",
+   "pattern": "timing",
+   "excerpt": "There are things you have to decide. Timing is important. When you\u2019re going to do it."
+  },
+  {
+   "comedian": "george-carlin-life-worth-losing",
+   "pattern": "hold.*beat",
+   "excerpt": "20, 30,000 people looking on. They would take the guy, lay him on an alter, cut his chest open, pull his heart out, hold it up in the air while it was still beating. Got that?"
+  },
+  {
+   "comedian": "george-carlin-life-worth-losing",
+   "pattern": "hold.*beat",
+   "excerpt": "Got that? Cut his chest open, pull his heart out and hold it up in the air while it was still beating. You know what you call that?"
+  },
+  {
+   "comedian": "george-carlin-playing-head-1986",
+   "pattern": "delivery",
+   "excerpt": "I knew there was something fishy. Who was that delivery guy anyway? What could he be after?"
+  },
+  {
+   "comedian": "george-carlin-you-are-all-diseased",
+   "pattern": "punch.?line",
+   "excerpt": "How about a bomb anecdote? You know\u2026 no punch line, just a really cute story. Or suppose you intended to remark, not as a joke, but as an ironic musing, are they prepared to make that distinction?"
+  },
+  {
+   "comedian": "george-carlin-you-are-all-diseased",
+   "pattern": "delivery",
+   "excerpt": "Quality, value, styles, service, selection, convenience, economy savings, performance, experience, hospitality, low rates, friendly service, name brands, easy terms, affordable prices, money-back guarantee, free installation. Free admission, free appraisal, free alterations, free delivery, free estimates, free home trial, and free parking. No cash?"
+  },
+  {
+   "comedian": "george-carlin-you-are-all-diseased",
+   "pattern": "delivery",
+   "excerpt": "No kidding, no fuss, no muss, no risk, no obligation, no red tape, no down payment, no entry fee, no hidden charges, no purchase necessary, no one will call on you, no payments of interest till September. Limited time only though so act now, order today, send no money, offer good while supplies last, two to a customer, each item sold separately, batteries not included, mileage may vary, all sales "
+  },
+  {
+   "comedian": "john-mulaney-baby-j",
+   "pattern": "delivery",
+   "excerpt": "There was an Outback and there was a rehab. But when I ordered the Outback, I somehow thought the delivery guy wouldn\u2019t know what the rehab was. So I gave him the street address of the rehab as if it was my home."
+  },
+  {
+   "comedian": "john-mulaney-comeback-kid",
+   "pattern": "delivery",
+   "excerpt": "And we don\u2019t show that same politeness to people who deliver legal products. Like, when the Chinese food delivery guy comes, we don\u2019t let him hang out after he\u2019s delivered the Chinese food. And we don\u2019t look the other way when he says weird shit to the girls we\u2019re hanging out with\u2026 to try to preserve the relationship."
+  },
+  {
+   "comedian": "john-mulaney-new-town",
+   "pattern": "silence.*before",
+   "excerpt": "He got feminine hips!\u201d And I\u2019m like, [John moves to side where he was pointing and screams in a high but gravelly voice while shutting eyes tightly and moving fist and upper body down in unison for emphasis] \u201cNo!! That\u2019s the thing I\u2019m sensitive about!!!!\u201d [audience laughs] [John straightens up and turns to the side and pouts] [John returns to regular demeanor and expression and paces the stage in "
+  },
+  {
+   "comedian": "kevin-hart-zero-f",
+   "pattern": "the punch",
+   "excerpt": "Starts putting Vaseline all on my face and my headgear. I said, \u201cWhat\u2019s this for?\u201d He said, \u201cSo the punches slide off.\u201d [crowd laughs] \u201cWell, we never talked\u2026 Okay.\u201d \u201cWe didn\u2019t discuss that, but all right.\u201d \u201cOkay. If that\u2019s what it\u2019s gonna do, then that\u2019s what it\u2019s gonna do.\u201d He\u2019s done putting Vaseline on."
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "timing",
+   "excerpt": "It just seems nicer, right? Because women have weird timing with that shit. I was on a date with a girl and she\u2019s like, \u201cI am 40.\u201d \u201cI need to start thinking about who I\u2019m going to have kids with.\u201d I was like, \u201cStart thinking?\u201d [audience laughter] \u201cMiss, we may be down to minutes.\u201d [audience laughter] Yeah, I got to tell women on first dates that I don\u2019t want to have kids."
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "timing",
+   "excerpt": "Telling a woman on a first date is like going to a job interview and being like, \u201cJust so you know, I don\u2019t fuck with computers.\u201d [audience laughter] \u201cHow do you want to do this?\u201d Maybe it\u2019s luck. Maybe it\u2019s timing. Or, you know, could be both."
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "punch.?line",
+   "excerpt": "You never knew if he was setting something up or not. We were just hanging out, all of a sudden it\u2019d be like this punchline out of nowhere, but\u2026 it started to become like a\u2026 work was like a church I go to. I couldn\u2019t wait to get to work and hang around this guy."
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "timing",
+   "excerpt": "And you really appreciate the way he says things. And his timing. He talks like a 1930s Canadian dock worker."
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "timing",
+   "excerpt": "Yeah. His timing is like a drummer\u2019s. [all agreeing] It\u2019s like a jazz drummer."
+  },
+  {
+   "comedian": "patton-oswalt-kaggle-corpus",
+   "pattern": "timing",
+   "excerpt": "Oh my God.\u201d \u201cI\u2019m sure the sex is amazing but\u2026\u201d Um\u2026 [audience laughing] A lot of you hear the story and go, \u201cThat\u2019s not very manly of you.\u201d \u201cYou let your wife\u2026 God knows what could\u2019ve happened!\u201d I argue the opposite. [audience laughs] I say that our timing and placement made us a more effective home invasion deterrent. [audience laughs] \u2018Cause remember he never got scared when she was screaming at "
+  },
+  {
+   "comedian": "patton-oswalt-kaggle-corpus",
+   "pattern": "delivery",
+   "excerpt": "Me. Standing five feet behind her, \u2019cause the energy I was giving off was, \u201cI can\u2019t do nothing when she gets like this.\u201d \u201cI\u2026 I tried to get her to go to the nervous hospital, see?\u201d \u201cShe said she\u2019d burn the house down.\u201d \u201cShe\u2019s killed so many Amazon delivery drivers.\u201d \u201cI can\u2019t dig no more holes in the desert. Please just run!\u201d [audience laughing] I\u2019m doing some poses that we can freeze for the Netfl"
+  },
+  {
+   "comedian": "richard-pryor-live-concert",
+   "pattern": "the punch",
+   "excerpt": "I couldn\u2019t move, though. And my mind is saying drop your arm, block the punch, then counter with your right. But my arm said, I ain\u2019t got nothing to do with it."
+  },
+  {
+   "comedian": "ron-white-if-you-quit-listening-i-ll-shut-up",
+   "pattern": "punch.?line",
+   "excerpt": "Thanks for playing our game. And the punchline of that story is, I come back to the States, when I get back to the States, my assistant goes, \u201cRon, did you hear that John Mayhew died?\u201d And I\u2019m like, \u201cJohn Mayhew\u2026 Why do I know that name?\u201d \u201cIt\u2019s your ex-wife\u2019s divorce lawyer.\u201d [laughing quietly] Oh, I hated that motherfucker. That Yale snob fucking piece of shit, fucked me out of so goddamn much mo"
+  },
+  {
+   "comedian": "ron-white-if-you-quit-listening-i-ll-shut-up",
+   "pattern": "punch.?line",
+   "excerpt": "It\u2019s not like if I told you\u00a0the story without saying that, you\u2019d have gone, \u201cThat was very short and happened a long time ago. I wish you would have told us that up front.\u201d I was the feature act at the Punchline Comedy Club in Sacramento, California. And traditionally in American comedy clubs, there\u2019s three acts."
+  },
+  {
+   "comedian": "ron-white-if-you-quit-listening-i-ll-shut-up",
+   "pattern": "punch.?line",
+   "excerpt": "[whooping] Um\u2026 The other day, um\u2026 Jeff\u2026 Jeff Foxworthy and I were\u2026 Jeff has a special on Sirius called The Comic\u2019s Mind, and he\u2019d been talking to me about doing it. And we decided on a date that we would do it, and we decided to do it from the Punchline here in Atlanta in front of a live crowd, and it was really fun. And it really reminded Jeff and I of how much fun we have on stage together and h"
+  },
+  {
+   "comedian": "stewart-lee-90s-comedian",
+   "pattern": "punch.?line",
+   "excerpt": "The public veneration of a wrinkled old corpse \u2026 You all right now? OK, the problem we\u2019ve got now, right, is that there are \u2026 There\u2019s a section of the room are ahead of the punchlines. You have to be up to speed now."
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "delivery",
+   "excerpt": "The new Are You Being Served? should be set in an Amazon delivery warehouse. Mrs Slocombe stands in a massive shed off the M6\u2026 ..making incomprehensible cat-based double entendres\u2026 ..about her own vagina\u2026 ..to loads of poorly-paid and soon-to-be-deported Eastern European workers."
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "delivery",
+   "excerpt": "But it\u2019s all changed now. One of you could go home tonight, from here, couldn\u2019t you, and think, \u201cOh, I\u2019d like to be in the fetish scene.\u201d And you could go on Amazon, bop, bop, bop, next-day delivery, Taiwanese fist glove, that\u2019s there tomorrow. Midday, your partner goes, \u201cWhat\u2019s this?\u201d You go, \u201cIt\u2019s a Taiwanese fist glove.\u201d \u201cI didn\u2019t know you were into all that.\u201d \u201cI am.\u201d \u201cSince when?\u201d \u201cLast night,"
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "delivery",
+   "excerpt": "I\u2019m not\u2026 I\u2019m not leaving, I\u2019m not leaving. I have a weird delivery. It\u2026 (audience laughing) I\u2019ve had it my whole life, my whole career."
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "punch.?line",
+   "excerpt": "(Audience laughing) I love music. (Audience laughing) I\u2019ve never detected a punch line there. Maybe I should listen more."
+  }
+ ],
+ "tag": [
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "second.*laugh",
+   "excerpt": "I\u2019m sorry, but it has to end now. I think we should see other people.\u201d And without missing a beat, without missing one second, she goes, \u201cYou\u2019re getting fat, you\u2019re going bald, and your dick is whatever.\u201d [laughter] [shouts] Yeah! Those are the three things I care about in my life."
+  },
+  {
+   "comedian": "bill-burr-walk-your-way-out",
+   "pattern": "second.*laugh",
+   "excerpt": "I was not thinking about killing myself at all. The second I thought, \u201cWhat if I just fucking did that?\u201d And then I looked in the mirror, I caught my eye and we both laughed. Yeah."
+  },
+  {
+   "comedian": "eric-andre-kaggle-corpus",
+   "pattern": "second.*laugh",
+   "excerpt": "Like, [screaming] \u201cYeah!\u201d And this dude was front fucking row, like, [yelling] \u201cNo! [audience laughing] Ah!\u201d [audience laughs] Then he said for a millisecond, my entire flaccid dick was just like\u2026 [expelling air] [audience laughs] [laughs] It just, like, flicked the back of his tonsils. [audience laughs] And I just turned and looked at him, I was like, \u201cThanks for coming to the show, man!\u201d [audien"
+  },
+  {
+   "comedian": "john-mulaney-kid-gorgeous-at-radio-city",
+   "pattern": "second.*laugh",
+   "excerpt": "I\u2019m fucking crazy.\u201d And all of us are like, \u201cOkay.\u201d Like poor Andy Cohen at those goddamn reunions. \u201cOkay.\u201d And then, for a second, we were like, \u201cMaybe the horse-catcher will catch the horse.\u201d And then the horse is like, \u201cI have fired the horse-catcher.\u201d [audience laughing] He can do that? That shouldn\u2019t be allowed no matter who the horse is."
+  },
+  {
+   "comedian": "kevin-hart-zero-f",
+   "pattern": "second.*laugh",
+   "excerpt": "\u201cMr. Hart, we\u2019d love to talk to you for a second.\u201d \u201cThe big fair is coming up.\u201d \u201cWe do this fair once a year at the school.\u201d \u201cWe would love it if you would be the greeter at this year\u2019s fair.\u201d [crowd laughs] I gave her a lot of time for her to say, \u201cI\u2019m bullshitting.\u201d She never said it. I said, \u201cAre you f*cking kidding me?\u201d \u201cNo, it\u2019s our biggest fair.\u201d \u201cWe would love it if you would be the greeter"
+  },
+  {
+   "comedian": "shane-gillis-kaggle-corpus",
+   "pattern": "second.*laugh",
+   "excerpt": "Those are just normal fuckin\u2019 dudes. The second shots are fired, there\u2019s no game plan, they\u2019re just, \u201cOh, shit!\u201d [audience laughs] Very relatable. Guns jamming."
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "second.*laugh",
+   "excerpt": "(LAUGHING) He, erm\u2026 \u201cWe should have mounted his head on a spike.\u201d He said, \u201cI\u2019m hoping that the fish and the crabs are having\u2026\u201d No. See, second time\u2026 (LAUGHTER) Yeah, only once, though, only once. Don\u2019t milk it."
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "second.*laugh",
+   "excerpt": "(LAUGHTER) I\u2019ll get some footage from Michael McIntyre\u2019s video, cut it in. (LAUGHTER) Okay, the worry is, though, that there is a whole second half to come, right, (LAUGHTER) and that was just three minutes, that callback. And the problem is the second half is all things that relate back to the first half."
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "second.*laugh",
+   "excerpt": "I\u2019m just gonna flag up things that you should have noticed. (LAUGHTER) And then when we get to edit this, if the second half is still not really good, I won\u2019t be looking and thinking, \u201cOh, I could have\u2026\u201d I\u2019ll have done whatever I could have done, yeah, to\u2026 (LAUGHTER) You with it? Okay, so I\u2026 I came out, didn\u2019t I, at the beginning."
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "second.*laugh",
+   "excerpt": "What they\u2019re laughing at down there, they\u2019re going, \u201cOh, yeah, he\u2019s parodying the idea,\u201d the perception of myself as a sort of patronising elitist who would quote his own work as a\u2026 But, you know, you\u2019re just going, \u201cWhat an arrogant man,\u201d aren\u2019t you? Up there, so it\u2019s not\u2026 But anyway, try and listen in and close the gaps up because we need to\u2026 LAUGHTER So, I believe it was I who wrote\u2026 LAUGHTER I"
+  },
+  {
+   "comedian": "stewart-lee-stand-up-comedian",
+   "pattern": "topper",
+   "excerpt": "Now I was confused, because for me, the balaclava helmet is one of those inherently absurd items. I thought it would be a good topper there, but it never works. So the first kind of week of the run, the month run, I kept swapping the order around, I was going, \u2018Perhaps you\u2019d like to talk to one of my colleagues, the balaclava helmet, mitten, cardigan."
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "second.*laugh",
+   "excerpt": "But apparently, that was not helpful at all. And she said, \u201cHold on a second.\u201d (audience laughing) She walks back over and whispers something again to the officer and he just says, \u201cYes.\u201d And the thing is, I knew exactly what was happening and I knew that all I needed to do was speak\u2026 and then she would know that I was female. But I just did not wanna help her out\u2026 (audience laughing) Man: Whoo!"
+  },
+  {
+   "comedian": "tom-segura-kaggle-corpus",
+   "pattern": "second.*laugh",
+   "excerpt": "Uh\u2026 [laughter] [sputters, laughs] [laughter] The truth is\u2026 The truth is, he really did say, \u201cYou have a big penis. And I have a small one.\u201d And what I really said, immediately, and I mean in a split second of him saying that, I went\u2026 [gutturally] \u201cNo!\u201d [laughter] And if you\u2019re like, \u201cWhy did you shout, \u2018No\u2019?\u201d I think because in that split second I thought, \u201cI don\u2019t want this to be some shit you st"
+  }
+ ],
+ "callback": [
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "I\u2019m sure Craig doesn\u2019t like to be called \u2018Black Craig.'\u201d [laughter] \u201cDoesn\u2019t call you \u2018White Dennis,\u2019 you know? Just calls you the fucking asshole from work.\u201d So I remember one time, like, as an adult, I look back at my youth, and I remember my dad being bigoted, but as a kid, I was like\u2026 I didn\u2019t notice it, you know? And so we\u2019re in this grocery store, and we see this dude who, as an adult I pegg"
+  },
+  {
+   "comedian": "bill-burr-i-m-sorry-you-feel-that-way",
+   "pattern": "bring.*back",
+   "excerpt": "See how you do, you know? You fly them up, you land, you bring another 28 back. We\u2019ll let you do this for a while."
+  },
+  {
+   "comedian": "bill-burr-live-at-red-rocks",
+   "pattern": "bring.*back",
+   "excerpt": "Like, I don\u2019t know, I just fucked up, but\u2026 I knew she was right, so I sat there, I fuckin\u2019 took it, you know? I will say, as an aside, the next time you see a guy who never even cheated on his taxes, and then out of nowhere he kills his wife, I think it\u2019s high time to bring back the question, \u201cWhat did she say?\u201d Okay? I\u2019m just sayin\u2019, all right?"
+  },
+  {
+   "comedian": "bill-burr-paper-tiger",
+   "pattern": "bring.*back",
+   "excerpt": "This is the world I\u2019m in. And right as he\u2019s gonna bring me on, all of a sudden, she came out, \u2019cause she was going back out to her f*cking car, and that\u2019s when my brain started firing up again with some ideas. Started thinking sh!t that I had never thought before in my life."
+  },
+  {
+   "comedian": "bill-burr-paper-tiger",
+   "pattern": "call.*back",
+   "excerpt": "I gotta get rid of this thing. So we called my trainer, and he goes, \u201cAll right, I\u2019ll take it.\u201d Okay, thank God they\u2019re not gonna put the dog down or anything like that, so I\u2019m like, \u201cThank God.\u201d So he goes, \u201cI\u2019ll come back in a week.\u201d And it was very sad because we both loved this dog, like, with all our hearts, right? And what amazed me, though, was over that week, the way my wife handled grief "
+  },
+  {
+   "comedian": "bill-burr-philadelphia-incident",
+   "pattern": "bring.*back",
+   "excerpt": "Suck a dick. Bring Tug McGraw back from the dead you fucking jackasses. Maybe you\u2019ll win another one."
+  },
+  {
+   "comedian": "bill-burr-walk-your-way-out",
+   "pattern": "bring.*back",
+   "excerpt": "I swear to God, dude, if I was running that corporation, this is what I would do. I\u2019d bring that clown back. All right?"
+  },
+  {
+   "comedian": "bill-burr-walk-your-way-out",
+   "pattern": "bring.*back",
+   "excerpt": "All right? I\u2019d bring the clown back, okay, and I\u2019d just have that thing just look right down the barrel of the camera, have a little bit of dry ice in the background. You come right in tight on his face."
+  },
+  {
+   "comedian": "bill-burr-walk-your-way-out",
+   "pattern": "bring.*back",
+   "excerpt": "\u201cBuddy, we did it! Don\u2019t fuck up the coat, I\u2019ve got to bring it back. We did it!"
+  },
+  {
+   "comedian": "bill-burr-you-people-are-all-same",
+   "pattern": "bring.*back",
+   "excerpt": "I love that word. I\u2019m trying to bring it back. I love it, it\u2019s funny."
+  },
+  {
+   "comedian": "bill-burr-you-people-are-all-same",
+   "pattern": "bring.*back",
+   "excerpt": "No wonder this thing\u2019s trying to attack the mailman, you know?\u201d So then I got upset. I\u2019m like, \u201cWait a minute, dude, you\u2019re telling me, like, I can\u2019t even play with my dog?\u201d He\u2019s like, \u201cNo, you can play with it, but you gotta bring that energy back down. The problem is you keep amping this thing up, getting that Mike singletary look on his face."
+  },
+  {
+   "comedian": "bill-burr-you-people-are-all-same",
+   "pattern": "bring.*back",
+   "excerpt": "Never see it, you know? And every night I bring up gold-digging whores, and the whole crowd pulls back like I\u2019m up here talking about bigfoot, right? Like I\u2019m saying the moon\u2019s made out of cheese or something."
+  },
+  {
+   "comedian": "bill-hicks-revelations",
+   "pattern": "call.*back",
+   "excerpt": "Probably too stupid to catch a cow, you know. [Mimes ape chasing and losing a cow] [Ape spots shit] [Wipes it off foot] [Eats mushroom \u2013 begins to giggle] [Laughs] [Laughs] [laughs hysterically before lying back spaced out] \u201cI think we can go to the moon.\u201d (\u2018Thus Spake Zarathustra\u2019 plays) [Applause] That is exactly how it fucking happened. Except for the marketing people whose belief is, \u201cNo, it w"
+  },
+  {
+   "comedian": "chris-rock-bring-pain",
+   "pattern": "bring.*back",
+   "excerpt": "Sh!t, organ donor is for people with no faith at all! You know, what if they figured out a way to bring you back from the dead? Now I have no eyes!"
+  },
+  {
+   "comedian": "chris-rock-kill-the-messenger-london-new-york-johannesburg-2008-movie-script",
+   "pattern": "bring.*back",
+   "excerpt": "Oh, don\u2019t worry. I\u2019m a bring it back. Black women get pissed off at some interracial dating, boy."
+  },
+  {
+   "comedian": "dave-chappelle-age-spin-2017",
+   "pattern": "bring.*back",
+   "excerpt": "I can\u2019t get enough of that shit. Doesn\u2019t it bring back good memories? But I forgot just how polarizing that OJ case was."
+  },
+  {
+   "comedian": "dave-chappelle-equanimity-2017",
+   "pattern": "bring.*back",
+   "excerpt": "That shit sounds nuts. \u201cI\u2019m gonna go to China, and I\u2019m gonna get those jobs from China and bring them back here to America.\u201d For what, n i g g a? So iPhones can be $9,000?"
+  },
+  {
+   "comedian": "dave-chappelle-equanimity-2017",
+   "pattern": "bring.*back",
+   "excerpt": "Stop trying to give us Chinese jobs. \u201cI am going to bring back coal.\u201d Coal?! I\u2019m not even exaggerating\u2026 I have never in my life even seen a fucking lump of coal."
+  },
+  {
+   "comedian": "dave-chappelle-killin-softly-2000",
+   "pattern": "call.*back",
+   "excerpt": "They know that black people is bad bargaining chips. They call the White House, they say: \u201cHello.\u201d We have got five black\u2026 \u201cHello?\u201d We be back in D.C. You know what I was thinking, man?"
+  },
+  {
+   "comedian": "dave-chappelle-the-bird-revelation-2017",
+   "pattern": "call.*back",
+   "excerpt": "I used to do shows for drug dealers that wanted to clean their money up. One time I did a real good set, and these motherfuckers called me in the back room. They gave me $25,000 in cash."
+  },
+  {
+   "comedian": "dave-chappelle-whats-in-a-name",
+   "pattern": "call.*back",
+   "excerpt": "It wasn\u2019t just a student, but this particular guy\u2026 This particular guy did the cardinal no-no on the streets. He did what they call \u201cnot making your roll,\u201d which meant he got some drugs on consignment and he didn\u2019t pay whoever gave him the drugs back. And whoever gave him those drugs had declared, \u201cI\u2019m gonna come to that school, and I\u2019m gonna kill you,\u201d he said."
+  },
+  {
+   "comedian": "eddie-izzard-eddie-izzard-glorious",
+   "pattern": "bring.*back",
+   "excerpt": "\u201cLittle Johnny, Susie, I\u2019m off to the war.\u201d \u201cDon\u2019t go, Daddy. Don\u2019t go.\u201d \u201cI must go.\u201d \u201cBring us back something, Daddy.\u201d \u201cI\u2019ll bring you back a Nazi with real hair.\u201d Dick Van Dyke, he went for a cockney accent. I think he went to Australia to learn it."
+  },
+  {
+   "comedian": "eddie-izzard-stripped",
+   "pattern": "call.*back",
+   "excerpt": "\u201dIt\u2019s looking kind of bibIicaI around here.\u201d And the bush said, \u201dMoses, Moses, come back here.\u201d And he said, \u201dHang on, sheep, just wait. What is it?\u201d \u201dMoses, you must Ieave this pIace.\u201d \u201dI was Ieaving when you called me back. \u201dWhat the bIoody heII do\u2026\u201d \u201dNo, I mean you must Ieave this area, on a short to mid-term future, \u201don a geopoIiticaI basis.\u201d \u201dFor fuck\u2019s sake, \u201dyou\u2019re a very compIicated bush."
+  },
+  {
+   "comedian": "eddie-izzard-unrepeatable",
+   "pattern": "call.*back",
+   "excerpt": "That\u2019s the trick. Basically, you ask another question back, that\u2019s the way you get out of it. People say, \u201cWould you like to explain, Mr."
+  },
+  {
+   "comedian": "eddie-izzard-unrepeatable",
+   "pattern": "bring.*back",
+   "excerpt": "I better go and get that\u2026 (mimes chasing after the stick) You dropped your stick there. Thought I\u2019d bring it back\u2026 And you hang on\u2026 (mimes giving the stick back and follows it with the eyes as it\u2019s thrown again) Did you see me? I just brought that back!"
+  },
+  {
+   "comedian": "eddie-izzard-unrepeatable",
+   "pattern": "bring.*back",
+   "excerpt": "Can we get the measuring jar back when you\u2019re finished?\u201d It\u2019s very weird! So they way bees make honey, is they get 10 bees together, they fly down to a supermarket, they get a jar of honey, and they bring it back, that\u2019s how! And the Queen Bee just gets a big knife, and spreads it in\u2026 in some artist\u2019s fashion, in the big combs in the back."
+  },
+  {
+   "comedian": "eddie-murphy-delirious",
+   "pattern": "bring.*back",
+   "excerpt": "The icecream man is coming!\u201d \u201cMom! Mom!\u201d \u201cThrow down some money!\u201d \u201cThe icecream man is coming!\u201d Then your mother come to the window and be throwing change and say: and bring back my change. Catch all that shit and run down the street, top speed."
+  },
+  {
+   "comedian": "eric-andre-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "Uh, or at least that\u2019s what we called it in ballet class. I don\u2019t know what you call it, but\u2026 [audience laughs] So I run outside\u2026 and I\u2019m fucking slamming my finger in the back of my throat. The problem was, I had so much MDMA coursing through my veins, it wasn\u2019t making me throw up."
+  },
+  {
+   "comedian": "george-carlin-1978",
+   "pattern": "call.*back",
+   "excerpt": "The Bureau of Indian Affairs announced today that they have found another Mohican. Accordingly, all the books are being called back in and will be changed to read The Next To the Last of the Mohicans. In France today, a baby was born wearing glasses and holding a Quaalude."
+  },
+  {
+   "comedian": "george-carlin-1978",
+   "pattern": "call.*back",
+   "excerpt": "A man who shot and killed all 12 members of a jury which convicted him last year, goes on trial again today. A set of Siamese twins which was surgically separated six months ago was sewn back together again today because each of them only knows one half of the combination to their locker. A man who has\u2026 a man who was\u2026 this is kind of one where you\u2019re gonna moan, but I\u2019m gonna do it anyway."
+  },
+  {
+   "comedian": "george-carlin-back-town-1996",
+   "pattern": "bring.*back",
+   "excerpt": "I\u2019m talking about fucking crucifixion folks! Let\u2019s bring back crucifixions. A form of capital punishment the Christians and Jews of America can really appreciate."
+  },
+  {
+   "comedian": "george-carlin-back-town-1996",
+   "pattern": "bring.*back",
+   "excerpt": "And- and let me say this to you my interesting judaeo-christian friends. Not only- not only do I recommend crucifixions, I\u2019d be in favor of bringing back beheadings!! Huh?"
+  },
+  {
+   "comedian": "george-carlin-complaints-grievances",
+   "pattern": "call.*back",
+   "excerpt": "And she fucking hangs up on me so I hang up on her. And she calls me back. I fucking hang up again."
+  },
+  {
+   "comedian": "george-carlin-jamming-new-york-1992",
+   "pattern": "call.*back",
+   "excerpt": "People don\u2019t want it near \u2018em! We\u2019ve got something in this country \u2013 you\u2019ve heard of it \u2013 it\u2019s called NIMBY, N-I-M-B-Y, \u201cNot In My BackYard!\u201d People don\u2019t want anything, any kind of social help, located anywhere near \u2018em! You try to open up a Halfway House, try to open up a drug rehab or an alcohol rehab centre, try to do a homeless shelter somewhere, try to open up a little home for some retarded"
+  },
+  {
+   "comedian": "george-carlin-playing-head-1986",
+   "pattern": "call.*back",
+   "excerpt": "All you had was Rebecca\u2019s love and you\u2019ve already gone and given that to Wilhelm. Can you logically ask Wilhelm to give back Rebecca\u2019s love to Klause? Maybe he\u2019s gotten used to it by now."
+  },
+  {
+   "comedian": "george-carlin-playing-head-1986",
+   "pattern": "bring.*back",
+   "excerpt": "Did you ever notice that you\u2019d be looking for something, you might be out in the garage and every now and then you\u2019ll go back and look where the thing ought to be? You\u2019ll go right from the garage you\u2019ll walk back and look in the top drawer, \u201cNope not back yet.\u201d You\u2019re convinced that Saint Anthony will bring those keys back while you\u2019re in the Goddamn garage. And of course if you\u2019re looking for car"
+  },
+  {
+   "comedian": "george-carlin-what-am-i-doing-in-new-jersey",
+   "pattern": "bring.*back",
+   "excerpt": "And I\u2019m not talking about your friend so much it\u2019s just the general public. People need a little sort of a mental goose during the day to kind of bring them back to reality you know? There are an awful lot of people walking around not all there."
+  },
+  {
+   "comedian": "iliza-shlesinger-kaggle-corpus",
+   "pattern": "bring.*back",
+   "excerpt": "Gentlemen, let\u2019s say you get a girl to go home with you. You get a girl to go back to your apartment by the grace of God, and you bring her back. You should know, boys, first of all, you get naked so fast."
+  },
+  {
+   "comedian": "iliza-shlesinger-kaggle-corpus",
+   "pattern": "bring.*back",
+   "excerpt": "And that\u2019s not her fault, but this is what happens. Now is the portion where I bring it down in order to bring it back up, here we go. That kid that shot up the University of Santa Barbara a couple years ago\u2026 I know, it is hard to keep them straight, America, but this one was different, because this kid wrote a whole manifesto about how women don\u2019t pay attention to him and don\u2019t sleep with him and"
+  },
+  {
+   "comedian": "jerry-seinfeld-23-hours-to-kill",
+   "pattern": "call.*back",
+   "excerpt": "Or: \u201cHe\u2019s dead. Call me back.\u201d \u201cWho was that?\u201d What about the, uh, camera in the phone? I always wonder if they\u2026 Before they do those kinds of things, do they stand around and go, \u201cHey, are you sure this is a good idea?"
+  },
+  {
+   "comedian": "john-mulaney-baby-j",
+   "pattern": "call.*back",
+   "excerpt": "I\u2019m immediately mad about the rule. [laughter] I\u2019m like, \u201cIt\u2019s my money.\u201d \u201cSon of a bitch wants me to email him with my doctor?\u201d So rather than pick up the phone and call him back and say, \u201cHey, that\u2019s not a rule anymore.\u201d Which I could totally do because I\u2019m a grown man and he works for me. Instead, I spend the next six months finding elaborate ways to steal my own money from myself."
+  },
+  {
+   "comedian": "john-mulaney-comeback-kid",
+   "pattern": "call.*back",
+   "excerpt": "Now, you say they go to the past. How about we call it Back to the Past?\u201d \u201cNo, no, no. Back to the Future.\u201d \u201cRight, but they go to the past.\u201d \u201cYeah.\u201d Kids have it very good now."
+  },
+  {
+   "comedian": "john-mulaney-new-town",
+   "pattern": "call.*back",
+   "excerpt": "When I was a little boy, I was more like a 67-year-old gay man [slowly and gently tosses hand in front of him] that\u2019s kind of over it sexually, you know. I was just like an old queen, I would just come out of the recess yard and be like, [closes eyes and dramatically sweeps arm to the side, speaking in a high slightly drawled voice] \u201cEveryone get outta my way, [audience laughs] I just wanna sit he"
+  },
+  {
+   "comedian": "kevin-hart-let-me-explain",
+   "pattern": "call.*back",
+   "excerpt": "So in my mind, shit will happen. Like, one day I call the house and in the background, I hear, \u201cI said, \u2018Put the dishes in the sink.\u201d\u2018 But in my mind, what I heard was, \u201cYou and your dad can suck my dick in the sink.\u201d [looking around] I gotta fight. I gotta fucking fight now."
+  },
+  {
+   "comedian": "kevin-hart-seriously-funny",
+   "pattern": "bring.*back",
+   "excerpt": "You wasn\u2019t even thinking about juice.\u201d That\u2019ll be on your mind all day. Seven hours later, you\u2019ll bring it back up. \u201cA sip of my goddamn juice."
+  },
+  {
+   "comedian": "kevin-hart-seriously-funny",
+   "pattern": "call.*back",
+   "excerpt": "He realizes that he\u2019s losing. He tries to call his security guard back. \u201cThomas, Thomas, come help.\u201d I look over."
+  },
+  {
+   "comedian": "kevin-hart-what-now",
+   "pattern": "bring.*back",
+   "excerpt": "Like, do you hear what you order? Do you hear what you\u2019re asking people to bring you back? Have you ever made an innocent Starbucks run for somebody?"
+  },
+  {
+   "comedian": "kevin-hart-zero-f",
+   "pattern": "call.*back",
+   "excerpt": "I\u2019ve never seen\u2026 a higher level of panic in my f*cking life. Called me from the airport, \u201cDad!\u201d [whimpering] \u201cWhat\u2019s happening?\u201d My daughter was like, \u201cThey\u2019re taking my lotions and toothpaste.\u201d \u201cWhat am I supposed to do?\u201d \u201cThey\u2019re making me walk through metal\u2026\u201d My son snatched the phone, \u201cWhat the f*ck is going on, Dad?\u201d \u201cThey won\u2019t let me take my bags.\u201d \u201cThey said I can\u2019t take my backpacks, my p"
+  },
+  {
+   "comedian": "kevin-hart-zero-f",
+   "pattern": "call.*back",
+   "excerpt": "Pow! They call back, \u201cWhat are you talking about?\u201d \u201cYou know what I\u2019m talking about. Black lives matter.\u201d Hung up again."
+  },
+  {
+   "comedian": "louis-c-k-chewed-up",
+   "pattern": "bring.*back",
+   "excerpt": "\u201cHey cracker!\u201d \u201cUggh, ruined me day, boy shouldn\u2019t have called me a cracker. Bringing me back to owning land and people, what a drag.\u201d I am married though, that takes me down a few pegs. The other night, my wife sent me to Walgreens to get toilet paper because we were out of toilet paper because I had thrown it all in the garbage so I could get out of the house\u2026 So I\u2019m driving to Walgreens, it was"
+  },
+  {
+   "comedian": "louis-c-k-live-at-the-beacon-theatre-2011",
+   "pattern": "bring.*back",
+   "excerpt": "When we take our kids to class, there\u2019s a little procedure. You bring your kid to school and they have their backpack and their jacket and they go to their cubby and take it all off and they put it in the cubby. Then they take their homework folder and their lunchbox and put them in the bins."
+  },
+  {
+   "comedian": "louis-c-k-shameless-2007",
+   "pattern": "call.*back",
+   "excerpt": "We\u2019re not secret agents, I don\u2019t need to know where you are. So I get this message from him, he says, \u201cI\u2019m on an\u00a0 airplane in Seattle.\u201d So\u00a0 I wrote back and I said, \u201cwell, I hope your plane crashes.\u201d \u2013 And he gets pissed off and he calls me, \u201ctake it back, we\u2019re about to take off.\u201d I\u2019m like, \u201cfuck you, I hope it\u00a0 crashes. I don\u2019t have to take it back.\u201d Hope it crashes twice."
+  },
+  {
+   "comedian": "maria-bamford-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "[normal voice] Oh, fuck you! \u266a It\u2019s saturation point \u266a It\u2019s been 20\u2013 [laughs] [cheers, applause] \u266a It\u2019s been 20 minutes we\u2019ve been on the phone \u266a \u266a It\u2019s saturation point \u266a We both got toxic, it just got triggered \u266a \u266a I\u2019ll call you tomorrow, let\u2019s just \u266a \u266a Shut up \u266a I\u2019m on a trip with some girlfriends \u266a \u266a So fun, New Orleans \u266a Just had dinner, it\u2019s time for dessert \u266a \u266a Marquetta says\u2026 \u266a Hey, it\u2019s c"
+  },
+  {
+   "comedian": "marlon-wayans-kaggle-corpus",
+   "pattern": "bring.*back",
+   "excerpt": "I\u2019m so proud of you for living your truth, for having the courage to just be you.\u201d I said, \u201cDaddy loves you to the moon and back\u201d, around the stars, through every galaxy. And one day, when God takes me, may he bring me back again to find you exactly the way you are and love you for the rest of eternity. \u201cLove always, Daddy.\u201d [Applause] But you know, on Instagram, there\u2019s always that one comment."
+  },
+  {
+   "comedian": "marlon-wayans-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "Oh, I called my brothers. Yes, I called for backup. I said, \u201cShawn, Keenen, Damon."
+  },
+  {
+   "comedian": "marlon-wayans-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "And so I seen where his insecurity was coming from. So I instantly called my boys off, called the boys off, was like\u2026 [makes bird sound] Oh, that\u2019s bird talk for \u201cBack up, back up, back up.\u201d And they hit me back with the\u2026[makes bird sound] That\u2019s, \u201cAlright, n*gga, you good, you good, you good.\u201d [Chuckles] Because I know some\u2026 I\u2019m gonna tell you something. I\u2019m a\u2026 I\u2019m a man of God."
+  },
+  {
+   "comedian": "mike-epps-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "Uh, don\u2019t never call me again, b*tch, yeah. F*ck you, you know what i mean?\u201d He could be looking at his girl, talking, \u201cyeah, b*tch, don\u2019t ever call me back again, you hear me?\u201d \u201cCall the other b*tch. I\u2019m not playing with you.\u201d \u201cYeah, this is mike."
+  },
+  {
+   "comedian": "mike-epps-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "I\u2019m not playing with you.\u201d \u201cYeah, this is mike. Uh, don\u2019t never call me back again. You f*cking my family up, b*tch."
+  },
+  {
+   "comedian": "norm-macdonald-hitlers-dog-gossip-trickery-2017",
+   "pattern": "bring.*back",
+   "excerpt": "You know, you can\u2019t kill a guy and then just leave, you know? They\u2019ll follow you, they\u2019ll find you, they\u2019ll bring you back, and they\u2019ll try you in front of a jury of your peers. So I thought, well, what does it mean, anyways, you know?"
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "bring.*back",
+   "excerpt": "I go, \u201cWhat\u2019s this?\u201d And he goes, \u201cI won big. I won big on Friday.\u201d I said, \u201cWhy didn\u2019t you cash it in, buddy?\u201d He goes, \u201cI brought it here so I can talk to Bernie Brillstein to see how I don\u2019t have to pay taxes on it.\u201d So I go, \u201cOh.\u201d He goes, \u201cSo I bring it back Monday. He told me no matter what, I gotta pay taxes so it didn\u2019t work out.\u201d So, whatever, I go, \u201cOh, that sucks.\u201d Anyways, I see him on"
+  },
+  {
+   "comedian": "pete-davidson-kaggle-corpus",
+   "pattern": "bring.*back",
+   "excerpt": "You felt that, right? CDC was on TV like, \u201cBring the car back right now, alright?\u201d You were like, \u201cNo, you said I could be out though!\u201d \u201cYeah, I said you could be out, I didn\u2019t say you could be with your friends.\u201d That was our life, man. We made it out."
+  },
+  {
+   "comedian": "pete-davidson-kaggle-corpus",
+   "pattern": "bring.*back",
+   "excerpt": "It\u2019s time to prove it, alright? I\u2019m Jordan Rock, and with that being said, are you ready for me to bring back the man of the hour? Make some noise for my motherfucking nigga, Pete Davidson, everybody."
+  },
+  {
+   "comedian": "richard-pryor-live-concert",
+   "pattern": "bring.*back",
+   "excerpt": "One time I was playing with my kids and forgot what I was doing, and fucked around and jumped off in the deep end. And that water bring your memory back\u2026 like that. I didn\u2019t even get a chance to get mother [sound effect]."
+  },
+  {
+   "comedian": "richard-pryor-live-sunset-strip",
+   "pattern": "call.*back",
+   "excerpt": "But in real life we all know\u2026 a shotgun. Your hand will automatically jump behind your back. Even it you don\u2019t want it to."
+  },
+  {
+   "comedian": "richard-pryor-live-sunset-strip",
+   "pattern": "call.*back",
+   "excerpt": "Who is it, Carmine? Tell him I call him back. Tell him it\u2019s a stickup.\u201d Then these motherfuckers start tellin\u2019 murder stories."
+  },
+  {
+   "comedian": "ricky-gervais-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "I made Fat Linda cry today. Oh.\u201d [audience laughing] \u201cOh, what happened?\u201d \u201cI just shouted out to her, then I remembered we only call her that behind her back.\u201d [audience laughing] I\u2019m sure people didn\u2019t get offended all the time when I was little. I might be remembering it wrong, but not grownups."
+  },
+  {
+   "comedian": "robin-williams-weapons-self-destruction",
+   "pattern": "call.*back",
+   "excerpt": "[laughter and applause] It works. After two hours she thinks she\u2019s talking to your long-lost cousin Carl, and the fucking telemarketers will NEVER call back again. [laughter] And it\u2019s weird too, \u2019cause I had open heart surgery which lets you know exactly what the fuck it is\u2013 open heart."
+  },
+  {
+   "comedian": "ron-white-if-you-quit-listening-i-ll-shut-up",
+   "pattern": "call.*back",
+   "excerpt": "It happened ten years before, but I still had his office number in my phone, and my wife said I was a dick for doing this, but as soon as I found out he died, I called his office, I said, \u201cI\u2019d like to speak to John Mayhew, please.\u201d The lady goes, \u201cI\u2019m very sorry to tell you, but Mr. Mayhew passed away.\u201d I said, \u201cOkay,\u201d and I called her right back and said, \u201cI\u2019d like to speak to John Mayhew, please"
+  },
+  {
+   "comedian": "ron-white-little-unprofessional",
+   "pattern": "bring.*back",
+   "excerpt": "And you finally get to the place Where the knowledge you seek is supposed to be, And it might not fuckin\u2019 be there. \u201cWhere\u2019s the knowledge that i seek?\u201d \u201cYeah, somebody else has got it.\u201d \u201cWhen are they gonna bring it back?\u201d \u201cThey keep it for a month for a nickel.\u201d \u201cHow am I supposed to learn what i need to know?\u201d \u201cYou asked your mother?\u201d \u201cMy mother doesn\u2019t know how to work a projector. She\u2019s in de"
+  },
+  {
+   "comedian": "stewart-lee-90s-comedian",
+   "pattern": "call.*back",
+   "excerpt": "And the first one in was from an American comic called Jackie Kashian that I\u2019d worked with in Perth in June. And it was just one line, it just said, \u2018Are you all right?\u2019 So I emailed back, \u2018Yes, fine thanks, how are you?\u2019 And the next one was from a New Zealand comic called Ben Hurley who I\u2019d worked with in Auckland in May, same thing, one line, \u2018Are you all right?\u2019 So I emailed back, \u2018Yes, fine t"
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "callback",
+   "excerpt": "\u201d People, \u201cYeah! Brilliant.\u201d (LAUGHTER) Callback in French. Applause."
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "callback",
+   "excerpt": "(LAUGHTER) \u201cJe saignat de mon anus, \u201d right? That is a callback to the idea that you put a bit about rectal bleeding on the end of a joke to\u2026 \u201cJe saignat de mon anus\u201d that\u2019s, \u201cI\u2019m bleeding from my anus\u201d in French, right? And it was about three minutes ago, the set-up for that."
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "callback",
+   "excerpt": "(LAUGHTER) I\u2019ll get some footage from Michael McIntyre\u2019s video, cut it in. (LAUGHTER) Okay, the worry is, though, that there is a whole second half to come, right, (LAUGHTER) and that was just three minutes, that callback. And the problem is the second half is all things that relate back to the first half."
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "call.*back",
+   "excerpt": "Right, in the second half, right, there\u2019s going to be\u2026 This\u2019ll take a minute, right? There\u2019s going to be two more jokes about Deacon Blue, the \u201980s Scottish\u2026 Right, they\u2019re not hilarious jokes, right, but what they are, they\u2019re what we call \u201ccall-backs\u201d and they tie back to the earlier mention of Deacon Blue and they give the show the illusion of structure, right? Which is what raises us above the"
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "bring.*back",
+   "excerpt": "You are right to clap. So what you do there, you get a problem, it\u2019s not a problem, you store it away, bring it back later on. I know you\u2019re laughing, the people up there, they\u2019re going, \u201cNo-one could be that good."
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "bring.*back",
+   "excerpt": "# Behind the wizard\u2019s curtain # With Stewart Lee # He is going to show you all # The secrets of comedy # Well, what would you do if a woman said \u00a35 # When you were hoping that she\u2019d say 50p? # Would you squirrel it away at the back of your head # And bring it back in later on instead? # Yeah!"
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "call.*back",
+   "excerpt": "So the first night I thought I\u2019d hang out in my hotel room, but it was so far away from the venue that I only had enough time to walk back to my room\u2026 stand like this for two minutes\u2026 and then head back to the Comedy Club. The rest of the time, I thought, \u201cI\u2019ll just sit in the back corner of the club,\u201d hang out between the shows, \u201cand just kill time having a glass of water.\u201d I\u2019m sitting there and "
+  }
+ ],
+ "button": [
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "end.*show",
+   "excerpt": "[laughter] And it got me thinking, like, \u201cMan. It\u2019s so hard to have that level of a good time.\u201d Like you guys tomorrow are going to go to work, and your friends are like, \u201cHow was the show?\u201d You\u2019re not gonna go like\u2026 [laughter] No one at home is gonna be like, \u201cYeah, you know what\u2026\u201d Your spouse or whoever comes in the room, and it\u2019s like, \u201cHow was his stand-up special?\u201d And you\u2019re like\u2026 [laughter]"
+  },
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "end.*show",
+   "excerpt": "[cheering] I put a lot of thought into this special, of what I\u2019m gonna wear. I went with, uh, what I wear every day, so\u2026 Part of me wanted to wear a cape\u2026 just at the punchline so I could do shit like\u2026 [crowd whoops] I wanted to wear a cape so that, like, uh, when you guys are, like\u2013 you\u2019re here and you\u2019re like, \u201cMan, he\u2019s wearing a cape, that\u2019s funny, he\u2019s definitely gonna talk about the cape.\u201d A"
+  },
+  {
+   "comedian": "adam-devine-kaggle-corpus",
+   "pattern": "goodnight",
+   "excerpt": "I love you. Goodnight! [cheering] [woman] You want a ham sandwich?"
+  },
+  {
+   "comedian": "andrew-santino-kaggle-corpus",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "You got an Accord for a Civic, it\u2019s the same car. Guy\u2019s like, \u201cNo, this one doesn\u2019t have the N-word button on it.\u201d Yes, it does. It\u2019s underneath the thing."
+  },
+  {
+   "comedian": "bill-burr-i-m-sorry-you-feel-that-way",
+   "pattern": "end.*show",
+   "excerpt": "Like how am I supposed to enjoy heaven if that\u2019s the deal, right? Just sitting here, waiting for my friends to show up, \u201cJesus Christ, where the hell are they? It\u2019s been, like, 150 years!"
+  },
+  {
+   "comedian": "bill-burr-let-go",
+   "pattern": "end.*show",
+   "excerpt": "I don\u2019t want to freak you out, all right, because I did that joke when I was down in the BIBLE BELT, and I was down south, and this girl took me really seriously. She came up to me at the end of the show, and she\u2019s like, \u201cyou\u2019re not really thinking about doing something like that, are you? You\u2019re not really\u2026\u201d and I was like, \u201cNo, no, no."
+  },
+  {
+   "comedian": "bill-burr-live-at-red-rocks",
+   "pattern": "end.*show",
+   "excerpt": "Yeah. And he was getting a proper send-off for about eight minutes on Twitter, and then the first hairy-leg white chick shows up, right? And she\u2019s just gotta be like, \u201cReally?"
+  },
+  {
+   "comedian": "bill-burr-live-at-red-rocks",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "It\u2019s so goddamn smart that one time I was in there, I had all the lights up because we were gonna watch a movie, but the TV\u2019s so smart, as I\u2019m pressing \u201con\u201d\u2026 which you don\u2019t even do. Don\u2019t hit the \u201con\u201d button. You hit the \u201con\u201d button, that fucks it up, you gotta press two other buttons."
+  },
+  {
+   "comedian": "bill-burr-live-at-red-rocks",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Don\u2019t hit the \u201con\u201d button. You hit the \u201con\u201d button, that fucks it up, you gotta press two other buttons. \u201cOh, is that what I gotta do?"
+  },
+  {
+   "comedian": "bill-burr-philadelphia-incident",
+   "pattern": "end.*show",
+   "excerpt": "I hope that happens to you. I hope the glass gets fuckin into your fuckin shoulder blades and then I see you afterwards \u201cHey how\u2019s it going\u201d [simulates slapping a good friend in the back] Enjoy the fuckin show? That\u2019s great."
+  },
+  {
+   "comedian": "bill-burr-walk-your-way-out",
+   "pattern": "closer",
+   "excerpt": "I\u2026 I can\u2019t hear you, sweetheart. You\u2019ve got to come closer.\u201d She walked halfway to the bed. She was nodding her head, going\u2026 Big, like, The Grudge eyes."
+  },
+  {
+   "comedian": "bill-burr-walk-your-way-out",
+   "pattern": "closer",
+   "excerpt": "She was nodding her head, going\u2026 Big, like, The Grudge eyes. I\u2019m just\u2026 \u201cYou\u2019ve got to come closer.\u201d She walks up to the bed. I was like, \u201cI couldn\u2019t hear you, sweetheart."
+  },
+  {
+   "comedian": "bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca",
+   "pattern": "closer",
+   "excerpt": "We\u2019ll do it later. We\u2019ll do it as a closer. Shit, man."
+  },
+  {
+   "comedian": "bill-hicks-relentless",
+   "pattern": "goodnight",
+   "excerpt": "There is no such thing as death, life is only a dream and we are the imagination of ourselves\u2026 \u2026Here\u2019s Tom with the weather.\u201d You guys are great, thank you very much. Goodnight."
+  },
+  {
+   "comedian": "bill-hicks-revelations",
+   "pattern": "ending.*set",
+   "excerpt": "CUT: the Dark Rider throws a lighted match into an oil drum full of newspapers. VO: And in my heart of hearts, I still track the remnants of that dream, wherever I go, on my never-ending ride into the setting sun. CUT: zoom in on flames FADE: to a picture of the moon against a black background An opening appears in the black background."
+  },
+  {
+   "comedian": "bill-hicks-revelations",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "\u201cBill, it was just, you know, hur, taking over of democracy by a totalitarian government, let it go.\u201d That\u2019s another good thing about Bush being gone, man, cos for the last 12 years with Reagan and Bush, we have had fundamentalist Christians in the White House. Fundamentalist Christians who believe the Bible is the exact word of God, including that wacky fire and brimstone Revelations ending, have"
+  },
+  {
+   "comedian": "bill-hicks-revelations",
+   "pattern": "goodnight",
+   "excerpt": "If we play to that and then separate them into the trapped dollar\u2026\u201d How do you live like that? And I bet you sleep like fucking babies at night, don\u2019t you?\u201d \u201cWhat didya do today honey?\u201d \u201cOh, we made ah, we made ah arsenic a childhood food now, goodnight.\u201d [snores]\u201dYeah we just said you know is your baby really too loud? You know,\u201d [snores] \u201cYeah, you know the mums will love it.\u201d [snores] Sleep lik"
+  },
+  {
+   "comedian": "chris-rock-never-scared-2004",
+   "pattern": "closer",
+   "excerpt": "You had to put on shades just to look at your pussy. Put a little sticker next to your pussy \u2013 \u201cobjects in pussy may appear closer than they actually are.\u201d Nobody gets you ready for this shit. That\u2019s right, fellas, once you get married, no more blow jobs."
+  },
+  {
+   "comedian": "chris-rock-tamborine",
+   "pattern": "closer",
+   "excerpt": "Oh, he stabbed somebody else. Oh, he getting closer. Oh, he stabbed me."
+  },
+  {
+   "comedian": "chris-rock-tamborine",
+   "pattern": "closer",
+   "excerpt": "Ok? I\u2019ve never heard a woman in my life say, \u201cYou know, after he got laid off, we got so much closer.\u201d No, no, no. I once heard my grandmother say, \u201cA broke man is like a broke hand."
+  },
+  {
+   "comedian": "chris-rock-total-blackout-the-tamborine-extended-cut",
+   "pattern": "end.*show",
+   "excerpt": "It\u2019s like\u2026  Chris Rock Total Blackout: The Tamborine Extended Cut [audience cheering] Chris Rock! [\u201cBackseat Freestyle\u201d by Kendrick Lamar playing] \u266a Uh, Martin had a dream \u266a \u266a Martin had a dream \u266a \u266a Kendrick have a dream \u266a \u266a All my life I want money and power \u266a \u266a Respect my mind Or die from lead shower \u266a \u266a I pray my dick Get big as the Eiffel Tower \u266a     \u266a So I can fuck the world for 72 hours \u266a \u266a "
+  },
+  {
+   "comedian": "chris-rock-total-blackout-the-tamborine-extended-cut",
+   "pattern": "closer",
+   "excerpt": "What, you just watching this shit? \u201cOh, shit, somebody got stabbed.\u201d \u201cOoh, they stabbed somebody else.\u201d \u201cOoh, they stabbed somebody else.\u201d \u201cOoh, they getting closer.\u201d \u201cOoh, he stabbed me. I didn\u2019t see that coming.\u201d \u201cOoh, he stabbed the lady behind me.\u201d \u201cHe\u2019s a stabbing fool."
+  },
+  {
+   "comedian": "chris-rock-total-blackout-the-tamborine-extended-cut",
+   "pattern": "closer",
+   "excerpt": "A man is only loved under the condition that he provides something, okay? I\u2019ve never heard a woman in my life say, \u201cYou know, after he got laid off, we got so much closer.\u201d [laughs sarcastically] You ain\u2019t never heard that shit. No, no, no."
+  },
+  {
+   "comedian": "dave-chappelle-846",
+   "pattern": "goodnight",
+   "excerpt": "[applause] I love you very much, thank you for being here. Goodnight. [applause] \u266b Nobody Speak by DJ Shadow feat."
+  },
+  {
+   "comedian": "dave-chappelle-acceptance-speech-2019-mark-twain-prize",
+   "pattern": "goodnight",
+   "excerpt": "So, in the future, on Dave Chappelle Day, I ask everyone who wishes to celebrate it to make one incredible memory for themselves, and/or somebody else. Thank you very much, goodnight."
+  },
+  {
+   "comedian": "dave-chappelle-age-spin-2017",
+   "pattern": "end.*show",
+   "excerpt": "And you know, I\u2019ve met OJ Simpson on four different occasions in my life. And before the end of the show, I will tell you about each of those occasions. The first time I met OJ Simpson, I was in Santa Monica."
+  },
+  {
+   "comedian": "dave-chappelle-age-spin-2017",
+   "pattern": "end.*show",
+   "excerpt": "Juice.\u201d Standing beside him, was\u2013 I don\u2019t know the nice way to say this\u2013 his soon-to-be-slain wife. Ladies and gentlemen, man the fuck up, or you\u2019re not gonna make it to the end of this show. Just man the fuck up."
+  },
+  {
+   "comedian": "dave-chappelle-equanimity-2017",
+   "pattern": "end.*show",
+   "excerpt": "I didn\u2019t even think anything of it. And then, just three days later, this lady sends a fucking letter to my promoter telling him not to book me for shows anymore because I was quote \u201cracist.\u201d Huh? And\u2026 And I\u2019m quoting her, \u201cinsensitive to the nature of my interracial marriage.\u201d I was like, \u201cWord, bitch, I was?\u201d If she had just done a little bit of research\u2026 She would know that I myself am in an in"
+  },
+  {
+   "comedian": "dave-chappelle-sticks-stones-epilogue-punchline",
+   "pattern": "end.*show",
+   "excerpt": "I thought you was dead, n i g g a. I\u2019ll come by.\u201d He said\u2026 He says, \u201cIs it okay if I bring some friends \u2019cause I\u2019m with a lot of people.\u201d I go, \u201cMan, you\u2019re Chris Tucker, you can bring whoever the fuck you want.\u201d And then I show up to the club\u2026 late that night. I walk into the dressing room, and sitting in the dressing room\u2026 is, uh, Gavin Newsom, who at the time was the mayor of San Francisco, but"
+  },
+  {
+   "comedian": "dave-chappelle-the-bird-revelation-2017",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "In this program, one of the many things they did was they would track the sexual habits of anyone they considered an enemy of the state. It\u2019s a loop button. That\u2019s why they\u2019ve got all these fucking sex tapes with Martin Luther King fucking bitches."
+  },
+  {
+   "comedian": "dave-chappelle-the-closer",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Took a nasty spill onstage, and said some\u2026 said some wild stuff about the LBGTQ community during a concert in Florida. Now you know, I go hard in the paint but even I saw that shit was like, \u201cGod damn, DaBaby.\u201d He pushed the button, didn\u2019t he? He pushed the button."
+  },
+  {
+   "comedian": "dave-chappelle-the-closer",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Now you know, I go hard in the paint but even I saw that shit was like, \u201cGod damn, DaBaby.\u201d He pushed the button, didn\u2019t he? He pushed the button. Punched the LBGTQ community, right in the AIDS."
+  },
+  {
+   "comedian": "dave-chappelle-the-closer",
+   "pattern": "end.*show",
+   "excerpt": "All of them questions that you think about that you\u2019d be afraid to ask, I was just asking them and she was answering them and her answers were funny as shit. The crowd was falling out of their chairs and at the end of the show, I go, \u201cWell, Daphne\u201d\u2026 I said \u201cWell, that was fun.\u201d I go, \u201cI love you to death, but I have no fuckin\u2019 idea what you\u2019re talking about.\u201d The whole crow laughed except for Daph"
+  },
+  {
+   "comedian": "dave-chappelle-whats-in-a-name",
+   "pattern": "closer",
+   "excerpt": "It is one of the attractions: when it ceases to be dangerous you don\u2019t want it. Duke Ellington Amid the controversy of Dave Chappelle\u2019s Netflix release \u201cThe Closer,\u201d Duke Ellington School of the Arts resolved to name its newly renovated theatre \u201cDave Chappelle Theatre.\u201d\n The following is Dave\u2019s acceptance speech for that honor\u2026 [Dave Chappelle] This\u2026 is\u2026 surreal. [cheering and applause] In 1987\u2026 1"
+  },
+  {
+   "comedian": "dave-chappelle-whats-in-a-name",
+   "pattern": "closer",
+   "excerpt": "That audition was like a\u2013 a possession, it was just something that I was proud to have. But as the days got closer, I\u2019m like, \u201cOh, my God, I gotta get\u2013 I gotta get something together.\u201d I didn\u2019t even know how to do an audition, And I had never done it before, so I went and I said\u2013 I said, \u201cWhat do I need?\u201d They said, \u201cA monologue,\u201d I\u2026 So I looked up \u201cmonologue.\u201d And I went to the library, the MLK L"
+  },
+  {
+   "comedian": "dave-chappelle-whats-in-a-name",
+   "pattern": "closer",
+   "excerpt": "And then one day I was in Panama City, Panama, and I was in a hotel, and I looked at the lobby, there was a\u2013 a painting of Abraham Lincoln. Was\u2013 And then\u2013 I would look closer, it wasn\u2019t a painting, it was all pennies, just pennies on a black canvas, arranged into the face of Abraham Lincoln. And I asked the guy, I said, \u201cHow much is that painting worth?\u201d He said, \u201c$600,000, sir.\u201d And I looked at t"
+  },
+  {
+   "comedian": "drew-micheal-kaggle-corpus",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Are you out of your fucking mind? You want us all to click a Start button and run clunky .exe files just so one girl can open her gifts next to the guy who paid for them? Fuck that!"
+  },
+  {
+   "comedian": "eddie-izzard-dress-to-kill",
+   "pattern": "end.*show",
+   "excerpt": "But she\u2019s dead now, so\u2026 No, she was in LA in a car with Engelbert Humperdinck. So that\u2019s the end of my show. I do like to end the show with a kind of \u201coh\u201d feeling."
+  },
+  {
+   "comedian": "eddie-izzard-dress-to-kill",
+   "pattern": "end.*show",
+   "excerpt": "So that\u2019s the end of my show. I do like to end the show with a kind of \u201coh\u201d feeling. And, er\u2026 And I think I\u2019ve done that quite well."
+  },
+  {
+   "comedian": "eddie-izzard-eddie-izzard-glorious",
+   "pattern": "end.*show",
+   "excerpt": "Scully always there, she\u2019s so, \u201cLook, Mulder, \u201cI don\u2019t believe that Martians with big elbows are taking over the world.\u201d \u201cThere\u2019s tons of files on that thing, Scully. You\u2019ve got to read these files.\u201d By the end of the show there\u2019s Martians with big elbows everywhere. She\u2019s swatting them off with a tennis racket, \u201cI believe you, Scully!"
+  },
+  {
+   "comedian": "eddie-izzard-eddie-izzard-glorious",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "The same people who make toasters make showers. For they have a turny button too, that lies. For we know turn, turn, turn for hot."
+  },
+  {
+   "comedian": "eddie-izzard-eddie-izzard-glorious",
+   "pattern": "end.*show",
+   "excerpt": "So that was the end of that plane flight. And that is also the end of the show. Thank you very much for being here."
+  },
+  {
+   "comedian": "eddie-izzard-stripped",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "If you have a PC computer, I think it\u2019s a similar thing. You press the on button and then there\u2019s a crank. You have to crank it."
+  },
+  {
+   "comedian": "eddie-izzard-stripped",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "\u201dYou can come, \u2019cause I\u2026 Rumpy-pumpy. \u201dAnd Iet\u2019s eat him.\u201d That would be dinosaurs ruIing the Earth, but I noticed from the fiIms that they seem to just get up in the morning and go\u2026 (ROARING) With a look of\u2026 Not bright as a button, you know. A few sandwiches short of a picnic."
+  },
+  {
+   "comedian": "eddie-izzard-stripped",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "And he wouldn\u2019t actually wake you up, would he? He\u2019d be like a permanent snooze button. \u201dAnd now it\u2019s 6:00 a.m."
+  },
+  {
+   "comedian": "eddie-izzard-unrepeatable",
+   "pattern": "outro",
+   "excerpt": "I\u2019m Dr. Boutros Boutros-Ghali\u2019s small kid. We\u2019ll also be sending in two small kids with blue hats on to check the dismantling of your sweet-eating apparatus.\u201d So there\u2019s a lot of gay and lesbian people around, and that\u2019s groovy, and they have \u2013 what they\u2019ve done is they separated sex and sexuality from what you do for a living."
+  },
+  {
+   "comedian": "eddie-izzard-unrepeatable",
+   "pattern": "closer",
+   "excerpt": "(chuckles) It\u2019s not like sometimes bees watch television, but they do, when they fly by, you know, and they go by a telly, and they just stop\u2026 (buzzing sound) \u2018Cause, you know, they\u2019ve seen it, or it\u2019s a repeat, or something. I\u2019m interested in television, even though I only rarely go on television to say that I\u2019m not going on television that I am on television, because\u2026 (sotto voce) which is worki"
+  },
+  {
+   "comedian": "eddie-izzard-unrepeatable",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "\u201cCaptain, it\u2019s Starfleet Command on finger three.\u201d (swiveling around in chair and switching fingers) \u201cIt\u2019s the Klingons on finger two, Captain. It\u2019s your Mom on finger four.\u201d And Spock- no, Kirk, Captain Kirk, in the big swiveling chair, he\u2019d keep records, press a button and go, \u201cCaptain\u2019s log \u2013 Supplemental Bidoo-bidoo-bidoo, that\u2019s all.\u201d He\u2019d sign a lot of clipboards all day \u2013 \u201cThank you very mu"
+  },
+  {
+   "comedian": "eddie-murphy-raw",
+   "pattern": "goodnight",
+   "excerpt": "He be like, \u201cOkay, I\u2019ll wait. \u201cGoodnight.\u201d And you wait. You wait three months."
+  },
+  {
+   "comedian": "george-carlin-1978",
+   "pattern": "goodnight",
+   "excerpt": "See you later. Thank you all, and goodnight, I love you, and fuck you."
+  },
+  {
+   "comedian": "george-carlin-carlin-campus-1984",
+   "pattern": "closer",
+   "excerpt": "Uh, first of all, when you\u2019re driving, let\u2019s all keep in mind, when you\u2019re driving and you come to the scene of an accident, for God sakes, slow down and try to find out what\u2019s going on. And if you can\u2019t see enough, ask the policeman to bring the bodies over a little closer to your car. Say, would you bring them over here?"
+  },
+  {
+   "comedian": "george-carlin-carlin-campus-1984",
+   "pattern": "closer",
+   "excerpt": "My wife has never seen a man shaped in quite that manner. That\u2019s what they\u2019re here for, to protect, to serve and to bring the bodies over a little closer to the car. And the other thing which we\u2019ve all heard a million times but it bears repeating, drinking and driving simply do not mix, so do your drinking early and get it out of the way, and then go driving."
+  },
+  {
+   "comedian": "george-carlin-carlin-campus-1984",
+   "pattern": "closer",
+   "excerpt": "Someone standing right next to you on line, that guy is a real asshole, you know? The closer they are, the nicer they get, you know? Have you ever been talking to someone and a little bit of spit flies off your tongue and lands right on the man\u2019s nose?"
+  },
+  {
+   "comedian": "george-carlin-complaints-grievances",
+   "pattern": "closer",
+   "excerpt": "So let them tell the police what happened. They were a lot closer to it than you were. There\u2019s no sense having two conflicting stories floating around about the same dumb ass traffic accident."
+  },
+  {
+   "comedian": "george-carlin-complaints-grievances",
+   "pattern": "closer",
+   "excerpt": "If I\u2019m going to take the time to stop I expect a couple of fucking laughs. And if my car should happen to be in such a position where I can\u2019t quite see what\u2019s going on can\u2019t get a good enough look I\u2019m not the least bit shy about asking the police to bring the bodies over a little closer to the car. Pardon me."
+  },
+  {
+   "comedian": "george-carlin-complaints-grievances",
+   "pattern": "closer",
+   "excerpt": "Officer. Would you fellows mind dragging that twisted looking chap over here a little closer to the car please? My wife has never seen anyone shaped quite like that."
+  },
+  {
+   "comedian": "george-carlin-its-bad-for-ya",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "And when I was a kid, I would go to the St. Patrick\u2019s Day parade, and I noticed that they sold a button that said \u201cProud to be Irish.\u201d And I could never understand that because I knew that on Columbus Day, they sold a different button that said \u201cProud to be Italian.\u201d Then came black pride and Puerto Rican pride. And I could never understand ethnic or national pride because, to me, pride should be "
+  },
+  {
+   "comedian": "george-carlin-its-bad-for-ya",
+   "pattern": "closer",
+   "excerpt": "You\u2019re on your own. Which is a little bit closer to the truth. Here\u2019s a\u2026here\u2019s a civic custom that I don\u2019t understand."
+  },
+  {
+   "comedian": "george-carlin-jamming-new-york-1992",
+   "pattern": "closer",
+   "excerpt": "EXPLOSIONS ARE FUN!!! And hey, the closer the explosion is to your house, the more fun it is! Did you ever notice that?"
+  },
+  {
+   "comedian": "george-carlin-playing-head-1986",
+   "pattern": "goodnight",
+   "excerpt": "Thank you. Goodnight everybody. Thank you all very much."
+  },
+  {
+   "comedian": "george-carlin-playing-head-1986",
+   "pattern": "goodnight",
+   "excerpt": "Thank you very much. Goodnight now. You hear that guys?"
+  },
+  {
+   "comedian": "george-carlin-what-am-i-doing-in-new-jersey",
+   "pattern": "closer",
+   "excerpt": "I guess those are the two extremes in thought. It would seem to me that somewhere in between \u2018Live free or die\u2019 and \u2018Famous potatoes\u2019 the truth lies probably it\u2019s a little closer to famous potatoes. But that\u2019s just one fellow\u2019s opinion."
+  },
+  {
+   "comedian": "george-carlin-you-are-all-diseased",
+   "pattern": "end.*show",
+   "excerpt": "Maybe a little more frequently over the holidays, you know what I mean? And I\u2019ll tell you something else my well-scrubbed friends\u2026 you don\u2019t need to always need to shower every day, did you know that? It\u2019s overkill, unless you work out or work outdoors, or for some reason come in intimate contact with huge amounts of filth and garbage every day, you don\u2019t always need to shower."
+  },
+  {
+   "comedian": "george-carlin-you-are-all-diseased",
+   "pattern": "end.*show",
+   "excerpt": "And that was interesting, I thought, cause she had on the high heels and the long dress, and it was fun to watch how she had to maneuver through the poison sumac, and they didn\u2019t have toilet paper in those days, she had to use a series of pinecones, and she was pulling them in the wrong direction! Yes, I understand toward the end of the show, they had to bleep out a lot of screaming and foul langu"
+  },
+  {
+   "comedian": "jerry-seinfeld-23-hours-to-kill",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "I wake up in the morning, and I stand behind the podium, tryin\u2019 to answer all my wife\u2019s questions and get on with the goddamn day. I got a hand button-clicker. \u201cI\u2019ll take \u2018Movies I Think We Saw Together\u2019 for 200.\u201d My wife, of course, is the returning champion from last week."
+  },
+  {
+   "comedian": "jerry-seinfeld-23-hours-to-kill",
+   "pattern": "closer",
+   "excerpt": "How \u2019bout that one? Am I gettin\u2019 closer? \u201cIt\u2019s your tone.\u201d \u201cMy tone?\u201d \u201cYes, your tone.\u201d \u201cWhat\u2019s wrong with my tone?\u201d \u201cI don\u2019t like your tone.\u201d \u201cWhat do you want me to\u2026?\u201d \u201cYou better change your tone!\u201d Ever heard that?"
+  },
+  {
+   "comedian": "jerry-seinfeld-23-hours-to-kill",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Give me a cowboy hat with a beer on each side and a feeding tube comin\u2019 down. Give me a dog leash with an extra leash wound up in it, in case the dog pulls it, I hit the button, let the line out like he\u2019s a marlin. I go into a public restroom, I expect a motion detector on the toilet, sink, urinal."
+  },
+  {
+   "comedian": "jerry-seinfeld-im-telling-you-for-the-last-time",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Clothing to me, for the most part, is just such a tremendous pain in the ass. If you think of the amount of time, mental effort, physical energy, that goes into your clothes: picking\u2019em, buying\u2019em, does that go with that I don\u2019t think I can wear that, I\u2019m missing a button, this is dirty, I gotta get something new, that\u2019s up my ass, can\u2019t wear this\u2026 I think we should all wear the same exact clothes"
+  },
+  {
+   "comedian": "john-mulaney-comeback-kid",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Based on my ten-year-old memory, Bill Clinton is about 13 feet tall. And he leaned down, because, well, I was wearing this button that I bought outside the fundraiser. It was a cartoon button of George H."
+  },
+  {
+   "comedian": "john-mulaney-comeback-kid",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "And he leaned down, because, well, I was wearing this button that I bought outside the fundraiser. It was a cartoon button of George H. W."
+  },
+  {
+   "comedian": "john-mulaney-comeback-kid",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "And it said, \u201cBird-brained.\u201d And I thought it was very funny. And Bill Clinton leaned down so that only I could hear and he said, \u201cHey, man, I like your button.\u201d And I said, \u201cYou can do whatever you want forever.\u201d And he took my advice. And\u2026 it was the best night of my entire life."
+  },
+  {
+   "comedian": "john-mulaney-kid-gorgeous-at-radio-city",
+   "pattern": "goodnight",
+   "excerpt": "\u266a The bread of bread is bread \u266a \u266a Bread is God is bread \u266a It\u2019s just dads singing so loud, thinking that\u2019ll somehow get their kids to sing. \u266a Bread is God is bread \u266a \u266a Is God is bread \u266a \u266a Is God is bread\u2026 \u266a \u201cSing, goddamn it!\u201d My dad once grabbed me by the shirt and lifted me up during church and said, \u201cGod can\u2019t hear you.\u201d [audience laughing] Goodnight, New York. Thank you very much."
+  },
+  {
+   "comedian": "john-mulaney-new-town",
+   "pattern": "closer",
+   "excerpt": "11 up and 1 over, you simple bitch!!\u201d [audience laughs and applauds] [John returns to his normal voice and demeanor and raises an arm in a sweeping motion] That\u2019d be my big joke. That\u2019d be the closer. If I was a Def Jam comic when that movie came out."
+  },
+  {
+   "comedian": "kevin-hart-irresponsible",
+   "pattern": "last.*joke",
+   "excerpt": "[accelerated heartbeats] [audience cheers rising] Showtime! [thunderbolt] My last joke just went viral! [Kendrick Lamar\u2019s \u201cHumble\u201d starts] \u266a Right stroke put lil\u2019 baby in a spiral \u266a Soprano C We like to keep it on a high note \u266a \u266a Its levels to it, you and I know \u266a \u266a Bitch, be humble Sit down \u266a God dammit, London y\u2019all can do better than that."
+  },
+  {
+   "comedian": "kevin-hart-irresponsible",
+   "pattern": "end.*show",
+   "excerpt": "I don\u2019t. I was about to be, I was about to be that guy until my best friend, Harry, showed up in my house with his two-year-old baby. Harry\u2019s got a two-year-old baby."
+  },
+  {
+   "comedian": "kevin-hart-irresponsible",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "When it takes off, my stomach immediately falls in my ass, immediately! My belly button and my ass-hole was touching. It was doing this."
+  },
+  {
+   "comedian": "kevin-hart-let-me-explain",
+   "pattern": "closer",
+   "excerpt": "This deer is about to eat the baby!\u2019 That\u2019s what I\u2019m thinking, right? But then I looked closer, I noticed the front part of the deer was a deer, the back half was a zebra. It was half deer, half zebra."
+  },
+  {
+   "comedian": "kevin-hart-let-me-explain",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "So I get back to the car, turns out, the baby that I thought was a baby wasn\u2019t a baby. It was a grown-ass man with Benjamin Button disease. Let me tell you how I figured this out."
+  },
+  {
+   "comedian": "kevin-hart-let-me-explain",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "I said, \u2018Goddamn!\u2019 He said, \u2018I got a disease. I was like, \u2018You got that Benjamin Button. He was like, \u2018Where\u2019s my deerbra?"
+  },
+  {
+   "comedian": "kevin-hart-seriously-funny",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Hey, love button. Hey, love button. Hey, I got a little bit of juice left."
+  },
+  {
+   "comedian": "kevin-hart-zero-f",
+   "pattern": "closer",
+   "excerpt": "Balls in the trash after this baby. My daughter and I are closer than we\u2019ve ever been. My daughter\u2019s boy crazy."
+  },
+  {
+   "comedian": "kevin-hart-zero-f",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "There are no give-a-f*cks! \u201cGo!\u201d I\u2019m excited for you to leave so I can eat chips off my belly button. I don\u2019t give a f*ck."
+  },
+  {
+   "comedian": "kevin-hart-zero-f",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "There\u2019s nobody there. I start pressing the help button. \u201cHelp!\u201d \u201cHelp!"
+  },
+  {
+   "comedian": "louis-c-k-2017",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "[audience laughing] Not supposed to talk about suicide, even to your shrink. You ever go to a shrink and they\u2019re like, \u201cHave you had thoughts\u2026 of suicide?\u201d And you\u2019re like, \u201cNo, because if I say yes, you\u2019ll press a button\u201d, and folks will run in and hold me\u2026 \u201cHold him down!\u201d You should talk about it. The whole world is just made of people who didn\u2019t kill themselves today."
+  },
+  {
+   "comedian": "louis-c-k-2017",
+   "pattern": "closer",
+   "excerpt": "Fuck, I shouldn\u2019t have looked at it. \u201cBring it closer. I don\u2019t know what I\u2019m gonna do, but bring it closer, please.\u201d [sniffs] [audience laughing] [grunting] [kisses] I think, at that point, you put it in your mouth, right?"
+  },
+  {
+   "comedian": "louis-c-k-2017",
+   "pattern": "closer",
+   "excerpt": "\u201cBring it closer. I don\u2019t know what I\u2019m gonna do, but bring it closer, please.\u201d [sniffs] [audience laughing] [grunting] [kisses] I think, at that point, you put it in your mouth, right? If you\u2019re looking at the best dick ever, and you\u2019re not sure\u2026 you wanna suck it, just put it in your mouth."
+  },
+  {
+   "comedian": "louis-c-k-chewed-up",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "It was a cool indie place, I don\u2019t like Starbucks anymore because they don\u2019t care anymore. They just press a button and some old lady\u2019s diarrhea comes out and they just give it to you. So I go to a young people\u2019s cool coffee place with all the band\u2019s playing notice on the walls, it\u2019s called like \u201cThe Howling Dew\u201d or something."
+  },
+  {
+   "comedian": "louis-c-k-hilarious-2010",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "The going out to get laid guys. They all got the same button-up, stripy, going out to get laid shirt on. They all got the same stride, and there\u2019s one short guy behind them like- and they- they\u2019re all out to get- Like, who\u2019s gonna fuck all nine of you?"
+  },
+  {
+   "comedian": "louis-c-k-hilarious-2010",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Stupid.\u201d What the fuck Are you complaining about? You push a button and money Comes out a fucking slot. It didn\u2019t used to be that way."
+  },
+  {
+   "comedian": "louis-c-k-hilarious-2010",
+   "pattern": "closer",
+   "excerpt": "Or turn them down. Sorry to fuck up The entire show for that, But I could hear- \u201cGet closer to him. \u201cNo, it\u2019s okay, it\u2019s fine."
+  },
+  {
+   "comedian": "louis-c-k-live-at-the-beacon-theatre-2011",
+   "pattern": "closer",
+   "excerpt": "It should be, \u201cLook how big I drew the dog in this book.\u201d \u201cIsn\u2019t that a mistake?\u201d There\u2019s no story. You maybe even just drew him closer to the page. I don\u2019t even know if you did it honestly."
+  },
+  {
+   "comedian": "louis-c-k-live-at-the-comedy-store-2015",
+   "pattern": "end.*show",
+   "excerpt": "That\u2019s all of it. \u2018Cause we all have to go to the show at the end of the tap dancing semester, and they have a big theater show and all the kids get up there, they all tap dance in groups of threes. There\u2019s about 6,000 kids."
+  },
+  {
+   "comedian": "louis-c-k-snl-monologue-2015",
+   "pattern": "finale",
+   "excerpt": "Well, thank you very much for being here. This is the 40th year of this show\u2019s existence and this is the finale so I\u2019m very honored honestly to be asked to host it. So thanks and I\u2019m glad you guys are here."
+  },
+  {
+   "comedian": "louis-ck-snl-monologue-s38e06-2012",
+   "pattern": "end.*show",
+   "excerpt": "Because, then I\u2019d be SET! I could find an old lady, and spend the rest of her life with her\u2026 We\u2019ve got a great show, folks! Fun is here."
+  },
+  {
+   "comedian": "marlon-wayans-kaggle-corpus",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "I am so scared of n*ggas with outie belly buttons. It\u2019s just something evil about a n*gga with a outie belly button. You know what I\u2019m talking about?"
+  },
+  {
+   "comedian": "marlon-wayans-kaggle-corpus",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "You know what I\u2019m talking about? Like, Andre McLaurin\u2026 he had an outie belly button. He was the bully in my hood."
+  },
+  {
+   "comedian": "marlon-wayans-kaggle-corpus",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "I want a cherry! And Andre, he had an outie belly button, right, and he had this six-pack. And the outie belly button looked like someone threw a Vienna sausage at that n*gga\u2019s stomach and it caught."
+  },
+  {
+   "comedian": "mitch-hedberg-comedy-central-special1999",
+   "pattern": "closer",
+   "excerpt": "I might go back here for a minute. Perhaps this show will work better if I\u201dm closer to the back. I\u2019m going to do an entire special not facing the camera."
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Jeremiah Walker.\u201d \u201cWhat kind of weapon are you working with?\u201d \u201cI don\u2019t know if this is fair, but I\u2019m working with a drone.\u201d [audience laughter] \u201cIt\u2019s equipped with eight Hellfire missiles and a high-power camera.\u201d \u201cAs you can see on this monitor, the NRA fellas are in one big cluster.\u201d [audience laughter] \u201cSo, I\u2019m going to\u2026\u201d \u201cWe started? All right.\u201d [audience laughter] \u201cYeah, so I\u2019m going to hit t"
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "If you\u2019re honest, check once a year. I go on Pornhub, I click the \u201cgay\u201d button, and I go, \u201cAnything?\u201d \u201cAll right, back to women.\u201d [audience laughter] While I haven\u2019t been gay, I have experienced a ton of homophobia \u2019cause I have a bidet. [audience laughter] My straight guy friends will be like, \u201cCan\u2019t do it, bro.\u201d \u201cCan\u2019t have water shooting up my ass.\u201d Are you worried about\u2026 Look, if the only thin"
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "end.*show",
+   "excerpt": "Shit you want us to know. Never had a girlfriend be like, \u201cLet me show you how to choke a wolf.\u201d [audience laughter] It\u2019s always girly shit that you want us to know, and then we go, [in squeaky voice] \u201cOh yeah.\u201d [audience laughter] That\u2019s the sound of a guy learning shit he does not care about in the slightest. \u201cOh yeah.\u201d [audience laughter] \u201cDuvet cover, yeah.\u201d [audience laughter] \u201cYeah, a blanke"
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "end.*show",
+   "excerpt": "How do you think that\u2019ll affect the gross national product of Singapore?\u201d And\u2026 Anyways, at the end they ask that question. \u201cDo you think it\u2019s good, yes or no?\u201d And then at the end they show the answer. I\u2019m a sucker for a poll."
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "closer",
+   "excerpt": "You got to choose. But later on, man, when you get closer to the election, here\u2019s what always happens, I\u2019ve noticed. Whenever you get close to an election, they go, \u201cThere\u2019s only three days left till the election,\u201d and it\u2019s always tied."
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "end.*show",
+   "excerpt": "Ah! But then Henderson showed up. That all changed."
+  },
+  {
+   "comedian": "patton-oswalt-kaggle-corpus",
+   "pattern": "closer",
+   "excerpt": "And I actually had a weird moment of peace, \u2019cause it was so awful, and I\u2019m just like, \u201cYou know what? I\u2019m actually as far away from the 21st century as I could possibly be right now.\u201d \u201cI\u2019m actually closer to my Neanderthal forebears.\u201d \u201cThere\u2019s something weirdly cleansing about this.\u201d And I had that feeling for, like, ten seconds. That\u2019s when I remembered all my neighbors have ring cameras on thei"
+  },
+  {
+   "comedian": "robin-williams-weapons-self-destruction",
+   "pattern": "\\bbutton\\b",
+   "excerpt": "Is that rude? And is there something called clittoring where you play with the little button on your Blackberry? What are you doing?"
+  },
+  {
+   "comedian": "ron-white-if-you-quit-listening-i-ll-shut-up",
+   "pattern": "end.*show",
+   "excerpt": "I started this tour a while back in Las Vegas, and\u2026 while I was there, I was walking down the Strip, my wife and I, and they\u2019re having a sex toy convention, which is one of their five biggest conventions of the year. Literally, people come from all over the world to buy stuff for their shops, and my wife said, \u201cMy friend\u2019s having a shower. I need to get her a gag gift."
+  },
+  {
+   "comedian": "ron-white-if-you-quit-listening-i-ll-shut-up",
+   "pattern": "end.*show",
+   "excerpt": "I\u2026 I got nowhere to be. My friend told me the other day that he wouldn\u2019t give his wife head unless she just came out of the shower, and I told him I\u2019ll give my wife head if she just came out of the gym. \u2018Cause I don\u2019t care if she\u2019s a little salty."
+  },
+  {
+   "comedian": "shane-gillis-kaggle-corpus",
+   "pattern": "end.*show",
+   "excerpt": "[crowd murmuring] [\u201cTops Drop\u201d by Fat Pat playing] [crowd cheering] [presenter] Ladies and gentlemen, Shane Gillis! [crowd cheering] \u266a Trunks pop, tops drop See, and the front end hop \u266a \u266a Paint fly, screens on Acting bad in the zone \u266a \u266a Yeah, it\u2019s on riding chrome Balling at my home \u266a \u266a Texas plates, don\u2019t hate Showing up in the state \u266a \u266a Can\u2019t wait, get it straight While the front end break \u266a \u266a P"
+  },
+  {
+   "comedian": "shane-gillis-kaggle-corpus",
+   "pattern": "end.*show",
+   "excerpt": "I get to say something as dumb as, \u201cWhat do women do? Fold shit?\u201d And look out and see about 15 different women going\u2026 [audience laughs] [laughs] I understand, most of the women here are girlfriends that were dragged to this show, that already don\u2019t like me \u2019cause every time they\u2019re in their car, their boyfriends are like, \u201cListen to this part of the podcast.\u201d [audience laughs] Yeah. [audience che"
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "end.*show",
+   "excerpt": "She said what was brilliant about it was you weren\u2019t expecting it because it was a comedy but at the end, she said, it was actually very moving and she was crying. And I said to her, \u201cYou were crying at the end of a standup show?\u201d She said, \u201cYeah.\u201d I said, \u201cWell, it\u2019s not any good then, is it?\u201d (LAUGHTER) You know, I\u2019m from the \u201980s admittedly, right? I\u2019m old-school, but I think if you go and see "
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "end.*show",
+   "excerpt": "(LAUGHTER) You go out now, do you? You think\u2026 I mean, this is obviously nearly the end of the show, isn\u2019t it? I can\u2019t recover it from this."
+  },
+  {
+   "comedian": "stewart-lee-carpet-remnant-world",
+   "pattern": "end.*show",
+   "excerpt": "I thought, \u201cI\u2019m just gonna drive home now. \u201cThere won\u2019t even be a proper end to the show, it\u2019ll just stop!\u201d (LAUGHTER) Then five minutes from home, five minutes from home, I was in Dalston and I drove past a butchers called City Meat! (LAUGHTER) And it\u2019s like an illness, I couldn\u2019t help myself!"
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "closer",
+   "excerpt": "LAUGHTER AND APPLAUSE Stupid fucking cunts. LAUGHTER Racists\u2026 LAUGHTER ..and cunts\u2026 LAUGHTER NASALLY: ..and people with legitimate anxieties about ever-closer political ties to Europe. LAUGHTER \u201cDear Palace Theatre Southend\u2026 LAUGHTER \u201c..please inform the comedian, and I use that word advisedly\u2026\u201d LAUGHTER \u201c..Stewart Lee, who I had the misfortune of being taken along \u201cto see by friends last night\u2026\u201d "
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "closer",
+   "excerpt": "LAUGHTER Racists\u2026 LAUGHTER ..and cunts\u2026 LAUGHTER NASALLY: ..and people with legitimate anxieties about ever-closer political ties to Europe. LAUGHTER \u201cDear Palace Theatre Southend\u2026 LAUGHTER \u201c..please inform the comedian, and I use that word advisedly\u2026\u201d LAUGHTER \u201c..Stewart Lee, who I had the misfortune of being taken along \u201cto see by friends last night\u2026\u201d LAUGHTER \u201c..that I actually voted to leave E"
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "last.*joke",
+   "excerpt": "It\u2019s a big\u2026 A big news story, that, the, uh\u2026 Actually, you know what? That used to be\u2026 All last year, that was a big laugh, that joke, but it\u2019s sort of gone off the boil since Christmas. It\u2019s not really your fault."
+  },
+  {
+   "comedian": "vir-das-kaggle-corpus",
+   "pattern": "end.*show",
+   "excerpt": "That\u2019s before the lockdown. -[audience laughing] She attended your show, er, two days ago on the 15th. So I got a recommendation from your girlfriend."
+  }
+ ],
+ "setup": [
+  {
+   "comedian": "bill-burr-i-m-sorry-you-feel-that-way",
+   "pattern": "platform",
+   "excerpt": "You need the votes. You can\u2019t run with that as your platform. Coming out there: \u201cAnd if elected, I would implement a program to immediately eliminate at least 85% of you!"
+  },
+  {
+   "comedian": "bill-burr-paper-tiger",
+   "pattern": "platform",
+   "excerpt": "All right? Which means\u2026 [cheering] You don\u2019t even know what her f*cking platform is, and you automatically cheer. [laughter] \u201cOoh, ooh, it\u2019s got the same genitalia!"
+  },
+  {
+   "comedian": "bill-hicks-censored-seven-minutes-late-show-with-david-letterman",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Bring the whole kids, the family, and everything, it\u2019s a Christmas Spectacular. [The audience laughs] I don\u2019t know what my deal is, I\u2019ve got a 31 year old curmudgeon, that\u2019s the deal you know I went to a dance club the other day, you know, I got dragged against my will, you know, and this girl asked me to dance, which I thought was hilarious, you know, \u201cWould you like to dance?\u201d you know, I\u2019m like"
+  },
+  {
+   "comedian": "bill-hicks-censored-seven-minutes-late-show-with-david-letterman",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "[The audience laughs] Real men don\u2019t dance, they sit, sweat, and curse. [The audience laughs] Speaking of homosexuality, you know, I consider myself fairly open-minded, but something has come to my attention I find absolutely shocking. I don\u2019t know if you\u2019ve heard about these new grade school books for children to teach them gay lifestyles."
+  },
+  {
+   "comedian": "bill-hicks-censored-seven-minutes-late-show-with-david-letterman",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I\u2019m talking about Daddy\u2019s New Roommate\u2026uh\u2026\u00a0Heather\u2019s Two Mommies is pretty cool. [Audience laughs] I don\u2019t know if you\u2026 check that out\u2026 they\u2019re hugging on page seven! [Lasciviously] Oooh!"
+  },
+  {
+   "comedian": "bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca",
+   "pattern": "premise",
+   "excerpt": "and block cemeteries. Let\u2019s see how fucking committed you are to this premise. \u2018She can\u2019t come in.\u2019 \u2018She was ninety-six."
+  },
+  {
+   "comedian": "bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I been getting that look a lot recently, cos I started smoking again. (audience cheers) See, I don\u2019t know how with a support group like you I fucking failed, you know? Damn it."
+  },
+  {
+   "comedian": "bill-hicks-relentless",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Ok. But the point is, they tried to prove that there are subliminal messages on these albums, telling you to kill yourself\u2026 Let me ask you a quick question-which by the way failed to come up at the trial which they had-; \u201cWHAT PERFORMER WANTS HIS FUCKING AUDIENCE DEAD?\u201d I don\u2019t get the long term gain here. What are these guys in the band thinking?"
+  },
+  {
+   "comedian": "chris-rock-selective-outrage",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "[audience] Ooh. It\u2019s like \u201cWhere he going with this?\u201d [audience laughs] Don\u2019t get me wrong, there\u2019s no victim-shaming going on. No."
+  },
+  {
+   "comedian": "chris-rock-selective-outrage",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Shit, the father freed O.J. [audience laughing] Oh, you forgot that little nugget of Black history? He was a, he was a valuable member of the Dream Team."
+  },
+  {
+   "comedian": "chris-rock-tamborine",
+   "pattern": "premise",
+   "excerpt": "I love watching religion, studying religion. The cool thing about religion is, like, no matter who you pray to, no matter what you study, every religion\u2026 follows one basic premise. One basic idea that every religion follows."
+  },
+  {
+   "comedian": "chris-rock-tamborine",
+   "pattern": "premise",
+   "excerpt": "One basic idea that every religion follows. And that\u2026 And that premise is, God doesn\u2019t make mistakes. Every religion believes that."
+  },
+  {
+   "comedian": "chris-rock-total-blackout-the-tamborine-extended-cut",
+   "pattern": "premise",
+   "excerpt": "I love watching religion, studying religion. The cool thing about religion is no matter who you pray to, no matter what you study, every religion follows one basic premise, one basic idea that every religion follows. And that premise is, \u201cGod doesn\u2019t make mistakes.\u201d Every religion believes that."
+  },
+  {
+   "comedian": "chris-rock-total-blackout-the-tamborine-extended-cut",
+   "pattern": "premise",
+   "excerpt": "The cool thing about religion is no matter who you pray to, no matter what you study, every religion follows one basic premise, one basic idea that every religion follows. And that premise is, \u201cGod doesn\u2019t make mistakes.\u201d Every religion believes that. Everybody."
+  },
+  {
+   "comedian": "dave-chappelle-846",
+   "pattern": "platform",
+   "excerpt": "My friend is the best at something, and this bitch is not the best at anything. Just a regular-ass white bitch with a platform. And I use the word bitch all the time because this is \u201cblack.\u201d [sigh] Watch one shooting after another: Eric Garner in New York, the first guy that told the police, \u201cI can\u2019t breathe.\u201d Eric Garner was selling loose cigarettes in Staten Island."
+  },
+  {
+   "comedian": "dave-chappelle-acceptance-speech-2019-mark-twain-prize",
+   "pattern": "platform",
+   "excerpt": "Do we have an agreement? [Applause] And what I really wanted to say tonight and I\u2019m glad I get the platform to do it\u2013 I\u2019m gay! I am gay and I can\u2019t wait to see what this does for my career being gay like this."
+  },
+  {
+   "comedian": "dave-chappelle-the-closer",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "It\u2019s probably what\u2019s happening inside of my body. [laughter] [audience cheers] [applause] I didn\u2019t get sick. I also saw a lot of videos of UFOs."
+  },
+  {
+   "comedian": "dave-chappelle-the-closer",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "And I would like to start by addressing the LBGTQ community, correct. [audience cheers]     And I want every member of the community to know that I\u2019ve come here tonight in peace. [laughter] And I hope to negotiate the release of DaBaby."
+  },
+  {
+   "comedian": "dave-chappelle-the-closer",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "It\u2019s a hole in the wall, that gay contractors build. [audience laughs] You want to know why they put that hole in the wall? I\u2019ll tell you, there is no nice way to say it."
+  },
+  {
+   "comedian": "dave-chappelle-worth-2004",
+   "pattern": "foundation",
+   "excerpt": "So far from what I heard\u2026. I mean, the kid said he\u2019s dying of cancer\u2026 he was in Make-A-Wish Foundation. He claims he had two weeks to live and it was his dying wish\u2026 to meet Michael Jackson."
+  },
+  {
+   "comedian": "drew-micheal-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I have a hard time with people, so here we go. (AUDIENCE CHUCKLING) Well, it\u2019s always been hard for me to connect with people throughout my whole life, and I think there\u2019s, you know, a lot of reasons for that. Um, I have a hearing loss that I\u2019ve had since I was a kid."
+  },
+  {
+   "comedian": "drew-micheal-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I put it on myself. I go, \u201cI must be fucked up.\u201d And then I\u2019m like, \u201cNo, my doctor fucked up.\u201d And then my friends were like, \u201cNo, dude, your parents, your parents fucked up.\u201d And it\u2019s like, \u201cOh, cool, well, add it to their tab.\u201d Like, I don\u2019t know\u2026 (AUDIENCE CHUCKLING) They got a long tab running, you know. Also, they got divorced when I was 12, which is, like, the most \u201cfuck you\u201d age you could p"
+  },
+  {
+   "comedian": "drew-micheal-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Mom is cripplingly insecure, and Dad\u2019s addicted to prostitutes. On what fucking world is this on me?\u201d (AUDIENCE CHUCKLING) I didn\u2019t have a good blueprint\u2026 for what a relationship should look like, so, you know, I\u2019ve struggled accordingly. I\u2019ve had issues in relationships."
+  },
+  {
+   "comedian": "eddie-murphy-delirious",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "He be using women. I\u2019ve seen Mike walk up to a girl and they\u2019d be in the audience and say: \u201cIs it allright if I come down there to sing to you\u2026\u201d And women go: \u201cWhaaaaa!\u201d Then, if you don\u2019t scream, Michael gets really sensitive and cries on your ass. Ever hear that record \u201cShe\u2019s out of my life\u201d?"
+  },
+  {
+   "comedian": "eric-andre-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I\u2019m like, \u201cI don\u2019t care if this is a Ross Dress For Less! [gasping for air] Squatters\u2019 rights!\u201d [audience laughs] Know your rights, squatters. [audience cheers] [cheering intensifies] [cackles] [exhales] I wanna make\u2013 [stammers] You ever go to a football game and you see the guys with beer helmets?"
+  },
+  {
+   "comedian": "eric-andre-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Whoo! [audience cheering] [audience applauds] [Eric cackles] You guys wanna know what my original opener for my Netflix special was? [all] Yeah!"
+  },
+  {
+   "comedian": "eric-andre-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "[audience laughs] Let me write you a prescription.\u201d I guess my doctor\u2019s Foghorn Leghorn. [audience laughs] I don\u2019t know what that voice is. It\u2019s the only impression I can do."
+  },
+  {
+   "comedian": "george-carlin-1978",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "You know, I mean, I feel like I\u2019m in the audience, I just happen to have the best seat in the house, that\u2019s all. I am in the audience, and I know the things you think of. I think of them too."
+  },
+  {
+   "comedian": "george-carlin-indian-drill-sergeant",
+   "pattern": "premise",
+   "excerpt": "In 1965 \u201cThe Indian Sergeant,\u201d was emerging as George Carlin\u2019s surefire crowd-pleaser. The premise involved an Indian warrior who called his troops to order like an army drill sergeant. Carlin introduced the bit by noting that classic Westerns typically spent an hour and a half showing the cowboys getting ready for the climactic Indian attack, but never showed the Indians preparing."
+  },
+  {
+   "comedian": "george-carlin-its-bad-for-ya",
+   "pattern": "foundation",
+   "excerpt": "Fine. Like the people who die have nothing better to do than run the heavenly branch of the Make-A-Wish Foundation. Now, if people want to believe this kind of stuff, it\u2019s fine with me."
+  },
+  {
+   "comedian": "george-carlin-life-worth-losing",
+   "pattern": "foundation",
+   "excerpt": "That straightened out my nose hairs. I better get this sucker home and get it in the refrigerator as quick as I can.\u201d The Save-A-Pussy foundation. Give the gift that keeps on giving."
+  },
+  {
+   "comedian": "george-carlin-politically-correct-language",
+   "pattern": "premise",
+   "excerpt": "And remember, this has nothing to do with the people themselves, it has to do with the words. And, by the way, when it comes to liberal language vandals, I must agree with there underlying premise: White Europeans and their descendants are morally unattractive people who are responsible for most of the world\u2019s suffering. That part is easy."
+  },
+  {
+   "comedian": "george-carlin-you-are-all-diseased",
+   "pattern": "premise",
+   "excerpt": "Stay with me on this, the sooner you face it, the better off you\u2019re gonna be. Second premise, not all children are smart and clever. Got that?"
+  },
+  {
+   "comedian": "iliza-shlesinger-kaggle-corpus",
+   "pattern": "premise",
+   "excerpt": "He\u2019s in the bed, the girl\u2019s in the bathroom. The premise of this joke, gentlemen, is TikTok dances are not sexual independent of the app of TikTok. The dances are not sexy."
+  },
+  {
+   "comedian": "iliza-shlesinger-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "\u201cTell us about your boyfriend.\u201d [like valley girl] \u201cColeton, okay, well, he\u2019s tall!\u201d \u201cColeton, stand in the Zoom \u2019cause I want my family to see how tall you are, especially my sister, \u2019cause she\u2019s a bitch, come here.\u201d \u201cStand in the Zoom. Stand next to me.\u201d [microphone thuds] [mouthing words] \u201cStop it.\u201d \u201cPut on a fucking towel, stop it.\u201d \u201cI\u2019m not looking at that, stop it!\u201d \u201cBecause the whole audien"
+  },
+  {
+   "comedian": "john-mulaney-baby-j",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "You\u2019re like\u2026 [mimics trumpet] \u201cHey, Boston! It\u2019s time to laugh!\u201d \u266a Raise up your smiles \u266a \u266a Lower those masks \u266a \u266a You know what I mean \u266a \u266a We all quarantined \u266a \u266a We all went to rehab And we all got divorced \u266a \u266a And now our reputation is different \u266a [audience laughing hysterically] [cheering and applauding] \u266a No one knows what to think \u266a \u266a Hey, yeah! \u266a \u266a All the kids like Bo Burnham more \u266a \u266a Becaus"
+  },
+  {
+   "comedian": "john-mulaney-baby-j",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I just take the call in front of her. I go, \u201cHello?\u201d \u201cOh, dog.\u201d [laughter] \u201cI\u2019m not doing that well.\u201d \u201cOh, yeah, no one\u2019s going to blame you.\u201d Now\u2026 [audience continues laughing] I said that last part because some people suggested that he and I did drugs together because he has tattoos\u2026 [laughter] \u2026and I am plain. [laughter] We must be up to witchcraft."
+  },
+  {
+   "comedian": "john-mulaney-baby-j",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "[laughter] I say, \u201cHello. I have a beautiful watch to sell.\u201d \u201cI\u2019m in no hurry to sell it.\u201d \u201cI\u2019ve had it for many years.\u201d \u201cI\u2019ve never worn it either, so it\u2019s in perfect condition.\u201d He goes, \u201cYou\u2019ve had this watch for many years?\u201d I go, \u201cThat is correct.\u201d He goes, \u201cWhy don\u2019t you wear it then?\u201d I said, \u201cOh, I would love to wear this watch.\u201d \u201cBut you see, I wear rings\u2026\u201d [audience laughing hysterically"
+  },
+  {
+   "comedian": "john-mulaney-kid-gorgeous-at-radio-city",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "He could look at a child and guess the price of their coffin. [audience laughing] That line never gets a laugh. But once you write it, it stays in the act forever."
+  },
+  {
+   "comedian": "john-mulaney-kid-gorgeous-at-radio-city",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "He goes, \u201cOkay, when you get kidnapped\u2026\u201d Not if, when. [audience laughing] \u201cOkay, so when you get kidnapped, the place\u00a0where the guy grabs ya, in the biz we call that the primary location. Okay."
+  },
+  {
+   "comedian": "john-mulaney-kid-gorgeous-at-radio-city",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I gave you $120,000 and you gave me a weird cinder block room with a Reservoir Dogs poster on it and the first real heartbreak of my life, and probably HPV, and then we called it a day.\u201d Probably. [audience laughing] Also, what did I get for my money? What is college?"
+  },
+  {
+   "comedian": "john-mulaney-new-town",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Honestly, when I\u2019m walking down the street, no one\u2019s ever like, \u201cHey, look at that man!\u201d I think they\u2019re just like \u201cWhoa! That tall child looks terrible!\u201d [slowly turns head with shocked expression to pantomime someone looking at him walk by] [audience laughter] \u201cGet some rest, tall child! You can\u2019t keep burning the candle at both ends!\u201d You ever seen on \u201cAmerica\u2019s Most Wanted\u201d when they age a pho"
+  },
+  {
+   "comedian": "john-mulaney-new-town",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "They\u2019ll go, [mimes petting a large animal] [speaks in soft voice] \u201cHey, shh shh shh\u2026\u201d [turns sharply to face audience with a cheeky expression and bobbles head, speaking in a matter-of-fact high pitched voice] They\u2019ve never spoken. [as the audience laughs, John walks slowly to the side] I always wanted to live in New York when I was a kid, I\u2019m so excited that I get to live in New York. I saw New Y"
+  },
+  {
+   "comedian": "john-mulaney-new-town",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Kids would call me a \u201cchina man\u201d, which of the racial slurs has got to be the laziest. [audience laughs] That is just pushing two words together, [dramatically shakes head with eyes closed] no work was done there. [speaks in an incredulous tone] It was very confusing to me because I\u2019m not Chinese, no one in my family is remotely Asian."
+  },
+  {
+   "comedian": "lenny-bruce-berkeley-concert",
+   "pattern": "foundation",
+   "excerpt": "But you can\u2019t be that obvious with it, you know, just get the kids because I want to get even with you, you shithead you. So the, all the struction, the foundation is \u201cI went over there the kids wet\u201d heh. Schmuck, then all of a sudden \u201cThe kids, I\u2019m not gonna, the kid\u2019s not gonna live like that, every time I go over the kid\u2019s wet, the kid\u2019s wet."
+  },
+  {
+   "comedian": "louis-c-k-2017",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I\u2026 I think you should not get an abortion unless you need one. [audience laughing] In which case\u2026 In which case, you\u2019d better get one. I mean, seriously."
+  },
+  {
+   "comedian": "louis-c-k-2017",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "And hurry. [audience laughing] Not getting an abortion that you need is like not taking a shit. That\u2019s how bad that is."
+  },
+  {
+   "comedian": "louis-c-k-2017",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "It is not. [audience cheering] People get too excited\u2026 about life. \u201cOh, life.\u201d Fuck you."
+  },
+  {
+   "comedian": "louis-c-k-live-at-the-comedy-store-2015",
+   "pattern": "platform",
+   "excerpt": "Don\u2019t do that. I was, um\u2026 I was in New York one time, I was on the subway platform and I saw two rats, uh, and they were fucking. And I never saw that before."
+  },
+  {
+   "comedian": "louis-c-k-live-at-the-comedy-store-2015",
+   "pattern": "platform",
+   "excerpt": "He\u2019s not sitting there waiting for her and trying to think of things to not come, like giant garbage bags with no food in them or whatever. And even if he did, she\u2019s on a subway platform in front of people. She\u2019s not gonna be able to get to that place, that inside place, that girl rats need to find their orgasm."
+  },
+  {
+   "comedian": "maria-bamford-kaggle-corpus",
+   "pattern": "premise",
+   "excerpt": "If, at any point during my program, you feel disgusted. You think to yourself, \u201cWhy isn\u2019t comedy better than I remembered?\u201d [high voice] \u201cWhy isn\u2019t that particular premise less ill-conceived?\u201d [higher voice] \u201cWhy\u2013 why isn\u2019t this experience exactly what I had wanted?\u201d [normal voice] Please let that rage trampoline you into working on your own stuff. [cheers, applause] Harness the power of an enormo"
+  },
+  {
+   "comedian": "maria-bamford-kaggle-corpus",
+   "pattern": "premise",
+   "excerpt": "No, no, no, no. Writing down the premise for this joke. Yeah, that is truly the single most selfish thing you could do."
+  },
+  {
+   "comedian": "mike-epps-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "The police! [Audience boos] You know they in here. \u201cI\u2019m in here."
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I should get a dog. [audience laughter] So I get a pit bull named Keith. And um, everybody told me, \u201cKeith\u2019s going to be your best friend.\u201d And I gotta say, maybe my ninth-best friend."
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "[audience laughter] None of these dogs are thriving on their own. [audience laughter] Never heard a story like, \u201cWhere\u2019d you get your Labradoodle?\u201d \u201cWent into Bank of America. She was the manager.\u201d [audience laughter] \u201cNow she\u2019s our full-time Labradoodle.\u201d I shouldn\u2019t even say I rescued it."
+  },
+  {
+   "comedian": "neal-brennan-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Grabbing pussy, shooting guns like Westworld. [audience laughter] Republicans get to be greedy. Republicans care about themselves, their families, rich people, that\u2019s it."
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "And his asides, and his looks and his pauses were interpreted exactly the way he knew they would be interpreted and that fueled the ridiculous nature of some of the presentation. And without that audience, you don\u2019t get the full measure of Norm. Yeah."
+  },
+  {
+   "comedian": "norm-macdonald-nothing-special",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "But I was in no way\u2026 He\u2019s totally self-fueled. Yes, it\u2019s nice when you hear the audience there, but he\u2019s also\u2026 you know, what he\u2019s doing is so absurd and ridiculous. This was an exercise in\u2026 I couldn\u2019t do that if you just put a camera there\u2026 [Letterman] No."
+  },
+  {
+   "comedian": "patton-oswalt-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "That is the crucial part. [audience laughs] I\u2026 You turn\u2026 Once you get past 50, everything\u2019s fatal. I\u2026 When I was in my twenties, I would walk into propellers and put some Bactine on it."
+  },
+  {
+   "comedian": "patton-oswalt-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I planned an amazing\u2026 Remember when the shutdown happened? Supposed to stay home, and you had that little memory of all the times you said, \u201cIf I could just get a month off, I could get my shit together.\u201d [audience laughs] \u201cI could get my life\u2026 I just need a month off.\u201d I planned a great shutdown. I executed the worst one ever."
+  },
+  {
+   "comedian": "patton-oswalt-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "It was the act of filling the barn\u2026 Listen, if you\u2026 If you just filled a barn with pubes, you\u2019ve checked off the crazy box. [audience laughing] But this person went, \u201cI\u2019m putting obstructions in my way.\u201d \u201cI will only collect the pub\u2026\u201d Also, how do you\u2026 There\u2019s no way to know. Clown pubes don\u2019t look different."
+  },
+  {
+   "comedian": "richard-pryor-here-now",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "My dick. People in the audience get hostile. You drunk, motherfucker?"
+  },
+  {
+   "comedian": "richard-pryor-live-concert",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I ain\u2019t getting out of the ring till they start sweeping up. And there\u2019s always somebody in the audience talking about, Get up! Get up!"
+  },
+  {
+   "comedian": "richard-pryor-live-sunset-strip",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "And sometimes I talk about it. And a lot of people in the audience\u2026 don\u2019t know what I mean. So would you raise your hand it you don\u2019t know what fucking is\u2026 so we can watch your ass when you leave here?"
+  },
+  {
+   "comedian": "ricky-gervais-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "\u2018Cause at the moment, it\u2019s, like, a list of the shows I\u2019ve created. But now I\u2019m woke, I\u2019ve gotta pop in the word \u201canti-fascist\u201d\u2026 [audience laughing] \u2026so people know I\u2019m not a fascist, \u2019cause that is a big problem at the moment. Um\u2026 People come up to you and go, \u201cRick, have you been imprisoning journalists?\u201d I go, \u201cNo.\u201d They go, \u201cOh, interesting.\u201d [audience laughing] They go, \u201cHave you been gassing"
+  },
+  {
+   "comedian": "ricky-gervais-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "He\u2019d go, \u201cI\u2019m gonna sue you.\u201d I\u2019d go, \u201cYou can\u2019t. You can\u2019t.\u201d [audience laughing] He\u2019d go, \u201cBut know that I am gay.\u201d I go, \u201cI don\u2019t believe you are.\u201d He\u2019d go, \u201cCome home with me and see the shit I do if you don\u2019t believe me.\u201d [audience laughing] Of course, the word \u201cqueer\u201d has changed. Again, traditionally, the word \u201cqueer\u201d used to mean uh, someone who was attracted to the same sex as themselves."
+  },
+  {
+   "comedian": "ricky-gervais-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "They went down and went, \u201cWe\u2019re off to Great Britain.\u201d \u201cOh, why?\u201d \u201cJust a bit of pillaging.\u201d [audience laughing] \u201cJust pillaging?\u201d \u201cJust pillaging, babe.\u201d [audience laughing] \u201cAll right. Why are you wearing your rape hat?\u201d [audience laughing] So this show is called Armageddon, and it\u2019s all about how I think humanity might end, \u2019cause there\u2019s a long list of possibilities, you know? We\u2019re on a preci"
+  },
+  {
+   "comedian": "ron-white-if-you-quit-listening-i-ll-shut-up",
+   "pattern": "platform",
+   "excerpt": "If it would have been a handjob, I\u2019d have been going, \u201cHey, you\u2019re a plumber, dude, get that claw off my fucking pecker.\u201d I ran, um\u2026 I ran for president of the United States, and I don\u2019t think I won, because nobody\u2019s called and I quit watching television. My platform was a little different than our president\u2019s platform. He wants to build a wall between the US and Mexico to keep out immigrants, and"
+  },
+  {
+   "comedian": "shane-gillis-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "It was alright. [audience chuckles] Anytime I go to another country, as I get out of the airport, and start driving around, I\u2019m like\u2026 [chuckles] \u201cDude. This is your fucking country, dude?\u201d Other countries suck."
+  },
+  {
+   "comedian": "shane-gillis-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "You ever tell them? You ever go to another country and tell \u2019em we\u2019re number one?Swim up to, like, a pool bar and just\u2026 [audience laughs] \u201cDid you know we\u2019re number one?\u201d They hate it. They try to bring up bullshit to bring us down."
+  },
+  {
+   "comedian": "shane-gillis-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "[all laughing] American whites, we\u2019re humble. [audience laughs] We know we\u2019re not the coolest guys around. It\u2019s the foreign whites, dude."
+  },
+  {
+   "comedian": "stewart-lee-content-provider",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "With the\u2026 LAUGHTER But we\u2019ve got a lot of people here. You\u2019ve got the sort of target audience here, sort of comedy fans and people that know about, about the politics and stuff. And then it\u2019s\u2026 I\u2019ve put on too many dates in Southend, basically, there\u2019s no\u2026 LAUGHTER Look at these people, this isn\u2019t my crowd, is it?"
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "But apparently, that was not helpful at all. And she said, \u201cHold on a second.\u201d (audience laughing) She walks back over and whispers something again to the officer and he just says, \u201cYes.\u201d And the thing is, I knew exactly what was happening and I knew that all I needed to do was speak\u2026 and then she would know that I was female. But I just did not wanna help her out\u2026 (audience laughing) Man: Whoo!"
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "\u266a I saw her today at the reception \u266a J.D. was like, \u201cWhat the hell is this?\u201d (audience laughing) And I was like, \u201cNo, no, it gets better.\u201d \u266a I knew she would meet her connection \u266a \u266a At her feet was a footloose man \u266a \u266a No, you can\u2019t always get what you want \u266a \u266a You can\u2019t always get what you want \u266a \u266a You can\u2019t always get what you want \u266a \u266a But if you try sometime \u266a \u266a You\u2019ll find \u266a \u266a You can get what "
+  },
+  {
+   "comedian": "tig-notaro-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "I\u2019m just a person. That person said, \u201cI know, I know.\u201d (audience laughs) What do you mean, \u201cyou know\u201d? \u201cI know.\u201d Nobody\u2019s shaking their fist."
+  },
+  {
+   "comedian": "tom-segura-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "His name is Joey Diaz. Now\u2026 [resounding cheers] [audience member whistles] [cheers fade] If you\u2019re here and don\u2019t know who that is, please allow me to describe him to you. [laughter] Joey is a very funny man."
+  },
+  {
+   "comedian": "tom-segura-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "Her face goes\u2026 [laughter] And she looks at me. And she goes, \u201cTomorrow, your laughter will be tears on my corpse.\u201d And I\u2019m like\u2026 [audience exclaims] \u201cWhat?!\u201d She goes, \u201cIt\u2019s the perfect murder.\u201d [laughter] \u201cNobody will know it was you.\u201d My lungs invert at this point. And I have tears streaming down my face."
+  },
+  {
+   "comedian": "vir-das-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "You know, Gandhiji was known for great fashion. Er\u2026 [audience laughing] He had that one outfit that was really popular, you know. And he designed it himself, and, you know, it\u2019s\u2026 Okay."
+  },
+  {
+   "comedian": "vir-das-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "\u2018Cause, you know, fashion is all about technology. Er\u2026 [audience laughing] You know, sometimes\u2026 [laughs] Sometimes, I\u2019ll put on a T-shirt and I\u2019ll be like, \u201cMy God, this is hi-tech.\u201d You know\u2026 \u201cThis is just\u2026\u201d \u201cWhoever designed this\u2026\u201d [chuckles] \u201cYou know, when I eat Asian food, it just slides right off.\u201d \u201cHow did they make that happen with this T-shirt?\u201d I think I made fun of the fashion girl a li"
+  },
+  {
+   "comedian": "vir-das-kaggle-corpus",
+   "pattern": "audience.*(understand|know|get)",
+   "excerpt": "\u2018Babaji ki Booty.\u2019 Do you wanna get high together, bro?\u201d \u201cYou want to smoke a \u2018J\u2019 together, bro?\u201d And I\u2019m like, \u201cNo!\u201d Can you imagine what would happen if you, a college kid, got high with me, a 40-year-old man? And you\u2019re like\u2026 [inhales deeply] \u201cHey, Vir Das, do you feel like the moon landing was fake and they never told us about that shit?\u201d [audience laughing] You know, and I\u2019d be like, \u201cI have "
+  }
+ ]
+}
