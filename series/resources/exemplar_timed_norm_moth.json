@@ -66,5 +66,11 @@
  "max_pause": 1.7,
  "duration_s": 119.98,
  "laugh_onsets": [],
- "has_laugh_onsets": true
+ "has_laugh_onsets": true,
+ "youtube": {
+  "videoId": "jJN9mBRX3uo",
+  "url": "https://www.youtube.com/watch?v=jJN9mBRX3uo",
+  "title": "Norm Macdonald - Moth Joke",
+  "embed_url": "https://www.youtube.com/embed/jJN9mBRX3uo"
+ }
 }

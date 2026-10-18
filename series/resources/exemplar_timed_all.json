@@ -1,10 +1,16 @@
 {
- "note": "Overlay-ready timing + laugh onsets. ESTIMATED = word-count based.",
+ "note": "Overlay-ready timing + YouTube embed URLs.",
  "sequences": [
   {
    "id": "chris-rock-tamborine",
    "comedian": "chris-rock",
    "special": "tamborine",
+   "youtube": {
+    "videoId": "FT4Z4Blss0U",
+    "url": "https://www.youtube.com/watch?v=FT4Z4Blss0U",
+    "title": "Chris Rock - Tamborine clip",
+    "embed_url": "https://www.youtube.com/embed/FT4Z4Blss0U"
+   },
    "duration_s": 81.7,
    "total_words": 183,
    "max_pause_s": 1.2,
@@ -182,13 +188,18 @@
    ],
    "laugh_onsets": [],
    "overlay_ready": true,
-   "has_laugh_onsets": false,
    "estimated": true
   },
   {
    "id": "john-mulaney-kid-gorgeous",
    "comedian": "john-mulaney",
    "special": "kid-gorgeous",
+   "youtube": {
+    "videoId": "JhkZMxgPxXU",
+    "url": "https://www.youtube.com/watch?v=JhkZMxgPxXU",
+    "title": "John Mulaney - Horse in the Hospital (Kid Gorgeous)",
+    "embed_url": "https://www.youtube.com/embed/JhkZMxgPxXU"
+   },
    "duration_s": 286.4,
    "total_words": 671,
    "max_pause_s": 1.2,
@@ -371,13 +382,20 @@
    ],
    "laugh_onsets": [],
    "overlay_ready": true,
-   "has_laugh_onsets": false,
    "estimated": true
   },
   {
    "id": "louis-ck-road-rage-window",
    "comedian": "louis-ck",
    "special": "road-rage-window",
+   "youtube": {
+    "videoId": "auHzTfeF64Y",
+    "url": "https://www.youtube.com/watch?v=auHzTfeF64Y",
+    "title": "LOUIS CK - HILARIOUS (Full)",
+    "segment_start_s": 120,
+    "segment_end_s": 240,
+    "embed_url": "https://www.youtube.com/embed/auHzTfeF64Y?start=120&end=240"
+   },
    "duration_s": 239.78,
    "total_words": 337,
    "max_pause_s": 8.16,
@@ -571,13 +589,18 @@
     }
    ],
    "overlay_ready": true,
-   "has_laugh_onsets": true,
    "estimated": false
   },
   {
    "id": "norm-macdonald-moth-joke",
    "comedian": "norm-macdonald",
    "special": "moth-joke",
+   "youtube": {
+    "videoId": "jJN9mBRX3uo",
+    "url": "https://www.youtube.com/watch?v=jJN9mBRX3uo",
+    "title": "Norm Macdonald - Moth Joke",
+    "embed_url": "https://www.youtube.com/embed/jJN9mBRX3uo"
+   },
    "duration_s": 119.98,
    "total_words": 384,
    "max_pause_s": 1.7,
@@ -645,13 +668,20 @@
    ],
    "laugh_onsets": [],
    "overlay_ready": true,
-   "has_laugh_onsets": true,
    "estimated": false
   },
   {
    "id": "stewart-lee-carpet-remnant-world-2012-live",
    "comedian": "stewart-lee",
    "special": "carpet-remnant-world-2012-live",
+   "youtube": {
+    "videoId": "7oyfkqD4UP8",
+    "url": "https://www.youtube.com/watch?v=7oyfkqD4UP8",
+    "title": "Stewart Lee - Carpet Remnant World (live)",
+    "segment_start_s": 0,
+    "segment_end_s": 186,
+    "embed_url": "https://www.youtube.com/embed/7oyfkqD4UP8?start=0&end=186"
+   },
    "duration_s": 751.28,
    "total_words": 14998,
    "max_pause_s": 2.44,
@@ -958,7 +988,6 @@
     }
    ],
    "overlay_ready": true,
-   "has_laugh_onsets": true,
    "estimated": false
   }
  ]

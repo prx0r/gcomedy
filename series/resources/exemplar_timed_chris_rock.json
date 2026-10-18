@@ -177,5 +177,11 @@
  "has_laugh_onsets": false,
  "max_pause": 1.2,
  "duration_s": 81.7,
- "note": "ESTIMATED from word counts at 2.67 w/s. Not measured."
+ "note": "ESTIMATED from word counts at 2.67 w/s. Not measured.",
+ "youtube": {
+  "videoId": "FT4Z4Blss0U",
+  "url": "https://www.youtube.com/watch?v=FT4Z4Blss0U",
+  "title": "Chris Rock - Tamborine clip",
+  "embed_url": "https://www.youtube.com/embed/FT4Z4Blss0U"
+ }
 }
