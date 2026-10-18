@@ -66,6 +66,52 @@ emotional rather than explosive — but the same machine: return changed,
 recognition pays. Proves callbacks aren't a comedy trick. They're a memory
 technology. Comedy just uses it loudest.
 
+**[11:30] THE CLOCK.** How long must pass before a return counts as a
+callback instead of a repetition? Data from the corpus: under 90 seconds
+reads as running gag territory (same energy, no retrieval needed).
+Two to eight minutes is the sweet spot — long enough that the room
+stopped actively holding it, short enough that retrieval fires instantly
+on the cue. Past fifteen minutes without reinforcement and you need to
+rebuild the context (half a setup's worth of reminding) or half the room
+won't come with you. Mulaney's dogs-without-horses lands at ~40 minutes
+because the original was enormous (full bit, huge laugh, distinctive
+phrasing — high encoding strength). Small moments need shorter gaps; big
+moments survive longer absences. The rule: retrieval cost must stay below
+the recognition payoff. If the room works harder remembering than the
+return gives back, it's homework, not comedy. Great comics calibrate this
+by feel; the film states it as a number so you can check your own sets
+against it. When in doubt, re-plant: one reminder line halfway through
+resets the clock for free.
+
+
+**[14:30] THE RESCUE.** Callbacks have a second job nobody talks about:
+saving dying rooms. [CLIP: mid-set energy sagging, comic drops a callback
+to an early big laugh — room reignites] The callback doesn't just get its
+own laugh. It re-activates the earlier laugh's corpse. Two laughs for the
+price of one reference: the recognition laugh now, plus the remembered
+laugh then, superimposed. Watch the waveform: the callback laugh is longer
+than the original was, because it's two laughs stacked — present amusement
+plus retrieved amusement arriving simultaneously. This is why headliners
+plant callbacks early even when they don't need them yet. They're burying
+batteries around the set. Forty minutes later, when the energy sags and
+new material would cost full price, they dig one up and it's still
+charged. The whole set is a battery farm and the closer runs on stored
+power.
+
+
+**[15:00] CALLBACK STACKS.** The advanced class: callbacks that call back
+to callbacks. [CLIP or reconstruction: bit A plants, bit B calls A, bit C
+calls the CALLBACK of A — three levels deep] The room's recognition
+compounds: first return gets the recognition laugh, second return gets
+recognition-of-recognition (we all remember remembering together). Stack
+depth beyond three collapses under its own weight — the retrieval cost
+exceeds any possible payoff and the room feels lectured at by its own
+memory. Acaster's tsunami finales work because they're WIDE (twelve
+threads, one level each) not DEEP (one thread, three levels). Breadth
+scales; depth doesn't. Rule of stacks: go wide before you go deep, and
+never go deeper than two.
+
+
 **[16:00] FAILURE MODE.** Two deaths. One: the microwaved rehash — same
 words, same context, no change. The room hears repetition, not return.
 Zero payout, and it spends the original's capital (that bit is now

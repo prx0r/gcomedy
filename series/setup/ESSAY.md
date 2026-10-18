@@ -90,6 +90,38 @@ apps), so the comic starts at item two of three. The test is never how
 many beats you use. It's whether the room is confident about the world at
 the moment the break arrives.
 
+**[13:00] INSIDE THE 207.** Slow the Monopoly bit to half speed and walk
+every sentence. Sentence one (daughters, ages, exciting age): world
+declared, zero jokes, room nodding — the platform pours its foundation.
+Sentence two ("to handle her"): FIRST micro-surprise (why "her" not
+"losing"?) + pause (0.8s) + room laughs at grammar. The premise is TWO
+sentences old and already paying. Sentence three (Candyland counterpoint):
+visual detonates (fudgy thing, gummy twirly-o's — words chosen for mouth
+feel as much as meaning), second pause, bigger laugh. By the time Louis
+reaches the actual premise's end, the room has laughed three times at
+zero punchlines. Count them on screen: three anticipatory laughs, timestamps
+attached. Then the turn: "gotta give it all to me" — nine words after two
+hundred of platform. The punch-to-setup ratio is 1:23. New comics invert
+this (1:3, all punch, no platform) and wonder why rooms stay cold. The
+math: every platform word is a deposit; the punch withdraws them all at
+once. Louis deposits 198 words to spend 9. That's not inefficiency. That's
+leverage.
+
+
+**[16:00] THE THEFT.** The room built their half of the world FASTER here
+than in the Louis bit, from FEWER words — because open-mic crowds walk in
+holding half the premise. Great open-mic comics aren't better writers than
+Louis. They're better thieves. [CLIP: comic says three words — "my
+landlord" — room groans knowingly] Three words. No world built, no priority
+assigned — and yet the room responds like a full setup landed. The comic
+didn't build a platform. They pointed at one the room walked in with.
+Every renter's rage, every deposit stolen, every 2 AM email —
+pre-installed. The comic just said the password. Fastest setup in comedy:
+zero beats, full platform, stolen from the audience's own life. Setups
+aren't constructions. They're activations. The world was already in the
+room. The comic just turned on the lights.
+
+
 **[17:00] FAILURE MODE.** What happens when the setup never lands. [CLIP:
 low-outcome KT set, muddled beats.] The punch arrives on schedule and dies
 — not because it's a bad punch, but because there's no platform under it.

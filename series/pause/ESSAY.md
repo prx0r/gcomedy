@@ -67,6 +67,36 @@ is weather (variable, emergent). The instrument is the constant. The room
 is the variable. Play the constant exactly, let the variable do what it
 does.
 
+**[12:30] THE ROOM BREATHES.** Slow a hold to quarter speed and watch the
+audience, not the comic. [CLIP: Louis 8.16s hold, crowd wide shot] Second
+0–2: faces forward, still — prediction engaged. Second 2–4: micro-movements
+begin (shifts, swallows) — the body spending tension physically. Second
+4–6: stillness returns, deeper — the room has committed to waiting, and
+waiting together is its own pleasure now. Second 6–8: vibration — you can
+see the laugh forming in shoulders before any sound. The hold isn't empty
+time the comic survives. It's the room performing expectation with their
+bodies while the comic does nothing. THAT's what the pause timer misses
+when it only counts seconds: the hold has choreography, and the audience
+is the dancer. TAMS found silences more consistent than laughter because
+the silence is the composed part — but watch closely and the silence isn't
+silent. It's full of bodies doing the work of waiting. The comedian's
+instrument isn't the pause. It's the room holding the pause with them.
+
+
+**[15:00] WHEN MASTERS MISJUDGE.** Even the greats blow holds. [CLIP: a
+big-name hold that runs 2 seconds too long — watch the room turn] The lean
+peaks at 2.5 seconds. At 3.5 the leaned-in bodies start shifting. At 4.5
+someone coughs — the universal signal that suspension has curdled into
+awkwardness. The punch still lands, but on a room that's already spent
+half its tension fidgeting. Frame by frame: the exact moment is visible
+when anticipation becomes impatience (eyes drop, shoulders resettle).
+Masters misjudge by feel; the data says the window is 1.5–3.5 seconds for
+big swings, under 1 second for tags, and the penalty for overshoot is
+asymmetric — 1 second too short costs 10% of the laugh, 1 second too long
+costs 40%. Silence is leverage, and leverage cuts both ways. The hold is
+a loan against the punch, and overdue loans collect in embarrassment.
+
+
 **[16:30] FAILURE MODE.** Two deaths. One: dead air mistaken for a hold —
 silence with no accrued weight (nothing expected, nothing suspended).
 The room doesn't lean in, it checks out. Difference between a hold and

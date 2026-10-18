@@ -63,6 +63,38 @@ from the case study (selection vs superposition), same geometry (minimal
 travel). Puns are the center of joke-space: maximum ambiguity, minimum
 distance, every callback in the language available from one point.
 
+**[12:30] THREE PUNCHES, ONE SETUP.** Same setup, three different punches,
+three different laugh sizes — the controlled experiment comedy performs
+nightly. [CLIP or reconstruction: setup held constant, punch swapped]
+Punch A (obvious): the room nods — predicted, no travel, polite sound.
+Punch B (absurd, disconnected): confusion ripple — travel too far, no
+landing zone, the model can't complete the trip. Punch C (the real one):
+minimal travel, maximal rearrangement — detonation. Same 40 setup words
+three times. Only the last nine words change. The room's three responses
+prove the punch carries the joke almost entirely: setup quality held
+constant, outcomes diverge 10x. This is why punch writing is rewriting:
+Louis does forty drafts of nine words, not nine drafts of forty words.
+The setup just needs to hold still. The punch needs to land within a
+phoneme of perfect. Practice drill the film gives the audience: take any
+joke you love, keep the setup, write five alternate final lines. Four will
+be worse. The exercise teaches your hands what minimal travel feels like
+better than any theory paragraph.
+
+
+**[15:30] AUTOPSY.** Let's kill a punch and examine the body. [CLIP: one
+perfect punch, then FREEZE on the last word] Remove the final word: the
+setup stands there naked, pointing at nothing. The room feels the absence
+like a missing step. Now remove the FIRST word of the setup instead: the
+punch still works. Lopsided, but alive. That asymmetry is the whole
+secret — the punch carries ~90% of the joke's information and ~10% of its
+words, while the setup carries 10% of the information and 90% of the
+words. The setup is scaffolding. The punch is the building. And here's
+the part that should bother you: the audience never sees the scaffolding
+at all. Ask anyone leaving the show what the setup was and they'll quote
+the punch. The platform that made everything possible is invisible by
+design. Great setups are self-erasing machines.
+
+
 **[17:00] FAILURE MODE.** Two deaths. One: the explained punch — the comic
 adds a second sentence clarifying the first. The model already arrived;
 the extra words drag it back to do paperwork. Watch a room deflate in

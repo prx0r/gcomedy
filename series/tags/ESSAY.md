@@ -56,6 +56,53 @@ either lands the tag or edits the scene. That feeling has a name in the
 data: it's the laugh-decay slope, and experienced players surf it the way
 surfers read waves.
 
+**[11:30] ANATOMY OF ONE TAG.** Freeze a single tag mid-flight and take
+it apart. [CLIP: punch + one tag, looped twice] The tag assumes four
+things without stating them: the world (still broken), the priority (still
+foreground), the tone (still the punch's register), the audience position
+(still leaning in). A tag that re-establishes any of these is not a tag —
+it's a new setup wearing a tag costume, and it pays setup prices. The real
+tag adds exactly one new fracture and trusts the rest. Count it: the punch
+established six assumptions; the tag reuses all six and adds one. Seven
+units of meaning for the price of one line. That's the 90% discount itemized.
+And notice the tag's grammar: fragments, not sentences. No subject restated,
+no context rebuilt ("going down hard" — going WHERE down? The room knows.
+Saying it would cost the laugh). Tags speak in shorthand because the punch
+already taught the language. First tag in a set teaches the shorthand;
+every tag after spends it.
+
+
+**[14:00] THE STACK.** Longest verified tag run in the corpus: one punch,
+six tags, ninety seconds, no new setup after the first line. [CLIP or
+reconstruction] Watch what happens to the room across all six. Laugh one:
+surprise. Laugh two: delight. Laugh three: the room starts laughing BEFORE
+the tag lands — they're now predicting the pattern and rewarding
+themselves for it. Laughs four and five: hysteria territory, the room is
+laughing at its own anticipation as much as the material. Laugh six: the
+comic stops, holds up a hand, lets it crest. Six laughs from one platform.
+Total new information delivered after the punch: roughly fifteen words.
+This is why headliners tag and open-micers move on — the beginner thinks
+each laugh needs a new setup, which means each laugh costs full price. The
+headliner knows every laugh after the first is discounted 90%. Tag
+economics is why a tight twenty can hold an hour of laughs. It's also why
+audiences feel cheated by comics who never tag: they paid for a platform
+and only got one joke off it.
+
+
+**[15:00] TAG GYMNASTICS.** The advanced class: tags that change the
+game instead of just scoring in it. [CLIP: tag that reframes the punch
+retroactively — the tag doesn't extend the broken world, it reveals the
+world was different all along] Most tags deepen the existing fracture.
+Gymnastics tags rotate the whole structure: same words behind, new meaning
+in front. The room laughs twice — once at the new fracture, once at
+realizing the old one meant something else. These are rare because they
+require the tag to carry model-revision weight, not just fracture weight.
+When they land they're the biggest laughs in sets that contain them, and
+comics who can do them reliably (a short list, headed by the usual
+suspects) guard them like trade secrets. If regular tags are encore riffs,
+these are key changes mid-song.
+
+
 **[16:00] FAILURE MODE.** Two deaths. One: theExplainer tag — restating
 the punch instead of fracturing anew. Zero new fracture, zero laugh,
 and it spends the decay window on nothing. Two: the fourth-tag overreach —

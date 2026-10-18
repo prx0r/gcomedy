@@ -69,6 +69,36 @@ because the audience can now predict the direction and is rewarding
 themselves for seeing it coming. Surprising them with what they knew was
 coming — that's the paradox only escalation can pull off.
 
+**[12:00] THE STEPS, COUNTED.** Back to Carlin's planet bit with a
+counter on screen. Item one (earthquakes): room chuckles — recognition.
+Item two (volcanoes): bigger — pattern confirmed. Items three through six:
+the room stops laughing at items and starts laughing at ACCUMULATION.
+Watch faces in the crowd shot: by item eight nobody's processing content
+anymore, they're riding velocity. Items ten through fifteen: pure rhythm,
+the words barely matter (plate tectonics could be anything — it's the
+PILE that kills). Then the stop: "aluminum cans and plastic bags." Ten
+words. Ten seconds. Whined like a child. The eighteen-item avalanche
+exists for exactly one purpose — to make ten whined words feel like a
+verdict on the species. Measure it: 46 words of climb, 10 words of payoff,
+4.6:1 ratio. Escalation steeper than 3:1 feels thin (not enough climb);
+flatter than 6:1 feels indulgent (too much climb). The masters live
+between 4 and 5. That's not taste. That's engineering.
+
+
+**[15:30] WHAT ESCALATION BUYS.** The climb isn't the point. The climb is
+what the ending spends. [CLIP: same bit's finale — a quiet line that only
+detonates because of the five minutes beneath it] Play that final line
+cold, with no climb before it: polite chuckle, maybe. Play it after the
+escalation: the room erupts, because they're not laughing at the line.
+They're cashing in everything the climb deposited. Escalation is a savings
+account. The punch makes deposits; the ending makes the withdrawal. Comics
+who skip the climb and go straight to the big finish are trying to spend
+money they never deposited. Watch the room's faces during the climb itself
+— halfway up, they're already laughing harder than the material warrants.
+That's interest accruing. The audience can feel the account growing and
+they're excited about what it's going to buy.
+
+
 **[17:00] FAILURE MODE.** Two ways to die. One: the stall — item four
 doesn't beat item three. Same size, or smaller. The machine stops and the
 room feels the stop like a dropped call. (This is what people mean when

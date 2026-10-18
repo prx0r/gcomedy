@@ -67,6 +67,55 @@ works better than fact the room doubts. (Red dress Basingstoke: true story
 the room rejected, versus cop-show fiction the room bought — same comic,
 same room, opposite outcomes, premise-clarity as the only variable.)
 
+**[12:30] THE NINETY SECONDS.** Slow the Acaster red-dress story to
+quarter speed and watch premise-installation happen in real time. Second
+0–15 (T-shirt, bush, Basingstoke): world declared — panel-show anecdote,
+everyone relaxed. Second 15–30 (wait — dress? cold? bag?): priority
+wobbles — the room's foreground assignment starts slipping. Second 30–45
+("bollocks!"): the room REJECTS the world. Not the joke — the world. They
+don't believe it, so they won't enter it, so nothing after can function.
+Second 45–60 (Acaster annoyed, "but that's TRUE"): the negotiation —
+comic insisting on a world the room refused. This sixty seconds contains
+the entire premise function succeeding then failing in miniature: install,
+wobble, rejection, negotiation. And the lesson Acaster took ("they don't
+care if it's true — they care whether they buy in") is the most expensive
+tuition in this series: truth is irrelevant to world-entry. Only shared
+priority matters. A false world unanimously entered beats a true world
+half-entered, every night, forever. JOHNSTONE'S BOOK (Impro, same
+principle from the improv tradition): don't ask if it's true, ask if the
+room accepts the offer. Same machine, different century.
+
+
+**[15:30] SAME PREMISE, DIFFERENT WORLDS.** Give two comics the identical
+premise and watch them build incompatible worlds. [CLIP A: comic does
+airports as purgatory — weary, existential] [CLIP B: comic does airports
+as playground — delighted, chaotic] Same situation. Opposite priority
+assignments, opposite weight, opposite rooms recruited. Neither is wrong —
+that's the point. The premise was never the situation. The premise was
+always the comic's ATTITUDE toward the situation, installed as shared
+priority. Airports-as-purgatory and airports-as-playground share zero
+jokes and zero laughs, from identical raw material. Which means the
+world-building step — the first ninety seconds — contains the entire set
+in miniature. Change the attitude, keep the topic, and every downstream
+joke changes. Students ask for premises. They should ask for attitudes.
+The topic is lumber. The attitude is the house.
+
+
+**[16:00] PREMISE THEFT.** The advanced class isn't building worlds.
+It's stealing them. [CLIP: comic walks onstage, says the venue's name
+with contempt, room erupts — zero beats of platform] No world declared,
+no priority assigned, no weight accrued — full laugh in four seconds.
+How? The room walked in pre-loaded: their city, their traffic, their
+football team losing again. The comic pointed at the loaded platform and
+claimed it. Every local reference, every "you guys" callback to shared
+misery, every venue-specific opener is premise theft — and the great
+road comics steal better than they build. This doesn't break the theory.
+It confirms it: the shared world is what matters, and it doesn't matter
+who built it. The audience arrives carrying prefabricated worlds
+(hometowns, jobs, relationships, phones). The comic's job is to move in,
+not to construct. Beginners build slowly and proudly. Masters squat.
+
+
 **[17:00] FAILURE MODE.** Two deaths. One: the unbuilt world — premise
 mumbled, rushed, or assumed ("you guys know how airports are" to a room
 that doesn't fly). Punch arrives, room is still asking where they are.

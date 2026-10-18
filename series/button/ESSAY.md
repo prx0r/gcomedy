@@ -60,6 +60,53 @@ literally returning to its starting coordinates with a full archive.
 Proves buttons aren't lines, they're geometry: closed trajectories feel
 finished regardless of the words spoken at the end.
 
+**[11:30] THE APPLAUSE CURVE.** Two rooms, same comic, different endings
+— watch the applause, not the jokes. [SPLIT: closed-set applause waveform
+vs open-set waveform] Closed: sharp attack (hands start mid-final-word),
+3-second peak, clean exponential decay. The room discharges completely and
+the next bit starts on silence — full attention available. Open: slow
+attack (hands unsure when it's over), no peak, 8-second dribble. The room
+never discharges, so the next bit starts at 60% attention carrying 40%
+residue. Compound across a set: five unclosed bits means the closer
+performs into a room holding five unresolved trajectories — attention
+fractured five ways, no single thread strong enough to pull. This is why
+great closers obsess over EARLY buttons, not just the finale: every closed
+bit frees its attention for the next. The set is an attention economy and
+buttons are how you collect. Leave them open and you perform the finale
+for a room that's still, partly, watching six earlier bits end.
+
+
+**[14:00] THE AUTOPSY OF AN OPEN SET.** Take a set that never closed and
+perform the autopsy. [CLIP: strong 20 minutes, weak ending, room applauds
+politely and forgets by parking lot] Now replay the last five minutes with
+timestamps: 18:32 last real punch. 19:05 tag. 19:40 new premise (mistake —
+opening a world with two minutes left). 20:10 abandonment of that premise.
+20:35 "anyway guys you've been great." Four distinct failures stacked:
+unclosed trajectory, new platform with no time to build, priority betrayal,
+apology disguised as gratitude. The room didn't dislike the material. The
+room never got to discharge. Every open trajectory from the set is still
+humming in their nervous systems on the drive home — not as pleasure but
+as static. Compare the applause curve: closed sets spike then release
+(clean decay); open sets plateau then dribble (no peak, no release). The
+button isn't the last joke. It's the discharge switch for everything
+before it.
+
+
+**[14:30] THE FALSE FLOOR.** The advanced class: buttons that close one
+trajectory by opening a bigger one. [CLIP: closer that resolves the set's
+surface plot while revealing the set was about something else entirely]
+The room applauds the close, then — half a beat later — gasps as the
+reframe lands. Two discharges for one line: closure, then reopening at a
+higher level. Acaster's finales do this structurally (the identity crisis
+revealed as the subject all along); Louis does it topically (the bit was
+never about what it seemed). False floors are dangerous: mistime the
+second beat and the room leaves confused instead of expanded. The reframe
+must be INSTANTLY legible — one sentence, no setup of its own, riding
+entirely on the archive. When it works it's the closest comedy gets to
+the sublime: an ending that is also a beginning, a closed trajectory
+containing an open one.
+
+
 **[15:30] FAILURE MODE.** Two deaths. One: the leaver — trailing off,
 "anyway, so yeah," next topic. The trajectory stays open; residual
 tension leaks into the next bit, which now starts uphill carrying someone
