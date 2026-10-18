@@ -1,0 +1,256 @@
+{
+ "setup": {
+  "primary": [
+   "premise",
+   "setup",
+   "platform",
+   "foundation"
+  ],
+  "alternate": [
+   "establishing the world",
+   "the base",
+   "the opening",
+   "getting into it",
+   "context",
+   "frame",
+   "the lead-in",
+   "building the world",
+   "declaring the premise",
+   "audience doesn't understand",
+   "premise clarity",
+   "the setup line",
+   "world building comedy"
+  ],
+  "comedian_speak": [
+   "seinfeld premise",
+   "chris rock premise audience",
+   "louis ck storytelling setup",
+   "norm macdonald premise",
+   "how i set up a joke",
+   "writing a premise comedy"
+  ],
+  "searches": [
+   "comedian explains premise setup joke writing",
+   "seinfeld how jokes work premise",
+   "chris rock premise audience understands",
+   "norm macdonald joke setup storytelling",
+   "louis ck how he writes jokes setup",
+   "comedy writing premise platform foundation",
+   "standup explaining how they set up a joke"
+  ]
+ },
+ "escalate": {
+  "primary": [
+   "escalate",
+   "heighten",
+   "build"
+  ],
+  "alternate": [
+   "rule of three",
+   "rule of three comedy",
+   "list joke",
+   "ratchet up",
+   "take it further",
+   "raise the stakes",
+   "pattern and break",
+   "AAB pattern",
+   "escalation",
+   "the climb",
+   "spiral",
+   "build to a climax",
+   "three things comedy",
+   "and then",
+   "what else",
+   "topping yourself",
+   "going further"
+  ],
+  "comedian_speak": [
+   "norm macdonald escalation",
+   "bill burr building a bit",
+   "dave chappelle escalation",
+   "rule of three standup",
+   "how to escalate a joke",
+   "list comedy technique"
+  ],
+  "searches": [
+   "comedian explains escalation rule of three joke",
+   "norm macdonald how he builds a joke escalation",
+   "bill burr building a comedy bit escalation",
+   "rule of three comedy technique explained",
+   "standup list joke escalation technique",
+   "how comedians escalate a premise"
+  ]
+ },
+ "punch": {
+  "primary": [
+   "punchline",
+   "punch line",
+   "the punch",
+   "timing"
+  ],
+  "alternate": [
+   "the reveal",
+   "the twist",
+   "the payoff",
+   "the line",
+   "the delivery",
+   "the snap",
+   "the turn",
+   "the reframe",
+   "the kicker",
+   "the button",
+   "the payoff",
+   "comic timing",
+   "pause before the punch",
+   "holding the beat",
+   "the silence",
+   "sphota",
+   "the burst",
+   "the landing",
+   "delivery timing",
+   "rate of speech punchline"
+  ],
+  "comedian_speak": [
+   "seinfeld count syllables songwriting",
+   "seinfeld timing punchline",
+   "norm macdonald delivery timing",
+   "louis ck pause punchline timing",
+   "carlin rhythm delivery",
+   "jerry seinfeld how to write a joke pop tart",
+   "steve martin comedy timing",
+   "burr punchline delivery"
+  ],
+  "searches": [
+   "comedian explains punchline timing delivery",
+   "seinfeld how to write a joke timing syllables",
+   "norm macdonald joke delivery timing explained",
+   "louis ck timing pause punchline",
+   "george carlin rhythm delivery comedy",
+   "steve martin comedy timing interview",
+   "bill burr punchline delivery technique",
+   "comedy timing pause before punchline explained"
+  ]
+ },
+ "tag": {
+  "primary": [
+   "tag",
+   "topper",
+   "second laugh"
+  ],
+  "alternate": [
+   "extending the joke",
+   "milk the laugh",
+   "follow-up joke",
+   "and another thing",
+   "the extra",
+   "button it up",
+   "second punchline",
+   "tag on the end",
+   "add-on joke",
+   "and also",
+   "extending the bit",
+   "keep going",
+   "riding the laugh",
+   "the button"
+  ],
+  "comedian_speak": [
+   "comedian explains tags jokes",
+   "adding tags to a joke",
+   "topper technique comedy",
+   "extending a punchline",
+   "second laugh joke technique"
+  ],
+  "searches": [
+   "comedian explains tags toppers joke writing",
+   "how to add tags to a joke comedy writing",
+   "extending a joke after the punchline",
+   "second laugh comedy technique explained",
+   "standup tags toppers technique"
+  ]
+ },
+ "callback": {
+  "primary": [
+   "callback",
+   "call back",
+   "reference back"
+  ],
+  "alternate": [
+   "remember when",
+   "earlier I said",
+   "circle back",
+   "bookend",
+   "as I mentioned",
+   "reprise",
+   "the return",
+   "tying it back",
+   "running it back",
+   "callback joke",
+   "reference earlier",
+   "bring it back",
+   "the loop",
+   "cheekhov's gun comedy",
+   "plant and payoff",
+   "seeding and harvesting"
+  ],
+  "comedian_speak": [
+   "acaster callback technique",
+   "comedian explains callbacks",
+   "callback comedy writing",
+   "plant and payoff comedy",
+   "seeding a joke callback",
+   "stewart lee callback",
+   "how to write a callback joke"
+  ],
+  "searches": [
+   "comedian explains callbacks comedy technique",
+   "how to write a callback joke standup",
+   "james acaster callback technique explained",
+   "plant and payoff comedy writing",
+   "callback joke structure standup",
+   "comedian explains referencing earlier jokes"
+  ]
+ },
+ "button": {
+  "primary": [
+   "closer",
+   "button",
+   "ending",
+   "outro"
+  ],
+  "alternate": [
+   "finale",
+   "the end",
+   "wrap-up",
+   "dismount",
+   "the last joke",
+   "the send-off",
+   "goodnight",
+   "that's my time",
+   "the ride-out",
+   "closing bit",
+   "ending a set",
+   "the closer",
+   "the button",
+   "finishing strong",
+   "the last laugh",
+   "return to center",
+   "resolve the set"
+  ],
+  "comedian_speak": [
+   "comedian explains closer ending set",
+   "how to end a comedy special",
+   "norm macdonald closer",
+   "seinfeld ending a joke",
+   "comedy closer technique",
+   "finishing a comedy set"
+  ],
+  "searches": [
+   "comedian explains closer ending a comedy set",
+   "how to end a comedy special technique",
+   "comedy closer button technique explained",
+   "norm macdonald ending a joke",
+   "seinfeld how to end a joke",
+   "standup closer ending strong technique"
+  ]
+ }
+}
