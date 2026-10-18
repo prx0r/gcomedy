@@ -1,0 +1,42 @@
+{
+ "setup": [
+  {
+   "comedian": "Jerry Seinfeld",
+   "timestamp": "0:42",
+   "label": "premise",
+   "quote": "[0:42] Every joke has to have a premise, an idea that the inevitable"
+  },
+  {
+   "comedian": "Chris Rock",
+   "timestamp": "0:56",
+   "label": "audience understand",
+   "quote": "because the audience does not understand the premise.\""
+  }
+ ],
+ "punch": [
+  {
+   "comedian": "George Carlin",
+   "timestamp": "16:05",
+   "label": "jazz feeling",
+   "quote": "16:05 they were placed together had a magnificent kind of a jazz feeling a rhythm that was just very natural and"
+  }
+ ],
+ "callback": [],
+ "escalate": [
+  {
+   "comedian": "George Carlin",
+   "timestamp": "21:04",
+   "label": "avalanche",
+   "quote": "21:04 away Carlin delivers an avalanche of events at a constant Rhythm and speed 18 individual phenomena in 46 words in 20"
+  }
+ ],
+ "button": [
+  {
+   "comedian": "Louis C.K.",
+   "timestamp": "6:30",
+   "label": "poetry",
+   "quote": "[6:30] Like great poetry, great stand-up comedy is language distilled"
+  }
+ ],
+ "tag": []
+}
