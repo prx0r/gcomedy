@@ -1,10 +1,8 @@
-# PREMISE — THE PLATFORM — theory references
+# PREMISE — THE WORLD — theory references
 
-## characters2
-- SKILL-seinfeld-noticing.md (platform construction)
-- SKILL-joke-writing.md §2 (premise clarity)
-- Rock Talking Funny: 'audience does not understand the premise'
+- `SKILL-seinfeld-noticing.md`
+- `THE-LINE.md`
 
 ## gcomedy
-- series/premise/MICRO-TECHNIQUES.md (other agent's bank)
-- series/premise/ESSAY.md
+- THESIS-timing-is-composition.md
+- experiments/FINDINGS.md

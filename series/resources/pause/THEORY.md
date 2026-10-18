@@ -1,11 +1,9 @@
 # PAUSE — THE HOLD — theory references
 
-## characters2
-- Attardo & Pickering 2011 (pause taxonomy)
-- DPV framework (temporal scaffolding)
-- TAMS 2026 (imaginary metronome)
-- gcomedy experiments H1/H3 (measured timing)
+- `Attardo & Pickering 2011`
+- `DPV framework`
+- `gcomedy H1/H3 experiments`
 
 ## gcomedy
-- series/pause/MICRO-TECHNIQUES.md (other agent's bank)
-- series/pause/ESSAY.md
+- THESIS-timing-is-composition.md
+- experiments/FINDINGS.md
