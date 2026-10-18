@@ -83,6 +83,36 @@ To generate a joke that works:
 5. LA: punch word LAST, hard consonants, 1-2 syllables (Seinfeld)
 6. Resolution: full (classic) or partial (absurdist) — pick deliberately
 
+## Key pragmatic mechanisms (Ch 8)
+
+When analyzing WHY a joke is funny, check the Gricean angle:
+- **Grice's maxims**: Quantity, Quality, Relation, Manner
+- **Humor violates a maxim while appearing to cooperate**
+- **Implicature**: the punchline's meaning lives in what's implied, not said
+- **Relevance ratio**: best jokes = high cognitive effect / low processing effort
+
+## Ambiguity types (Ch 9)
+
+| Type | Mechanism | Example | Our operator |
+|---|---|---|---|
+| Lexical | one word, two meanings | 'bat' (animal/equipment) | double_interpret |
+| Structural | one sentence, two parses | 'Time flies like an arrow' | garden_path |
+| Phonological | one sound, two transcriptions | 'used to do drugs / used to, too' | literalize |
+
+## Politeness and THE-LINE (Ch 13)
+
+Politeness theory (Brown & Levinson): humor is a face-threatening act
+mitigated by the humor frame. THE-LINE IS politeness theory applied to
+comedy: crossing the line = the FTA is too threatening for the frame to
+mitigate. License = stronger mitigation.
+
+## Unreliable narrator: literature → comedy (Ch 14)
+
+In literature: unreliable narrator creates dramatic irony (reader knows
+more than narrator). In comedy: same mechanism creates split_knowledge
+(audience knows more than persona). The participation framework
+(animator ≠ principal) is the formal mechanism.
+
 ## For video essays: the chapter → topic map
 
 | Video topic | Primary Attardo chapters | Key concepts |

@@ -1505,6 +1505,448 @@
     "Attardo 2020 Ch 17"
    ],
    "maps_to_our": "We are Attardo's future directions, executed"
+  },
+  "saussurean-sign": {
+   "id": "saussurean-sign",
+   "name": "Saussurean Sign",
+   "type": "concept",
+   "chapter": 5,
+   "page": 119,
+   "definition": "The sign as the indissoluble unity of signified (concept) and signifier (sound-image). A word's meaning is not 'in' the word \u2014 it's in the relationship between the signifier and the concept it points to.",
+   "our_operators": [
+    "double_interpret",
+    "literalize"
+   ],
+   "series_topics": [
+    "punch",
+    "voice",
+    "formats"
+   ],
+   "examples": [
+    "'Bat' signifier \u2192 two signifieds (animal vs sports equipment) = the pun mechanism",
+    "Literalize: signifier stays, signified shifts to physical meaning"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 5",
+    "Saussure 1916"
+   ],
+   "key_insight": "Puns work because ONE signifier points to TWO signifieds. The punchline selects the second signified.",
+   "maps_to_our": "double_interpret (two readings of same signifier), literalize (signified shifts to literal)"
+  },
+  "meta-communicative-signal": {
+   "id": "meta-communicative-signal",
+   "name": "Meta-communicative Signal",
+   "type": "concept",
+   "chapter": 5,
+   "page": 125,
+   "definition": "A signal that frames an utterance as 'not to be taken literally.' Bateson's 'play frame': 'this is play' signals that suspend normal meaning rules. In humor: the comedian signals 'this is a joke' via prosody, setting, or explicit markers.",
+   "our_operators": [],
+   "series_topics": [
+    "frame",
+    "sincerity",
+    "delivery"
+   ],
+   "examples": [
+    "Exaggerated intonation = 'this is funny'",
+    "Comedy club setting = 'expect humor'",
+    "'Just kidding' = explicit meta-communicative signal"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 5",
+    "Bateson 1955"
+   ],
+   "key_insight": "The sincerity doctrine REMOVES meta-communicative signals from the CHARACTER \u2014 the character never signals 'this is a joke.' The PERFORMER signals; the character doesn't.",
+   "maps_to_our": "sincerity doctrine (character never breaks 4th wall), humor-signal node (expanded)"
+  },
+  "grices-maxims": {
+   "id": "grices-maxims",
+   "name": "Grice's Maxims",
+   "type": "concept",
+   "chapter": 8,
+   "page": 183,
+   "definition": "The cooperative principle: conversational participants follow four maxims. (1) Quantity: be as informative as required. (2) Quality: be truthful. (3) Relation: be relevant. (4) Manner: be clear. Humor often VIOLATES one or more maxims while maintaining the appearance of cooperation.",
+   "our_operators": [
+    "garden_path",
+    "double_interpret",
+    "literalize"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "setup"
+   ],
+   "examples": [
+    "Understatement violates Quantity (too little info)",
+    "Non sequitur violates Relation (irrelevant)",
+    "Pun violates Manner (ambiguous on purpose)"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 8",
+    "Grice 1975"
+   ],
+   "maxims": [
+    "quantity",
+    "quality",
+    "relation",
+    "manner"
+   ],
+   "key_insight": "Humor works by APPEARING to follow maxims while actually violating them. The audience detects the violation and laughs.",
+   "maps_to_our": "garden_path (appears to follow relation, actually violates it), linear-organization rule"
+  },
+  "implicature": {
+   "id": "implicature",
+   "name": "Implicature",
+   "type": "concept",
+   "chapter": 8,
+   "page": 185,
+   "definition": "What is implied but not said. Grice's key concept: meaning can be conveyed by violating maxims, because the listener infers the intended meaning from the violation itself. The punchline's meaning often lives in implicature, not in the literal words.",
+   "our_operators": [
+    "split_knowledge",
+    "double_interpret"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "confession"
+   ],
+   "examples": [
+    "'Nice job' after failure \u2192 implicature: sarcasm (violates Quality)",
+    "Louis's confession: literal words are absurd, implicature is sincere fear"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 8",
+    "Grice 1975"
+   ],
+   "key_insight": "The punchline's MEANING is often in the implicature, not the literal text. This is why partial-resolution works \u2014 the implicature carries what the literal doesn't.",
+   "maps_to_our": "split_knowledge (audience reads the implicature; persona pretends the literal), BV (violation is literal, benign is implicature)"
+  },
+  "cognitive-effect-effort": {
+   "id": "cognitive-effect-effort",
+   "name": "Cognitive Effect vs Processing Effort",
+   "type": "concept",
+   "chapter": 8,
+   "page": 190,
+   "definition": "Relevance theory: an utterance is relevant when it yields cognitive effects (new implications) for minimal processing effort. Humor is maximally relevant when it yields high effect (amusement, insight) for low effort (easy to resolve).",
+   "our_operators": [
+    "garden_path"
+   ],
+   "series_topics": [
+    "punch",
+    "setup",
+    "feel-judge"
+   ],
+   "examples": [
+    "A clean punchline: high effect (big laugh), low effort (instant resolution)",
+    "An obscure reference: low effect (confusion), high effort (can't resolve)"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 8",
+    "Sperber & Wilson 1986"
+   ],
+   "formula": "relevance = cognitive_effect / processing_effort",
+   "key_insight": "The best jokes maximize the RATIO, not just the effect. This is why 'simple but surprising' beats 'complex and clever.'",
+   "maps_to_our": "punch length r=-0.32 (shorter punch = funnier = lower effort for same effect), economy score"
+  },
+  "ambiguity-taxonomy": {
+   "id": "ambiguity-taxonomy",
+   "name": "Ambiguity Taxonomy",
+   "type": "concept",
+   "chapter": 9,
+   "page": 202,
+   "definition": "Three types of linguistic ambiguity that generate humor: (1) Lexical: one word, multiple meanings (polysemy, homonymy). (2) Structural: one sentence, multiple parse trees (garden path sentences). (3) Phonological: one sound sequence, multiple transcriptions (near-homophones).",
+   "our_operators": [
+    "double_interpret",
+    "garden_path",
+    "literalize"
+   ],
+   "series_topics": [
+    "punch",
+    "formats",
+    "misdirection"
+   ],
+   "examples": [
+    "Lexical: 'bat' (animal/equipment)",
+    "Structural: 'Time flies like an arrow; fruit flies like a banana'",
+    "Phonological: 'I used to do drugs' \u2192 'I still do, but I used to, too'"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 9.3.1"
+   ],
+   "types": [
+    "lexical",
+    "structural",
+    "phonological"
+   ],
+   "key_insight": "Each ambiguity type is a different SO mechanism. Lexical = two signifieds. Structural = two parse trees. Phonological = two transcriptions. All three are double_interpret at different linguistic levels.",
+   "maps_to_our": "double_interpret (lexical), garden_path (structural), literalize (phonological wordplay)"
+  },
+  "malapropism": {
+   "id": "malapropism",
+   "name": "Malapropism",
+   "type": "concept",
+   "chapter": 9,
+   "page": 206,
+   "definition": "Using a wrong word that sounds similar to the intended word, creating humor through the confusion. Named after Mrs. Malaprop in Sheridan's 'The Rivals.' A specific type of phonological ambiguity.",
+   "our_operators": [
+    "double_interpret"
+   ],
+   "series_topics": [
+    "formats",
+    "voice"
+   ],
+   "examples": [
+    "'He's the pineapple of politeness' (pinnacle)",
+    "Comedians who deliberately use wrong words for effect"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 9"
+   ],
+   "is_a": "ambiguity-taxonomy",
+   "subtype": "phonological"
+  },
+  "tautology-humor": {
+   "id": "tautology-humor",
+   "name": "Tautology (as humor)",
+   "type": "concept",
+   "chapter": 9,
+   "page": 207,
+   "definition": "A statement that is humorously redundant \u2014 saying the same thing twice in a way that reveals something unexpected. 'War is war' or 'a deal's a deal.' The tautology violates Grice's Quantity maxim (too little new information) while asserting something the listener didn't expect to be asserted.",
+   "our_operators": [
+    "rigidify"
+   ],
+   "series_topics": [
+    "formats",
+    "punch"
+   ],
+   "examples": [
+    "'Boys will be boys' (tautology that reveals expectation)",
+    "'It is what it is' used as a comic deflection"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 9"
+   ],
+   "is_a": "ambiguity-taxonomy",
+   "maps_to_our": "rigidify (following the identity rule past its usefulness)"
+  },
+  "repair-sequence": {
+   "id": "repair-sequence",
+   "name": "Repair Sequence",
+   "type": "concept",
+   "chapter": 11,
+   "page": 275,
+   "definition": "When conversation breaks down and gets fixed \u2014 misunderstanding, self-correction, clarification. Attardo notes people laugh during failed repair sequences. Comedy often exploits the repair: the breakdown IS the joke.",
+   "our_operators": [
+    "garden_path",
+    "split_knowledge"
+   ],
+   "series_topics": [
+    "punch",
+    "misdirection",
+    "tag"
+   ],
+   "examples": [
+    "Comedian misunderstands a heckler on purpose",
+    "'Wait, what? No, I said...' \u2014 the repair IS the bit"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 11"
+   ],
+   "maps_to_our": "garden_path (the breakdown is the violation), crowd work topics"
+  },
+  "conversation-opening-closing": {
+   "id": "conversation-opening-closing",
+   "name": "Conversation Openings and Closings",
+   "type": "concept",
+   "chapter": 11,
+   "page": 280,
+   "definition": "Conventions for starting and ending conversations. Humor often exploits these: the greeting is the setup, the farewell is the button. Standup openings/closings mirror conversation openings/closings.",
+   "our_operators": [],
+   "series_topics": [
+    "setup",
+    "button",
+    "status"
+   ],
+   "examples": [
+    "'How are you?' \u2192 'Fine' (preferred) vs 'Let me tell you...' (unpreferred = comedy opening)",
+    "'That's my time' = the comedy closing convention"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 11"
+   ],
+   "maps_to_our": "setup (opening conventions), button (closing conventions)"
+  },
+  "participation-framework": {
+   "id": "participation-framework",
+   "name": "Participation Framework",
+   "type": "concept",
+   "chapter": 12,
+   "page": 292,
+   "definition": "Goffman's framework for who is speaking to whom in an utterance: animator (the voice), author (the words), principal (the beliefs). In comedy, these can be SEPARATED: the comedian (animator) speaks as a character (principal) who didn't write the words (author).",
+   "our_operators": [
+    "expose_self_blindness",
+    "split_knowledge",
+    "mistake_identity"
+   ],
+   "series_topics": [
+    "persona",
+    "frame",
+    "confession",
+    "sincerity"
+   ],
+   "examples": [
+    "Louis as animator speaks as 'Louis the persona' (principal) \u2014 the real Louis's beliefs leak through",
+    "Acaster as animator speaks as Springleaf (principal) \u2014 real feelings leak"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 12",
+    "Goffman 1981"
+   ],
+   "key_insight": "The unreliable narrator works because animator \u2260 principal. The comedian's voice carries the character's words, and the real person's beliefs leak through the gap.",
+   "maps_to_our": "persona footing (animator \u2260 principal), unreliable narrator variants, split_knowledge"
+  },
+  "politeness-theory": {
+   "id": "politeness-theory",
+   "name": "Politeness Theory",
+   "type": "concept",
+   "chapter": 13,
+   "page": 328,
+   "definition": "Brown & Levinson: face-threatening acts (FTAs) threaten the listener's positive face (desire to be liked) or negative face (desire to be free). Humor is aFTA that is mitigated \u2014 the joke threatens face but the humor frame makes it acceptable.",
+   "our_operators": [
+    "character_violation",
+    "status_invert"
+   ],
+   "series_topics": [
+    "the-line",
+    "violate",
+    "edgy-gate",
+    "target"
+   ],
+   "examples": [
+    "A roast joke is an FTA mitigated by the humor frame",
+    "Self-deprecation is an FTA on oneself (always safe)"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 13",
+    "Brown & Levinson 1987"
+   ],
+   "key_insight": "THE-LINE IS POLITENESS THEORY: crossing the line = the FTA is too threatening for the humor frame to mitigate. License = stronger mitigation.",
+   "maps_to_our": "THE-LINE crossing formula, jokegate license check, edge scoring"
+  },
+  "gender-humor": {
+   "id": "gender-humor",
+   "name": "Gender and Humor",
+   "type": "concept",
+   "chapter": 13,
+   "page": 330,
+   "definition": "Variationist sociolinguistics of humor: men and women use humor differently. Research shows: men tend toward aggressive/superiority humor; women tend toward affiliative/self-deprecating humor. Attardo notes this is about PATTERNS, not absolutes.",
+   "our_operators": [
+    "status_invert",
+    "character_violation"
+   ],
+   "series_topics": [
+    "status",
+    "target",
+    "persona"
+   ],
+   "examples": [
+    "Roast comedy (traditionally male-dominated) uses aggressive humor",
+    "Confessional comedy (traditionally more female) uses affiliative humor"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 13",
+    "multiple variationist studies"
+   ],
+   "key_insight": "Gender patterns in humor map to our target types: aggressive\u2192powerful/victim, affiliative\u2192self. Not deterministic, but real patterns.",
+   "maps_to_our": "target types (self vs powerful), status dynamics"
+  },
+  "literary-humor-taxonomy": {
+   "id": "literary-humor-taxonomy",
+   "name": "Literary Humor Taxonomy",
+   "type": "concept",
+   "chapter": 14,
+   "page": 344,
+   "definition": "Attardo lists the genres of literary humor: comedy, satire, irony, fantasy, parody, picaresque, farce. Each has subtypes. The taxonomy maps loosely to our comedy formats.",
+   "our_operators": [],
+   "series_topics": [
+    "formats",
+    "where-jokes-come-from"
+   ],
+   "examples": [
+    "Satire = roast (attacking the powerful)",
+    "Parody = meta-comedy (imitating a genre)",
+    "Farce = absurdist escalation",
+    "Picaresque = story format"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 14"
+   ],
+   "genre_map": {
+    "satire": "roast",
+    "parody": "meta-comedy",
+    "farce": "absurdist",
+    "picaresque": "story",
+    "irony": "deadpan",
+    "fantasy": "surreal"
+   },
+   "maps_to_our": "FORMATS-joke-types.md (14 comedy formats \u2194 literary genres)"
+  },
+  "unreliable-narrator-literature": {
+   "id": "unreliable-narrator-literature",
+   "name": "Unreliable Narrator (Literature)",
+   "type": "concept",
+   "chapter": 14,
+   "page": 355,
+   "definition": "A narrator whose credibility is compromised \u2014 the reader knows the narrator's version is wrong. In literature: first-person narrators who are blind to their own situation. This is the DIRECT literary ancestor of our unreliable-narrator comedy device.",
+   "our_operators": [
+    "split_knowledge",
+    "expose_self_blindness",
+    "mistake_identity"
+   ],
+   "series_topics": [
+    "frame",
+    "persona",
+    "confession",
+    "misdirection"
+   ],
+   "examples": [
+    "Acaster's undercover cop: the narrator claims to be a cop, the audience knows he's not",
+    "Lee's Carpet Remnant World: the narrator claims to have a plan, the audience sees it collapsing"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 14"
+   ],
+   "key_insight": "In literature, the unreliable narrator creates dramatic irony (reader knows more than narrator). In comedy, it creates split_knowledge (audience knows more than persona). SAME MECHANISM, different medium.",
+   "maps_to_our": "UNRELIABLE-NARRATOR.md (5 variants), split_knowledge, the entire frame topic",
+   "variants": [
+    "disguise (Acaster)",
+    "collapse (Lee)",
+    "constructed-innocence (Norm)",
+    "faux-protected (Lock)",
+    "honest-exhibitionist (Louis)"
+   ]
+  },
+  "domestication-foreignization": {
+   "id": "domestication-foreignization",
+   "name": "Domestication vs Foreignization",
+   "type": "concept",
+   "chapter": 15,
+   "page": 370,
+   "definition": "Two translation strategies. Domestication: adapt the humor to the target culture (change cultural references). Foreignization: preserve the source culture (keep references, accept some loss). Attardo uses this to show what's 'essential' in humor.",
+   "our_operators": [],
+   "series_topics": [
+    "formats",
+    "voice"
+   ],
+   "examples": [
+    "Domestication: change a UK joke's reference to a US equivalent",
+    "Foreignization: keep the UK reference, translate only the words"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 15",
+    "Venuti 1995"
+   ],
+   "key_insight": "What survives domestication = SO + LM + SI + TA + NS (structure). What's lost = LA (specific words) + cultural SI. This is KR independence in action.",
+   "maps_to_our": "KR independence evidence, region data (UK vs US humor patterns)"
   }
  },
  "edges": [
@@ -2109,6 +2551,223 @@
    "type": "calls_for",
    "label": "",
    "chapter": 17
+  },
+  {
+   "from": "saussurean-sign",
+   "to": "script",
+   "type": "part_of",
+   "label": "scripts are built from signs",
+   "chapter": 5
+  },
+  {
+   "from": "saussurean-sign",
+   "to": "pun",
+   "type": "implements",
+   "label": "puns exploit one signifier \u2192 two signifieds",
+   "chapter": 5
+  },
+  {
+   "from": "saussurean-sign",
+   "to": "literalize",
+   "type": "maps_to",
+   "label": "literalize = signified shifts to physical meaning",
+   "chapter": 5
+  },
+  {
+   "from": "meta-communicative-signal",
+   "to": "humor-signal",
+   "type": "is_a",
+   "label": "meta-communicative signals are a type of humor signal",
+   "chapter": 5
+  },
+  {
+   "from": "meta-communicative-signal",
+   "to": "sincerity",
+   "type": "requires",
+   "label": "sincerity doctrine removes meta-communicative signals from the character",
+   "chapter": 5
+  },
+  {
+   "from": "grices-maxims",
+   "to": "implicature",
+   "type": "requires",
+   "label": "implicature arises from maxim violations",
+   "chapter": 8
+  },
+  {
+   "from": "grices-maxims",
+   "to": "incongruity",
+   "type": "implements",
+   "label": "maxim violations create incongruity",
+   "chapter": 8
+  },
+  {
+   "from": "implicature",
+   "to": "punch",
+   "type": "produces",
+   "label": "the punchline's meaning lives in implicature",
+   "chapter": 8
+  },
+  {
+   "from": "implicature",
+   "to": "split_knowledge",
+   "type": "maps_to",
+   "label": "audience reads implicature; persona pretends literal",
+   "chapter": 8
+  },
+  {
+   "from": "cognitive-effect-effort",
+   "to": "relevance-theory-humor",
+   "type": "part_of",
+   "label": "",
+   "chapter": 8
+  },
+  {
+   "from": "cognitive-effect-effort",
+   "to": "punch",
+   "type": "optimizes",
+   "label": "best jokes maximize effect/effort ratio",
+   "chapter": 8
+  },
+  {
+   "from": "ambiguity-taxonomy",
+   "to": "script-opposition-SSTH",
+   "type": "implements",
+   "label": "ambiguity creates script opposition at different levels",
+   "chapter": 9
+  },
+  {
+   "from": "ambiguity-taxonomy",
+   "to": "double_interpret",
+   "type": "maps_to",
+   "label": "each ambiguity type = double_interpret at different level",
+   "chapter": 9
+  },
+  {
+   "from": "malapropism",
+   "to": "ambiguity-taxonomy",
+   "type": "is_a",
+   "label": "malapropism is phonological ambiguity",
+   "chapter": 9
+  },
+  {
+   "from": "tautology-humor",
+   "to": "ambiguity-taxonomy",
+   "type": "is_a",
+   "label": "tautology is structural ambiguity via Quantity violation",
+   "chapter": 9
+  },
+  {
+   "from": "repair-sequence",
+   "to": "adjacency-pair",
+   "type": "part_of",
+   "label": "repair disrupts the adjacency pair",
+   "chapter": 11
+  },
+  {
+   "from": "conversation-opening-closing",
+   "to": "adjacency-pair",
+   "type": "part_of",
+   "label": "",
+   "chapter": 11
+  },
+  {
+   "from": "participation-framework",
+   "to": "footing",
+   "type": "part_of",
+   "label": "participation framework includes footing analysis",
+   "chapter": 12
+  },
+  {
+   "from": "participation-framework",
+   "to": "unreliable-narrator-literature",
+   "type": "implements",
+   "label": "animator \u2260 principal is the unreliable narrator mechanism",
+   "chapter": 12
+  },
+  {
+   "from": "politeness-theory",
+   "to": "context-humor",
+   "type": "requires",
+   "label": "politeness is the context that determines FTA safety",
+   "chapter": 13
+  },
+  {
+   "from": "politeness-theory",
+   "to": "the-line",
+   "type": "maps_to",
+   "label": "THE-LINE is politeness theory applied to comedy",
+   "chapter": 13
+  },
+  {
+   "from": "politeness-theory",
+   "to": "power-solidarity",
+   "type": "requires",
+   "label": "politeness is shaped by power relationships",
+   "chapter": 13
+  },
+  {
+   "from": "gender-humor",
+   "to": "power-solidarity",
+   "type": "part_of",
+   "label": "",
+   "chapter": 13
+  },
+  {
+   "from": "gender-humor",
+   "to": "target",
+   "type": "maps_to",
+   "label": "gender patterns map to target type preferences",
+   "chapter": 13
+  },
+  {
+   "from": "literary-humor-taxonomy",
+   "to": "narrative-humor",
+   "type": "part_of",
+   "label": "",
+   "chapter": 14
+  },
+  {
+   "from": "literary-humor-taxonomy",
+   "to": "formats",
+   "type": "maps_to",
+   "label": "literary genres \u2194 comedy formats",
+   "chapter": 14
+  },
+  {
+   "from": "unreliable-narrator-literature",
+   "to": "footing",
+   "type": "implements",
+   "label": "unreliable narrator = animator/principal split",
+   "chapter": 14
+  },
+  {
+   "from": "unreliable-narrator-literature",
+   "to": "split_knowledge",
+   "type": "maps_to",
+   "label": "audience knows more than narrator = split_knowledge",
+   "chapter": 14
+  },
+  {
+   "from": "unreliable-narrator-literature",
+   "to": "frame",
+   "type": "maps_to",
+   "label": "the reliability frame determines audience belief",
+   "chapter": 14
+  },
+  {
+   "from": "domestication-foreignization",
+   "to": "kr-independence-evidence",
+   "type": "validates",
+   "label": "translation strategies prove KR independence",
+   "chapter": 15
+  },
+  {
+   "from": "domestication-foreignization",
+   "to": "KR-LA",
+   "type": "affects",
+   "label": "LA is what's lost in translation",
+   "chapter": 15
   }
  ],
  "indexes": {
@@ -2166,26 +2825,39 @@
    ],
    "5": [
     "humor-signal",
-    "code"
+    "code",
+    "saussurean-sign",
+    "meta-communicative-signal"
    ],
    "8": [
     "relevance-theory-humor",
-    "context-humor"
+    "context-humor",
+    "grices-maxims",
+    "implicature",
+    "cognitive-effect-effort"
    ],
    "9": [
     "pun",
     "verbal-irony",
-    "sarcasm"
+    "sarcasm",
+    "ambiguity-taxonomy",
+    "malapropism",
+    "tautology-humor"
    ],
    "11": [
     "adjacency-pair",
-    "preference-organization"
+    "preference-organization",
+    "repair-sequence",
+    "conversation-opening-closing"
    ],
    "12": [
-    "footing"
+    "footing",
+    "participation-framework"
    ],
    "13": [
-    "power-solidarity"
+    "power-solidarity",
+    "politeness-theory",
+    "gender-humor"
    ],
    "2": [
     "operationalization",
@@ -2194,11 +2866,14 @@
    ],
    "14": [
     "narrative-humor",
-    "comic-character"
+    "comic-character",
+    "literary-humor-taxonomy",
+    "unreliable-narrator-literature"
    ],
    "15": [
     "untranslatability",
-    "kr-independence-evidence"
+    "kr-independence-evidence",
+    "domestication-foreignization"
    ],
    "16": [
     "humor-pedagogy"
@@ -2254,7 +2929,23 @@
     "comic-character",
     "untranslatability",
     "humor-pedagogy",
-    "future-directions"
+    "future-directions",
+    "saussurean-sign",
+    "meta-communicative-signal",
+    "grices-maxims",
+    "implicature",
+    "cognitive-effect-effort",
+    "ambiguity-taxonomy",
+    "malapropism",
+    "tautology-humor",
+    "repair-sequence",
+    "conversation-opening-closing",
+    "participation-framework",
+    "politeness-theory",
+    "gender-humor",
+    "literary-humor-taxonomy",
+    "unreliable-narrator-literature",
+    "domestication-foreignization"
    ],
    "distinction": [
     "verbal-humor",
@@ -2293,7 +2984,11 @@
     "timing-performance",
     "relevance-theory-humor",
     "adjacency-pair",
-    "preference-organization"
+    "preference-organization",
+    "grices-maxims",
+    "cognitive-effect-effort",
+    "ambiguity-taxonomy",
+    "repair-sequence"
    ],
    "literalize": [
     "punchline",
@@ -2302,7 +2997,10 @@
     "partial-resolution",
     "foregrounded-incongruity",
     "GTVH",
-    "KR-LM"
+    "KR-LM",
+    "saussurean-sign",
+    "grices-maxims",
+    "ambiguity-taxonomy"
    ],
    "double_interpret": [
     "punchline",
@@ -2319,18 +3017,27 @@
     "GTVH",
     "KR-SO",
     "pun",
-    "verbal-irony"
+    "verbal-irony",
+    "saussurean-sign",
+    "grices-maxims",
+    "implicature",
+    "ambiguity-taxonomy",
+    "malapropism"
    ],
    "expose_self_blindness": [
     "meta-humor",
-    "footing"
+    "footing",
+    "participation-framework",
+    "unreliable-narrator-literature"
    ],
    "status_invert": [
     "aggression-theory",
     "GTVH",
     "KR-TA",
     "sarcasm",
-    "power-solidarity"
+    "power-solidarity",
+    "politeness-theory",
+    "gender-humor"
    ],
    "character_violation": [
     "aggression-theory",
@@ -2339,7 +3046,9 @@
     "KR-TA",
     "sarcasm",
     "power-solidarity",
-    "comic-character"
+    "comic-character",
+    "politeness-theory",
+    "gender-humor"
    ],
    "bisociate": [
     "bisociation"
@@ -2353,16 +3062,23 @@
     "audience-co-performer",
     "code",
     "verbal-irony",
-    "footing"
+    "footing",
+    "implicature",
+    "repair-sequence",
+    "participation-framework",
+    "unreliable-narrator-literature"
    ],
    "mistake_identity": [
     "script-opposition-SSTH",
-    "KR-SO"
+    "KR-SO",
+    "participation-framework",
+    "unreliable-narrator-literature"
    ],
    "rigidify": [
     "GTVH",
     "KR-LM",
-    "comic-character"
+    "comic-character",
+    "tautology-humor"
    ],
    "false_analogy": [
     "GTVH",
@@ -2403,7 +3119,10 @@
     "script-overlap",
     "KR-SI",
     "code",
-    "relevance-theory-humor"
+    "relevance-theory-humor",
+    "grices-maxims",
+    "cognitive-effect-effort",
+    "conversation-opening-closing"
    ],
    "punch": [
     "joke",
@@ -2432,7 +3151,14 @@
     "pun",
     "verbal-irony",
     "adjacency-pair",
-    "preference-organization"
+    "preference-organization",
+    "saussurean-sign",
+    "grices-maxims",
+    "implicature",
+    "cognitive-effect-effort",
+    "ambiguity-taxonomy",
+    "tautology-humor",
+    "repair-sequence"
    ],
    "feel-judge": [
     "mirth",
@@ -2440,19 +3166,25 @@
     "complementarity-principle",
     "operationalization",
     "level-of-analysis",
-    "complementarity-synthesis"
+    "complementarity-synthesis",
+    "cognitive-effect-effort"
    ],
    "persona": [
     "meta-humor",
     "performance-of-humor",
     "gesture-performance",
     "footing",
-    "comic-character"
+    "comic-character",
+    "participation-framework",
+    "gender-humor",
+    "unreliable-narrator-literature"
    ],
    "sincerity": [
     "meta-humor",
     "humor-signal",
-    "footing"
+    "footing",
+    "meta-communicative-signal",
+    "participation-framework"
    ],
    "formats": [
     "verbal-humor",
@@ -2463,7 +3195,13 @@
     "comic-character",
     "untranslatability",
     "humor-pedagogy",
-    "future-directions"
+    "future-directions",
+    "saussurean-sign",
+    "ambiguity-taxonomy",
+    "malapropism",
+    "tautology-humor",
+    "literary-humor-taxonomy",
+    "domestication-foreignization"
    ],
    "delivery": [
     "verbal-humor",
@@ -2478,7 +3216,8 @@
     "competence-performance-distinction",
     "humor-signal",
     "verbal-irony",
-    "level-of-analysis"
+    "level-of-analysis",
+    "meta-communicative-signal"
    ],
    "pause": [
     "release-theory",
@@ -2507,7 +3246,12 @@
     "script-opposition-SSTH",
     "KR-SO",
     "adjacency-pair",
-    "preference-organization"
+    "preference-organization",
+    "grices-maxims",
+    "implicature",
+    "ambiguity-taxonomy",
+    "repair-sequence",
+    "unreliable-narrator-literature"
    ],
    "status": [
     "aggression-theory",
@@ -2517,21 +3261,26 @@
     "verbal-irony",
     "sarcasm",
     "preference-organization",
-    "power-solidarity"
+    "power-solidarity",
+    "conversation-opening-closing",
+    "gender-humor"
    ],
    "target": [
     "aggression-theory",
     "KR-TA",
     "context-humor",
     "sarcasm",
-    "power-solidarity"
+    "power-solidarity",
+    "politeness-theory",
+    "gender-humor"
    ],
    "violate": [
     "aggression-theory",
     "script-opposition-opposition",
     "KR-TA",
     "sarcasm",
-    "power-solidarity"
+    "power-solidarity",
+    "politeness-theory"
    ],
    "gtvh": [
     "bisociation",
@@ -2548,7 +3297,8 @@
    "where-jokes-come-from": [
     "partial-resolution",
     "foregrounded-incongruity",
-    "narrative-humor"
+    "narrative-humor",
+    "literary-humor-taxonomy"
    ],
    "premise": [
     "script",
@@ -2559,7 +3309,10 @@
     "script",
     "humor-signal",
     "context-humor",
-    "footing"
+    "footing",
+    "meta-communicative-signal",
+    "participation-framework",
+    "unreliable-narrator-literature"
    ],
    "operators": [
     "GTVH",
@@ -2570,11 +3323,15 @@
     "prosody",
     "gesture-performance",
     "untranslatability",
-    "kr-independence-evidence"
+    "kr-independence-evidence",
+    "saussurean-sign",
+    "malapropism",
+    "domestication-foreignization"
    ],
    "tag": [
     "jab-line",
-    "adjacency-pair"
+    "adjacency-pair",
+    "repair-sequence"
    ],
    "escalate": [
     "jab-line"
@@ -2588,6 +3345,20 @@
    ],
    "rule": [
     "comic-character"
+   ],
+   "confession": [
+    "implicature",
+    "participation-framework",
+    "unreliable-narrator-literature"
+   ],
+   "button": [
+    "conversation-opening-closing"
+   ],
+   "the-line": [
+    "politeness-theory"
+   ],
+   "edgy-gate": [
+    "politeness-theory"
    ]
   }
  }
