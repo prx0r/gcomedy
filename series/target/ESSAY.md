@@ -129,10 +129,7 @@ nobody and therefore everybody. A named butt is a fair fight. An unnamed
 one is just bleeding the room and calling it comedy.
 
 **[13:30] CLOSE + HOOK.** The target decides the safety math. Name the butt first —
-powerful, self, species. Match assumed to intended — the room assigns, you
-don't. Hold one butt per joke — the ledger keeps you honest. Self pays and
-the room leans in. The powerful pay and the room calls it justice. Everyone
-pays and nobody can complain. Victims never pay — that's the veto, and the
+powerful, self, species. Match assumed to intended. Hold one butt — the ledger keeps you honest. Victims never pay — that's the veto, and the
 veto is final. Butt named. Next week: the path you lead them down —
 misdirection.
 
