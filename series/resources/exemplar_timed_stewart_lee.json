@@ -1,0 +1,102 @@
+{
+ "comedian": "stewart-lee",
+ "special": "carpet-remnant-world-2012-live",
+ "source": "r2:comedy-specials",
+ "total_words": 14998,
+ "window": "opening 500 words",
+ "beats": [
+  {
+   "t0": 5.89,
+   "t1": 41.88,
+   "pause_after": 0.52,
+   "words": 106,
+   "text": "[applause] Uh, that was a bit um heavy metal. Rock and roll that. Can we have some funny music at the start of the second half? Yep. Thanks for coming. Um, okay. What news do you know about Leon inquiry? That's ongoing. News the world went down. I was sorry to see the news of the world go down. I think it was a great campaigning newspaper. Not everything I say is sarcastic. Sheffield. Now, who can forget the News of the World's high-profile campaign against child sex offenders, which led, didn't it, to News of the World readers burning down the home of a pediatrician,",
+   "syllables": 166
+  },
+  {
+   "t0": 42.4,
+   "t1": 46.44,
+   "pause_after": 1.4,
+   "words": 5,
+   "text": "throwing rocks at a pedalo",
+   "syllables": 8
+  },
+  {
+   "t0": 47.84,
+   "t1": 51.88,
+   "pause_after": 1.88,
+   "words": 5,
+   "text": "and stamping on a centipede.",
+   "syllables": 9
+  },
+  {
+   "t0": 53.76,
+   "t1": 67.48,
+   "pause_after": 0.84,
+   "words": 35,
+   "text": "Top of the show, pedophile jokes going down well. Good to have been on television and finally managed to attract so much of Jimmy Carr's audience. The show's not aimed at you. Don't come again.",
+   "syllables": 64
+  },
+  {
+   "t0": 68.32,
+   "t1": 94.28,
+   "pause_after": 0.68,
+   "words": 88,
+   "text": "I'm trying to find out what news you know about so I can weave the stories into a seamless 2-hour narrative driven hole. A seamless narrative driven hole. You have to do that. I think if you're a if you're a Neigh going out doing the long theater shows, you can't just go out and do 90 minutes of unrelated little gags that you can subsequently chop up into smaller parcels and resell to mock the weekend live at the Apollo. Yeah, you can do that, can't you?",
+   "syllables": 159
+  },
+  {
+   "t0": 94.96,
+   "t1": 124.04,
+   "pause_after": 0.52,
+   "words": 71,
+   "text": "So, what news do you know about? Um, I think the funniest uh news story at the moment is the uh trial of the Norwegian neo-Nazi mass murderer Anders Bear and Brevitt. You're going, \"Hang on, there's nothing funny about that, Stu.\" Uh, but there is. And, um, it's this that on his website, Anders Baron Breik, the Norwegian neo-Nazi mass murderer, has written this genuine sentence. Jeremy Clarkson's Top Gear",
+   "syllables": 124
+  },
+  {
+   "t0": 124.56,
+   "t1": 160.2,
+   "pause_after": 1.72,
+   "words": 106,
+   "text": "is one of the few programs worth watching on the BBC. I know. [applause] Now, very rarely do you see a better example of what philosophers call the benality of evil. And remember, all that's required for Jeremy Clark to triumph is that Richard Hammond do nothing. Remember when Jeremy Clarkson made those jokes about shooting strikers and everyone complained? There was a guy from the Daily Telegraph went on the Channel 4 News to defend him and he said, \"Come on,\" he said. It was just a joke. He said, \"It's not as if a Jeremy Clarkson fan has ever gone out and shot anyone.\"",
+   "syllables": 181
+  },
+  {
+   "t0": 161.92,
+   "t1": 185.68,
+   "pause_after": 0,
+   "words": 84,
+   "text": "I thought, well, there was that one guy, the mass murderer. Poor old uh old poor old Colonel Gaddafi had a bad year last year, didn't he? Uh the Libyans got fed up of their leader, pulled him out of a sewer, shot him in the face, mutilated the anus of his corpse with a knife, and chucked him in a meat refrigeration unit. But they did that off their own backs, didn't they, the Libyans? No one made them do it. They did",
+   "syllables": 131
+  }
+ ],
+ "punch_candidates": [
+  {
+   "t": 42.4,
+   "pause_before": 1.4,
+   "text": "throwing rocks at a pedalo"
+  },
+  {
+   "t": 47.84,
+   "pause_before": 1.88,
+   "text": "and stamping on a centipede."
+  },
+  {
+   "t": 53.76,
+   "pause_before": 0.84,
+   "text": "Top of the show, pedophile jokes going down well. Good to have been on televisio"
+  },
+  {
+   "t": 68.32,
+   "pause_before": 0.68,
+   "text": "I'm trying to find out what news you know about so I can weave the stories into "
+  },
+  {
+   "t": 124.56,
+   "pause_before": 1.72,
+   "text": "is one of the few programs worth watching on the BBC. I know. [applause] Now, ve"
+  }
+ ],
+ "max_pause": 1.88,
+ "duration_s": 185.68
+}
