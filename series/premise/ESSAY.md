@@ -15,11 +15,10 @@ premise. And nothing — nothing — works until it's signed.
 **[0:30] PROOF.** Rock, Talking Funny, exact words: "A lot of comedians
 have great jokes, and they don't — why isn't this working? It's not
 working because the audience does not understand the premise." [CLIP:
-≤15s] That sentence is verified. The one after it — "if I set this premise
-up right, this joke will always work" — verifies at pull; if it holds,
-read it twice. [GOLD CARD: quote verification pending] ALWAYS work would
-make this one of the strongest causal claims any comic has made on camera:
-premise-clarity sufficient for joke function. His fix is repetition: say the premise again mid-chunk,
+≤15s] Verified. The sentence after it — "if I set this premise
+up right, this joke will always work" — verifies at pull. [GOLD CARD:
+quote verification pending] If it holds, read it twice: ALWAYS work would
+be the strongest causal claim any comic has made on camera. His fix is repetition: say the premise again mid-chunk,
 remind the room what world they're in. Premises decay. They need feeding,
 like campfires.
 

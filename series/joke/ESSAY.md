@@ -12,7 +12,7 @@ Hedberg line. Whole. Fifteen seconds. [CLIP: Hedberg escalator, vrIw2i4TtA4
 region, ≤15s] Laugh. Freeze. A joke is the atomic unit — one setup, one
 punch, one laugh point — and everything else in comedy is geometry built
 from that atom. This series takes the atom apart. Fifteen episodes. You just
-watched the whole thing in eleven seconds.
+watched the whole thing in fifteen seconds.
 
 **[0:30] PROOF.** Same line again — but now watch the bottom of the screen.
 The words arrive in two colors. Setup in BLUE. Punch in RED. The switch
@@ -31,7 +31,8 @@ A chunk is bits on one topic — ten, fifteen minutes. A set is the night. Setup
 and punch you already know — blue and red. Tag is the echo after the break,
 and it gets its own video. Glossary cards fan out on screen and persist in
 the description. Learn the blocks once and every video from here recognizes
-itself. No definitions ever again. Only pointing.
+itself. No definitions ever again. Only pointing. Humor is the mode.
+Laughter is the response. This series is about the text in between.
 
 **[2:30] LENS (music first).** A motif is a one-liner. A phrase is a joke. A
 movement is a bit. A symphony is the hour. Beethoven's Fifth says everything
@@ -47,7 +48,7 @@ premise so thin it barely exists, a moth story that climbs for minutes toward
 a punch that refuses to punch — and the refusal IS the punch. Then density:
 Vine, Carr, one-liners back to back, premise implied per line, buttons every
 fifteen seconds, no tags needed because each atom completes. Same functions.
-Different universes. That is the whole point of this video: the moves are not
+Different universes. The moves are not
 styles. Styles are how different hands play the same moves.
 
 **[6:00] CASE STUDY (Louis, Monopoly, 207 words).** Play it in pieces, never
@@ -85,7 +86,7 @@ deflates. Both rooms roar. The atom holds either way.
 **[10:45] DENSITY CODA.** Vine and Carr, rapid-fire. [CLIP ×2: rZfo0yhtxRQ +
 Eg4MtUyJU_g, each ≤15s] Premise one shared assumption. Blue-red switches
 almost touching. Buttons every fifteen seconds. No tags — each fifteen-second
-atom completes and the next begins. Three bits tonight. Same six moves. You
+atom completes and the next begins. Same six moves. You
 have now watched them three times over in three different universes.
 
 **[11:30] FAILURE MODE.** Three deaths, shown not lectured. Tags standalone —
@@ -106,15 +107,16 @@ world that did not exist an hour before.
 
 **[13:30] CLOSE + HOOK.** A joke is the atomic unit — one setup, one punch,
 one laugh point. Learn the blocks once; every video from here only points.
-And Louis, who knows every little piece of his own machine, says the thing
-that closes this video the way every video in this series closes — with them
-naming the engine: "You stay in the bit." [CLIP: ≤15s] Stay in the bit.
+And Louis, who knows every little piece of his own machine, closes this
+video the way every video closes — naming the engine: "You stay in the bit." [CLIP: ≤15s] Stay in the bit.
 Fifteen episodes. We start at the beginning. The world everything lives in.
 
 ---
 
 ## PRODUCTION NOTES (not narrated — grounding only)
-- Dean joke-structure + Wikipedia ladder + GTVH two-scripts grounding. Twain
+- Dean joke-structure + Wikipedia ladder + GTVH two-scripts grounding.
+  Attardo ch1 (joke vs humor vs laughter vs mirth) grounds the
+  mode/response/text triple in THESIS. Twain
   sort in technique bank only. Laffstr CUT (unverifiable). 3:1–5:1 setup:punch
   ratio CUT from narration (FINDINGS H5 failed: 1.286 vs 1.284, p=0.26).
 - Road Rage 18-beat/8.16s numbers belong to Ep 8 pause analysis — never cited
