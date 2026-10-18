@@ -2,6 +2,7 @@
 
 > Trimmed from 21.5 to fit the 9–15 series range. persona + specimen
 > compressed; theft folded into specimen as coda.
+> Transitions: hard cuts on beats; title fades on black cards only.
 
 ## EXPOSITION
 

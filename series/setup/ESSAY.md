@@ -19,8 +19,7 @@ comedians have great jokes, and they don't — why isn't this working? It's
 not working because the audience does not understand the premise." Let
 that sit. The punchline can be perfect and it won't save you, because the
 room is still back at the beginning trying to figure out where they are.
-Rock's fix, by the way, is to repeat the premise — say it again halfway
-through a long chunk, remind the room what world they're in. He treats the
+Rock's fix: repeat the premise mid-chunk — remind the room what world they're in. He treats the
 setup like a campfire. It goes out if you stop feeding it.
 
 Here's the number — on screen, in gold: working comics, including
@@ -32,8 +31,7 @@ The setup is most of the joke.
 
 **[1:30] THESIS + VOCABULARY.** A setup does three jobs. One: it declares
 a world — here's where we are, here's who's here, here's what's normal
-here. Two: it assigns priority — this is foreground, that's background,
-pay attention here and not there. Three: it starts accruing weight — every
+here. Two: it assigns priority — this, not that. Three: it starts accruing weight — every
 setup beat makes the eventual violation heavier, because there's more
 normal to break. Miss any one of the three and the punch fires into a
 void. Eight words for this series, by the way, and then no new jargon:
@@ -44,38 +42,30 @@ That's the whole vocabulary. Everything else is showing, not telling.
 **[2:30] LENS (music first).** Showing, not telling, is how music works
 too. Autumn Leaves. [GOLD CARD: 8-bar head, E minor] Eight bars and you know
 everything: the key, the scale, the weather of the thing. E minor the
-first time, E minor the fiftieth time, and it still works, because the
-head isn't information — it's an invitation. Here's the room we're in.
+first time, E minor the fiftieth — still works, because the
+head isn't information, it's an invitation. Here's the room we're in.
 Come inside. No two renditions are the same, yet every one of them starts
 from the same eight bars, because without the shared starting point there
-is nothing to vary. A comedy setup is the same object. "My daughters are
-learning to lose at Monopoly" — that's eight bars. Key, scale, weather.
-Everything after is improvisation on a theme the room agreed to in the
-first ten seconds. And here's the part nobody says: the audience builds
-half of it. You hear "Monopoly" and you supply the board, the pieces, the
-fights at Christmas, your own father taking your houses. The comedian said
-eight words. You built a childhood. That's the deal, and it's why the
-setup is invisible when it works — you're too busy living inside it to
-notice someone constructed it around you.
+is nothing to vary. A comedy setup is the same object. Eight words the
+room agrees to, then improvisation — and the audience builds half of it.
+You hear one word and supply the childhood. That's why the setup is
+invisible when it works: you're too busy living inside it.
 
 **[4:30] PERSONA.** Seinfeld builds platforms the way engineers build
 bridges — every word load-bearing, transitions shaved until they fit the
-time budget. His Pop-Tart bit exists on a yellow legal pad in longhand,
-and if a transition runs a split second long he doesn't deliver it faster,
-he rewrites the words. Fewer letters. Fewer syllables. The platform gets
-rebuilt to fit the clock. Normand is the opposite animal: premises arrive
+time budget. His Pop-Tart bit lives on a yellow legal pad; when a transition
+runs long he doesn't deliver faster — he rewrites shorter. Normand is the opposite animal: premises arrive
 like weather, then he sharpens them on stage night after night. Louis is
-the third way — the storyteller platform, where the premise is buried
-inside narrative and excavated later, so the audience doesn't know when
-the setup ended and the joke began. Three relationships to the same
+the third way — premise buried inside narrative, excavated later,
+so the audience never knows when the setup ended and the joke began. Three relationships to the same
 function. Same job, different hands.
 
 **[6:00] CASE STUDY (Louis, Monopoly, 207 words).** Play it in ≤15s excerpts, pause-analyze-resume. [CLIP ×4] Now
 watch the first two sentences do all three jobs at once. World: Monopoly
 with his daughters — board, pieces, Christmas, everyone's been there.
 Priority: the six-year-old's perspective is foreground, Louis-the-father
-is background — and that assignment is the whole joke's engine, because
-everything cruel that follows is measured against a child's eyes. Weight:
+is background — and that assignment is the engine: everything cruel
+after is measured against a child. Weight:
 "to handle her" — two little surprises inside the premise itself, each
 with its own pause, so the room is already laughing before anything has
 happened. Those are laughs in anticipation of a punchline not yet said —
@@ -91,8 +81,8 @@ declared, zero jokes, room nodding — the platform pours its foundation.
 Sentence two ("to handle her"): FIRST micro-surprise (why "her" not
 "losing"?) + pause + room laughs at grammar. The premise is TWO
 sentences old and already paying. Sentence three (Candyland counterpoint):
-visual detonates (fudgy thing, gummy twirly-o's — words chosen for mouth
-feel as much as meaning), second pause, bigger laugh. By the time Louis
+visual detonates — "fudgy thing," "gummy twirly-o's," words chosen for mouth
+feel as much as meaning. Second pause, bigger laugh. By the time Louis
 reaches the actual premise's end, the room has laughed three times at
 zero punchlines. [GOLD CARD: 3 anticipatory laughs, timestamps attached;
 pause + word counts per sentence, measured at TIMING EXTRACTION] Then the
@@ -105,11 +95,9 @@ leverage.
 
 **[10:00] SECOND SPECIMEN.** Kill Tony, pick a roaring set with a clean
 arc — thirty seconds of platform, not six minutes. [CLIP] Same three jobs,
-different economy. World in two lines. Priority assigned by the second
-line. Weight accruing so fast the punch has to come early or the room
-overloads. Fast platforms work because the room already knows the genre —
-open-mic crowds walk in holding half the premise (airports, phones, dating
-apps), so the comic starts at item two of three. The test is never how
+different economy. World in two lines, priority by the second, weight
+so fast the punch comes early or the room overloads. Fast platforms work because the room already knows the genre —
+open-mic crowds walk in holding half the premise, so the comic starts at item two of three. The test is never how
 many beats you use. It's whether the room is confident about the world at
 the moment the break arrives.
 
@@ -118,14 +106,13 @@ the moment the break arrives.
 than in the Louis bit, from FEWER words — because open-mic crowds walk in
 holding half the premise. Great open-mic comics aren't better writers than
 Louis. They're better thieves. [CLIP: comic says two words — "my
-landlord" — room groans knowingly] Three words. No world built, no priority
+landlord" — room groans knowingly] Two words. No world built, no priority
 assigned — and yet the room responds like a full setup landed. The comic
 didn't build a platform. They pointed at one the room walked in with.
-Every renter's rage, every deposit stolen, every 2 AM email —
-pre-installed. The comic just said the password. Fastest setup in comedy:
+Every renter's grievance — pre-installed. The comic just said the password. Fastest setup in comedy:
 zero beats, full platform, stolen from the audience's own life. Setups
 aren't constructions. They're activations. The world was already in the
-room. The comic just turned on the lights.
+room — the comic just turned on the lights.
 
 
 **[11:30] FAILURE MODE.** What happens when the setup never lands. [CLIP ×2,
