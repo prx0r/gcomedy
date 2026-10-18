@@ -1,38 +1,32 @@
-# STORYBOARD — Video 1: The Art of the Setup (21.5 min target)
+# STORYBOARD — Video 1: The Art of the Setup (14 min, trimmed)
 
-> Beethoven shape: exposition (cold open + proof + thesis) → development
-> (lens → persona → case → specimen → theft) → recapitulation (failure →
-> universal → close) → coda (hook). Timestamps cumulative from 0:00.
+> Trimmed from 21.5 to fit the 9–15 series range. persona + specimen
+> compressed; theft folded into specimen as coda.
 
 ## EXPOSITION
 
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
-| S01 | 0:00–0:08 | Black, kinetic title "Every joke was decided before the punchline" | Narrator, cold open (Fish/louis) | none | 8s |
-| S02 | 0:08–0:30 | Louis mid-setup 3s loop, room leaning | Narrator: platform thesis | track bar live, weight glyph accruing | 22s |
-| S03 | 0:30–1:30 | Rock Talking Funny excerpt (≤15s segments) + 2.8:1 ratio card | Narrator + Rock clip audio | gold number card: 2,941/1,048/335 | 60s |
-| S04 | 1:30–2:30 | Vocabulary reservoir cards (7 terms, fan out) | Narrator defines each in one line | glossary cards (persist in description) | 60s |
+| S01 | 0:00–0:30 | Black → thesis gold card + Louis mid-setup 3s | Narrator cold open | none | 30s |
+| S02 | 0:30–1:30 | Rock Talking Funny excerpt + 2.8:1 ratio card | Narrator + Rock clip | gold numbers (2,941/1,048/335) | 60s |
+| S03 | 1:30–2:30 | Vocabulary reservoir (7 terms fan out) | Narrator defines | glossary cards | 60s |
 
 ## DEVELOPMENT
 
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
-| S05 | 2:30–5:00 | Autumn Leaves head, chord symbols draw in real time; second rendition split-screen, same symbols | Narrator (shared-structure passage) + Evans audio (fair-use) | chord labels Dm7–G7–Cmaj (verify vs recording) | 150s |
-| S06 | 5:00–8:00 | Seinfeld legal pad still → Normand podcast clip → Louis storytelling clip | Narrator: three relationships to platform | persona tags (engineer/weather/storyteller) | 180s |
-| S07 | 8:00–14:00 | Louis Monopoly full bit, play→pause→analyze→resume ×4 | Narrator + clip audio | weight bar, pause timers (measured), priority markers this/that, word counts (207 total) | 360s |
-| S08 | 14:00–16:00 | KT fast-platform set (roaring, clean beats) | Narrator + clip audio | anticipatory-laugh marker @11s, beat-type tags | 120s |
-| S09 | 16:00–17:30 | "My landlord" 3-word demo + groan waveform | Narrator (theft passage) | platform-from-zero diagram (room-supplied world) | 90s |
+| S04 | 2:30–4:30 | Autumn Leaves head + chord symbols draw + second rendition split | Narrator lens + Evans audio | chord labels (verify vs recording) | 120s |
+| S05 | 4:30–6:00 | Seinfeld pad still → Normand clip → Louis storytelling clip | Narrator persona (3 relationships) | persona tags | 90s |
+| S06 | 6:00–10:00 | Louis Monopoly: play→pause→analyze→resume ×4, 207-word count-up | Narrator + clip | weight bar, pause timers, priority markers | 240s |
+| S07 | 10:00–11:30 | KT fast set (roaring) + "my landlord" 3-word theft demo | Narrator + clip | anticipatory marker @11s, zero-beat platform diagram | 90s |
 
 ## RECAPITULATION
 
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
-| S10 | 17:30–19:30 | Split: platform vs no-platform (same punch, two setups, meters) | Narrator (failure modes) | laugh-meter compare, priority-betrayal marker | 120s |
-| S11 | 19:30–20:30 | Conversations/relationships/cultures montage (stock) | Narrator (universal passage) | none (breathe) | 60s |
-| S12 | 20:30–21:30 | Thesis restated on black + series map (8 blocks) | Narrator close + hook (escalation dare) | series map graphic | 60s |
+| S08 | 11:30–12:45 | Split: platform vs no-platform meters | Narrator failure modes | laugh-meter compare | 75s |
+| S09 | 12:45–13:30 | Conversations/relationships montage | Narrator universal | none (breathe) | 45s |
+| S10 | 13:30–14:00 | Thesis restated + series map + escalation hook | Narrator close | series map | 30s |
 
 ## Totals
-1290s = 21.5 min. Clips all ≤15s segments or fair-use-analyzed. Timed
-exemplar data (Louis 8.16s hold) available for S07 pause timers; KT beat
-types for S08/S10 selection. Render order: S07 first (anchor), then
-S02/S08 (overlays), then titles/cards.
+840s = 14 min. Render order: S06 anchor, then S07/S02, then titles/cards.
