@@ -20,6 +20,17 @@ Model: `s2.1-pro-free` ($0, fair-use). Key: `FISH_API_KEY` in
 `freaktown/.env` (51 chars, verified live). MCP configured at
 `~/.config/opencode/opencode.jsonc` (`fish-audio` remote, enabled).
 
+## Library voices (verified live via GET /model/{id}, 2026-10-18)
+Public-library models (not self clones — another author's voice, usable
+via `reference_id`). All `type: tts`, `state: trained`. Series lock stays
+`louis_reference_lab` until a role is assigned + listen-tested.
+
+| Voice | Reference id | Notes |
+|---|---|---|
+| WNBA VOICEOVER | `fb7ec16ca51a45a5a4db881244d7990a` | 1,275 likes. Broadcast energy. Candidate: cold-open/hook voice or sports-context reads. |
+| Conversational Narrator | `542fc7aab61e4561bae5ebd536d717c0` | 209 likes. Natural narration texture. Candidate: alternate narrator / second-specimen contrast voice. |
+| Young Analyst Voice | `638d1477f70a474eb13e0ec8ce6665c9` | 79 likes. Dry analytic read. Candidate: overlay-explainer or data-card voice (numbers/cards). |
+
 ## TTS call (verified against docs.fish.audio 2026-10-18)
 `POST https://api.fish.audio/v1/tts` with `reference_id` = voice id,
 `model: s2.1-pro-free` header ($0 tier, explicit enum — never omit, else
