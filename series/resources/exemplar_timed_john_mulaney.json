@@ -1,0 +1,186 @@
+{
+ "comedian": "john-mulaney",
+ "special": "kid-gorgeous",
+ "source": "characters2 bits_annotated (ESTIMATED timing)",
+ "total_words": 671,
+ "window": "15 chunks from kid-gorgeous",
+ "beats": [
+  {
+   "t0": 0.0,
+   "t1": 5.2,
+   "pause_after": 1.2,
+   "words": 13,
+   "text": "[organ music playing] Welcome to Radio City Music Hall. It\u2019s time. Any questions?",
+   "estimated": true
+  },
+  {
+   "t0": 6.4,
+   "t1": 12.8,
+   "pause_after": 1.2,
+   "words": 16,
+   "text": "No. Walk with me. [eerie organ music playing] [mechanical whirring] [audience applauding and cheering] Good evening.",
+   "estimated": true
+  },
+  {
+   "t0": 14.0,
+   "t1": 24.0,
+   "pause_after": 1.2,
+   "words": 25,
+   "text": "Hi, I\u2019m John Mulaney, nice to meet you. Jon Brion, ladies and gentlemen. Thank you for coming to see me at Radio City Music Hall.",
+   "estimated": true
+  },
+  {
+   "t0": 25.2,
+   "t1": 42.0,
+   "pause_after": 1.2,
+   "words": 42,
+   "text": "I love to play venues where if the guy that built the venue could see me on the stage, he would be a little bit bummed about it. Look at this. This is so much nicer than what I\u2019m about to do.",
+   "estimated": true
+  },
+  {
+   "t0": 43.2,
+   "t1": 49.6,
+   "pause_after": 1.2,
+   "words": 16,
+   "text": "It\u2019s really\u2026 It\u2019s really tragic. What a historic and beautiful and deeply haunted building this is.",
+   "estimated": true
+  },
+  {
+   "t0": 50.8,
+   "t1": 76.4,
+   "pause_after": 1.2,
+   "words": 64,
+   "text": "I keep walking through cold spots being like, \u201cI wonder who that used to be.\u201d I\u2019ve never seen a ghost, by the way. I asked my mom if she\u2019d ever seen a ghost. That\u2019s where we\u2019re at conversation-wise in",
+   "estimated": true
+  },
+  {
+   "t0": 77.6,
+   "t1": 140.0,
+   "pause_after": 1.2,
+   "words": 156,
+   "text": "So I was home for Christmas and we were just eating Triscuits in\u00a0silence and I was staring at the floor and I was like, \u201cWell, here goes nothing. \u2018You ever seen a ghost?'\u201d And my mom said, \u201cYes.\u201d Whic",
+   "estimated": true
+  },
+  {
+   "t0": 141.2,
+   "t1": 147.6,
+   "pause_after": 1.2,
+   "words": 16,
+   "text": "\u201cLet\u2019s change the subject! Why are we even talking about Penelope\u2026 or whatever her name was?",
+   "estimated": true
+  },
+  {
+   "t0": 148.8,
+   "t1": 158.8,
+   "pause_after": 1.2,
+   "words": 25,
+   "text": "I didn\u2019t kill her! Whoever did kill\u00a0her only did it to protect her from this world.\u201d None of us really know our fathers. Anyway\u2026",
+   "estimated": true
+  },
+  {
+   "t0": 160.0,
+   "t1": 174.8,
+   "pause_after": 1.2,
+   "words": 37,
+   "text": "My dad is so weird. I\u2019d love to meet him someday. You know, my friend was telling me that his dad used to beat him with a belt and that\u2019s just the setup to my story, so\u2026",
+   "estimated": true
+  },
+  {
+   "t0": 176.0,
+   "t1": 186.0,
+   "pause_after": 1.2,
+   "words": 25,
+   "text": "Forget about that poor son of a bitch. Anyway\u2026 He was talking and I was waiting for him to be done so I could talk.",
+   "estimated": true
+  },
+  {
+   "t0": 187.2,
+   "t1": 199.6,
+   "pause_after": 1.2,
+   "words": 31,
+   "text": "So he\u2019s \u201ctalk, talk, talk.\u201d It\u2019s my turn next! And\u2026 [audience laughing] I said, \u201cMy dad never hit us.\u201d My dad is a lawyer and he was a debate team champion.",
+   "estimated": true
+  },
+  {
+   "t0": 200.8,
+   "t1": 224.8,
+   "pause_after": 1.2,
+   "words": 60,
+   "text": "So he would pick us apart psychologically. One time I was at the dinner table when I was like six, because I had to be. My dad goes, \u201cHow was school today?\u201d I said, \u201cIt was good but someone pushed Tyl",
+   "estimated": true
+  },
+  {
+   "t0": 226.0,
+   "t1": 267.2,
+   "pause_after": 1.2,
+   "words": 103,
+   "text": "I was over on the bench.\u201d \u201cBut you saw what\u00a0happened?\u201d \u201cYeah, \u2019cause I was over on the bench.\u201d \u201cSo you saw what happened and you did nothing?\u201d \u201cYeah, \u2019cause I was sitting over on the bench.\u201d \u201cLet me a",
+   "estimated": true
+  },
+  {
+   "t0": 268.4,
+   "t1": 285.2,
+   "pause_after": 1.2,
+   "words": 42,
+   "text": "How are you better than a Nazi?\u201d And then my mom said, \u201cI made a salad with Craisins!\u201d And the conversation ended. My dad\u2019s a very weird, informal guy. A lot of people ask me if he gave me a sex talk.",
+   "estimated": true
+  }
+ ],
+ "punch_candidates": [
+  {
+   "t": 0.0,
+   "pause_before": 1.2,
+   "text": "Any questions?"
+  },
+  {
+   "t": 6.4,
+   "pause_before": 1.2,
+   "text": "[eerie organ music playing] [mechanical whirring] [audience applauding and cheer"
+  },
+  {
+   "t": 14.0,
+   "pause_before": 1.2,
+   "text": "Thank you for coming to see me at Radio City Music Hall."
+  },
+  {
+   "t": 25.2,
+   "pause_before": 1.2,
+   "text": "This is so much nicer than what I\u2019m about to do."
+  },
+  {
+   "t": 43.2,
+   "pause_before": 1.2,
+   "text": "What a historic and beautiful and deeply haunted building this is."
+  },
+  {
+   "t": 50.8,
+   "pause_before": 1.2,
+   "text": "That\u2019s where we\u2019re at conversation-wise in our relationship as a mother and son,"
+  },
+  {
+   "t": 77.6,
+   "pause_before": 1.2,
+   "text": "She said, \u201cI never told you this before but our house, when you were growing up,"
+  },
+  {
+   "t": 141.2,
+   "pause_before": 1.2,
+   "text": "or whatever her name was?"
+  },
+  {
+   "t": 148.8,
+   "pause_before": 1.2,
+   "text": "Anyway\u2026"
+  },
+  {
+   "t": 160.0,
+   "pause_before": 1.2,
+   "text": "You know, my friend was telling me that his dad used to beat him with a belt and"
+  }
+ ],
+ "laugh_onsets": [],
+ "has_laugh_onsets": false,
+ "max_pause": 1.2,
+ "duration_s": 286.4,
+ "note": "ESTIMATED from word counts at 2.5 w/s. Not measured."
+}

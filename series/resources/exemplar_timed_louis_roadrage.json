@@ -203,5 +203,12 @@
   }
  ],
  "max_pause": 8.16,
- "duration_s": 239.78
+ "duration_s": 239.78,
+ "laugh_onsets": [
+  {
+   "t": 232.74,
+   "type": "laugh"
+  }
+ ],
+ "has_laugh_onsets": true
 }
