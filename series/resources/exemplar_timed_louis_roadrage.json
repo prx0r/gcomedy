@@ -210,5 +210,13 @@
    "type": "laugh"
   }
  ],
- "has_laugh_onsets": true
+ "has_laugh_onsets": true,
+ "youtube": {
+  "videoId": "auHzTfeF64Y",
+  "url": "https://www.youtube.com/watch?v=auHzTfeF64Y",
+  "title": "LOUIS CK - HILARIOUS (Full)",
+  "segment_start_s": 120,
+  "segment_end_s": 240,
+  "embed_url": "https://www.youtube.com/embed/auHzTfeF64Y?start=120&end=240"
+ }
 }

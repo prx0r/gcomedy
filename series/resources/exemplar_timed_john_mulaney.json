@@ -182,5 +182,11 @@
  "has_laugh_onsets": false,
  "max_pause": 1.2,
  "duration_s": 286.4,
- "note": "ESTIMATED from word counts at 2.5 w/s. Not measured."
+ "note": "ESTIMATED from word counts at 2.5 w/s. Not measured.",
+ "youtube": {
+  "videoId": "JhkZMxgPxXU",
+  "url": "https://www.youtube.com/watch?v=JhkZMxgPxXU",
+  "title": "John Mulaney - Horse in the Hospital (Kid Gorgeous)",
+  "embed_url": "https://www.youtube.com/embed/JhkZMxgPxXU"
+ }
 }
