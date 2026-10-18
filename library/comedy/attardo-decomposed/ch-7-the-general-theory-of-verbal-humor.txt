@@ -1,0 +1,880 @@
+--- PAGE 159 ---
+7
+The General Theory of Verbal
+Humor
+7.1 The knowledge resources
+137
+7.2 Further issues with the General Theory of Verbal Humor
+152
+7.3 Conclusions
+156
+7.4 Further readings
+156
+The General Theory of Verbal Humor was born out of the observation
+that the Semantic Script Theory of Humor, despite its advantages over
+other linguistic theories of humor, was not a complete theory. This claim
+was motivated by two facts. First, the Semantic Script Theory of Humor
+does not differentiate between verbal and referential humor (simplify-
+ing, between puns and non-puns, respectively). This is correct, as far
+as the Semantic Script Theory of Humor goes, since both verbal and
+referential jokes have the same script opposition and overlap, but verbal
+jokes may be characterized by their recourse to specific patterns of the
+signifier (the phonological form of the utterance). These patterns do not
+occur in referential jokes. Hence, the Semantic Script Theory of Humor
+misses a potential generalization. Second, there exist a relationship of
+similarity among jokes, such that two jokes will be perceived as more or
+less similar to another joke. For example, the following pair of jokes is
+more similar to each other, than to the Doctor’s wife joke, example (44).
+(45)
+Q: What do you get when you cross a cow and a lawnmower?
+A: A lawnmooer.
+Q: What do you get when you cross a lemon and a cat?
+A: A sourpuss. (http://www.funology.com/mix-match-jokes/)
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 160 ---
+7.1 THE KNOWLEDGE RESOURCES
+Once more, then, the Semantic Script Theory of Humor misses a
+potential generalization. The General Theory of Verbal Humor was
+created to address these two issues, with a heavy emphasis on the second
+one. In a sense, much of the impetus behind the General Theory of
+Verbal Humor is to answer the question, when are two jokes the same
+joke?
+The answer was found to be tied to the introduction of five other
+parameters, which along with the script opposition rounded up the six
+knowledge resources. That the knowledge resources should be six and
+not, say, nine, was a purely empirical matter. Quite simply, we found that
+we only needed six resources to account for the similarity of jokes, and
+for the differences between puns and non-puns.
+So, the main claim of the General Theory of Verbal Humor is that
+jokes may resemble each other along the lines of six parameters. These
+parameters are the resources upon which someone wishing to construct
+a joke from scratch would have to draw from. For this reason they were
+called Knowledge Resources. We noted that while some of these were
+already quite elaborate, others were more or less new, or required the
+contribution of other disciplines.
+Attardo and Raskin (1991) is somewhat notorious due to its length
+and relative complexity. Much of that length and complexity come from
+the observation that the knowledge resources are not an unordered set,
+but are in fact organized hierarchically and linearily and that to the order
+in the hierarchy corresponds the degree of similarity perceived by the
+speakers. This was confirmed empirically by Ruch et al. (1993).1 Figure
+7.1 presents the list of the knowledge resources and their hierarchical
+organization.
+7.1 The knowledge resources
+In the following sections, we will review the knowledge resources. We
+will follow a bottom-up direction, starting with language and working
+1 The Logical Mechanisms parameter is a little off in that it performs less closely to
+the linear and hierarchical assumptions made in the paper. The subjects perceived the
+jokes differing by the Logical Mechanisms as less different than those differing by Situation,
+but the difference is not significant. Jokes differing by Logical Mechanism are still perceived
+as more different than all the other knowledge resources, except the script opposition, as
+predicted by the model. In short, the divergence from the anticipated results is not that major
+(Ruch et al., 1993, p. 131).
+137
+
+
+--- PAGE 161 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+Situation
+Logical Mechanism
+Script Opposition
+Target
+Language
+Narrative Strategy
+Figure 7.1
+Hierarchical organization of the knowledge resources.
+our way up to script-opposition. I will not justify the hierarchical
+ordering of the knowledge resources in this context. Those interested
+in the detail may consult Attardo & Raskin (1991). The best way to
+conceptualize the knowledge resources is a toolbox, in which each
+partition of the toolbox has tools specific to a task: if you want to inflate
+your tires, you need air chucks (the metal connectors that attach to
+the valves on the tires themselves), nozzles, and a gauge; if you want
+to change your spark plugs, you will need a spark plug socket, and if
+you want to drill a hole you will need drill bits or a hole saw (and of
+course a drill). Likewise if you want to examine the targets of a joke, you
+will need tools to do so, and they will probably be different from those
+used to analyze the narrative strategy (organization of the text). In some
+cases you can get by with general purpose tools (you can remove a spark
+plug using an adjustable wrench, I just would not recommend it) but by
+and large, each aspect of the joke needs a different treatment. So, each
+knowledge resource can be thought of as a collection of tools to analyze
+an aspect of the joke.
+However, the tools themselves are generally not specifically designed
+for the purpose of analyzing jokes. So, the analogy falls apart on that
+respect: humor makes extraordinary use of ordinary linguistic devices.
+There are no humor-specific constructs in the Semantic Script Theory
+of Humor or in the General Theory of Verbal Humor: both theories are
+relational: it is special combinations of features that acquire humorous
+potential. Scripts, oppositions, targets, situations, etc. are not specific to
+humor. They become so only in specific combinations.
+7.1.1 Language
+In its original formulation (Attardo & Raskin 1991), the Language
+Knowledge Resource deals with the verbalization of the text. It can
+138
+
+
+--- PAGE 162 ---
+7.1 THE KNOWLEDGE RESOURCES
+be thought of as all the possible paraphrases of the text. It contains a
+phonological, morphological, syntactic and lexical description of the
+text. It also contains information about the basic frequency of occur-
+rence of these units in general texts as well as information connecting
+this sort of formal features of texts to registers and stylistic codes.
+Moreover it contains formal information pertinent to various textual
+genres, including most notably the final position of the punch line.
+The need for a phonological description is obviously motivated by
+puns, as argued above, so that if a text, such as (46) includes a string
+of sounds [aweyfer] the knowledge resource needs to be able to describe
+this fact but also that the string may be analyzed as [a+weyfer] and/or
+[awey+fer] and that these two parses of the string correspond to the
+lexical items “a wafer” and “away for.”
+(46)
+Why did the cookie cry? Its mother had been away for/a wafer too
+long.
+Homophony and homonymy are not the only types of ambiguity
+exploited for humor. Some puns rely on morphological ambiguities,
+such as the following headline:
+(47)
+Dealers will hear car talk at noon (Bucaria 2005, p 292)
+which relies on the categorical ambiguity between “talk” as a noun and
+as a verb (the incongruous meaning being the verbal one, in which the
+cars are talking).
+Likewise, jokes may hinge on syntactic ambiguity, such as the follow-
+ing example
+(48)
+Captain Spaulding (Groucho): One morning I shot an elephant
+in my pajamas. How he got in my pajamas I don’t know (Animal
+Crackers; 1930)
+analyzed in Chapter 9. There are many more cases of ambiguity that
+are accounted for on the Language Knowledge Resource, for which see
+Chapter 9 and references therein.
+The requirement that the Language Knowledge Resource contain a
+statistical distribution of phonemes and morphemes originates in the
+need to account for alliterative humor, such as the following example
+(49)
+You remember Sunset Strip – where the unneat meet to bleat!
+(Attardo et al., 1994, p. 35)
+139
+
+
+--- PAGE 163 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+also analyzed in Chapter 9. In a nutshell, the occurrence of three
+instances of the /i/ phoneme in four syllables is statistically improbable
+and hence notable.
+Stylistic issues are also handled in the Language Knowledge Resource.
+A significant proposal to broaden the Language Knowledge Resource by
+making it aware of different ways of working an expression, for
+example to include “idiomaticity,” or constructions, was proposed by
+Antonopoulou (2002) and Antonopoulou and Nikiforidou (2009).
+Essentially this would be a sort of intermediate level between verbal
+humor (based on the signifier) and referential humor (based on the
+signified). The proposals are reviewed in more detail in section (14.4).
+In Attardo (2017b), I provide an example of sophisticated stylistic
+humorous allusion (p. 129) but of course there are many more examples
+of stylistic humor in which the incongruity is between the register used
+to describe them and the facts, known as register humor (Simpson and
+Bousfield, 2017; Alexander, 1997; Attardo, 1994, pp. 230–253). This is
+taken up in more detail in Chapter 14. Another stylistic aspect is the
+use of obscene or scatological terms/registers (e.g., Seizer, 2011). The
+socio-cultural salience and significance of obscenity and taboo words
+is obvious enough. The connections to humor theory (e.g., Freud) are
+also clear.
+The Language Knowledge Resource is also responsible for determin-
+ing the actual placement of the punch line. As work by Attardo et al.
+(1994) showed, the vast majority of the punch lines (92% to be precise)
+occurred in the last phrase of the last sentence of the text. Moreover,
+even on the few instances in which there was linguistic material after
+the punch line, it tended to be semantically empty, such as repetitions
+of the punch line, interjections, expletives, identifications of the speaker,
+and in a few cases unnecessary explanations of the punch line. An
+example of unnecessary identification of the speaker is the following
+joke, from Attardo et al. (1994, p. 45):
+(50)
+One Monday morning at breakfast a man said to his wife, “I think
+this is the first time in five or six years that I have remembered
+a special date. Thursday will be your birthday. How times [sic]
+flies. You’ll be 40 years old. What would you like most?” “Not to
+be reminded of it,” was her quick reply.
+where in keeping with the unnecessary wordiness of the setup, the
+material after the punch line is not really needed, as it is clear who the
+speaker is.
+140
+
+
+--- PAGE 164 ---
+7.1 THE KNOWLEDGE RESOURCES
+The syntactic structure of the language and the valences of the verb
+of the clause in which the punch line occurs will determine the exact
+position of the punch line itself. For example, English adverbials may
+occur sentence finally, and so in a few cases they did occur after the
+punch line. The language knowledge resource needs to have prosodic
+information. Prosodic information, such as stress placement, is signifi-
+cant for the performance of humor; see Chapter 10.
+Finally, an important issue is the name of the knowledge resource,
+which is (confusingly) “Language” but should really be “Semiotic
+Strategy.” The reasons for our choice of the term in 1991 should be
+clear: we were presenting a linguistic theory. However, in retrospect, I
+wish we had used “Semiotic Strategy” rather than “Language,” because
+there has been a certain perception that the General Theory of Verbal
+Humor was limited to linguistically expressed humor, despite numerous
+examples of analyses of non-linguistic or multimodal texts (e.g., Paolillo,
+1998, and Tsakona, 2009, which analyze cartoons, and Attardo, 1998,
+which analyzes a sitcom episode, including visual gags).
+7.1.2 Narrative Strategy
+The Narrative Strategy is concerned with the organization of the text,
+not in the syntactic sense (which belongs to the Language Knowledge
+Resource), but in the narrative sense. A story can be told in many ways.
+Jokes are prototypically very short stories (similar in this to anecdotes,
+the main difference being that jokes end in a punch line; Oring, 1989;
+Attardo, 1994). For example, many jokes consist of a narrative closed
+by a dialogical part, which contains the punch line. In some cases,
+jokes consist only of the dialogical part, and so strictly speaking, do not
+have any narrative aspect, unless we want to argue that the narrative is
+implicit. Consider the old joke:
+(51)
+Can you take shorthand?
+Yes, but it takes me longer.
+in which the script for secretary, before the 1980s, when the wide-
+spread availability of dictation machines made shorthand unnecessary,
+allows us to fill in the gaps and assume that the first speaker is the
+boss and the second speaker the secretary, thus activating the back-
+ground script office work (a.k.a. the Situation, in General Theory of
+Verbal Humor terminology) which provides us then with the (implicit)
+141
+
+
+--- PAGE 165 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+narrative: the boss calls his (new) secretary and asks her, etc. Note that
+the recent hire of the secretary is implied by the question: if the secretary
+had been in the employ of the boss for a long time he/she would know
+the answer to the question.
+Regardless of how convincing the analysis of dialogical jokes as
+implicit narratives may be, it is clear that not all jokes are narratives.
+There are plenty of examples of jokes that are not prototypical: one
+liners have extremely compressed or implicit stories; riddles have a
+question/answer structure; top-ten lists are precisely that: lists; memes
+and cartoons rely on the interplay of a verbal and a visual component;
+etc. It is somewhat of a stretch to claim that a meme has a narrative and,
+while one may defend that idea, we do not need to: the General Theory
+of Verbal Humor simply stipulated that the term Narrative Strategy
+covers all the forms of textual organization, as exemplified above.2
+The discussion of the narrative strategy within Attardo and Raskin
+(1991) was fairly simplistic: the kinds of example we used were a ques-
+tion/answer format (riddle, pseudo-riddle) or the three-step sequence
+frequently used in jokes because it is the smallest number of repetitions
+necessary to set a pattern of expectations and breaking it. The three
+step sequence may have another function as well: as Atkinson (1984)
+noted, three-part lists are used by speakers to invite applause, given
+the predictability of the occurrence of the third item. The three-step
+sequence may likewise signal the arrival of the punch line. The fellatio
+joke analyzed in Sacks (1978, p. 251) is an excellent example of this
+organization (see example (112), in Chapter 11). Another example of
+the structure is example (60) below.
+Rozin et al. (2006) investigated the AAB pattern (i.e., the three-step
+sequence) and found that the three-step sequence is more frequent
+and considered funnier by speakers, with a four-step sequence (AAAB)
+significantly less frequent and less funny, and the AB sequence (simple
+opposition) slightly more frequent than the AAAB pattern, but con-
+sidered the least funny. On the three-step sequence, see also Loewen-
+stein and Heath (2009) and Loewenstein et al. (2011) who dub the
+phenomenon “repetition break.” Other more complex narrative strate-
+gies may involve scripted sections, involving two speakers, such as the
+2 I toyed with the idea of replacing the term Narrative Strategy with Textual Organiza-
+tion, which gets rid of the distracting mention of “narrative,” but it seemed unwise to change
+the terminology of the General Theory of Verbal Humor so long after the original proposal.
+142
+
+
+--- PAGE 166 ---
+7.1 THE KNOWLEDGE RESOURCES
+knock-knock joke, which follows the following elaborate construction
+(A and B are the two speakers)
+(52)
+A: Knock-knock.
+B: Who’s there?
+A: X
+B: X who?
+A: punch line
+or are tricks to get the audience to say something incongruous:
+(53)
+Q. How do you pronounce M,A,C (pause) , M, I, L, L, A, N?
+A. MacMillan.
+Q. How about M,A,C (pause), H, E, N, R, Y?
+A. MacHenry.
+Q. And how about M,A,C (pause), H, I, N, E, R, Y? (Hockett,
+1973/1977, p. 279)
+where automatism should lead the responded to answer MacHinery,
+rather than [maʃɪnərɪ]. Often the word(s) the teller is trying to elicit are
+embarrassing or obscene. The following is an example of plain tricking:
+(54)
+A: I bet I could make you say black!
+B: Okay
+A: What color is my [something red]?
+B: Red
+A: What color is my [something white]?
+B: White
+A: What color is my [something yellow]?
+B: Yellow
+A: Hah! I made you say yellow!
+B: Wasn’t I supposed to say black?
+while the following is an example of getting the audience to say some-
+thing obscene
+(55)
+A: “You’re a dickfor.”
+B: “What’s a dick for?”
+While the last four examples have all been very simple (and target
+younger children, at least in my experience) other types of narrative
+strategies can be very elaborate, such as the Limerick, a five line stanza
+with a rhyme scheme AABBA, and an elaborate metrical system, and
+143
+
+
+--- PAGE 167 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+a nonsensical type of humor, or the Chastushka, described by Raskin
+(1985) which involves obscene humor. At this upper end of sophistica-
+tion and formalization, narrative strategies end up approaching literary
+genres and forms.
+A very important aspect of jokes, and namely the functional position
+of the punch line belongs properly to this knowledge resource, since for
+example, Oring (1989) has claimed that the absence of a punch line in
+final position in the text is the defining difference between jokes and
+anecdotes.3
+In the subsequent versions of the General Theory of Verbal Humor,
+beginning with Attardo 2001, I introduced several concepts that also
+pertained to narrative strategy: the distinction between jab and punch
+lines, the distribution of the humor along the textual vector, and the
+typology of humorous texts based on the presence or absence of a nar-
+rative disruption and the presence of a humorous central complication.
+Further discussion of these issues will be found in Attardo (2001) and
+in Chapter 14.
+Finally, other issues handled by the narrative strategy knowledge
+resource involve the role of narratives in conversation. Narratives, being
+produced as single turns, disrupt the turn-based flow of conversation.
+Studies have focused on ways to negotiate and secure the floor for
+the extended narrative turn as well as the reactions to it. Analyses of
+conversational humor based on the General Theory of Verbal Humor
+should take this into account. Discussion of these issue will be found in
+Chapters 11 and 12.
+7.1.3 Target
+The target knowledge resources is probably the least sophisticated one
+and the easier to understand. Essentially it addresses the fact that many
+and perhaps most jokes are aggressive and the aggression has a target.
+This is know in common parlance as the “butt” of the joke. Targets
+generally are human or related to human activity (institutions, practices,
+beliefs, etc.).
+3 Strictly speaking the actual position of the punch line in the text is of course a matter
+of language, and thus best handled by the Language knowledge resource (see Section 7.1.1
+above). Narrative strategy is interested only in the functional position and not in the actual
+placement.
+144
+
+
+--- PAGE 168 ---
+7.1 THE KNOWLEDGE RESOURCES
+Significantly, the target is an optional knowledge resource, in the sense
+that it may be empty if the joke happens to be what Freud would call
+a “non-tendentious” joke, or more simply a non-aggressive joke. For
+example, in this joke, repeated from above
+(56)
+Q: What do you get when you cross a cow and a lawnmower?
+A: A lawnmooer.
+it is hard to imagine what the target of the joke could even be: cows?
+Lawnmowers? People who mow the lawn? It is a far more reasonable
+hypothesis that the joke is non-aggressive and that the humor is associ-
+ated with coincidental resemblance between the “son” lexical function in
+the script for cow (i.e., the sound cows make) enriched by the derivative
+morpheme -er (“moo” + “er” = [mʊ + ər]) and the lexeme “mower”
+[moʊər].
+While people are the prototypical targets of jokes there exist other
+kinds of targets. Ideological targets (Karman, 1998) are institutions or
+groups without a clear constituency (compare the National Rifle Asso-
+ciation, which is a clearly defined group, as one has to pay membership
+dues to belong, to the “establishment” which is an amorphous group,
+or even more abstract notions such as “marriage” or “romantic love.” In
+Attardo (2001) I speculated that these groups are associated with human
+activities or beliefs and that, these groups, however vaguely identified,
+could therefore be targeted with aggression (p. 21).
+While that may be true, it remains that it is unclear that there is
+any aggression toward lawnmowers or cows, or people who mow lawns
+or own cows, in the joke above. In recent work, Priego-Valverde et al.
+(2018) show that humor is always oriented toward a participant of the
+interaction: Speaker, Hearer, or a third-person/object, or possibly the
+setting or situation. However this does not imply aggression toward
+the focus of the orientation (which would make them a target). Priego-
+Valverde et al. (2018) use the terms “speaker/hearer/other-oriented
+humor.” Orientation of the humor is not part of the original General
+Theory of Verbal Humor and thus introducing this distinction is an
+extension of the General Theory of Verbal Humor, which has the advan-
+tage that it no longer requires the knowledge resource to be optional, in
+case of lack of aggression.
+First-person orientation is self-deprecating humor (Rodney Danger-
+field was the master of this form: “I told my psychiatrist that everyone
+hates me. He said I was being ridiculous, everyone hasn’t met me
+145
+
+
+--- PAGE 169 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+yet.”). An example of non deprecating first-person orientation is the
+following joke, which I used to tell people: “modesty is one of my greatest
+virtues.” Second-person orientation is humor directed at the hearer.
+A good example is Carmen making fun of Marina’s monolingualism, in
+example (10) which may or may not be seen as aggressive and hence is
+ambiguous as to whether it is a target or just an orientation. The reader
+will recall the example of aggressive joke (23) in Chapter 3, which is
+openly aggressive against lawyers and priests, depicted as uncaring (the
+former) and sexual predators (the latter). That joke displays a third-
+party orientation (assuming neither the teller or hearer happen to be
+the lawyer or priest in the joke). The following example, from Priego-
+Valverde et al. (2018) illustrates a third-party orientation (the situation),
+but no aggression, as the participants jokingly compare their being in the
+anechoic room to being eggs in an egg carton. The symbol @ represents
+a laughter pulse.
+(57)
+CL 46
+t’as pas l’imp
+Don’t you have the imp
+CL 47
+@@pression d’ètre dans une@@ boite d’œufs
+@@pression@@ of being in a@@ egg box
+JS 42
+@
+CL 48
+@
+CL 49
+@
+JS 43
+@@avec les petits@@
+@@with the small@@
+JS 44
+@@*@@
+CL 50
+@
+Orientation
+3rd person
+(other)
+2nd person
+(hearer)
+1st person
+(self)
+No
+aggression
+Aggression
+Target
+Target
+Target
+Figure 7.2
+Orientations and targets of humor as a function of aggression.
+146
+
+
+--- PAGE 170 ---
+7.1 THE KNOWLEDGE RESOURCES
+We can thus summarize the situation in Figure 7.2. If there is
+aggression, the orientation turns into a target; if no aggression is
+present, then the joke is simply oriented toward the person but does not
+target it.
+Finally, let us point out that the targets need to have relevant scripts
+attached to them in the encyclopedia (for example, the Scots’ stinginess
+or the Belgians’ love of fries) which mark them both as stereotypically
+humorous and as such available for humor. The work of Christie Davies
+(e.g., 1990) is the principal source for a review of these stereotypes and
+their sociological origins.
+Other work on targets includes Scogin & Pollio (1980) who found that
+laughter-producing remarks could be coded into whether the remark
+did or did not have a specifiable target. After recording humorous events
+in six different natural settings involving over 1,300 events, targeted
+remarks varied from 36% to 79%, with an overall average of 66%. So,
+roughly speaking, two thirds of humor would be targeted and about a
+third would be non-directed (i.e., not have a target). They find signif-
+icant differences among groups and that transient, short lived-groups
+have less targeted humor.
+7.1.4 Situation
+The Situation is essentially the background script that describes the
+environment in which the events of the joke take place. Because of its
+generality it is probably best described as a macro-script.
+The activation of the background script may be completely inferential.
+Consider the joke (51) again. All the scripts that the text activates
+directly are shorthand and long.4 Everything else has to be triggered
+inferentially. Yet most readers will conjure a boss and a secretary, will
+assign them stereotypical genders, and will probably date the scene
+between the 1950s and the 1980s, when cheap recording devices ren-
+dered shorthand obsolete. It is worth noting that these inferences all
+belong to a stereotypical frame/script for secretary. In a sense, these
+inferences activate a minimal character frame for the boss and the
+secretary (see Section 14.1.2).
+4 The text also activates scripts for capacity, for the lexeme “take” in the “take
+shorthand” context, and so on. I am simplifying.
+147
+
+
+--- PAGE 171 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+The activation of the script for business office, still inferentially
+from boss and secretary explains why we could easily “beef up” the
+narrative along the lines of:
+(58)
+The boss called his new secretary on the intercom: “Miss Smith,
+can you take shorthand?” “Yes, replied the young and pretty
+woman, but it takes me longer.”
+The presence of the intercom in an office setting does not surprise us,
+because it is part of the script for business office. Conversely, if the
+boss called his secretary on a walkie-talkie this would be odd, and if
+he used a megaphone, completely out of the ordinary and perhaps even
+incongruous/funny. Likewise the youth and good looks of the secretary
+do not surprise us because they fit in the stereotype of the lecherous boss
+who hires his staff based on looks and not on skill. In Attardo (2017b,
+p. 132), another example is analyzed, along the same lines. The joke is
+(59)
+A skeleton walks into a bar and says, “I’ll have a beer and a mop.”
+where the script patronizing a bar is evoked, among others.
+Of particular note is the fact that the humorousness of (51) and
+(58) is identical or perhaps lesser in the “expanded” version. This is
+because the Script Opposition and the Logical Mechanism of the joke are
+unchanged. The only (very minor) difference lies in the explicitation of
+some of the inferentially activated scripts, which by lowering the mental
+processing required to “get” the joke, may negatively affect its funniness.
+This is significant, because backgrounded incongruities “reside”
+in the Situation. Hempelmann and Attardo (2011) introduce the
+notion of backgrounded incongruity (i.e., an incongruity that is not
+addressed and not resolved in the text). Because they are assumed
+to be part of the Situation, or to put it differently, they are built in
+into the text-world or the mental space opened by the narrative, these
+incongruities are not “active” so to speak, and are suppressed (“willing
+suspension of disbelief”) in the processing of the text. Examples of
+backgrounded incongruities are talking animals, very common in
+folklore and in many jokes, all the stereotypical ethnic traits (the stupid
+Poles/Belgians/Newfoundlanders, etc.; the stingy Scots; the oversexed
+French, etc.), and even idiosyncratic entities such as the walking, talking,
+drinking skeleton in joke (59). Note how, while we are supposed to
+ignore that a skeleton cannot either walk, talk, or drink, we need to
+notice that, if the skeleton drank, since it does not have a stomach, the
+148
+
+
+--- PAGE 172 ---
+7.1 THE KNOWLEDGE RESOURCES
+beer would spill on the floor. This latter incongruity is focalized, whereas
+the previous ones are backgrounded.
+Needless to say, a normally backgrounded incongruity may be
+focalized in a given joke, witness one of my favorite jokes, in which
+the punch line has precisely to do with a talking animal:
+(60)
+A guy in a bar bets drinks with the bartender claiming his dog
+can speak. “OK, says the bartender, prove it.” “What’s on top of a
+house?” says the patron to his dog. “Roof!” says the dog. “That’s
+cute, says the bartender, “but that’s not talking.” “How about this?”
+says the guy, and to the dog “What is on the side of a tree?” “Bark!”
+“You’re messin’ with me,” says the bartender getting angry. “No,
+no,” says the guy, “Look: who’s the greatest baseball player?” And
+the dog: “Ruth!” The bartender is enraged and throws the guy and
+his dog out. The guy and the dog dust themselves off and then the
+dog says: “Should I have said DiMaggio?”
+The Situation of the joke is directly related to what Clark and van
+der Wege call “imagination” in a narrative (2015), i.e., the fact that
+the hearers of a story visualize mentally (imagine) the events of the
+narrative by constructing a mental model of the narrated events, using
+their prior knowledge (scripts), simulations (in which they explores
+“what if” branches of the story), while engaging in the co-construction
+of a “joint pretense” in which they willingly suspend disbelief for the
+backgrounded incongruities and of the contrived nature of the story-
+telling (for example, the narrator may do different “voices” for different
+characters, but no-one would be fooled into thinking that someone else
+is speaking). So, summing up we could call the Situation of a joke the
+mental space built for it by the narrator and the narratees.
+7.1.5 Logical Mechanism
+The Logical Mechanism is the part of the General Theory of Verbal
+Humor that accounts for the resolution of the incongruity (script oppo-
+sition and overlap). The resolution is not complete and/or real. It is
+a partial, playful, non-serious resolution. In fact, the Logical Mecha-
+nism may introduce other incongruities itself. Furthermore, the Logical
+Mechanism is the other knowledge resource that is optional. The reader
+will recall from Section 4.1 that in the famous Nerhardt (1970) weights
+149
+
+
+--- PAGE 173 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+experiment, the mere presence of a unexpectedly heavier weight in a
+series of weights triggered smiling and laughter. Hence the idea that
+incongruity alone is sufficient to produce humor. Furthermore, absurd
+humor is usually regarded as having no resolution. Hence, the claim that
+the Logical Mechanism is probably optional.
+In simple terms, the Logical Mechanism is the attempt by the text to
+explain away the incongruity by justifying it (once more, playfully and
+non-seriously). Consider the following joke:
+(61)
+Three kids are bragging about their fathers. “My father is the
+fastest, says the first kid, he can run a mile in 4 minutes.”
+“That’s nothing, says the second, my father can run a mile in
+3 minutes.”
+“You don’t understand what fast means, says the third one, my
+father’s work ends at five and he’s home by 3:45.”
+Here the Logical Mechanism works as follows: if shorter times mean
+faster speed, then negative times mean even faster speeds, therefore,
+since the third kid’s father is home an hour and 15 minutes before quit-
+ting time, he must be extremely fast. Needless to say, another inferential
+path is also possible and namely that the third kid’s father is home before
+quitting time because he does not work hard and cheats his employer
+out of one hour and 15 minutes of work time. Note how the resolution
+(shorter times mean faster speed hence negative time is even faster) is
+partial and non-serious.
+More work on Logical Mechanism, including a list of all logical
+mechanisms known so far5 and an attempt at classification, can be found
+in Attardo et al. (2002) and Hempelmann and Attardo (2011); see also
+Section 4.2.1.6.
+7.1.6 Script Opposition
+The concept of Script Opposition and overlap was of course defined and
+exemplified in detail in Raskin (1985). Attardo and Raskin (1991) did
+not change the original definition in any way. Script Opposition was
+discussed in detail in (6.2.1). In Attardo (1994, pp. 203–205), I pointed
+5 In one of the most frustrating misconceptions about the General Theory of Verbal
+Humor there have been several claims in print that the list is the “complete” list of Logical
+Mechanisms, despite the fact that we say explicitly that it is merely the list of known Logical
+Mechanisms and that a complete list is probably impossible to produce.
+150
+
+
+--- PAGE 174 ---
+7.1 THE KNOWLEDGE RESOURCES
+out that simple oppositeness of two scripts and/or simple overlap of two
+scripts in a text does not result in humor. Both conditions must hold
+simultaneously. All that needs to be added to this discussion is a short
+discussion of the various levels of generality of the Script Opposition.
+Raskin (1985) reduces all Script Oppositions to three extremely
+high level (abstract) oppositions: good/bad, normal/abnormal, and
+actual/non-actual. Many researchers get confused because they try to
+identify the very abstract Script Opposition, without first identifying
+the text-specific script opposition. Each text instantiates these high-
+level script oppositions into text-specific local oppositions. Di Maio
+(2000) unpublished PhD dissertation, which was used in Attardo et al.
+(2002) introduced a third (intermediate) level of abstraction (e.g.,
+sex/no sex, excrement/non-excrement), which we found useful to bridge
+the step from the concrete instantiation in the text and the very abstract
+opposition.
+For example, consider the following joke,
+(62)
+One day three women went for a job interview. The man inter-
+viewing them posed all three the same question. What would you
+do if you found an extra €50 in your paycheck that you shouldn’t
+have received? The first one said, “I’d give it back as it wasn’t
+mine and I wasn’t entitled to it.” When he asked the second one
+she replied, “I’d give it to Charity.” When he asked the third one,
+she was more honest and she said, “I’d keep it for myself and go
+out for a drink.” Which one of the three women got the job? The
+one with the biggest tits!
+which was the “joke of the day” on April 20, 2018 on the web site http://
+www.laughfactory.com/jokes/joke-of-the-day
+The script opposition here is sex/no sex, but the specific instantiation
+is much more complex since all the way until the last (fragmentary)
+sentence, the text is ostensibly a narrative about an elaborate test of
+personality in a business hiring situation. So the script job interview
+explicitly activated in the first sentence turns out to be an instantiation
+of the much more abstract no-sex category. Metaphorically speaking,
+the joke is a garden-path construct, since it leads the reader to believe
+that the story is about finding out the character of the women inter-
+viewing for the job presumably to determine who is the most suited
+for the position. Intermediate scripts activated are also business prac-
+tices and hiring, but also upon reading the punch line, male versus
+151
+
+
+--- PAGE 175 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+female, since the logical mechanism here is the stereotypical behavior
+of the male interviewer (the “lecherous boss” mentioned above). Notice
+that the fact that the three applicants for the job are women becomes
+significant only after the punch line is reached and the script opposition
+is triggered. Among the backgrounded oppositions let us note that the
+presence of only three applicants and that they are all females may
+be perceived as anomalous, under certain circumstances (for example
+within current hiring practices in the US).
+Summing up, each humorous text will instantiate one very abstract
+Script Opposition in a very concrete text-specific opposition, which
+will generally require at least one of the scripts in the opposition to
+be explicitly stated in the text and the other to be directly or at least
+easily retrievable inferentially/abductively from the text. There may be
+any number of intermediate scripts, increasingly abstract, bridging the
+distance between the scripts occurring in the text and the very abstract
+oppositions identified by Raskin.
+In the prototypical examples of Script Opposition in jokes there is
+only one Script Opposition, which makes the text incongruous. How-
+ever, this is not always the case. Tsakona (2003) showed that many
+jokes do not just have a final punch line, but in fact there are other
+Script Oppositions along the body of the text (jab lines). This is not
+an issue for the expanded version of the General Theory of Verbal
+Humor which incorporates multiple instances of humor in the text (jab
+lines and punch lines). Norrick (2010) documents jokes with multiple
+punch lines (Hockett, 1977, p. 261, “compound jokes”) and with jab
+lines, as well as numerous examples of laughter within the body of
+the joke text, triggered by various aspects of the performance of the
+joke (see (10)). Hempelmann and Attardo (2011) discuss backgrounded
+incongruity, which is assumed as part of the situation of the text; see
+(4.2.3). Backgrounded incongruities overlap with the multiple jab lines
+of jokes described by Tsakona and Norrick.
+7.2 Further issues with the General Theory of Verbal Humor
+7.2.1 Broadening the Theory?
+There has been some discussion as to whether more knowledge
+resources are needed and/or should be added. All the proposals in that
+152
+
+
+--- PAGE 176 ---
+7.2 FURTHER ISSUES WITH THE GENERAL THEORY OF VERBAL HUMOR
+sense focus on performance issues, therefore they will be discussed in
+Part 3 of this book. For discussion, see Section 10.1.5.
+Relatedly, there has been some discussion about dropping the Log-
+ical Mechanism (e.g., Davies, 2004). In a nutshell, Davies argues that
+while one can make generalizations on bona-fide discourse, non-bona-
+fide discourse is essentially un-generalizable, or rather that one can
+find generalizations but they are pointless. According to Davies, evi-
+dence of this would be found in the lack of testable hypotheses that
+could be generated from studying logical mechanisms (2004, p. 379). In
+Hempelmann and Attardo (2011), we listed some hypotheses, derived
+from the logical mechanisms, that have been tested empirically. Since
+then, more evidence has emerged showing that the distinctions within
+the logical mechanisms are psychologically real and even have neuro-
+logical correlates (see a review in Chen et al., 2017). A further list of
+criticisms of the General Theory of Verbal Humor, with some responses,
+can be found in Attardo (2017b).
+7.2.2 The application of the General Theory of Verbal Humor
+to longer texts
+As is well known, the Semantic Script Theory of Humor, and the
+General Theory of Verbal Humor after it, were developed using jokes,
+for the methodological caution of starting by analyzing relatively simpler
+phenomena. Almost immediately, though, the theories were applied to
+other types of texts. However, the broadening of the scope of a theory
+comports a potential issue, which is that significant additional concep-
+tual apparatus may need to be added to handle the new phenomena that
+now fall under its purview. As discussed in Attardo (1994, pp. 221–222),
+two approaches emerged: the expansionist approach, which assumes
+that other types of texts are more-or-less essentially similar to jokes and
+that so a simple expansion of the theory can include other types of texts
+under its purview, using the same conceptual apparatus. Conversely, the
+revisionist approach takes it that it is necessary to develop a new set
+of tools to handle the new materials. Both of these approaches will be
+discussed in Chapter 14.
+The GTVH has been applied to a variety of materials, such as
+telephone calls (Antonopoulou & Sifianou, 2003), Greek young men
+conversations (Archakis & Tsakona 2005), Jordanian joke telling
+153
+
+
+--- PAGE 177 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+(Al-Khatib, 1999), conversational irony (Alvarado Ortega, 2013),
+cartoons (Paolillo, 1998; El-Arousy, 2007; Tsakona, 2009), Polish sketch
+comedy (Brzozowska, 2009), Latin satire (Vincent, 2010), and of course
+translation (see Chapter 15).
+7.2.3 A small methodological note on cherry-picking
+As I noted in Attardo (2017b), the methodology underlying the expan-
+sion of the General Theory of Verbal Humor to longer text included a
+proviso of great significance. I have referred to this by a motto of “no
+cherry-picking of data.” Let us briefly examine what this means and the
+significance of this admonition.
+Let us start by imagining a graduate student, let’s call him Bob, who
+wants to test his theory of the genetic foundation of fetching behavior
+in dogs. He gathers as many dogs as he can, borrowing dogs from his
+friends and neighbors, and starts throwing sticks at them in a very
+controlled, double-blind setup (the dog is behind a fence). After a few
+frustrating days, he finds that all of the dogs fetch, except one named
+“Blue.”6 In frustration, the graduate student decides to drop Blue from
+the experiment. That is very bad behavior, science-wise. By excluding
+those observations that do not confirm his theory our graduate student
+has essentially falsified the data. This is an instance of cherry-picking
+(ignoring data that go against your theory). Another way to cherry-pick
+is to only consider the data that support the theory: suppose that about
+a quarter of the dogs refused to fetch; if our graduate student writes a
+paper on fetching behavior without mentioning that 25% of the dogs
+did not fetch, he has again cherry-picked the data (considering only data
+that support the theory).
+The above examples are semi-facetious in the sense that no researcher
+would be that bad. Unfortunately, there are subtler ways of cherry-
+picking the data. Suppose that our student wants to investigate how
+loudly speakers deliver punch lines. He collects 20 recordings of speak-
+ers delivering a given joke, using a good microphone, making sure
+he has 10 males and 10 females and taking every care not to bias his
+sample. He then proceeds to measure very precisely the volume of the
+punch lines. He finds that the average punch line is delivered at 70
+decibels, accounting for male/female differences. The problem here is
+6 Any resemblance to dogs in our household is purely coincidental.
+154
+
+
+--- PAGE 178 ---
+7.2 FURTHER ISSUES WITH THE GENERAL THEORY OF VERBAL HUMOR
+that this measurement, however accurate and unbiased, is not mean-
+ingful: in order to be meaningful the student needs to compare it to the
+non-punch line language. In other words, he needs to determine a
+baseline volume in parts of the recordings that are not punch lines and
+then he can compare this to the punch lines. This too is a form of
+cherry-picking the data: by analyzing only what you are interested in,
+you lose track of the big picture. Humorous language is also language.
+If we are interested in determining what makes it humorous we must
+contrast it with non-humorous language. It is not enough to say that
+such-and-such a feature, phenomenon, etc. occurs in our data. It could
+be occurring outside the data as well making the observation pointless,
+as far as understanding humor is concerned.
+Disgusted by his results, Bob leaves academe and becomes an
+entrepreneur opening a dog-sitting business that earns him a small
+fortune. Another graduate student decides to take up humor research.
+She7 collects a large corpus of naturally occurring conversations and
+is struck by the fact that in several of the conversations, one speaker
+reacts with obscenity to most instances of humor. She transcribes all
+the conversations and analyzes in painstaking detail the behavior of the
+speaker. It becomes clear that there is a quasi-systematic correlation
+between the presence of an instance of humor and an obscenity. The
+student becomes intrigued, does some research, and she discovers that
+the speaker is a Tourette syndrome sufferer and that he manifests his
+anxiety in delivering the punch line of a joke or a jab line by producing an
+obscenity. Thus she comes to the conclusion that, while the obscenities
+and the humor are connected, there is no causal correlation between
+them as there is an intervening variable that explains the correlation. The
+student publishes a case study on the phenomenon, but then goes back
+to her data and looks at many more speakers. Eventually she becomes a
+successful academic.
+The second student’s experience illustrates yet another cherry-picking
+problem: given a sufficiently large corpus of data, one will find some
+exceptional instances within it that will be very interesting, but not nec-
+essarily representative of the data. The only way to avoid this problem
+is to examine all the data or a representative8 subset of the data. This
+is the reason why the General Theory of Verbal Humor argues that one
+7 This one is a woman. Her name is Mary.
+8 I.e., such that it reflects all the characteristics of the data. You make sure that this is the
+case by selecting the subset randomly.
+155
+
+
+--- PAGE 179 ---
+THE GENERAL THEORY OF VERBAL HUMOR
+needs to examine all the instances of humor in a given text, or at least a
+representative subset thereof. Failure to do so will necessarily introduce
+unconscious biases in the selection process.
+7.3 Conclusions
+In this chapter, we examined the reasons for the creation of the General
+Theory of Verbal Humor and the six knowledge resources that comprise
+it. The General Theory of Verbal Humor is a less abstract theory than
+the Semantic Script Theory of Humor, insofar as it deals with the imple-
+mentation of the script opposition at a textual level. It is, however, still
+on the competence-side of the continuum. Applications of the General
+Theory of Verbal Humor to the performance side will be examined in
+the third part of the book.
+7.4 Further readings
+Attardo & Raskin (1991) is technical and best approached with a general
+understanding of how the theory works, which can be gathered from
+any of the many presentations of the General Theory of Verbal Humor,
+such as Attardo (1994; 2008; 2017b). The work by Attardo et al. (2002)
+has shown that more formal versions of the General Theory of Verbal
+Humor can be produced relatively easily. It is, however, more technical.
+The applications of the General Theory of Verbal Humor to various
+fields and problems are ongoing. This is not the place to review them,
+but see Attardo (2017) for a start.
+156
+

@@ -1,0 +1,576 @@
+--- PAGE 390 ---
+16
+Humor in the classroom
+16.1 The pioneers
+368
+16.2 The apologists
+371
+16.3 The realists
+372
+16.4 Classroom discourse analysis
+377
+16.5 Conclusions
+379
+16.6 Further readings
+380
+This chapter needs to start with a major caveat. There exists a small
+cottage industry of publications on how to improve teaching through
+humor. I will provide a list of a few examples below. However, there
+is little empirical evidence that using humor while teaching actually
+improves learning and/or retention (Martin, 2007, p. 350). Some assess-
+ments are more stark: Halula (2013) concludes pessimistically that
+the literature “about humor and education [is] typically anecdotal and
+prescriptive in nature with little or no research backing” (p. 118). This is
+very similar to the situation that psychologists see with the humor and
+health movement. Again, lots of claims and anecdotal evidence, but a
+damning scarcity of empirical studies showing that laughing or having
+a sense of humor actually improves your health. This “split personality”
+leads to some awkward situations, as noted by Bryant and Zillmann
+(1989) who call it, a “curious contradiction” between claims that humor
+is “highly useful and extremely effective teaching tool” (p. 49) and the
+empirical results which are “decidedly mixed” (p. 50). The tongue-in-
+cheek understatement is followed by a short but effective review of
+“questionable strategies” used by some authors of popular works on the
+benefits of humor in the classroom, which include, ignoring the negative
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 391 ---
+HUMOR IN THE CLASSROOM
+evidence and oversimplifying ambiguous results. In what follows I will
+focus primarily on the empirical research, and then with a bias toward
+applied linguistics, but of course most of the research in this area has
+been done in education and psychology.
+The Holy Grail of the application of humor studies to education is
+the proof that humor facilitates or enhances learning in a classroom
+setting. The impact of humor on teaching, if any, may occur at dif-
+ferent levels/moments of the learning process: humor may a) facili-
+tate learning, i.e., make it easier to acquire the new information, or
+b) improve retention, i.e., hold on to the new information, or c) improve
+the pedagogical experience of either the student (e.g., by reducing
+stress) or the teacher (e.g., by avoiding burnout). It is important to
+remember that an effect in one aspect does not imply similar effects in
+another aspect. So, for example, we could find that humor improves the
+experience of the teacher but not of the students, or that it facilitates
+learning but not retention. This requires then to keep each hypothesis
+and claim separate, to avoid confusion.
+The chapter is organized as follows: we will begin by reviewing a few
+pioneering studies, some of which showed some promising results and
+probably are the proximate cause for the existence of the books on how
+to improve teaching and leaning using humor. Then I will provide a
+sample of books touting the use of humor in the classroom, mostly
+just to document the size of the phenomenon, and then I will review
+the field using three meta-analyses and some recent publications that
+provide overviews of the field. The chapter is capped off by a final section
+which reviews an emerging area of interest, i.e., ethnographic studies of
+humorous behavior in the classroom (classroom discourse analysis).
+16.1 The pioneers
+One of the first studies to test empirically the idea that humor facilitates
+learning idea is Markiewicz (1974) who reviews the literature up to that
+point, which she finds riddled “with severe methodological problems.”
+She provides a very useful chart with a meta-analysis of about 25 studies
+(p. 409) starting the tradition of really depressing findings in the field:
+only very few studies show significant positive differences with the use of
+humor. Markiewicz considers possible effects for humor and persuasion,
+368
+
+
+--- PAGE 392 ---
+16.1 THE PIONEERS
+humor and retention, and evaluation of the source (i.e., the idea that
+the audience of humor will assess more positively a speaker who uses
+humor than one that does not), and assessment of the interesting nature
+of the material. Only the last hypothesis is found to have some positive
+effect (p. 413). The degree of relevance of the humor might also be
+a factor: Markiewicz considers relevant (i.e., on topic) and irrelevant
+humor, but finds no differences. Her methodological discussion is still
+quite valid.
+Another study is Kaplan and Pascoe (1977). They ran a large (n = 508)
+study involving four versions of a 20 minutes lecture on Freud. One
+version of the lecture was without humor. Of the three humorous
+versions, one contained humorous material related to the subject matter,
+one contained unrelated humor, and one a mix of related and unrelated
+material. The students were tested immediately after the lecture and then
+6 weeks later. The results are mixed: there was no significant difference in
+the immediate understanding of concepts but the concepts introduced
+humorously were retained significantly better (p. 64). The students’
+performance on the tests was not significantly improved by humor
+(p. 64), even in the re-test condition, when their performance improved
+due to better recall. The authors conclude that the benefit of using humor
+is increased recall of the examples.
+Ziv (1979a) explains learning through humor with the observation
+that humor attracts attention which leads to memorization and retention
+of the material. Students enjoy humor (1979a, p. 46). In (1979a/b) he
+further elaborates that a “positive teacher,” who among other features
+uses humor, creates a better atmosphere in the classroom, and lowers
+anxiety which is conducive to learning (1979a, pp. 60–61; 1979b, p. 22).
+In fact, enjoying humor on the teacher’s part has a significant correlation
+with teachers having a positive attitude in the classroom (1979a, p. 59).
+Ziv’s name is usually linked with the idea that humor improves creativity.
+He finds a strong correlation between humor and creativity, particularly
+around the trait of originality (p. 109). In an experiment he shows that
+a single exposure to humor enhances creativity (p. 116). In a semester-
+long study he found enhanced creativity from continued exposure to
+humor (pp. 120–122).
+Ziv (1988) describes the first semester-long study of the effects of
+humor on learning. Two intact statistics classes taught by the same
+instructor were taught, one with 3 instances of humor per 90 minutes
+369
+
+
+--- PAGE 393 ---
+HUMOR IN THE CLASSROOM
+lecture (1979a, p. 80)1 and one without humor. The final multiple-choice
+exam was used as the assessment tool. The section taught with the
+humor scored significantly better on the final test. The same experiment
+was then replicated in a psychology class, with the same significant
+positive results for the section taught with humor. Ziv cautions that
+the amount of humor had to be calibrated exactly to 3 instances of
+humor per class (as he had found in pilot tests that that is an appropriate
+amount of humor). Moreover, the humor has to be directly relevant to
+the content of the course and varied in its format/presentation. Finally,
+negative/aggressive humor was avoided (such as sarcasm). Because
+of the clear cut results, which are unequivocally positive, and of the
+extended duration of the study, i.e., an entire 14 weeks semester, whereas
+most experimental treatments are at most 50 minutes long, this study
+has been vastly influential and is considered a classic.
+Bryant et al. (1979) look at college lectures. They start out by noting
+that humor was being increasingly introduced in college lectures and
+that there already were some advocates for its use, but “without sound
+empirical evidence” (p. 111). The authors had students tape (apparently
+surreptitiously)2 70 lectures and assess the number of humorous inci-
+dents (inter-rater reliability was at 91%). The coders found 234 instances
+of humor which yields an average of one instance of humor every
+15 minutes or so. There was a significant range: 20% of classes had
+zero occurrences of humor; conversely, 5% of the teachers used humor
+more than 10 times per class (every 5 minutes, on average) (p. 114).
+Female professors used significantly less humor but used surprisingly
+more sexual humor, more aggressive humor, and were rated as using
+more improvised humor (p. 116). Most of the humor was closely related
+to the subject matter, and here too, more so for women’s humor. Also,
+surprisingly, male professors used more self-disparaging humor. More
+discussion on humor in lectures will be found below in Section 16.4.
+Humor increases the students’ positive perception of the textbook,
+but does not increase interest, learning, or persuasiveness (Klein et al.,
+1982). It does however negatively impact author’s credibility. Bryant
+et al. (1981) shows that adding cartoons to a textbook does not improve
+1 This is actually on the low end of the scale; see the studies below in Section 16.4.1 that
+attempt to quantify the amount of humor produced by teachers in a lecture. Ziv’s rate of
+humor in his experiment is equal to 1.6 instances of humor per 50 minute lecture, or 0.03
+instances of humor per minute.
+2 This would be considered ethically unacceptable nowadays.
+370
+
+
+--- PAGE 394 ---
+16.2 THE APOLOGISTS
+learning but the students enjoy them. Kaplan and Pascoe’s (1977)
+found increased memorability of humorous examples. Davies and Apter
+(1980) also found greater recall for humorous materials.
+Bryant and Zillmann (1989) report that teachers use humor in lectures
+and activities from elementary school to college, with males doing so
+more than females (p. 56). Humor can get the attention of the students
+(pp. 59–60) but does not improve the classroom environment, at least
+in the college classroom (p. 61); nonetheless, students enjoy it. Age and
+setting (elementary/high school vs. college) may be the key factors in
+these findings. For younger children, if they lack motivation, humor,
+and especially humor unrelated to the content, improved learning.
+If the students were already motivated, no improvement was found
+(p. 66). Bryant and Zillmann find no evidence that humor included
+in test improves performance or attitude toward the test and in fact
+report that it can hurt students with high test anxiety (p. 69). They
+conclude on a moderately optimistic note that “judicious use of humor”
+(p. 74) increases attention, improves enjoyment, promotes creativity,
+and “under some conditions” improves “information acquisition and
+retention” (p. 74). This sounds actually quite good, until they specify
+what “judicious” means: “success in teaching with humor [...] depends
+on employing the right type of humor, under the proper conditions,
+at the right time, and with properly motivated and receptive students”
+(p. 74).
+Javidi et al. (1988) find that award-winning teachers use significantly
+more humor than non-award winning teachers. More on this study
+below. Buckman (2010) also finds a correlation between university
+teachers’ performance and their use of humor.
+16.2 The apologists
+By the mid-1980s, Powell and Andresen (1985) could set out to review
+more than 50 articles on the benefits of using humor in the classroom
+and some empirical studies. Things did not stop here. Soon there were
+significant numbers of publications advocating teaching with humor.
+Nowadays, there exists a largish number of publications that advo-
+cate for the use of humor in educational settings. Most of these have
+scant evidence, gathered from the few studies that show positive effects
+of humor, but generally speaking the mode is not that of scientific
+371
+
+
+--- PAGE 395 ---
+HUMOR IN THE CLASSROOM
+argument, but rather of apology, in the classical sense, or of advocacy.
+The author is convinced of the effectiveness of humor and wants to pros-
+elytize or simply assumes that using humor is a good thing and provides
+advice on how to use humor in teaching. Rather than discussing the
+merits of these I will quote the titles of some of the best known books
+on the subject.
+• Berk (2002) Humor as an instructional defibrillator: Evidence-based
+techniques in teaching and assessment.
+• Berk (2003) Professors are from Mars, students are from snickers
+• Shade (1996) License to laugh: Humor in the classroom
+• Lundberg and Thurston (1992) If they are laughing they just may be
+listening.
+• Loomans and Kolberg (2002) The laughing classroom.
+• Medgyes (2002) Laughing matters: Humour in the language class-
+room.
+A list of scholars advocating the use of humor in the classroom can be
+found in Bryant and Zillmann (1989) and in Banas et al. (2011). Banas
+et al. note that “the overwhelming majority of instructional communi-
+cation research on humor has focused on the positive consequences of
+classroom humor” (p. 116). A search on Google will easily add hundreds
+of tiles. A search for “humor, teaching, advantages” produced 109,000
+hits. The search “humor, teaching, disadvantages” produced 18,000 hits.
+Banas et al. do list four (!) authors who have considered the negative
+effects of humor in the classroom (p. 116).
+Even national associations, such as the National Education Associa-
+tion contribute to the apology of humor, see McNeely (2002). As I said,
+this reminds one of the claims about the health benefits of humor, where
+anecdotal evidence reigns supreme. This is not to say that these books
+are without merits. They can be very useful if one wants to start using
+humor in the classroom and doesn’t quite know how to do so.
+16.3 The realists
+Given the significant interest in the application of humor to teaching,
+with the possibility of improving teaching, learning, student attitudes,
+and even teachers’ evaluations, a significant literature has developed,
+372
+
+
+--- PAGE 396 ---
+16.3 THE REALISTS
+primarily in the fields of education and communication, and also of
+course in psychology. Linguistics has lagged, generally speaking, but
+recently some significant studies have appeared. We will review the
+field using primarily three excellent meta-analyses, which also provide
+effective summaries of the field.
+McMorris et al. (1997) review 11 studies on college testing. Their con-
+clusion is that there is insufficient evidence that use of humor in testing
+reduces stress and humor does not improves performance. However,
+the students report that they like it (p. 285). The authors conclude that
+test-writers may want to include humor in their tests.3 McMorris et al.
+list the following issues that need to be addressed: the types of humor,
+the purpose of the humor (e.g., inclusive vs. distancing humor), the
+degree of incorporation of the humor, i.e., whether it is a) relevant to
+the material or unrelated to it, and b) presented in the test items, in the
+instructions, separate from the test, etc.
+Martin et al. (2006) review 20 studies, They set out to answer the
+question “does humor in the “educational messages [...] result in under-
+standing and learning?” (p. 18). They distinguish between three types of
+effect:
+1. Cognitive: the learning was tested, for example, by a multiple
+choice test;
+2. Affective: the respondents were asked if they enjoyed learning; and
+3. Perceived: the respondents were asked how much they felt they had
+learned.
+Their overall conclusion is that “Although students report enjoying
+learning and they report that they believe they have learned course
+material, objective measurements of the recall associated with humor-
+ous lectures are rather minuscule” (Martin et al., 2006, p. 305).
+After an extensive review of the various types of humor and their
+classroom effects, Banas et al. (2011) conclude that “the relation-
+ship between instructional humor and educational [sic] cannot be
+understood without taking into account the type of humor used,
+3 The following is my personal opinion and I have no evidence for it except for my
+personal (anecdotal) practice. I’d think twice about doing what McMorris et al. advise. Most
+of the students I have taught in my career lost all sense of humor at test time. Any attempt
+at humor backfired in the most depressing way. Even my instructions to read the questions
+before answering them were met with concerned questions.
+373
+
+
+--- PAGE 397 ---
+HUMOR IN THE CLASSROOM
+particularly regarding appropriateness and offensiveness” (p. 125).
+Generally speaking aggressive and denigrating humor is inappropriate
+in the classroom (and yet nonetheless they occur, we might add). They
+also report differences in gender usage, for example, male professors use
+more self-deprecating humor and female professors use humor to gain
+back control of the class after a disruption, but note that the statistical
+significance of the results in this area is not very reliable due to small
+samples. To complicate things, the teachers themselves are a variable,
+being more or less “humor oriented” (p. 127), i.e., funny. If a teacher is
+more humor-oriented, he/she produces more humor, which correlates
+with producing more inappropriate humor as well.
+Use of positive humor improves teacher evaluations (p. 129) but
+“overuse” is rated negatively. “[A]ppropriate instructional humor [is]
+related positively to an enjoyable learning environment” (p. 130) but,
+again, aggressive humor may create an uncomfortable environment.
+Likewise, credibility is boosted by the use of appropriate humor (p. 131)
+and decreased by inappropriate or excessive humor. By and large, they
+conclude that positive and appropriate humor correlates with desirable
+instructional outcomes, such as “relaxed learning environment, higher
+instructor evaluations, greater perceived motivation to learn, and enjoy-
+ment of the course” and inappropriate humor with the opposite out-
+comes. So, their conclusion is positive as far as the learning environment
+goes. However, Banas et al. (2011) find that the “the empirical evidence
+for the effects of humor on learning is considerably more mixed, with
+some scholars finding that humor enhances learning [...] and others
+finding no relationship between learning [and] humor” (p. 131). The
+question of whether relevant humor performs better than irrelevant
+humor remains open, even though Machlev and Karlin (2016) found
+no correlation between relevant humor and learning.
+Wanzer et al. (2010) proposed the Instructional Humor Processing
+Theory to explain why some types of humor produce increased learning
+and some do not. The Instructional Humor Processing Theory pre-
+dicts that humor related to the subject matter of instruction would
+be positively correlated with learning. On the humor studies side, the
+Instructional Humor Processing Theory incorporates the incongruity
+theory framework, with the disposition theory, a variant of the supe-
+riority theory approach, which claims that one appreciates as humor-
+ous humor that targets something one is negatively disposed toward
+374
+
+
+--- PAGE 398 ---
+16.3 THE REALISTS
+(see Chapter 3). So, humor related to the subject matter is appreciated
+by the students because it does not target students (which would violate
+the disposition theory, which assumes that students are well-disposed
+toward themselves), likewise, self-disparaging humor by the teacher
+may backfire, if the students are well disposed toward the teacher. The
+authors’ study showed that students judged teachers to be humorous if
+they produced relevant humor; surprisingly, also self disparaging humor
+produced increased self-reported learning. Finally, “Professors that were
+perceived as humorous used significantly more related, unrelated, self-
+disparaging, other-disparaging, and offensive types of humor than less
+humorous professors” (Wanzer et al., 2010, p. 14).
+Another wide-open topic is cross-cultural variation. For example,
+Zhang (2005) reports that humor made Chinese students more anxious.
+Heidari-Shahreza (2018) reports the use of humor in Iranian L2 class-
+room. Other non-Western contexts are Taiwanese Chinese (Liao, 2005),
+Mainland Chinese (Chen, 2013), Thai (Forman, 2011), Vietnamese
+(Petraki & Pham Nguyen, 2016), Japanese (Neff & Rucynski, 2017). The
+field is vast and there is no good overview.
+Another area of interest, is the use of humor in the foreign language
+classroom, where humor has the potential to reduce anxiety above and
+beyond all the usual positive effects claimed for it. Studies focusing on
+foreign language teaching and humor include Deneire (1995); Schmitz
+(2002); Wagner & Urios-Aparisi (2011). Wagner and Urios-Aparisi
+(2011) couch the problem in terms of “immediacy,” i.e., “the degree of
+directness and intensity of interaction between the communicator and
+the referent of communication” (Mehrabian, 1966, p. 34), or to put it
+differently the degree of involvement and closeness that the speakers
+communicates, both verbally and non-verbally. Wagner and Urios-
+Aparisi note that in both modalities humor figures prominently in the
+definitions in the literature on immediacy (Wagner & Urios-Aparisi,
+2011, p. 403). So humor would have a positive effect on classroom
+activities mediated by the immediacy of the teacher. Wanzer (2002) also
+addresses immediacy, but within the broader context of “humor orien-
+tation,” i.e., the general disposition of a teacher to produce humor. In
+particular she focuses on appropriate and inappropriate humor (Wanzer
+et al. 2006).
+Bell (2011) presents the most sophisticated framework for applying
+humor studies to the second language classroom. The point is not so
+375
+
+
+--- PAGE 399 ---
+HUMOR IN THE CLASSROOM
+much to teach the students how to be funny (p. 150), but, as she puts
+it, the “cultural norms of humor usage” (p. 135) which consist of how
+humor “is contextualized, how and with whom joking relationships
+may be formed, and common responses to various types of humor”
+(p. 135). Topics that second language learners need to be aware of are
+available scripts for humor (i.e., what is appropriate for joking and
+what isn’t), contextualization cues, which may vary across cultures,
+genres of humor, the pragmatic and social functions of humor, and the
+repertoire of responses to humor, which again may vary from culture to
+culture.
+This brings up the idea of the existence of a specific separate humor
+competence as Vega (1989) claimed, to be placed alongside the other
+four communicative competences (grammatical; sociolinguistic, i.e.,
+contextually appropriate; discursive, i.e., coherent and cohesive; and
+strategic, i.e., capable of solving communicative problems; Canale &
+Swain, 1980). Hodson (2014) shows that teaching unsuspecting stu-
+dents about humor theory doesn’t particularly affect their capacity to
+understand humor and Bell tongue-in-cheek tells us the benefits of
+teaching humor theory to students “remain an empirical question.” This
+is not surprising, since I have argued (Attardo, 1994, pp. 211–213) that
+there is nothing unique about humor competence except a) scripts that
+are available for humor (humorous stereotypes); b) scripts that are not
+available for humor (topics about which it is socially unacceptable to be
+humorous); c) contextual information on when and in what situations
+it appropriate to use humor; and d) a few genres that are culture specific
+(such as knock-knock jokes, unknown outside of the Anglo-Saxon
+world). So, if we were to compare the sheer size of knowledge involved
+in each of the four competences to the reductive size of the purported
+fifth one, it would seem obvious to argue that how to produce and use
+humor would be part of the other four competences, without the need to
+postulate a separate competence. Undeterred by these arguments, Wulf
+(2010) presents a curriculum for humor competence.
+Bell and Pomerantz (2016) is primarily focused on the students’ use of
+humor (and so will be examined in more detail below in Section 16.4),
+but it is also a very complete discussion of the literature, including the
+research on the benefits of using humor in the teaching environment.
+So, it is telling to see them conclude that “it has been difficult to connect
+the use of humor to increased learning” (p. 101) and so that “the most
+robust argument for using humor in education is affective” (p. 101).
+376
+
+
+--- PAGE 400 ---
+16.4 CLASSROOM DISCOURSE ANALYSIS
+16.4 Classroom discourse analysis
+A major contribution to the analysis of classroom humor is Davies
+(2003) which is explicitly based on the ethnomethodological approach
+described in Chapter 10. It can be seen as an extension of Davies
+(1984), discussed in Chapter 12. Davies argues that students in a second
+language classroom “are able to exploit the limited gamut of sociolin-
+guistic resources available to them within a discourse context in which
+the native speaker provides important support” which establishes the
+fundamentally collaborative nature of the situation. Davies shows that
+both students and teachers initiate humorous exchanges. The native
+speakers and the students themselves use a “scaffolding” mechanism to
+build jointly the humorous exchange, despite their limited proficiency.
+See also Davies (2015).
+Bell and Pomeranz (2016, p. 78) view humor as a “safe house” for
+the students in the classroom. The concept of “safe house” comes from
+Canagarajah (2004) who identifies a variety of ways in which students
+carve small places for themselves within the broader context of school.
+Examples of safe houses would be passing notes, writing in the margins
+of books, or talking to other students off task. Considering humor as a
+safe house is not a stretch, given the function of deniability which has
+long been associated with humor (“Just kidding!”), but what is original
+is seeing humor as a play space, which is connected to the consideration
+of language play, a broader category than humor. Bell and Pomerantz
+note that humor is “normal” in the classroom (p. 73) and so it should
+be expected, as it would in any “normal” situation. It is possible that
+the impression of relative scarcity of humor in the classroom is due
+to the focus on the teacher and the “covert” nature of most of the
+humor, which occurs in a safe house, away from the eyes of the teacher
+(and of any researcher). Humor conversely can also be seen as a face-
+saving opportunity, of particular importance in the teaching setting, if
+we consider that the very act of teaching is inherently a face-threatening
+act: in order for you to teach me, I need to admit, more or less openly,
+that you know more than I do on the subject. So humor allows both
+teacher and student a way out of the inherently hierarchical setting.
+Relatedly, a student may elect to be the “class clown” and thus cultivate
+a “cool” identity (p. 80). For example, Damico and Purkey (1978) and
+Norrick and Klein (2008) consider disruptive humor in the elementary
+classroom (“class clowns”). Reddington (2015) and Reddington and
+377
+
+
+--- PAGE 401 ---
+HUMOR IN THE CLASSROOM
+Waring (2015) are applications of conversation analysis to classroom
+interactions and provides some examples of the phenomena discussed
+above.
+16.4.1 How much humor do teachers produce in class?
+We have seen that students produce plenty of humor (Bell and
+Pomerantz, 2016). We turn now to the question of how much
+humor do the teachers produce. Javidi et al. (1988) report on a
+study in which award-winning college and high-school teachers
+were compared to non-award-winning teachers.4 A sample of 50
+minutes of lecturing was annotated for each teacher. The results
+show that award-winning teachers incorporated 7.20 instances of
+humor in a 50 minute lecture (roughly one instance of humor every
+7 minutes). The humor “played off” the content of the course and
+was often used to clarify the content. In contrast, award-winning
+high-school teachers only produced humor 2.8 times in 50 minutes
+(about once every 18 minutes). Like college teachers, the humor was
+used to clarify content. Middle-school teachers scored even lower
+(2.33 per 50 minutes of lecture; once every 21.45 minutes). The
+non-award-winning teachers used a very small amount of humor:
+0.26 instances per 50 minutes, or a remarkable once every 192 minutes).
+Downs et al. (1988) report on a study of 57 college teachers. The
+college professors produced an average of 13.33 instances of humor per
+lecture (once every 3.75 minutes). Most of the humor was relevant to the
+class (only 12% was coded as non-relevant). Downs et al. also considered
+nine award-winning college teachers and found that they produced
+an average of 7.44 instances of humor per lecture (i.e., once every
+6.72 minutes). This is a significant difference from the study by Javidi
+et al. Downs et al. provide a breakdown by week in the semester, which
+shows that teachers on average produced humor 9.3 times per lecture in
+the second week, 8.1 times in the 6th week, and 5.6 times in the 10th
+week. In other words, the variable of when the lecture is collected may
+be relevant. Most of the humor was relevant to the lecture in all cases.
+Lee (2006) has a slightly wider scope, in the sense that it is not limited
+to classroom interactions, as it is based on the Michigan Corpus of
+4 The fifteen non-award-winning teachers consisted of five college teachers, five high-
+school teachers, and five middle-school teachers. Javidi et al. (188) do not explain why they
+chose not to differentiate between the three groups. They do, however, note this limitation
+in their discussion.
+378
+
+
+--- PAGE 402 ---
+16.5 CONCLUSIONS
+Academic Spoken English (MICASE). Lee considers the occurrences of
+laughter (which he takes to correlate with humor; see 11 for a discussion
+of the problematic nature of this assumption). He finds a wide range
+of variation, with events having zero laughter and an undergraduate
+social science thesis study group a whopping 179 laughter instances in
+64 minutes, i.e., a ratio of 2.8 laughs per minute (Lee, 2006, p. 53).
+Lectures tend to have a low ratio of laughs per minute, but as Lee notes,
+some of the lectures are among the events with most laughter. Overall,
+lectures have 0.21 laughs per minute, whereas tutorials and study groups
+have more than one laugh per minute (1.35 and 1.12, respectively; Lee,
+2006, p. 54). Lee speculates that distance of social status and intimacy of
+the event might be the causal factors behind these findings (p. 55).
+Nesi (2012) considers laughter in university lectures taken from the
+British Academic Spoken English corpus (BASE). The BASE academic
+events are more limited in scope than the MICASE and include only
+lectures and seminars. 24 out of 160 lectures contained no laughter
+and four contained only one instance of laughter. Nesi compares her
+data to Lee’s (2006) and finds that while the percentage of lectures
+containing laughter was roughly the same across countries, British
+lectures contain one laugh every 1.4 minutes, whereas American lectures
+contain only one laugh every 5 minutes. Nesi speculates that the cause
+is that British lectures are more formal and so the lecturers prepare
+the humor. An alternative explanation is that British lecturers are just
+funnier than Americans. Neuliep (1991) presents self-reports from high
+school teachers who claim to attempt humor roughly twice per class
+period. He notes that this figure is significantly less than other studies
+having as subjects college teachers.
+Both Lee and Nesi list more or less impressionistic functions of the use
+of laughter, which include the usual suspects: building rapport, getting
+the attention of the students, criticizing behavior, self-deprecation, etc.
+In short, there seems to be no special function of laughter in lectures.
+16.5 Conclusions
+What conclusions can we draw from the literature on using humor
+in the classroom? The first one, is that by doing so, we probably will
+not do any serious damage to our students. The second one is that
+we should lower our expectations: using humor is not going to be the
+379
+
+
+--- PAGE 403 ---
+HUMOR IN THE CLASSROOM
+silver bullet of education and will not lead to massive improvements
+of learning and retention. It may improve the students’ attitude and
+perception of the learning experience and that’s obviously a good thing.
+The third conclusion is an obvious one: further study of these matters is
+to be recommended, especially in the direction of separating the various
+kinds of humor and of activities. Humor in banter with the students is
+not the same thing as humor in the lecture or humor in the test. Finally,
+we need to remember that a successful humorous exchange is a joint
+activity: the speaker and the hearer need to agree to the framing of the
+situation as humorous. This entails both that the teacher must relinquish
+some control of the situation and that he or she and the students must
+find a common ground to enjoy the humor. As Powell and Andresen
+had remarked in 1985, humor ages and one always runs the risk of
+“asking students to laugh at something that would have appealed to a
+previous generation” (p. 88). This observation is all the more true today,
+when memes, tweets, and instagram posts have replaced the jokes and
+cartoons of yore. If teachers want to be funny to their students, they will
+need to work at knowing why, at what, when, and where their students
+laugh.
+16.6 Further readings
+Martin (2007) is a very good broad review of the pedagogy of humor,
+even if it is skewed toward psychology, having been written by a promi-
+nent psychologist. Bell (2011) is squarely focused on applied linguis-
+tics. The meta-analyses discussed in the text are the best overviews
+of the pedagogical aspects of humor, McMorris et al. (1997); Martin
+et al. (2006); and Banas et al. (2011). Reddinton (2015) and Bell and
+Pomerantz (2015) provide overviews of humor in the classroom from
+the perspective of TESOL.
+380
+

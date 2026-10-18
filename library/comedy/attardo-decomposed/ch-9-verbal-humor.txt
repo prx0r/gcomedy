@@ -1,0 +1,957 @@
+--- PAGE 199 ---
+9
+Verbal humor
+9.1 Defining puns
+177
+9.2 Classifying puns
+180
+9.3 Ways to bring about two meanings in a text
+181
+9.4 The fate of the interpretation
+191
+9.5 Cratylism: resolution in puns
+192
+9.6 The psycholinguistics of puns
+196
+9.7 Conclusions
+197
+9.8 Further readings
+198
+In this chapter we deal primarily with puns, but not exclusively. The
+title “verbal humor” may be confusing due to the use of the other
+term “verbalized humor,” primarily in translation studies. Verbalized
+humor is simply all humor expressed through language, as opposed to
+through facial expressions, gestures, etc. In multimedia studies which
+deal with multimodal humor (e.g., video, television, film, theater, etc.)
+likewise, verbalized humor may usefully distinguish linguistic humor
+from slapstick or visual humor. Verbal humor, conversely, is humor that
+is crucially focused on the signifier, the phonemic support of language.1
+It is opposed to referential humor, i.e., humor that does not require a
+special attention to the linguistic form. The nature and modalities of the
+“focus” on linguistic form for verbal humor will be one of our primary
+concerns in this chapter.
+1 There is also verbal humor focused on orthography and on the shape of signs in sign
+language and in ideographic languages, such as Chinese. We will ignore these in this context.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 200 ---
+9.1 DEFINING PUNS
+However, before we jump into the treatment of the subject matter
+of this chapter we need to make a very important clarification: verbal
+humor, puns and all the other forms of verbal humor we will explore,
+is always without exception, semantic humor. Verbal humor has an
+incongruity and a resolution, exactly like referential humor. In fact,
+as we saw, Raskin’s SSTH does not distinguish between verbal and
+referential humor and treats them identically (i.e., finds a script overlap
+and opposition). The focus in the literature on the taxonomies, often
+based on the form of the signifier, and on other phonetic/phonemic
+aspects (for example the phonemic threshold of difference between
+paronyms, see below) has obscured this fundamental fact which may
+mislead one into thinking that verbal humor is just a phonological issue.
+That would be wrong indeed, since we’ve seen that there can be humor
+only if there is a semantic opposition.2
+Another significant distinction is that not all language play is verbal
+humor. Play is one of the important factors of humor, as we saw in
+Section 3.3.1, but of course not all play is humorous; just think of com-
+petitive sports. Some authors use “wordplay” as a synonym of “puns”
+or what I have termed “verbal humor,” whereas others use wordplay
+as a broader concept subsuming puns. Humorous language play would
+definitely be the same thing as verbal humor. Regattin (2015) suggests
+using wordplay for puns and word games for non-humorous language
+games.
+Playing Scrabble, doing crossword puzzles, or anagrams are all met-
+alinguistic games based on orthography and while they constitute exam-
+ples of language play they are not, or are only marginally, humorous.
+Moreover, they are “artificial” in the sense that they require training,
+have special rules, etc. whereas verbal humor is done by all speakers
+of languages without any special training. There is nothing wrong with
+language play but it falls outside the purview of this book (except insofar
+as it is used alongside humor in classroom activities; see Chapter 16, on
+humor and teaching)
+9.1 Defining puns
+In Attardo (2018) I provided a definition of puns, here slightly altered
+for clarity:
+2 A pragmatic one will do too, to be fair. Of course, it’s all meaning anyway.
+177
+
+
+--- PAGE 201 ---
+VERBAL HUMOR
+A pun is a textual occurrence in which a sequence of sounds must be interpreted with a
+formal reference to a second sequence of sounds, which may, but need not, be identical
+to the first sequence, for the full meaning of the text to be accessed. The perlocutionary
+goal or effect of the pun is to generate the perception of mirth or of the intention to do so.
+This is dense prose indeed, so let’s unpack it in what follows. Puns
+occur in a text, i.e., in a linguistic event, which takes place in a context,
+has a speaker and hearer, etc. In this respect, they are like any other
+linguistic phenomenon. The next part is more important: puns are
+defined in terms of a sequence of sounds. First, note that it is sounds, nor
+letters (graphemes); puns are by and large spoken language phenomena.
+Second, it is a sequence of sounds (not a string, in which the sound have
+to be contiguous, to be technical), so what we mean is that the sounds
+in question may be scattered in the utterance. By “interpreted,” we mean
+the usual processing of language to make sense of an utterance. The next
+step is more complex: the interpretation of the utterance must refer (take
+into account) formally to a second sequence of sounds to get the “full”
+meaning of the text. Incidentally, the word “formal” in the definition
+specifies the nature of the reference to clarify that in puns we refer to
+similarity or identity in signifier only, and not to the similarity or identity
+of words/sentences (as in paraphrase, for example).
+Let me add that I do not mean to imply that this is an original defini-
+tion or even that it is much of an improvement on previous definitions.
+In fact, Delabastita’s (1996, p. 2) definition of wordplay (puns) is as
+follows:
+Wordplay is the general name for the various textual phenomena in which structural
+features of the language(s) used are exploited in order to bring about a communicatively
+significant confrontation of two (or more) linguistic structures with more or less similar
+forms and more or less different meanings.
+[emphasis in the original, SA]
+and the reader can easily see that there is not much of a difference
+between the two.
+Puns have a duality of meaning. What does this mean? Assume you get
+a first meaning out of a text. If you miss the second meaning you still get a
+text, with a meaning, perhaps a perfectly valid one, or perhaps nonsense,
+but you do get a meaning. Unfortunately, you missed the second one and
+with that the humor. This is crucial, so let’s work it out in more detail.
+Consider the following example:
+(82)
+When is a door not a door? When it’s a jar.
+178
+
+
+--- PAGE 202 ---
+9.1 DEFINING PUNS
+assume that you do not see the “ajar” meaning, but only the “a jar”
+meaning. The text is nonsensical (a door is not a jar) but it can stand
+alone as nonsense. Consider now the following excerpt from a conver-
+sation (Hay, 1994, p. 46):
+(83)
+Meena: I’m the only person in this room who freestyled at nation-
+als and came second in the women’s division
+Dan: let’s face it Meena always comes second
+Meena: yeah i know that’s cause Sue Willis always beats me (.)
+except at distance
+Dan: we were actually making sexual innuendos well I was
+Here the pun on “comes” (arrives vs. has an orgasm) provides two
+perfectly meaningful senses, so much so that the target of the joke
+(Meena) does not get it, i.e., misses the pun, and addresses the only
+meaning she is aware of. So, this is the nature of the “presence” in the
+text of the two meanings.
+The next step is the caveat that the sequences may be identical (as in
+the two examples above) but need not to be so. When the sequences are
+identical we have homophones or homographs (homonyms), whereas
+when the sequences are different, we have paronyms. The following is
+a pun based on a paronym, which we already encountered as (45) in
+Chapter 7:
+(84)
+Q: What do you get when you cross a cow and a lawnmower?
+A: A lawnmooer.
+The two strings [ˈlɔnmoʊər] vs. [ˈlɔnmʊər] differ by one phonemes. We
+will return to this aspect in more detail below.
+Finally, the definition calls for the perlocutionary goal (or effect) of
+any of the participants in the exchange to be either to generate the
+experience of mirth (amusement) or the have the intention to do so
+recognized.3
+The distinction between perlocutionary goal and effect is necessary
+because involuntary puns may be detected and interpreted as humorous
+only by some member of the audience, not necessarily the speaker or the
+addressee, and no intention to amuse may be present in the speaker.
+3 Some readers will recognize a nod to the Gricean M-intention (Grice 1957, 1989,
+p. 105), later dubbed reflexive intention by Searle (1969, p. 47). Those that don’t should
+not feel bad: that is seriously technical stuff, best left to a pragmatics book. Suffice it to say
+that the intention of the recognition of the intention and not just having the intention is
+important: for the text to be funny to you I have to want you to be aware of my intention.
+179
+
+
+--- PAGE 203 ---
+VERBAL HUMOR
+Finally, why do we talk about strings or sequences of sounds and not
+words? Quite simply because, even though many puns are based on
+words (as are the examples above), not all of them are. Compare the
+following:
+(85)
+Be alert! Britain needs more lerts.
+which dates back to World War 2 England (Pollack, 2012, pp. 138–139)
+and is based on the reanalysis of the word “alert” in two strings a+lert,
+neither of which is a morpheme, let alone a word, in that context. On
+the other side of the morpho-lexical continuum some puns operate on
+multi-word units, cf. the title of Pollack (2012)
+(86)
+The pun also rises
+where the relevant unit is the phrase “The sun also rises” (the title of a
+novel by Hemingway).
+So, going back to the distinction between referential and verbal
+humor, the necessary and sufficient condition of a text to be humorous
+is the presence of a script opposition and overlap. The necessary
+conditions for a text to be a pun are a) the presence of a script opposition
+and overlap, and b) the reference to a string of sounds, in the sense
+discussed above.
+9.2 Classifying puns
+Most of the literature on puns is taken up by a classificatory frenzy
+unseen in any other field of humor studies. The interested reader
+may consult Attardo (1994, pp. 112–128) for a review of the main
+taxonomies. Attardo produced a taxonomy of taxonomies of puns,
+which follows:
+• based on linguistic phenomena (e.g., homophony, homography,
+paronymy, etc.)
+• systematic (based on linguistic categories; e.g., syntagmatic,
+paradigmatic, etc.)
+• based on surface structure (e.g., the phonetic distance between the
+two phonetic strings punned upon)
+• eclectic (i.e., they pick and choose any criteria)
+180
+
+
+--- PAGE 204 ---
+9.3 WAYS TO BRING ABOUT TWO MEANINGS IN A TEXT
+However, the whole operation is ultimately disappointing because
+however detailed and comprehensive one’s linguistically-based taxon-
+omy is, it is ultimately defeated by the richness of language. Another
+strategy is to go for very broad categories: paradigmatic vs. syntagmatic,
+for example, i.e., things that co-occur in the string (syntagmatic) or
+things that might occur in a given slot (paradigmatic).
+There is another drawback: all taxonomies presuppose a theory; a
+theory of language, or a theory of puns, or a theory of psychology, and so
+forth. The authors of taxonomies are not always explicit on what their
+underlying theory is. Taxonomies find what they expect to occur. As
+such what they exclude tells us a lot about what their proponents used as
+data to build the taxonomy and what their (implicit) theory is. Needless
+to say, explicit theories are better than implicit ones. The problem is that
+taxonomies cannot replace theory building, if for no other reason that
+taxonomies do not have explanatory power, beyond the (implicit) theory
+they are built on.
+9.3 Ways to bring about two meanings in a text
+As we saw, one of the necessary but not sufficient conditions for a pun
+is the presence in the text of (at least) two senses. Yet this is no different
+from non-punning humor (referential humor). The difference is that in
+puns the surface structure of the text (its form) is affected and not only
+its meaning. In this section, we will look at some of the ways to bring
+about the duality of meaning.
+9.3.1 Ambiguity
+Ambiguity is one of the most salient among the many ways of bringing
+about the presence of two different senses in the text. While it has
+received a lot (possibly most) of the attention, it should be clarified that
+it is not the only way to do so. Not all ambiguity is humorous of course.
+William Empson dedicated his entire book (1930) to seven different
+types of ambiguity that generate esthetic effects and very little of it is
+humorous.
+The most extensive and detailed study of verbal ambiguity in English
+is Oaks (2010), which dedicates a lot of attention to humor. The most
+181
+
+
+--- PAGE 205 ---
+VERBAL HUMOR
+natural classification of ambiguity is between lexical and structural
+ambiguity. There are other forms of ambiguity, of course. Referential
+ambiguity is properly semantic ambiguity. Of course, pragmatic ambi-
+guity is also possible. It should be noted that the so-called “phonological
+ambiguity” (Seewoester, 2009) is subsumed by the string-based defini-
+tion of puns used in this chapter.
+9.3.1.1 Lexical ambiguity
+Lexical ambiguity is found whenever a string has two meanings associ-
+ated with it. Often strings coincided with lexical items (lexical ambigu-
+ity), but it does not need to be this way, as example (85) demonstrates,
+since it operates on the string “lert” which is not a lexical item or even
+a morpheme (those with etymological knowledge would analyze it as
+Italian alla+erta “all’erta” = to the watch spot).
+9.3.1.2 Syntactic ambiguity
+In syntactic ambiguity, two different syntactic structures may be con-
+nected to the same surface structure.4
+The standard example is an old joke from the Marx Brothers:
+(87)
+Captain Spaulding (Groucho): One morning I shot an elephant
+in my pajamas. How he got in my pajamas I don’t know (Animal
+Crackers; 1930)
+The ambiguity comes from the PP attachment: “in my pajamas” could
+modify (be attached to) the direct object “an elephant” or to the VP
+“shot” (see Figures 9.1–9.2). Semantic knowledge disambiguates toward
+the interpretation that the shooting took place while the speaker was still
+wearing his pajamas (Figure 9.1), but the occurrence of the disjunctor
+(“How he got in my pajamas”) forces a second reading, in which the
+pajamas modify the elephant (Figure 9.2).
+Another form of syntactic ambiguity is categorical ambiguity, doubly
+exemplified in Figure 9.3.
+(88)
+Squad helps dog bite victim
+(Bucaria, 2004, p. 292) where the syntactic role of the word “bite” (as
+the verb of an embedded clause “dog bite victim” or as a modifier of
+“victim,” itself modified by “dog;” in parallel, the syntactic role of “dog”
+4 We assume a circa-1965 default Chomskian syntactic representation for simplicity.
+182
+
+
+--- PAGE 206 ---
+9.3 WAYS TO BRING ABOUT TWO MEANINGS IN A TEXT
+S
+VP
+PP
+NP
+NP
+NP
+Pron
+I
+V
+shot
+an
+in
+my
+pajamas
+N
+Det
+Prep
+N
+Art
+elephant
+Figure 9.1
+The first interpretation of the sentence “I shot an elephant in my pajamas.”
+S
+VP
+PP
+NP
+NP
+NP
+Pron
+I
+V
+shot
+an
+in
+my
+pajamas
+N
+Det
+Prep
+N
+Art
+elephant
+Figure 9.2
+The second interpretation of the sentence “I shot an elephant in my pajamas.”
+NP
+VP
+NP
+VP
+V
+N
+NP
+N
+N
+V
+NP
+Comp
+N
+Mod
+helps
+Squad
+victim
+helps
+N
+S
+NP
+dog
+VP
+N
+V
+NP
+(dog)
+bite
+victim
+N
+Squad
+N
+dog bite
+S
+S
+Figure 9.3
+The two interpretations of the sentence “Squad helps dog bite victim.”
+183
+
+
+--- PAGE 207 ---
+VERBAL HUMOR
+is demoted from the subject of the subordinate clause to a modifier of
+“bite.”
+9.3.1.3 Other forms of ambiguity
+The ambiguity between the literal and figurative senses of a metaphor5
+is a very common way of triggering the incongruity (Goatly, 2012, pp.
+180–181). A short example is
+(89)
+How’s your plumbing business going? We’re flush. (Oring, 2003,
+p. 120)
+Whether this is considered a semantic or pragmatic ambiguity
+depends on the theory of metaphor one subscribes to, so I will let it
+rest, but will note in passing that not all taxonomies of puns would
+classify this phenomenon as a pun.
+Referential ambiguity may bring about the second sense, as in the
+following example:
+(90)
+John sleeps with his wife once a week. So does Paul.
+in which the ambiguity is between the referential attribution of the
+pronoun “his” in the ellipsed constituent “sleeps with his wife once a
+week.” In other words, there are two possible interpretations: 1) John
+sleeps with his [=John’s] wife; Paul sleeps with his [=Paul’s] wife; and 2)
+John sleeps with his [=John’s] wife; Paul sleeps with his [=John’s] wife.
+Note that this is no syntactic ambiguity as the structure of the sentence
+remains the same for both interpretations.
+5 One may question whether the ambiguity between the meanings of flush (as in skin
+engorged with blood, hence metaphorically a rush or any fluid, hence water in a toilet,
+and by further metaphorical extension, plentiful; here, having plenty of business) is indeed
+metaphorical or the meanings have separated in unrelated lexical items, which would then
+lead one to classify this example as homonymy. However, dictionaries list the senses as part
+of the same meaning. For those readers still unconvinced, a different example might help in
+which there can be no doubt of the metaphorical nature of the relationship between the two
+senses, as one is expressed visually: in the movie Harold & Kumar Go to White Castle (2004)
+there is a scene (available online at https://www.youtube.com/watch?v=D_ZlnWQbCeE)
+in which Kumar notices a bag of marijuana and his attraction toward it is visualized as a
+montage sequence in which the stereotypical phases of a love story between two people are
+revisited as the interactions between the Kumar character and an anthropomorphic human-
+sized bag of marijuana. This is an extended example of literalization of a metaphor “to love
+something,” with humorous effects.
+184
+
+
+--- PAGE 208 ---
+9.3 WAYS TO BRING ABOUT TWO MEANINGS IN A TEXT
+Finally, a generally neglected form of ambiguity is pragmatic
+ambiguity.6 Consider again joke (24), from Chapter 3, repeated here
+for convenience.
+(91)
+One day, as I was withdrawing some money, the cashier at the
+bank asked me: “Do you want me to take it out of your checking?”
+I answered, “No, take it out of someone else’s checking.”
+When the cashier asks me if I want to take the money out of my checking
+account, the sentence is unambiguous: the ambiguity of the lexical
+items has been resolved by the context. “take out” for example means
+“withdraw” and not “purchase food to eat outside of an establishment”
+or “accompany for a walk” (as in “take out the dog”); the syntax is
+likewise unambiguous: it is the direct object (anaphorically referring
+to the money), “take out” is the verb, which has undergone “particle
+hopping”7 and collocates with “of something” (in our case, my checking
+account). Here pragmatic enrichment tells us that the question is in
+fact a dual option: checking or savings (this being a small credit union,
+there were only two kinds of accounts; no fancy high-yield accounts,
+or bonds, etc.). Thus the pragmatic force of the utterance is a yes/no
+question, should the withdrawal come from my checking account or
+from my savings. The two possible answers are thus: yes, take it out of
+my checking account, or no, take it out of my savings account.
+By forcing a reinterpretation of the theme/rheme organization of the
+sentence (which will be reflected in the intonation of the utterance)
+I force a new marked pragmatic interpretation in which the question
+remains a yes/no dual question, but the focus shifts on the modifier
+of account “mine” (“your” with direct speech referential shift), which
+would turn the question in “do you want the money withdrawn from
+your checking account or from someone else’s account?” By deliberately
+choosing the second, less likely interpretation, I forced the marked
+reading onto the text. Below the two intonations of the utterance are
+reproduced (caps mark the prominent syllable):
+6 “Pragmatic homonymy (ambiguity) is the phenomenon by which [speakers] use the
+same linguistic devices to achieve different ends.” Tannen (1979, p. 31).
+7 Cf. “Take out the money” vs. “*take out it” and “take the money out” vs. “take it out.”
+Particle hopping is obligatory if the DO is a pronoun.
+185
+
+
+--- PAGE 209 ---
+VERBAL HUMOR
+(92)
+Original: “Do you want me to take it out of your CHECKing?”
+Reinterpretation: “Do you want me to take it out of YOUR
+checking?”
+Once again, it should be noted that the ambiguity is here completely
+pragmatic: the lexical items, the syntax, the semantic referents of the
+anaphors, etc. have been satisfactorily disambiguated, so that in context
+there is no functional ambiguity left.8 The ambiguity that is exploited in
+the text is a pragmatic one.
+Let me be open about the fact that few people would label the above
+example a pun, even though it meets the standards of the definition
+given above, as it is based on two meanings co-existing in one string
+(the entire sentence). Indeed, it is not a prototypical pun. I have included
+this phenomenon here for completeness of the discussion on ambiguity-
+generated humor.
+9.3.2 Syntagmatic placement
+As we have seen, a lot of verbal humor utilizes ambiguity. However, not
+all verbal humor is based on the exploitation of a duality of meaning
+contained in the text. For example, (93) below is not based on any
+ambiguous string
+(93)
+Mind your till and till your mind (Milner, 1972, p. 20)
+since both the two instances of the word “mind” and “till” have distinct
+disambiguated meanings and their syntagmatic copresence in the text is
+what reminds the reader of the fact that the two pairs of strings are in
+fact homophonic.
+This example may not be convincing, because after all, one could
+argue that while it is true that the first instance of “mind” is a verb,
+meaning “pay attention” and the second one is the noun, both words
+“mind” are ambiguous. Consider then the next example,
+(94)
+Genius is 1% inspiration and 99% perspiration (Milner, 1972,
+p. 17)
+8 We can always find ambiguities if we want to: “you” could be referring to someone else
+than me, etc. This is normal. The point is that for the purposes of the exchange (withdrawing
+money), there were no ambiguities left.
+186
+
+
+--- PAGE 210 ---
+9.3 WAYS TO BRING ABOUT TWO MEANINGS IN A TEXT
+where there is no ambiguity whatsoever: both inspiration and
+perspiration mean their own separate unambiguous meanings. The
+source of the punning resolution (see (9.5) below) comes from the co-
+presence in the text of the string “spiration” repeated twice.
+So, in conclusion, we can formulate the syntagmatic triggering of puns
+as follows: the repetition of strings in the text can generate incongruity, if
+different meanings are associated to the strings, but the strings resemble
+each other sufficiently. Identity is of course the limit case of similarity.
+Alliterative humor falls clearly under verbal humor under this defini-
+tion. Alliterative puns consists of the repetition of sounds, or groups of
+sounds, within the text. The following example (discussed in Attardo,
+1994, p. 139)
+(95)
+Today’s tabloid biography: High chair, high school, high stool,
+high finance, high hat— hi, warden! (Meiers and Knapp, 1980,
+p. 21)
+is typical: the repetition of the dyphthong [ai] eight times9 is clearly
+recognizable. Is it incongruous? Yes, because we have unconscious
+expectations for how often sounds repeat in normal, unmarked contexts:
+here the string [ai] repeats 8 times in 19 syllables, which is clearly out
+of the ordinary, not to mention that in the last part of the text, the
+placement of the [ai] syllables is very salient, and follows a pattern [ai] -
+X(x), where X(x) represents a random syllable, possibly followed by an
+unstressed syllable, repeated six times, which continues until the end of
+the text, where the pattern ends, with a second incongruity between the
+“normal” development of the life trajectory and the unexpected ending
+in jail. It should be noted that the alliterative pun is independent from
+the “life story unexpected ending” incongruity.
+The following example is a pure alliterative pun, with a lower number
+of repetitions:
+(96)
+You remember Sunset Strip – where the unneat meet to bleat!
+(Attardo et al., 1994, p. 35)
+where the repetition of the [it] string in the last three prominent syllables
+is still highly noticeable.
+9 If the reader is counting only seven [ai] there is another [ai] in “biography.”
+187
+
+
+--- PAGE 211 ---
+VERBAL HUMOR
+Finally, within syntagmatic puns, the presence of the two strings may
+be explicit, as in all the examples above, or implicit (i.e., it has to be
+reconstructed inferentially). When the activation is implicit the puns are
+labeled “paradigmatic.” Many examples are obscene, playing precisely in
+the opportunity to suggest an obscene meaning without having to state
+is explicitly. The following is typical and is based on a chiastic reversal
+(Attardo, 1994, pp. 116–117) of the [s] and [f] phonemes of “sucks” and
+“fingers”:
+(97)
+What’s the difference between a baby and the conductor of
+a women’s choir? One sucks his fingers . . . http://allowe.com/
+laughs/book/What%27s%20the%20Difference.htm
+A non-obscene example is
+(98)
+Diplomacy: The noble duty of lying for one’s country. (Milner,
+1972, p. 17)
+with the inferentially activated “dying for one’s country.”
+9.3.3 Paronymy and phonetic distance
+In the definition of verbal humor above, we emphasized that the two
+strings “may, but need not, be identical.” It is time to unpack this
+aspect of the definition more thoroughly. Hempelmann and Miller
+(2017) standardize the terminology so that puns in which the two
+strings are identical are called homonymic (or perfect); conversely,
+if the two strings are different, the pun is said to be heterophonic
+(or imperfect). Heterophonic puns correspond to paronymic puns, in
+Attardo (1994).
+So, one way to characterize puns is to take homonymic puns and
+assume they are the limit case in the direction of similarity, i.e., they are
+puns that differ in zero sounds. Heteronymic puns then can be arranged
+on a scale of increasing difference. Let us consider some examples:
+(99)
+Context: on a birthday card there is a picture of a beautiful woman
+holding a birthday cake. The legend reads:
+“You can’t have your cake and Edith [eat it] too.” (Attardo, 1994,
+p. 149)
+188
+
+
+--- PAGE 212 ---
+9.3 WAYS TO BRING ABOUT TWO MEANINGS IN A TEXT
+The pun, loosely transcribed as [ˈiDɪθ] vs. [ˈiDɪt] (the “D” symbol
+indicates a flap in American English) is based on the two strings of
+phonemes differing in one phoneme ([θ] vs. [t]).10
+Hausmann (1974, p. 66) provides us with an example where the pun
+differs in two phonemes:
+(100)
+Vatican vs. vaticancan (with an allusion to the Parisian dance)
+where the difference is the two phonemes “can” [kã] (the tilda indicates
+the nasalization of the vowel in French). Obviously we can get three, four
+and more differences. However, the problem of looking at the difference
+between two strings is that several factors start to come into play: just
+to use an example, is the difference between replacing a sound with
+another in the same position, the same as deleting it (both differ by
+one morpheme, but is the difference perceptually similar)? How about
+replacing a sound in a different position of the string, since we know
+that beginning and ends of words are more salient? To obviate these
+problems, Hempelmann and others have turned to Optimality Theory,
+with good results, but let us just say that they are very technical, as they
+rely on the ranking of various constraints which are then responsible
+for weighing each phonetic, morphological, intonational, etc. choice.
+Overall the main conclusion that Hempelmann and Miller reach is that
+the proper way to describe heteronomy is “psychoacoustic” i.e., sound-
+based but considering also the position of the sound in the syllable and
+word, and the context in which it is located.
+Hemplemann and Miller (2017) list some “general consensus” on
+these metrics:
+the quality of vowels is more violable than that of consonants, with vowel substitutes
+usually having similar height and backness. There is an overwhelming preference to
+maintain the number of syllables, and in light of phonotactic constraints on syllable
+structure, this makes vowels resistant to both insertion and deletion. Any change
+in lexical stress is extremely rare. Contrasting segments are most likely to be found
+at or near the pun’s extremities, with a slight preference for the beginning. Among
+consonants, stops have the highest interchangeability, followed by stops and fricatives
+10 The normally unstressed pronoun “it” would be stressed, in this context, due to its
+prominence. Intervocalic [t] is voiced and becomes a flap, in American English. [ˈit ɪt]
+becomes [ˈiDɪt].
+189
+
+
+--- PAGE 213 ---
+VERBAL HUMOR
+sharing the same place of articulation. In both English and Japanese puns, voicing is
+often substitutable in otherwise identical consonants; changing the place or manner of
+articulation incurs a greater cost.
+(Hempelmann & Miller, 2017, p. 106)
+The preference of puns for the “extremities” corresponds to the bath-tub
+effect, noted in Attardo (1994, p. 123).
+This is one of the most exciting and open-ended areas of research
+in the linguistics of humor. For example, one important question that
+remains unanswered is how far can two strings differ and still be
+recognized as a pun? Attardo (1994, pp. 120–126) provides a history of
+the research and some discussion. Hempelmann (2003) formalized the
+discussion in terms of Optimality Theory and Hempelmann and Miller
+(2017) update the discussion. Guidi (2012a/b), building on Hempel-
+mann’s work, applies the metric to several families of languages and
+arrives at a rough estimate of five phonemes. She shows that the results
+hold for many languages outside of English and may be universal. The
+claim of the universality of puns and of its mechanisms is not new, see for
+example, the references in Henry (2003, p. 106), but all the prior claims
+have been theoretical, i.e., based on the nature of language, its rules, etc.
+Guidi’s claim is empirical and hence notable. Furthermore, Guidi notes
+that the mechanisms used by puns are the same mechanisms used by
+phonological processes: addition, deletion, substitution, and inversion
+(Guidi, 2012a, pp. 90–91; Hempelmann, 2003).
+9.3.4 Connectors and disjunctors
+As we saw in Section 4.3.1, the string (usually it is a word, but as we saw
+above, it does not have to be), that is either ambiguous or that is similar
+to another string and by so being allows that co-presence of the two
+senses in the text is called a connector. So in example (82), the connector
+is the NP “a jar,” whereas in example (83), the connector is “comes.” The
+connector may occur anywhere in the text of a joke, provided that the
+speaker will remember it by the time the second sense comes about, so
+when we are dealing with longer texts (short stories, for example), we
+probably should have a more stringent definition. I know of no research
+on this metric.
+The disjunctor is the element of the text that forces to the surface
+the presence of the second sense. This is meant fairly literally: when
+a hearer processes the senses of a word those that are not found to fit
+190
+
+
+--- PAGE 214 ---
+9.4 THE FATE OF THE INTERPRETATION
+in with the current interpretation of the text are suppressed, i.e., their
+presence is not part of the consciousness of the speaker, even though
+initially (> 200 ms) there may have been activation of all the senses of
+a word. For strings this is even more clear, since random strings do not
+activate lexical processing:11 for example, most readers will be somewhat
+surprised to find out that “luminescence” contains the string “mine,” if
+for no other reason than the pronunciation is different, due to stress
+placement. In example, (85) “lert” is the disjunctor and “alert” is clearly
+the connector.
+Connector and disjunctor may occur separately, as in example (85)
+above, or they may coincide, as in example (86). In the former case they
+are called “distinct” and in the latter “non-distinct.” Distinct disjunctors
+may occur before or after that connector. The position after the connec-
+tor is easy enough to see, as exemplified in example (85) above. Bucaria
+(2004) documented the existence of disjunctors that occur before the
+connector.12 See Section 4.3.1, for some examples.
+9.4 The fate of the interpretation
+What happens to the senses of the pun, after they have been brought
+together? Guiraud (1979) examined the question in depth and we will
+follow his presentation. For the sake of this discussion, assume that the
+hearer or reader of a joke constructs a first interpretation of the text,
+whereby he/she attributes to the connector a given sense. We label this
+sense S1. In example (83) above, Meena, the swimmer, clearly attributes
+to the word “comes” the sense of “arrive” (as in come first, second, third,
+etc.). However, Dan, her punster friend, forces a second sense “have an
+orgasm.” We label this second sense S2. The incongruity is brought about
+in the text when we (and Meena) become aware of the presence of both
+S1 and S2 in the text.
+In this example, as far as Dan is concerned, the sexual innuendo (S2) is
+the sense that should prevail. In other cases both senses may coexist, or
+S1 may be the dominant one. The question that this section addresses is,
+what happens to the senses in the joke after the punch line/disjunctor?
+11 There is neurological evidence for this: Jessen et al. (1999) show that the activation in
+the brain is different for random strings than for words.
+12 Correcting my own claim to the contrary (Attardo, 1994, p. 105).
+191
+
+
+--- PAGE 215 ---
+VERBAL HUMOR
+The following example, attributed to French poet Paul Valéry
+(Landheer, 1989, p. 37), is an example in which S1 remains dominant:
+(101)
+Entre deux mots il faut toujours choisir le moindre. [between
+two words/evils one should always choose the lesser]
+The pun plays on the homophony of the French word [m] (“mots” =
+words or “maux” = evils). When the disjunctor “moindre” is reached,
+which is incompatible with the semantics of “words” which does not
+afford a ready scalar meaning (in what sense are words less or more?),
+whereas the reading as “evils” affords very easily a scalar reading (bad
+things are easily classified on scale of badness: think about spilling
+coffee on your pants vs. being run over by a car), the second meaning
+(evils) is brought to consciousness. However, S1 persists and takes on the
+connotations carried by S2: words can be evil/bad.
+In the following example on the contrary, both senses S1 and S2 are
+compatible with the text which makes sense either way:
+(102)
+Bassompierre was a prisoner at the Bastille. While reading, he
+flipped the pages of his book hastily. The warden asked him what
+he was looking for, and Bassompierre replied: “I am looking for
+a passage, but I cannot find it.”
+The word “passage” is ambiguous: a passage may be a spot in the text
+or an exit (from the prison). Coincidentally, this works both in the
+original French and in English. It is easy to see that both interpretations
+of the text make perfect sense in isolation, but that when activated
+jointly, we get the pun to trigger. Needless to say, in this case, either
+sense could be labeled S1 or S2, as we have no way of knowing, barring
+experimental evidence on brain activation, which sense gets activated
+first. The significance of the order of activation is mostly apparent in
+the field of psycholinguistics in which the presence (or absence) of the
+senses and the order in which they are accessed is significant. I was first
+made aware of this by Rachel Giora.
+9.5 Cratylism: resolution in puns
+As seen in Chapter 4 the incongruity in humor, and hence in puns, is
+often “resolved” in the technical sense already discussed. Furthermore,
+within the General Theory of Verbal Humor, the resolution is handled
+192
+
+
+--- PAGE 216 ---
+9.5 CRATYLISM: RESOLUTION IN PUNS
+by the Logical Mechanism Knowledge Resource (Chapter 7). Puns
+have a particular Logical Mechanism, which may be summed up by
+the concept of a Cratylistic folk-theory of language, i.e., a theory of
+language in which form and meaning are not arbitrary, but are motivated
+and therefore, similar sounds convey similar meanings. Homonyms
+(homophones and homographs) are the extreme case, i.e., identical
+sounds or graphemes convey identical meanings.
+Before proceeding to a quick review of the evidence for the Cratylistic
+folk-theory, it is important to stress a few points, which have often
+proven confusing.
+1. The Cratylistic folk-theory is not scientific, it is factually wrong
+and not supported by science. These are akin to superstitious
+beliefs, such as jinxing the result of an event, casting the evil eye,
+or the existence of ghosts.
+2. The Cratylistic folk-theory was refuted roundly in Saussure’s
+(1916) arbitrariness of the sign doctrine. It goes against the tenets
+of most linguistic theory. Even those who espouse views in which
+iconicity and sound symbolism play a part, do not advocate a
+motivated (i.e., Cratylistic) view of the sign.
+3. Nonetheless, speakers believe subconsciously these things and/or
+act in accordance to them.
+4. The “resolution” of the incongruity is not a real resolution that
+eliminates the incongruity. In puns, this is particularly evident
+as the Cratylistic resolution is mostly subconscious and can be
+documented only indirectly.
+The Cratylistic folk-theory of language is named after Cratylus, the
+character in the Platonic dialogue named after him. Hermogenes, Craty-
+lus’ opponent in the dialogue, summarizes Cratylus position right at the
+beginning of the discussion with Socrates:
+Hermogenes: Cratylus, whom you see here, Socrates, says that everything has a right
+name of its own, which comes by nature, and that a name is not whatever people call a
+thing by agreement, just a piece of their own voice applied to the thing, but that there
+is a kind of inherent correctness in names, which is the same for all men.13
+13 http://data.perseus.org/citations/urn:cts:greekLit:tlg0059.tlg005.perseus-eng1:383a
+193
+
+
+--- PAGE 217 ---
+VERBAL HUMOR
+9.5.1 Evidence for the Cratylistic folk-theory
+As mentioned above, most of the evidence for the Cratylistic beliefs
+held by speakers is indirect. In Attardo (1994, pp. 149–170), I list a
+long series of phenomena which provide evidence that the speakers hold
+Cratylistic beliefs. Here, I will limit myself to paretymology, rhyme, and
+sound-based lexical associations. These should suffice to establish that
+speakers do indeed hold these beliefs. The interested reader may consult
+directly the full discussion, which is not overly technical.
+9.5.1.1 Paretymology
+Historical linguistics has long known that in some cases the etymology
+of words reveals sound/meaning associative patterns. When traveling
+in North-West France, I always make sure to eat a choucroute garnie,
+a delicious sauerkraut-based dish. The etymology is quite interest-
+ing, as the German word “sauerkraut” was imported into French and
+there reanalyzed according to similarities with French words as “chou”
+(= cabbage) and “croûte” (= crust). Along the same lines, the word “ham-
+burger” (German “Hamburg” (the name of the town) + [-er] a derivative
+suffix), which signified a ground beef patty made in the fashion of
+Hamburg (in Italian it is know as a Swiss steak), was reanalyzed as “ham”
++ “burger” (as evidenced by the existence of the words “cheese-burger,”
+“veggie-burger,” etc.).
+What makes these reanalyses interesting from our perspective is that
+the reinterpretation of the word in the borrowing language is done on
+the basis of the sounds forming the word and not of its semantics (there
+is no ham in hamburgers, nor crust in choucroute) which shows that the
+speakers of the borrowing langauge must be reasoning along the lines of
+“if it sounds like the word “croute” then it must mean “croute” (it does
+in fact mean cabbage) and if “sauer” sounds like “chou” it must mean
+“chou” (cabbage; while it does actually mean “sour”).
+9.5.1.2 Rhyme
+It is a well-known fact that the strength of the rhyming effect is affected
+by semantic factors. This is unexpected, since, in poetry, rhyme is
+defined as the repetition of sounds at the end of two words, usually
+in different lines of a poem. Nonetheless, words that have unrelated
+meanings have a very strong rhyming effect, as in Italian “marmellata”
+194
+
+
+--- PAGE 218 ---
+9.5 CRATYLISM: RESOLUTION IN PUNS
+(= jam) and “martellata” (= hammer blow).14 In English similar exam-
+ples would be “telephone” and “scone.” Conversely, words with sim-
+ilar meanings have much weaker rhyming effect: Wessex and Essex
+barely rhyme. Telephone and sousaphone likewise are not good rhymes,
+because a word does not rhyme with itself (which is the extreme case
+of semantic similarity) and the etymological origin of the words, both
+derived from the Greek “phonè” (= voice), is apparent enough to nullify
+the rhyme. These effects are only explained by an association of sound
+and meaning in the mind of the speakers, who are pleasantly “surprised”
+to find that similar sounds are associated with different meanings.
+Another semantic effect of rhyming has been investigated as well in
+aphorisms and advertising slogans. McGlone and Tofighbakhsh (1999)
+postulate a “Keats’ heuristic”:15 “the aesthetic qualities of a message are
+equated with its truth” (McGlone & Tofighbakhsh, 1999, p. 240), in the
+context of aphorisms. The phenomenon is not limited to aphorisms:
+“The rhyme-as-reason effect occurs not only in evaluation of existing
+aphorisms, but applies also to perception and evaluation of advertising
+slogans” (Filkukovà & Klempe, 2013). This asseverative effect (i.e.,
+forcefully stating the truth) of rhyming and generally assonance can be
+summed up as the belief that if it sounds good, it must be right, which
+is also consonant with the Cratylistic views of speakers.
+9.5.1.3 Sound-based lexical associations
+We know, see for example Aitchison (1987); Bybee (1998); Bybee
+and Moder (1983), that words are stored in the lexicon according to
+semantic connections but also along phonological connections (sound
+similarity). Meara (2009) states that “Rhyming responses, assonance,
+responses with the same initial sounds as the stimulus, or a similar
+prominent consonant cluster are a common types of clang associates”
+(clang associates is a technical term meaning sound-based associations).
+Fitzpatrick (2013) likewise summarizes the findings in the field stating
+that “clang responses, [ . . . ] share phonological or orthographic features
+with the cue, but are otherwise not related.” In fact, Saussure (1916)
+already listed among the paradigmatic associations of words, sound-
+14 I owe this example to Prof. Sergio Cigada, from the first course in phonetics and
+phonology I ever took.
+15 “Beauty is truth, truth beauty,” Keats, Ode to a Grecian Urn; 1819.
+195
+
+
+--- PAGE 219 ---
+VERBAL HUMOR
+based ones. So, we can consider well-established that fact that words in
+the mental lexicon have associations that are based on sound similarity.
+This is probably the ultimate cause of the Cratylistic view of language
+evidenced by speakers.
+In conclusion, we have presented some of the evidence for the
+Cratylistic view of language that speakers hold. If speakers hold this
+view of language, subconsciously of course, then it is no surprise that
+they would consider sound similarity or sound identity as justifications
+for the overlap of two different meanings in a string or word.
+9.6 The psycholinguistics of puns
+Among the most promising areas of research in the linguistics of humor
+today, I would count recent work in psycho- and neuro-linguistics which
+has brought about a number of studies that look at the actual processing
+of puns either in the brain, using FMRI or EEG scans, or using eye-
+tracking devices which allow scholars to plot where the attention of the
+reader is directed.
+It would be too technical to review in detail the methodology of the
+various studies, so I will limit myself to summarizing the conclusions of
+some of the studies. Lopez and Vaid (2017) offer a broader discussion
+about humor, but with many relevant data concerning puns. Chen
+et al. (2017) provide an overview of he results in the neurolinguistics
+of humor, many of which are relevant to the discussion of puns. First
+and foremost, there is evidence that puns and referential humor are
+processed differently at the neurological level (e.g., Goel & Dolan 2001;
+Bekinschtein et al., 2011; Chan & Lavallee, 2015).
+Vaid et al. (2003) show that in a joke the activation of the first meaning
+continues until the punch line when both meanings are active. After
+a longer interval (4.5 seconds) only the second meaning is still active.
+It would be interesting to test if the differences identified by Guiraud
+(1979) are reflected in the activation times, as studied by Vaid et al.,
+especially in light of some of the results in Bekinschtein et al. (2011,
+p. 9670) which suggest that there is a difference between incongruity
+resolution and ambiguity resolution in non-humorous sentences, due
+to the persistence of both senses in humor.
+196
+
+
+--- PAGE 220 ---
+9.7 CONCLUSIONS
+Jared & Bainbridge (2017, p. 10) confirm the incongruity–resolution
+approach to puns, using eye tracking:
+readers initially notice that the presented homophone in a pun does not fit the adjacent
+context, ( . . . ). This momentary lack of fit of the presented homophone and the
+subsequent resolution of the incongruity may be needed to appreciate a pun.( . . . )
+Supporting evidence from our study regarding the importance of incongruity for
+humor was that puns that were later rated as funnier had longer gaze durations on the
+homophones. Furthermore, puns that were later rated as funnier also had shorter total
+fixation durations on the homophones, providing evidence that swift resolution is also
+important for humor.
+9.7 Conclusions
+We have reviewed various types of classifications of puns and the par-
+ticular role played by ambiguity in puns. We also reviewed a set of
+issues that are specific to puns, such as the threshold between paronyms,
+the persistence of the interpretations of the text, and the Cratylistic
+resolution typical of puns. We concluded with a review of some of the
+psycholinguistic evidence for these phenomena.
+While puns are a special category of humor, they are still based on
+a semantic opposition and a resolution. In this they are identical to
+other forms of humor that do not rely on the form of signifier. However,
+the way in which puns do rely on the signifier and the way in which
+they partially resolve the incongruity are different and to some extent
+unique, which justifies their separate treatment. There is some evidence
+that puns are universal as well and that they exploit the same general
+phonological mechanisms.
+The treatment of puns concludes the second part of the book, which
+covered humor competence. Humor competence is primarily semantic
+and pragmatic. As we have seen, in order to account for some phe-
+nomena, such as puns, or targets, we need to move to a slightly less
+abstract level in which we do consider that linguistic expressions have
+forms (signifiers) and that jokes are about things and that sometimes
+the oppositions express value judgements (good vs. bad, for example)
+and that these value judgements may be predicated of people (targets),
+for example. In the next part, we will turn to humor performance, thus
+197
+
+
+--- PAGE 221 ---
+VERBAL HUMOR
+moving even further toward the concrete side of our theoretical stance,
+and we will consider audience and social interactions.
+9.8 Further readings
+The most recent general treatment of puns can be found in
+Hempelmann and Miller (2017). Hausmann (1974) is a classic, in
+German, but the examples are in French. Guiraud (1979) also in French
+is another classic text. Pepicello and Green (1984) is also interesting.
+My own treatment of puns in Chapters 3 and 4 of Attardo (1994) is still
+worth reading, especially on the Cratylistic theory. The bibliography
+is updated in Attardo (2018). Other essential resources are Sobkoviak
+(1991), Lew (1996) and Hempelmann’s (2003) dissertations, Ritchie
+(2004: ch. 9), and Guidi (2012a), which is in Italian but helpfully
+summarized in (2012b) in English.
+198
+

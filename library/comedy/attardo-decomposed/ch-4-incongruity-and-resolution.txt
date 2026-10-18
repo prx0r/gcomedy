@@ -1,0 +1,689 @@
+--- PAGE 101 ---
+4
+Incongruity and resolution
+4.1 Incongruity
+79
+4.2 Resolution
+82
+4.3 Linear organization of the joke
+90
+4.4 Conclusions
+93
+4.5 Further readings
+94
+This chapter deals more specifically with the cognitive processes that
+underlie humor. We turn first to the incongruity aspect, leaving the
+resolution issues for the second part of the chapter.
+Concepts eerily similar to the modern incongruity and resolution
+model can be traced back to Aristotle. In the Rhetorics, he points out that
+in many witticisms and puns “the speaker says something unexpected,
+the truth of which is recognized” and “In all these jokes, whether a
+word is used in a second sense or metaphorically, the joke is good if
+it fits the facts” (III, 11 1412b). We already have, in a nutshell, the
+modern theories: the unexpected nature of the incongruity, the presence
+of two senses (often one of them being figurative), and the resolution
+phase: recognizing the “truth” of the witticism or its “fit” with the facts.
+Quintilian, a Latin rhetorician, in his Institutio Oratoria, also anticipates
+modern definitions of incongruity: in reviewing three kinds of humor:
+directed against others, ourselves, and neutral (i.e., not directed at any-
+one in particular), he notes that the third kind consists of the “thwarting
+of expectations, taking differently the things said.” (VI-3-24).
+Whether incongruity theories date back to the Greek and Latins, or
+as is more commonly assumed, to Kant and Schopenhauer (see Mor-
+reall, 1987) is ultimately irrelevant. In their modern form, incongruity
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 102 ---
+4.1 INCONGRUITY
+and resolution theories originate in psychology, with the work of Sig-
+mund Freud, whose 1905 book on humor contains a very significant
+discussion of the mechanisms of humor, which is unrelated to his
+sexual-oriented model of the psyche. Freud is probably also the unac-
+knowledged source of the isotopy–disjunction model (Attardo, 1994,
+pp. 63–64). Incongruity–resolution theories were among the first the-
+ories to be conceptualized and tested in humor studies (e.g., Suls, 1972),
+and have seen a more recent resurgence as one of the three dimensions
+in Ruch’s 3WD theory (Ruch, 1992), as INC-RES (the other two dimen-
+sions being sex and nonsense). An excellent review of the psychological
+theories of incongruity/resolution and the debate of whether both are
+necessary can be found in Forabosco (1992).
+We saw that incongruity theories are one of the three major theories
+of humor. We now take the time to examine in depth what exactly
+incongruity is and will later subject the concept of resolution to the
+same treatment. The last section of the chapter deals with the linear
+organization of jokes, i.e., the isotopy–disjunction model.
+4.1 Incongruity
+Incongruity is a semantic concept. So, in this sense, incongruity theories
+are semantic theories, as I argued in Attardo (1997). This logical primacy
+of semantics vis-à-vis incongruity theories should not be (and has not
+been) taken too seriously. In fact, most humor scholars tend to think
+that semantic theories (usually the Semantic-Script Theory of Humor
+and the General Theory of Verbal Humor, but one could make the same
+argument for the isotopy–disjunction model) are incongruity theories.
+This is because, as we have seen, incongruity is one of the major classes
+of theories of humor (in fact, the major one, one could argue). However,
+the point remains. Incongruity is defined, implicitly most of the time,
+semantically. Let us go back to the pellucid definition proposed by
+Forabosco, and already mentioned in the previous chapter: “if it differs,
+it is perceived as incongruous” (Forabosco 1992: 54). This definition has
+the distinct advantage of emphasizing that the definition of incongruity
+is based on expectations.
+In one of the classic experiments in humor studies, Nerhardt (1970,
+1975) conducted a study in which subjects, under the guise of compar-
+ing them to a standard, lifted weights of increasing heaviness until one of
+79
+
+
+--- PAGE 103 ---
+INCONGRUITY AND RESOLUTION
+the weights was significantly lighter than the previous ones. Upon lifting
+the unexpectedly lighter weight, the participants smiled or laughed
+more than if they weight series was congruent (i.e., increased). The
+experiment was widely replicated (see Gerber & Routh, 1975; Deckers &
+Kizer, 1975; Deckers & Winters, 1986; Deckers, 1993; Martin, 2007, pp.
+68–70). What is most interesting, in our perspective, is that it is the
+clearest and simplest operationalization of the idea of incongruity, in the
+sense of violation of expectations.1 The weights experiment is widely
+assumed to demonstrate that incongruity alone can be responsible for
+the production of mirth. We will return to this in Section 7.1.5.
+For now, we focus on the expectation: the fact that in all the designs of
+the experiment that subjects first lift the standard weight and then after a
+varying number of judgements, ranging from zero to 22, they were given
+a “target” weight that was either much heavier, much lighter, or weighed
+the same. When the weights matched or after no other judgements,
+there were no mirth reactions, or virtually none. Conversely, after 7,
+11, or more judgements, significant mirthful responses were observed.
+This result is interpreted as showing that the first few comparisons
+establish an expectation (e.g., slow increase of the weight) and that that
+expectation is then violated by the unexpected, and thus incongruous,
+weight. This argument will re-emerge in different form in the discussion
+of narrative strategies (Section 7.1.2), in which in the telling of a joke a
+regularity is established by two occurrences, only to be broken in the
+third instance.
+It should be noted that the definition of incongruity discussed above
+is essentially the same as that of surprise. Surprise can be considered
+the emotional response to incongruity. While most scholars see surprise
+as an emotion (e.g., Ekman et al., 1983), others see it as a cognitive
+phenomenon (e.g., Lorini & Castelfranchi, 2007). In humor studies, one
+occasionally encounters the idea that incongruity needs to be sudden
+or surprising (e.g., Eysenck, 1942, p. 306). So, if the basic definition of
+incongruity and surprise are the same, how can there be non-sudden
+incongruity? The reader will recall the discussion (in Section 2.4.2) of
+how the presentation and the keying of incongruous items eliminate the
+surprise effect. Another way of conceptualizing this is that incongruity
+1 Not entirely free of external factors: for example, when Nerhardt originally tried the
+experiment with suitcases in a train station, he failed to elicit a mirth response, probably
+because the participants were not in a playful frame of mind (Martin, 2007, p. 70).
+80
+
+
+--- PAGE 104 ---
+4.1 INCONGRUITY
+is a competence category and surprise is a performance-level category
+(i.e., it is an experience, an effect of an incongruous stimulus). Incon-
+gruity conceptualizes the mismatch of expectations at a systemic, static
+level, whereas surprise conceptualizes it in a dynamic, experiential way.
+Another concept related to incongruity is cognitive dissonance (see
+Section 2.4), which can be conceptualized as the non-playful, unpleasant
+reaction to an incongruity.
+4.1.1 Enter semantics
+As soon as we introduced the idea of expectations, we also implicitly
+introduce the idea of semantics. If we say that we “expect” A to follow B,
+then producing intentionally B comes to mean A. It is in this sense that
+expectations imply meaning.2 Here, we must thread carefully. Surely,
+one may object, linguistics has nothing to do with expectations of
+weights. First, meaning is a semantic issue and not a linguistic one.
+Meaning (semantics) exceeds language.3 This is just a fancy way of say-
+ing that there is meaning within language (let’s say words and sentences,
+to simplify) and there is meaning that is extra-linguistic, because very
+simply, it is conveyed using a non-linguistic system of communication
+(think of flags between ships, of road signs, of pictures, of clothing,
+especially uniforms, etc.).4 So, the claim that expectations are semantic
+has nothing to do with linguistics (yet). Second, even psychologists
+recognize the logical primacy of semantics; see for example, Deckers and
+Winters (1986) who frame the issue in terms of “schemata”:5 “A schema
+is an abstract mental representation of environmental and behavioral
+2 This is the foundation of Grice’s MeaningNN, incidentally. This definition is tied
+significantly to the Principle of Cooperation, which will play a significant role in the
+pragmatics of humor; see Chapter 8.
+3 Here one may object that semantics is a branch of linguistics. While it is true that
+linguistics has a branch called semantics, it is limited to “linguistic semantics” (i.e., meaning
+conveyed via language). Philosophers would be ready to point out that model theoretic
+semantics, just to name one, is independent of language. Computer languages have their
+own semantics as well, which are also completely independent, and very different, from
+linguistic semantics.
+4 If we wanted to be picky, we could observe that even these non-linguistic systems of
+communication, rely on language in some form of another: for example, the meaning of the
+roads signs are explained in a handbook which every driver needs to memorize in order to
+pass an exam. Lotman, defines language as the primary modeling system of a culture, from
+which all secondary systems are derived (Lotman, 1975).
+5 The plural of “schema” is “schemata.” “Schemas” is also acceptable, but indicates a lesser
+degree of sophistication in the speaker.
+81
+
+
+--- PAGE 105 ---
+INCONGRUITY AND RESOLUTION
+regularities. Discrepancy or incongruity refers to a stimulus feature that
+does not match the abstracted value of that feature in the schema” (p. 57).
+As we will see in Chapter 6, “schemata” is another term for scripts or
+frames, which are all semantic objects.
+So, in conclusion, incongruity is a semantic (but perhaps not nec-
+essarily a linguistic) concept, because it presupposes the attribution of
+meaning to a regularity in the observed world. The field that deals
+with meaning in all its manifestations, linguistic and not, is of course
+semiotics. We will take up the semiotics of humor in Chapter 5.
+There are plenty of incongruity-based theories of humor. In fact, most
+theories of humor, at least covertly, include an incongruity aspect, such
+as Aristotle, commonly considered to be the proponent of a superiority
+theory of humor, or Freud, associated with a psychoanalytical theory
+and Bergson’s mechanical/living opposition. See Attardo (1994), for dis-
+cussion of these examples. Among the most quoted incongruity theories
+are Kant, often credited with coming up with the idea, Schopenhauer,
+Koestler’s (1964) bisociation theory, and Paulos’ (1980) catastrophe-
+theory model.
+Incongruity is mostly a non-controversial, generally accepted idea,
+as claimed, for example, by Perlmutter (2002, p. 155) “the observation
+that some form of incongruity is an essential condition for humor, is
+universally accepted in every serious analysis of the subject.” There have
+been, however, some claims to the contrary, such as Ferro-Luzzi (1990),
+Latta (1998), and Veale (2004). Ferro-Luzzi is refuted in Attardo (1994).
+Latta is reviewed negatively by Oring (1999) and not even mentioned in
+Martin (2007). Veale’s objections are addressed by De Mey (2005, p. 74).
+4.2 Resolution
+The second part of the incongruity–resolution formula is probably the
+most misunderstood concept of humor studies. The most common
+mistake is to take the label “resolution” too literally and to expect that
+the resolution of the incongruity of a joke completely remove the incon-
+gruity. We will first work our way through some major contributions to
+the subject: Sigmund Freud, Elie Aubouin, a French psychologist, Avner
+Ziv, an Israeli psychologist and one of the founding fathers of humor
+studies, Giovannantonio Forabosco, an Italian psychologist, and Elliott
+Oring, an American folklorist. We will then introduce the concept of
+82
+
+
+--- PAGE 106 ---
+4.2 RESOLUTION
+logical mechanisms, which is the present-day most in-depth treatment
+of the subject. After that we will address the issue of full and partial
+resolution of incongruity and whether incongruity is foregrounded or
+backgrounded in the text.
+4.2.1 The history of resolution
+4.2.1.1 Freud
+Freud’s theory of humor as economy of mental energy is well known
+and needs not detain us any further beyond the fact that his theory
+is implicitly an incongruity theory (see Attardo, 1994, p. 56). In this
+context what is relevant is his use of the concept of “sense in nonsense”
+(Freud 1905; I am quoting from the 1916 translation, p. 10) which is
+borrowed from Lipps (1898):
+A saying appears witty when we ascribe to it a meaning through psychological necessity
+and, while so doing, retract it. It may thus have many meanings. We lend a meaning
+to an expression knowing that logically it does not belong to it. We find in it a truth,
+however, which later we fail to find because it is foreign to our laws of experience
+or usual modes of thinking. We endow it with a logical or practical inference which
+transcends its true content, only to contradict this inference as soon as we finally
+grasp the nature of the expression itself. The psychological process evoked in us by
+the witty expression which gives rise to the sense of the comic depends in every case
+on the immediate transition from the borrowed feeling of truth and conviction to the
+impression or consciousness of relative nullity.
+(Lipps, 1898, p. 85; translated by A.A Brill, 1916)
+Freud may have been the one to invent the catchy expression “sense
+in nonsense.” Maier (1932), whom we have encountered previously
+as a source of Koestler, speaks of a “limited” logic that holds only
+temporarily.
+4.2.1.2 Aubouin
+Aubouin (1948) introduced the term “justification” in the same sense in
+which we currently use “resolution”: the second phase of the humorous
+cognitive process. His term for the incongruity phase was inconcilia-
+bilité, “irreconciliability.” Aubouin argues that two incongruous, irrec-
+onciliable objects are not perceived as humorous, per se. For humor
+to be triggered the two object have to be “accepted” simultaneously by
+the hearer. Acceptance is the hearer-side behavior; justification is the
+neutral-situation-side view of the phenomenon.
+83
+
+
+--- PAGE 107 ---
+INCONGRUITY AND RESOLUTION
+Aubouin stresses that the acceptance is not a real, full-fledged belief. It
+is brief, “superficial,” merely “masking for an instant the absurdity of the
+judgement” (Aubouin, 1948, p. 95). Aubouin contrasts the acceptance
+of humor to that of a mathematical proof (p. 94): a mathematical proof
+is fully and permanently accepted. The acceptance of the incongruity of
+a joke is fleeting.
+According to Aubouin, the acceptance of humor, the justification,
+involves an actual error of judgement, or at least the possibility of
+one. I believe that this part of Aubouin’s explanation is itself in error
+(ironically enough) as I have shown in Attardo (1994, pp. 146–147),
+since there is no need to postulate an actual error. In some cases, the
+hearer will be really misled, for example when the context strongly
+primes one interpretation, which is then revealed to be wrong, as in the
+following example, from Attardo & Raskin (1991, pp. 305–306):
+(25)
+George Bush has a short one. Gorbachev has a longer one. The
+Pope has it, but does not use it, Madonna does not have it. What
+is it? A last name.
+which reveals its age from the fact that some of the readers will need to
+google who these people are. Conversely, in many jokes the hearer has
+to deliberately play along with the joke, as in
+(26)
+Q: What do you get when you cross a cow and a lawnmower?
+A: A lawnmooer.
+where at no point in time the hearer believes that one can actually cross
+a cow with an inanimate object6 or that a lawnmooer can actually exist
+or what it would actually be. All that the hearer is aware of is that
+“lawnmooer” and “lawnmower” sound similar.
+The value of Aubouin’s contribution resides in the fact that his was
+the first in-depth, and so far the most significant, discussion of the
+resolution of the incongruity of humor. His relative lack of recognition
+is probably due to the fact that he published in French, and his output
+seems limited to two books and a couple of articles.
+6 Cyborg cows are beyond the imagination of most people, but apparently not beyond
+that of engineers, who are inserting bio-monitors under the cows’ skin; see Metz (2018).
+For the opposite side of the debate, see the prescient song Cows with Guns by Dana Lyons
+(1996).
+84
+
+
+--- PAGE 108 ---
+4.2 RESOLUTION
+4.2.1.3 Ziv
+Ziv coined the term “local-logic” (Ziv, 1984, p. 77) by analogy with
+“local patriotism” which corresponds to the Italian term “campanilismo”
+(which means the bragging about the height of one’s village’s bell-tower).
+The point here is not the bragging part, or the attachment to one’s
+land, but the association with small villages, with the “locality” of the
+matter. In local patriotism, the focus of one’s positive affect is deliberately
+restricted to a very small domain. So, analogically, local logic is a logic
+that is valid only in a very small domain, for a very short amount of time.
+“Like local patriotism, local logic is appropriate only in certain places”
+(p. 90).
+Local logic “brings some kind of explanation” to the incongruity. It
+must provide an explanation “with a certain suitability” (p. 90). Ziv
+analyzes the following example:
+A young man looking for a wife went to a computerized marriage agency. Filling out the
+form, he wrote, “I’d like someone who likes lots of company, water sports, and formal
+dress, and is preferably rather short.” The agency sent him a penguin.
+(p. 88)
+Being sent a penguin for your mate is certainly surprising and incon-
+gruous. However, it has “suitability” (p. 90) as a comparison revels: if
+the agency had sent a horse it would have been equally surprising and
+incongruous, or perhaps even more so, but it would have lacked the local
+logic suitability of the penguin. The suitability comes of course, from
+the fact that penguins are short, live in large colonies (in some species,
+of tens of thousands of birds), are aquatic, and for some species their
+plumage resembles formal wear (for example, emperor penguins).
+Local logic must be taken in a playful way: it “is very amusing if we
+are willing to play along, but not” if we stick to normal logic/knowledge.
+In the penguin example, Ziv notes that local logic will not work if “we
+say crossly that marriage bureaus do not send penguins to their clients”
+(p. 90).
+Finally, Ziv argues that local logic “occupies a middle position between
+logical and pathological thinking” (p. 98). In logical thinking, logic is
+in control of thinking, whereas in pathological thinking, “fantasy and
+the absurd are in control and are perceived as reality” (p. 98). On the
+contrary, in local logic thinking “uses and enjoys both logic and fantasy
+without confusing them” (p. 98). In short, it involves willing suspension
+of disbelief (see Section 2.4.1). The analogy with pathological thinking
+85
+
+
+--- PAGE 109 ---
+INCONGRUITY AND RESOLUTION
+is quite apt as Arieti (1967) had shown in his discussion of paleo-logic
+in schizophrenia. Ziv uses the term “pararational” to describe local logic
+(p. 107) which of course brings to mind Apter’s (1982, 1989) “paratelic”
+mode of communication.
+4.2.1.4 Forabosco
+As we saw, Forabosco defines incongruity as follows: “a stimulus is
+incongruous when it differs from the cognitive model of reference”
+(1992, p. 54) and stresses the importance of including the perceiving
+subject in the definition (using the term “model” which presupposes
+someone doing the modeling). Forabosco then considers that one may
+define resolution as a “problem-solving” activity that finds a rule which
+“reconciles the incongruous parts” or, following McGhee (1979) as
+“cognitive mastery” (i.e., the cognitive capacity to understand that if
+something unexpected occurs, this is because it goes against “how things
+should be”; McGhee, 1979, p. 38).
+Forabosco then argues that there are two ways to interpret “res-
+olution.” The first one is “a cognitive rule [ . . . ] that reconciles the
+incongruous parts” (p. 57). The second one, is a “congruence criterion”
+(p. 58), i.e., any element relating to the stimulus on the basis of which
+the stimulus, at least in that specific respect, is congruous” (p. 57).
+Forabosco does not say this, but I think we can reach the conclusion
+that the first is a complete resolution (elimination) of the incongruity,
+whereas the second is a partial resolution. A congruence criterion allows
+cognitive mastery. The example that Forabosco provides is a child seeing
+a distorted face (caricature) and realizing that “it is just a drawing and
+not a real face” (p. 57). Forabosco notes that in the case of the congruence
+criterion it co-occurs with the incongruity (it is “contemporaneous”)
+and below the threshold of consciousness.
+Most significantly, Forabosco notes that “Resolving the incongruity
+does not mean eliminating it. It means having, at the end of the process,
+an incongruity ‘that makes sense” ’ (p. 59) or a “congruent incongruity”
+(p. 59; emphasis in the original). The “residual incongruity represents
+[ . . . ] the margin of inadequacy of the cognitive rule and tends to be
+ignored” (p. 59).
+4.2.1.5 Oring’s appropriate incongruity
+Elliott Oring is a folklorist (and as a non-psychologist in this section,
+he automatically gets bonus points). He has long maintained that the
+86
+
+
+--- PAGE 110 ---
+4.2 RESOLUTION
+resolution of jokes is “the perception of an appropriate relationship
+between categories that would ordinarily be regarded as incongruous”
+(Oring, 2003, p. 1). Oring argues that his approach is not homologous
+to the incongruity–resolution theories insofar as no actual dissolution
+of the incongruity is assumed: “the incongruity remains, even though
+points of connection between the incongruous categories are discov-
+ered” (p. 2). Further, his approach is not committed to a processing
+order, implicit in the incongruity-then-resolution terminology of the
+incongruity–resolution theories. He then adds that either the incon-
+gruity or the appropriateness must be “illegitimate” or spurious (p. 6).
+Whether appropriate spurious incongruity is really different than all
+formulations of the incongruity–resolution theories is not a topic that
+can be addressed presently. We will return to the issue of full or partial
+resolution below.
+4.2.1.6 The GTVH on resolution
+The General Theory of Verbal Humor (Attardo and Raskin 1991) was
+the first linguistic theory to address the issue of the resolution of the
+humor, although we did not word it that way in the original 1991 paper.
+We spoke instead of the “logical mechanism” to describe the “crudely
+approximate logic of a paralogism” (p. 304), the “semblance of logic”
+which included “faulty or cheating inferential processes” which would
+not “withstand any close scrutiny” and “paralogisms instead of correct
+syllogisms” (p. 304) and concluded that “a joke must provide a logical
+or paralogical explanation of the absurdity or irreality it postulates”
+(p. 307), while also noting that this was not a novel problem, but one that
+has not been fully addressed, despite some of the discussions seen above.
+The Logical Mechanisms went on to be the most controversial of the
+components of the General Theory of Verbal Humor. We will turn to
+that in Chapter 7. Instead here we will consider a few studies that have
+investigated the general nature of the resolution, rather than its specific
+mechanisms.
+4.2.2 Full vs. partial resolution
+In Hempelmann and Attardo (2011), we tackled the issue of full and
+partial resolution. Based on Oring’s (2003) appropriate incongruity, we
+argued that humor only partially resolves incongruities. The reader will
+recall that Oring claims that humor only partially resolves incongruities
+87
+
+
+--- PAGE 111 ---
+INCONGRUITY AND RESOLUTION
+and does so spuriously, at that. Whereas metaphors find real legitimate
+connections between disparate (incongruous) objects (and have some
+explanatory power because of that) jokes find spurious, illegitimate
+connections. Oring then argues that the difference between jokes and
+riddles is that in a riddle the incongruity is fully resolved, i.e., there is
+a solution (2003, p. 6), whereas in a joke (or a joking riddle, a.k.a. a
+pseudo-riddle) there is no full resolution. Attardo (2009) applied the
+same line of reasoning to mystery stories arguing that once we find out
+“who done it” (in other words, the incongruity in the text is resolved) the
+incongruity is fully eliminated: consider the “locked-room” sub-genre
+of mysteries: a crime is committed in a room or other location in which
+only a restricted group of people are present or have access to, but they
+all have an alibi. Once we find out that the butler or the husband did
+it, and how he managed to do it while apparently also having an alibi,
+the resolution is complete and the incongruity truly and fully resolved.
+Once we know that the murders in rue Morgue were committed by an
+orangutan, there is no mystery left.7
+The idea of partial resolution is operationalized as “residual incon-
+gruity” with a view toward quantification in Hempelmann & Ruch
+(2005), as follows: “how much incongruity remains un(re)solved; how
+much new incongruity has the LM introduced; how puzzled are you
+still at the end of the joke” (p. 364). Their analysis of a sample of
+cartoons showed that nonsensical cartoons contain significantly more
+residual incongruity (p. 368), as one would expect. Samson et al. (2009,
+p. 1029) shows significant differences in brain activation between the
+two categories of jokes.
+4.2.3 Foregrounded vs. backgrounded incongruities
+Rothbart and Pien argued that (1977, pp. 37–38) a humorous text
+may contain multiple incongruities and moreover the resolution of the
+punch line itself may introduce new incongruities. Tsakona (2003)
+established that many jokes have more than one punch line. The tech-
+nical details of the analysis are reviewed in Section 7.1.6. What matters
+presently is that this perforce means that there will be multiple, inde-
+pendent script oppositions within a joke. This is not to say that all jokes
+7 One of the earliest example of the genre is E. A. Poe, The Murders in the Rue Morgue
+(1841).
+88
+
+
+--- PAGE 112 ---
+4.2 RESOLUTION
+have multiple script oppositions, but only that some do. Specifically, in
+her corpus, about 25% did not have multiple punch lines (p. 320).
+Tsakona notes that the idea that jokes contain several “implausibili-
+ties” or (background) incongruities is not novel, having been stated in
+Sacks (1978, p. 258)) and discussed by Mulkay (1988, pp. 130–133),
+Attardo (1994, pp. 304–307), and Attardo et al. (2002). Tsakona argues
+that these implausibilities, do not go “unnoticed” as Sacks had argued,
+but in fact help frame the joke as non-bona-fide communication, i.e.,
+as being told in a humorous key. Finally, she notes, and this is very
+significant, that “the script opposition introduced in the punch line of the
+narrative joke is always different from (all) the other(s) that may appear in
+the joke-text” (Tsakona, 2003, p. 326; emphasis in the original). It should
+be noted that Raskin (1985, pp. 132–134) had already noted that there
+are complex jokes, with more than one script opposition.
+In Attardo et al. (2002) we suggested distinguishing between focal
+and background incongruities. The focal incongruity is the one involved
+in the punch line and in its resolution. In Hempelmann and Attardo
+(2011)8 we consider the following variants of a joke:
+(27)
+a. How does an elephant hide in a cherry tree? It paints its toenails
+red (Hempelmann & Attardo, 2011, p. 132).
+b. How does a monkey hide in a cherry tree? It paints its toenails
+red (p. 133).
+c. How does a monkey hide in a cherry tree? It paints its toenails
+blue (p. 134).
+d. How does an elephant hide in a lime tree? It paints its toenails
+red (Oring, 1992, p. 22).9
+and note that (27.a) contains an incongruity which (27.b) does not, and
+namely that a very large, non-arboreal animal might have climbed a
+relatively small tree and not crushed it under its weight. Both (27.a) and
+(27.b) partially (very partially!) resolve the incongruity by an incon-
+gruous means, i.e., painting their toenails to simulate the color of the
+8 The paper was in fact written much earlier, around 2005, but due to the significant
+backlog in HUMOR at the time and due to my desire not to appear partial to a former student
+and to my own work, since I was then the editor-in-chief, there was a considerable delay in
+the publication.
+9 Oring does not actually present the joke per se, but notes that “the absurdity is rule-
+governed ( . . . ) it would not do to answer that elephants paint their toenails red to hide in
+lime trees.”
+89
+
+
+--- PAGE 113 ---
+INCONGRUITY AND RESOLUTION
+fruit of a cherry tree and thus achieve some camouflage. This is very
+much fantasy assimilation and suspension of disbelief. (27.c) removes
+the color match which supposedly helps with the camouflage and thus
+eliminates the resolution, as does (27.d) but by changing the type of tree
+and hence the color of the fruit. Our point was that in (27.a) there is a
+massive incongruity that is not addressed by the text, which chooses to
+address a very marginal incongruity (the color of the toenails). So, we
+would say that the fact that the elephant is in the tree is a backgrounded
+incongruity, and as such can be removed from the jokes, as we did in
+(27.b), whereas the coloring of the nails (using very large nail polish
+brushes?) is the foregrounded incongruity. Finally, we argued that there
+is an intermediate type of incongruity, which can be removed and
+does not change the nature of the joke, as our change in (27.b) did.
+A full discussion can be found in Hempelmann and Attardo (2011,
+p. 135–137).
+Samson and Hempelmann (2011) tested empirically Tsakona’s
+(2003), Hempelmann & Ruch’s (2005), and Hempelmann & Attardo’s
+(2011) claims that backgrounded incongruities affect both processing
+and appreciation. They found that, as anticipated, backgrounded
+incongruities especially affect the funniness rating: stimuli with back-
+grounded incongruities were considered funnier (p. 173). “The
+presence of a backgrounded incongruity [ . . . ] leads to more unresolved
+incongruity and contributes to the perception that the cartoons are
+more nonsensical” (p. 180). Samson and Hempelmann hypothesize that
+the increase of perception of nonsense which parallels the increase of
+backgrounded incongruities may possibly be due to the fact that “some
+of the backgrounded incongruities remain unresolved but contribute
+essentially to the emotional response” (p. 181).
+4.3 Linear organization of the joke
+The incongruity–resolution model has an interesting aspect which we
+have not considered in detail yet, namely the fact that the idea of
+introducing an incongruity and then resolving it presupposes a tempo-
+ral linearity, as mentioned by Oring (see above, Section 4.2.1.5). The
+isotopy–disjunction model has provided the most compelling analysis
+of this aspect of humor and so we will discuss the linearity of humor
+using the isotopy–disjunction model of jokes as an example.
+90
+
+
+--- PAGE 114 ---
+4.3 LINEAR ORGANIZATION OF THE JOKE
+4.3.1 The isotopy–disjunction model
+At its core the isotopy–disjunction model is the implementation of a
+basic, and very interesting observation, namely that among the various
+polysemic lexical items of a coherent sentence, there emerges a shared
+thread of meanings that work with one another, while other meanings,
+also potentially available in the lexical items, are not functional in
+that given interpretation. This is of course the phenomenon known as
+disambiguation. Greimas called this “thread” of compatible meanings
+an “isotopy” (Greimas, 1966) and argued that a special type of semantic
+features was responsible for its establishment. He labeled these classemes
+and opposed them to the more specific semes. The history and diffi-
+culties of establishing the boundary between semes and classemes are
+detailed in Attardo (1994) and are not relevant in this context, beyond
+the conclusion that the distinction was in fact untenable and that an
+isotopy could be established merely by the repetition of any semantic
+feature.
+An example will clarify. Consider the following sentence:
+(28)
+John poured the coffee in the cup.
+It is clear that, whatever the polysemic nature of the various lexical
+items in the sentence, the noun coffee has at least two possible senses: 1)
+coffee beans and 2) a liquid obtained by infusing ground coffee beans
+in hot water. It would be too complex to run a full feature analysis
+of the two meanings, but we can simplify the analysis by saying that
+meaning (1) will have a feature [+ solid] while meaning (2) will have a
+feature [+ liquid].10 Greimas’ insight is that the occurrence of the feature
+[+ liquid] in “pour” selects the meaning of “coffee” which also shares the
+[+ liquid] feature. Presumably one could also have a feature analysis of
+“cup” sophisticated enough to note that containers may hold liquids.
+Greimas was never interested in humor per se and only analyzed a
+joke to show how the setup of the text presented one isotopy which was
+then replaced by a second one in the punch line. He introduced the
+terms of connector (a polysemous term in which both isotopies could
+occur simultaneously) and of disjunctor (the lexical item which forced
+the separation of the two isotopies).
+10 Any reader smart enough to note that we really only needed one feature [+/– solid],
+for example, should also be smart enough to understand the pedagogical reasons why we
+did not do so. Moreover, ground coffee is [– solid] and [– liquid]. Feature analysis is fun!
+91
+
+
+--- PAGE 115 ---
+INCONGRUITY AND RESOLUTION
+Greimas’ model of jokes was adopted and developed by various
+European scholars, primarily by Violette Morin (Morin, 1966), who
+added a three-part division in narrative functions, inspired by Propp’s
+work (1928) on the subject in folk tales. Because of considerable
+variation in the terminology, in Attardo (1994, p. 87), I introduced a
+simple numbering of the functions: F1, the introduction, F2, the setup,
+and F3, the punch line. The Greimas/Propp/Morin isotopy model was
+quite successful in Europe in the 1970s and 1980s and then faded away.
+The success can be explained by two factors: 1) the formalization of
+the concept of incongruity in the isotopy model, and 2) the focus on the
+linear development of the text. The model ultimately failed to remain
+productive due to several issues: first and foremost, feature analysis
+was shown to be incapable of dealing with the full semantic analysis
+of the lexicon. Once taken outside of subdomains such as kinship
+terms or kitchen utensils, the methodology starts generating too many
+features and any explanatory gains are nullified by the proliferation
+of features. Whereas the phonetic inventory of a language could be
+reduced to a few handfuls of features, the semantic inventory of a
+language would require the same order of magnitude11 of features as
+of lexical items. Second, the analysis in narrative features was shown
+to be common to all narrative forms and not specific to jokes. Third,
+the definitional problems of the concept of “isotopy” weakened the
+formalization advantage. Finally, the appearance of semantic models
+that were both more sophisticated, in that they adopted the concept of
+semantic scripts/frames, and more elaborated, led scholars away from
+the isotopy model.
+The specific focus on the linearity of the text was not taken up by the
+script/frame-based models and this explains why Bucaria (2004) still
+managed to make a very meaningful contribution on the typology of
+the connector/disjunctor placement using the isotopy model. Logically,
+we expect the connector to precede the disjunctor or to coincide with
+it.12 Consider this headline, from Bucaria’s data (p. 298):
+11 You can think of orders of magnitude as zeroes that follow a number: so 50 and 70
+have the same order of magnitude, as do 53 and 84, but 300, 999, and 157 have one order of
+magnitude more, 1000 has two more, etc.
+12 In the case of coinciding connector/disjunctor, we could also say that the connector is
+absent and we just have a disjunctor.
+92
+
+
+--- PAGE 116 ---
+4.4 CONCLUSIONS
+(29)
+MARCH PLANNED FOR NEXT AUGUST
+the lexeme “March” is ambiguous (the name of the month vs. walking).
+It is the connector. Assume that due to saliency the month interpretation
+is preferred. When we reach the end of the headline, we encounter the
+disjunctor (“August”) which forces the reinterpretation from “month” to
+“walking.” Consider now the next example, also from her data,
+(30)
+DRUNK GETS NINE MONTHS IN VIOLIN CASE
+Here the connector co-occurs with the disjunctor as they both are
+revealed in the word “case” (legal action vs. box for the safekeeping
+of an instrument). Bucaria found examples in which the disjunctor
+(“lingerie”) precedes the connector (“slip”), as in the following:
+(31)
+LINGERIE SHIPMENT HIJACKED – THIEF GIVES POLICE
+THE SLIP
+The significance of this is that it contradicts Attardo et al. (1994) in
+which we speculated that such a configuration was impossible. Bucaria
+instead established that the order of presentation of the elements of the
+joke is free.
+4.3.1.1 The three functions
+Tsakona (2003) showed that while the final position of the punch line
+in jokes holds true, other incongruities may occur in the texts (back-
+grounded incongruities). These may appear as non-final punch lines, or
+jab lines; see Chapter 7. Tsakona (2003) has provided several significant
+insights in the organization of the text of the joke. First, she showed that
+F2 is significantly longer than F1, by a ratio of 3:1 in her sample. The
+distribution of the jab lines in the text of the jokes is the same. Second,
+and more significantly, the script opposition introduced in the punch
+line is always different from those in the jab lines. It is a novel opposition
+that cannot appear in either F1 or F2, although it will involve, as one of
+the polarities, a script introduced in F1 or F2.
+4.4 Conclusions
+We have examined the incongruity and resolution theory of humor,
+with a particular emphasis on the semantic nature of the concept of
+93
+
+
+--- PAGE 117 ---
+INCONGRUITY AND RESOLUTION
+incongruity. We also emphasized the partial nature of the resolution
+and its ludic, local, illegitimate aspect. We then focused on the lin-
+ear organization of the presentation of the incongruity and its subse-
+quent resolution, instantiated in the disjunctor and (optional) connec-
+tor. Having established that the incongruity theories are based on a
+semantic concept, we will move on to the properly linguistic treatment
+of the semantics and pragmatics of humor in the second and following
+parts of the book, but not before dealing with one last foundational issue,
+the semiotics of humor, in Chapter 5.
+4.5 Further readings
+The historical roots of the incongruity–resolution theory can be further
+explored in Morreall (1987) and Attardo (1994). On modern treatments
+of incongruity, see Forabosco (1992). The rest of the discussion on
+incongruity and especially resolution is technical and there are no
+general sources, beyond those quoted in the text. Oring (2003, ch. 1)
+is very accessible. Martin (2007) can be useful for the psychological side
+of the discussion. On the isotopy–disjunction model, see Attardo 1994,
+Chapter 2. For an update, see Aljared (2017).
+94
+

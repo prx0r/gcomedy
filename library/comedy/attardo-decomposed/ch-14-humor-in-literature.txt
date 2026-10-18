@@ -1,0 +1,861 @@
+--- PAGE 342 ---
+14
+Humor in literature
+14.1 Script-based theory of humorous texts
+321
+14.2 Other approaches
+328
+14.3 Narratology
+330
+14.4 Stylistics
+332
+14.5 Some examples of literary constructs
+336
+14.6 Further readings
+339
+This chapter deals with humor in literature but not with literary works
+per se. This stance deserves some clarification: I do not have a negative
+opinion of the study of literature in and of itself: my first undergraduate
+degree is in French literature. Literary studies is a perfectly fine field and
+scholars have done a fine job of studying the various aspects of literary
+works that happen to be humorous, such as comedies, picaresque novels,
+parodies, pastiches, etc. ad libitum. For example, within humor studies,
+Triezenberg (2008) provides a short historical overview and a glossary
+of terms. Nilsen & Nilsen (2008) consists of a long list of genres1
+and authors that are relevant to literary humor, without any attempt
+at integration. The terminology of literary studies is plagued by the
+problem, already discussed in Chapter 1, of first- and second-order
+constructs. While few native speakers will have a first-order construct of
+romantic comedy or of picaresque, authors, critics, and scholars argue
+extensively on the nature and coverage of the second-order concepts.
+1 Among the genres quoted are comedy, humor, satire, irony, fantasy, parody, picaresque,
+and farce. Each term has many subdivisions.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 343 ---
+HUMOR IN LITERATURE
+We will not attempt to summarize these discussions, but we will pro-
+vide two examples, in Section 14.5, namely farce and satire to show
+how literary scholars engage these constructs. Individual entries in the
+Encyclopedia of Humor Studies may also provide more details about
+individual literary terms of interest.
+However, our focus here is on the humor, not on the literary aspects
+of humorous genres. In a sense, we are interested in humorous literary
+works because they contain humor and not because they are literary
+works. Needless to say, this distinction is easier stated than respected,
+as various scholars and approaches we will review may “color outside
+the lines” we have just marked out, or completely disagree with our view
+and advocate an approach more oriented toward literature. Regardless
+of which position will turn out to be preferable, it would be impossible
+to even pretend to summarize all that has been said in literary studies
+about humor, so our survey will only concern itself with linguistically
+oriented works. Further, it will be concerned with those studies that are
+theoretically oriented. This is an important limitation, because most of
+the works that I have classified as no-theory theories, in Chapter 3, are
+from within literature-based approaches. So, in a sense, this chapter will
+not deal with mainstream literary studies involving humor because what
+is truly mainstream in the study of literature has little or nothing to do
+with linguistics.
+Nilsen and Nilsen (2008), displaying a wonderful sense of humor,
+open their almost-40-pages-long chapter with a review of arguments
+that the analysis of literary humor is a bad idea. My favorite is Bernard
+Shaw’s: “There is no more dangerous literary symptom than a temp-
+tation to write about wit and humor. It indicates a total loss of both”
+(Nilsen & Nilsen, 2008, p. 243). Nilsen and Nilsen note also that “The
+study of literary humor is in some ways as broad as the whole field
+of humor research, plus the whole field of literary criticism” (p. 246).
+Plainly, it would be impossible to account for all of this in one chap-
+ter, hence, again, the need to restrict our concerns with linguistically-
+related work. We will start out with the applications of the Semantic
+Script Theory of Humor and the General Theory of Verbal Humor to
+the study of literary texts and then move on to other linguistically-
+oriented approaches, including narratologically-oriented and stylistics
+approaches. We will wrap up the chapter with a brief look at a few
+exemplar literary studies that are less linguistically oriented, just to show
+off the power of literary analysis per se.
+320
+
+
+--- PAGE 344 ---
+14.1 SCRIPT-BASED THEORY OF HUMOROUS TEXTS
+A different approach at delimiting the boundary between stylistics,
+broadly defined, and literary theory is proposed by Simpson and
+Bousfield (2017):
+In the absence of robust justification within a framework of language and discourse, it is
+simply not enough for the critic-analyst to decree that a passage of writing is humorous
+in other words, the burden of determining the humorousness of the text
+is on the linguistic theory and not on the literary scholar’s intuition.
+14.1 Script-based theory of humorous texts
+We start out by considering the application of Raskin’s Semantic Script
+Theory of Humor to longer humorous texts. The Semantic Script The-
+ory of Humor has a well-defined purview and namely jokes expressed
+verbally or in writing. How does it fare when applied to another kind of
+text? This is our concern in this section.
+The Semantic Script Theory of Humor is very abstract. As such it does
+not address, in principle, various issues. For example, the script theory
+“flattens” any text onto a script opposition. This is not a criticism of the
+theory, it is merely a refection of its semantic nature, which leads it to
+abstract away from the chronological presentation of the scripts in the
+opposition, for example. To go from the sex script to the no sex script
+is indistinguishable, in terms of semantic opposition, from going from
+the no sex to the sex script. In both cases, the opposition is between
+sex and no sex. This is not to say that one could not handle the order of
+presentation of the scripts in the Semantic Script Theory of Humor with
+the introduction of an ad-hoc apparatus, such as a chronological labeling
+of the various scripts, but the point is precisely that in its abstraction, the
+Semantic Script Theory of Humor does not concern itself with the order
+of activation of the scripts.
+Another issue that the Semantic Script Theory of Humor is unable
+to address is whether the source of the opposed scripts involves the
+phonological form of the utterance, or to put it more plainly, whether
+the joke is based on a pun or not. Once more, this is not necessarily
+a criticism: the Semantic Script Theory of Humor is interested in script
+oppositions and overlaps. The source of said opposition is not part of the
+purview of the theory and as such it coherently ignores the difference
+between puns, in which two senses are opposed, based in part on the
+321
+
+
+--- PAGE 345 ---
+HUMOR IN LITERATURE
+sound resemblance between two strings, and other jokes in which the
+opposition is not based on any aspect of the string, except its semantics.
+So, if one is interested in distinguishing between puns and non-puns
+(referential humor), one has to either add to the theory or come up with
+a broader theory. The latter strategy is what Raskin and myself did, in
+Attardo & Raskin (1991).
+There are two approaches to the application of the Semantic Script
+Theory of Humor to longer literary humorous texts: one can either
+apply the theory as is to longer texts and add ad hoc mechanisms to
+handle phenomena not covered in the original Semantic Script The-
+ory of Humor, or one can build a broader theory, In Attardo (1994),
+I labeled these approaches the expansionist approach and the revisionist
+approach, respectively. We will address both in that order below.
+14.1.1 The expansionist approach
+There are two major proposals that fall under the expansionist approach.
+We will consider them in chronological order.
+14.1.2 Chłopicki
+Chłopicki’s early work (1987) essentially assumed that the Semantic
+Script Theory of Humor as stated originally could be applied to non-
+joke texts. In a sense, it is a minimalist approach to a theory of literature
+which essentially denies that literary texts have features that are signifi-
+cantly different from jokes or that those features are relevant in assessing
+their humorous aspects. Chłopicki is essentially saying, we don’t need a
+theory of literary humor, if we have a theory of humor. As such, and
+because it was the very first application of the Semantic Script Theory
+of Humor to longer texts, it deserves a full treatment.
+Chłopicki (1987) considers some Polish short stories. He sees the
+major difference between a joke and a short story as one of length:
+he begins by identifying and analyzing all the script oppositions in
+the short story. This is the first difference between a joke and a short
+story: many jokes have only one script opposition, but a short story
+has tens of scripts oppositions (66, in one example). He finds that
+some script extend across stretches of text and in some cases across
+the entire text. He labels these “main scripts.” Some script oppositions
+also stretch across large parts of the text or its entirety and are called
+322
+
+
+--- PAGE 346 ---
+14.1 SCRIPT-BASED THEORY OF HUMOROUS TEXTS
+“shadow oppositions.” The shadow oppositions overlap with the main
+scripts and thus Chłopicki considers to have successfully applied the
+semantic script theory of humor to short stories. In the process of
+producing this analysis, Chłopicki also adds to the list of basic opposi-
+tions identified in Raskin (1985): the new oppositions Chłopicki adds
+are absence/presence, necessary/unnecessary, and much/little
+(Chłopicki, 1987, p. 18).
+It should be noted that Chłopicki’s approach essentially “flattens”
+(Attardo 1994, p. 210) the text of the short story onto a script opposition,
+albeit a shadow opposition. What is missing is that the text of the short
+story is developed over time, it has a linear aspect. So does the text of
+a joke, but a joke is by definition short and thus issues involved to the
+linearity of the text are ignored more easily. Let me add that Chłopicki’s
+approach is not the only one to do this. For example, a Greimasian
+semiotic analysis (Greimas, 1966) would flatten a text onto a semiotic
+square (two oppositions).
+The expansionist approach was so labeled in Attardo (1994) because
+it expanded the reach of the semantic script theory of humor. Chłopicki
+was not the only one to advocate expansionist ideas. Other proposals are
+reviewed in Attardo (1994, pp. 221–222). More recently, Chłopicki has
+developed an approach based on character frames (Chłopicki, 2017) in
+which the readers builds macro-scripts accumulating all the pertinent
+information about each character as it is developed. See Chłopicki
+(2017) for a summary and examples.
+14.1.3 Holcomb
+Holcomb (1992) introduces the concept of humor “nodal points” which
+are defined as follows: “Nodal points of humor are locations in the
+narrative where humor is perceptibly more concentrated than in the
+immediately surrounding text. Although they can be isolated as funny
+instances in the story, the nodal points remain semantically tied to the
+entire narrative” (p. 234). A nodal point, “will contain one or several
+script oppositions – oppositions that occur within the node itself or that
+involve an allusion to some other region in the narrative” (p. 236). The
+first part of this definition is meant to reprise Raskin’s Semantic Script
+Theory of Humor, while the second is meant to broaden it, by “find[ing]
+a means of incorporating those instances into the whole of the narrative”
+(p. 236). Ermida (2008, pp. 107–108) finds that Holcomb contribution
+323
+
+
+--- PAGE 347 ---
+HUMOR IN LITERATURE
+is a significant one, but faults it for being vague on the specifics of how
+to connect the nodal points to the rest of the narrative (p. 108).
+Vagueness is indeed a problem: Holcomb lists a series of excerpts
+from a Mark Twain story, in which violence is perpetrated on the
+narrator, who reacts with unflappable calm. Holcomb then notes that
+the excerpts are not jokes (which is to be expected since they are not self-
+contained narratives) but “joke-like” constructions. He distinguishes
+between “local” and “distant” script oppositions (p. 240) which are
+however left undefined, except for the mention of “script oppositions
+that are not mentioned explicitly in the quoted excerpts but must be
+retrieved from other parts of the text” (p. 241), but no explanation is
+given on how this takes place.
+Holcomb generalizes thus:
+At the beginning of each [story], several major scripts are evoked. These are held in
+suspension as the discourse proceeds and then appear in opposition at nodal points,
+those regions in the text where the humor seems especially concentrated. In the nodes,
+the mere mention of any element of an already established script sufficiently evokes the
+full script.
+So, according to Holcomb, “major” oppositions occur at the beginning
+of the narrative, whereas local ones in the nodal points. However,
+while that may be true of the two stories he analyzes in his article,
+it seems hardly likely that this pattern will hold true of all or most
+humorous stories. It is definitely not true of the Lord Arthur Savile’s
+Crime story, analyzed in Attardo (2001a), in which the main character
+is not introduced until after 25 instances of humor having very little to
+do with the main theme of the story. Despite the definitional problems
+just listed (see also Attardo, 2001a, pp. 41–42), Holcomb’s nodal points
+anticipate the idea of jab lines, without the technical detail. These will
+be discussed below.
+14.1.4 The revisionist approach
+The reader will recall, from Chapter 7, that one of the purposes of
+the General Theory of Verbal Humor was to extend the coverage of the
+Semantic Script Theory of Humor to all texts, thus overcoming the
+limitation of a theory of jokes. Our discussion of the revisionist approach
+starts out with the General Theory of Verbal Humor which is directly
+predicated on the assumption that different kinds of texts may have
+324
+
+
+--- PAGE 348 ---
+14.1 SCRIPT-BASED THEORY OF HUMOROUS TEXTS
+different textual organizations, as captured by the Narrative Strategy
+Knowledge Resource (Section 7.1.2). Attardo (2001a) presented a much
+more elaborated application of the General Theory of Verbal Humor
+to long texts, analyzing a variety of samples and in one case providing a
+complete analysis of a short story by Oscar Wilde. In so doing, a number
+of new concepts and tools were introduced, which will be reviewed
+below.
+14.1.4.1 Jab line and punch lines
+Probably the most widely adopted distinction introduced in Attardo
+(2001a) is that between punch lines, which end a text and in so doing
+reveal the presence of a second script, forcing the reinterpretation of the
+text itself, and jab lines which occur in the text in any other position (i.e.,
+they do not occur at the end of the text) and do not disrupt the overall
+interpretation of the text. Semantically speaking, jab lines and punch
+lines do not differ: they both have script oppositions, so their difference
+is purely due to their different functions within the text. Tsakona (2003)
+showed that many jokes are compound jokes (Raskin 1985, p. 134), i.e.,
+incorporate more than one script opposition, and that in those jokes that
+are complex, the script oppositions that occur before the punch line are
+jab lines and that these are unrelated to the final script opposition of the
+punch line.
+A long text such as a novel or a novella will not necessarily end in a
+punch line, nor will any of its component parts (e.g., chapters). Some
+texts do so (I mentioned Katherine Mansfield’s Feuille d’album short
+story in Chapter 1) and I analyzed another example in Attardo, 1994)
+but the vast majority does not. In fact, in most cases, humor is “super-
+imposed” to an essentially serious narrative, that can be summarized
+without any mention of humor.2 This led the way to considering the
+position of humor in the text and its distribution.
+14.1.4.2 Organization of humor in the text
+Any text is a vector, i.e., is organized linearily and there is a direction
+to the line (left to right in English). One can imagine a really long sheet
+of paper in which the whole of War and Peace is written as one very
+2 The 2001a version of the General Theory of Verbal Humor accounts both for the humor
+in texts that are humorous overall and for the presence of humor in texts that are otherwise
+serious. For example, Attardo (2001a) examines some onomastic jokes in Umberto Eco’s The
+Name of the Rose, which is hardly a humorous novel, but nonetheless contains some humor.
+325
+
+
+--- PAGE 349 ---
+HUMOR IN LITERATURE
+long line. This is a function of a very fundamental principle of language,
+i.e., the linearity of the signifier. Already Saussure observed that one
+can only produce one sign at a time (let’s say, the French phoneme /o/
+(=eaux, waters)) and attendant prosodic marks. While the meaning of
+an utterance may not be entirely linearily derived, the utterance itself
+is necessarily so. Writing introduces complications, to be sure, but the
+principle remains. We know from eye tracking research, that readers
+do not by and large “peek ahead,” that fixations follow the linearity of
+the printed line, and that any advanced awareness (both semantic and
+formal) does not go beyond the limit of a line of printed text. Obviously,
+in the case of a printed text, or with the recording of an oral utterance,
+a hearer can go back and re-examine previous parts of the text, but it
+remains that the way the text is first perceived is necessarily linear, i.e.,
+one thing after another.
+Once we consider this principle, it becomes clear that the organization
+of the humor along the vector may be significant. Indeed, Attardo
+(2001a) identifies several significant patterns: certain jab lines (or punch
+lines) may be related because for example, they all have the same
+Target (say, Lord Arthur Savile). If several (three or more) instances
+of jab line are related either thematically, as in the Target example, or
+formally (for example, because they all include a pun in the Language
+knowledge resource), they are said to constitute a strand. Stacks are
+strands of strands: for example, all the witticisms uttered by a character
+in a sitcom may be a strand, since they will share the commonality of
+having been uttered by the character. All groups of memes produced
+from a single image also constitute a stack. Tsakona (2017) speaks of
+“recontextualization” of the image or of other components of the meme.
+Shifman et al. (2014, p. 41) defines memes as items “sharing content,
+form and/or stance.”
+Attardo (2001a) also introduced various specific configurations, such
+as for two related jokes that occur at a certain distance (called in stand-
+up comedy, a “call back”) and for repeated use of a given feature in a
+restricted area of text. The terminology, bridges and combs, respectively,
+was inspired by a visual representation introduced also in Attardo
+(2001a). Despite having been put to very good use on some studies,
+see for example Vincent (2010), the terminology has not been widely
+accepted.
+What all these structures have in common is the phenomenon of
+repetition. Whereas in jokes repetition plays a small part, the repetition
+326
+
+
+--- PAGE 350 ---
+14.1 SCRIPT-BASED THEORY OF HUMOROUS TEXTS
+of humor or of some of its features, as seen above, plays a significant
+part in the structuring of longer humorous text (or in the humor within
+longer texts). This is a significant difference between jokes and longer
+texts.
+14.1.4.3 The distribution of humor in the text
+Beyond the way the humor is organized vis-à-vis other instances of
+humor, it is possible to consider the overall distribution of the humor
+in the text, regardless of its content. Corduas et al. (2008) applied
+sophisticated statistical analysis, based on time series, to investigate the
+null hypothesis of the distribution of humor in the text, i.e., that the
+position of humor in the text of a short story was random. Their findings
+indicated very clearly that the distribution of the humor is not random,
+i.e., it has some underlying motivation. The statistical techniques and
+the General Theory themselves cannot tell us what these factors or
+motivations are. It is however, possible to guess that one possibility
+is that more humor occurs at the beginning of the text to establish
+the humorous frame of the text itself. In a sense, the author would be
+signaling to the audience: this will be a funny text. Another possibility
+is that the author modulates the amount of humor for esthetic effect.
+Attardo (2001a, p. 89) dubbed “serious relief” passages with few or no
+humor in an otherwise humorous text (see below, Section 14.4).
+Despite the promising and original results of the application of the
+General Theory of Verbal Humor to long texts, it has been met with
+rejection (e.g., Ermida, 2008, p. 109) or with lack of interest. This
+is doubly disappointing, because the methodology presented affords
+asking questions that wouldn’t even be intelligible in traditional literary
+criticism (there is no conception of counting the amount of humor
+in a humorous text, let alone analyzing its distribution) and the few
+studies that have been conducted using the methodology yield good
+results. Perhaps the fact that one of the goals of Attardo (2001a) was to
+put the General Theory of Verbal Humor on a sound psycholinguistic
+processing footing, with its inherent technical aspects, or perhaps simply
+the labor-intensive nature of the analysis, have discouraged its use.
+The revisionist approach and the expansionist share more than our
+exposition might reveal. For example, both are based on the complete
+analysis of the text and on locating and analyzing all the script oppo-
+sitions in the text. In this they are directly opposed to the traditional
+approaches that rely perforce on sampling based on the intuition of the
+327
+
+
+--- PAGE 351 ---
+HUMOR IN LITERATURE
+analyst. When a literary scholar decides to focus his/her attention on a
+given passage of the text, as opposed to another one, randomly chosen,
+he/she does it on the basis of their intuition which tells them that that
+particular passage is more meaningful or more significant, or simply
+more appropriate for exemplification, than another one. Of course, this
+practice introduces an element of subjectivity. Both the expansionist and
+the revisionist approach, by analyzing the entire text are exempt from
+this problem.
+One may argue, as some actually have, that the actual analysis of the
+script oppositions is still subjective. This charge is simply misguided
+and completely ignores the difference between a semantic analysis,
+constrained by very specific techniques and mechanisms, and the more
+or less free for all of literary criticism. If one wanted to produce a Marxist
+analysis of Lennon and McCartney’s Yellow Submarine one is only lim-
+ited by one’s imagination: take the line “everyone of us has all we need.” Is
+that because socialism has been realized, thus distributing the means of
+production according to everyone’s need? Did the Beatles intend to tell
+us that socialism would eventually fail in the USSR because they failed to
+“live beneath the waves”? Well, why not? Realistically, probably because
+one’s career in literary criticism would end therewith, but sillier ideas
+have been proposed entirely seriously.3 Conversely, semantic analysis is
+done in an extremely regimented way: one starts from the actual words
+in the text, and works one’s way up (see Chapter 6). To claim that seman-
+tic analysis is subjective is simply not to understand how it is done.4
+14.2 Other approaches
+We now turn to other approaches that, while informed by linguistics, are
+more oriented toward the literary side. The best known such approach is
+arguably Ermida (2008). Her book starts out with a broad review of the
+3 My personal favorite: that analyzing Shakespeare’s works reveals that Shakespeare had
+a Christ-like personality.
+4 To be fair, since no full-blown automatic semantic analyzer actually exists, one really
+has to do the analysis by hand, which is both time consuming and inevitably subjective,
+but it is a different kind of subjectivity. One can compare it to the subjectivity of a parent
+deciding how much allowance to give to their child and the subjectivity of an insurer pricing
+an insurance policy. Both are subjective, but differently so: an insurer uses actuarial tables,
+competitor’s rates, and the likes to determine a price, whereas parents essentially determine
+their child’s allowance based on hunches and possibly the example of other parents. It
+is obvious that an insurance company’s leeway in pricing is much more limited than the
+parents’.
+328
+
+
+--- PAGE 352 ---
+14.2 OTHER APPROACHES
+theories we have just surveyed. Ermida also addresses the narratolog-
+ical approaches to literary/narrative texts (113–130) without, however,
+bringing them to bear on humor.
+Ermida (2008) contains some errors of interpretation: for exam-
+ple, she equates bona-fide in Raskin with truthfulness (Ermida, 2008,
+pp. 87–88), whereas one can violate any of the four maxims and be
+non-bona-fine. However she provides a discussion of several proposal
+dealing with literary humor, including, among others, a sympathetic
+summary of Nash (1985) (Ermida, 2008, pp. 101–102) and one of
+Chłopicki’s work (pp. 103–105).
+A very strange (pp. 109–110) decision by Ermida is to declare that
+texts that are not “(integrally) humorous” fall outside the purview of
+a “model of humorous text” (p. 110). As far as I can reconstruct her
+argument (presented on p. 172), the reason is that her model would
+not work if it tried to integrate the humor that occurs in text that are
+not entirely humorous. However, this decision leaves us with, at best, a
+partial theory of humorous texts, since by definition it can only handle
+a certain type of text and not others. This is a clear weakness.
+As for Ermida’s central hypothesis, the following quote from
+Chłopicki’s (2017) will suffice:
+In her central hypothesis she puts forward five defining principles of humorous nar-
+ratives: opposition, hierarchy, recurrence, informativeness, and cooperation (Ermida,
+2008, p. 172). On the one hand, the theory seems to be too powerful and would apply to
+many literary and non-literary narratives deprived of humor, while on the other hand
+some humorous stories would not display all the principles she predicts.
+(Chłopicki, 2017, p. 147)
+Triezenberg (2008) introduces the concept of humor “enhancer”
+which is defined as a “narrative technique [which] helps an audience
+to understand that the text is supposed to be funny, that warms them
+up to the author and to the text so that they will be more receptive
+to humor, and that magnifies their experience of humor in the text”
+(pp. 537–538). An example of what is intended is the use of legal jargon
+in a joke about lawyers. The joke would function also without legal
+terminology (assuming, for the sake of the argument, that the joke is
+not predicated on the knowledge of some specific legal term) but adding
+a few legal terms will make the joke a little funnier.
+An interesting emerging trend is corpus-based or corpus-assisted
+studies. For a broad discussion, see Partington (2017). Here, we will
+329
+
+
+--- PAGE 353 ---
+HUMOR IN LITERATURE
+mention Duguid (2009), who studies a corpus of journalistic humorous
+pieces and finds that phraseological units (idioms, constructions, and
+other lexical “ready-made” units) are evoked as “an expectation raised
+up only to be disappointed” (p. 312): “The unexpected shifting of fixed
+or frozen wording of idioms creates a collocational shock (for instance
+drunk as a sock, a rabble-soothing speech) just as the incongruous juxta-
+position of register creates a shift in narrative” (p. 313). “Collocational
+shock” (as the phenomenon gets dubbed) is not the only technique
+found in the corpus, which includes also the use of hyperbole, irony, and
+other figurative modes. Partington et al. (2013 , pp. 165–186), considers
+the writing of P. G. Wodehouse.
+The work by Burgers et al. (2011) on irony identification has been
+discussed in Section 12.4.2. It is likely to yield significant results.
+14.3 Narratology
+The expansion of the General Theory of Verbal Humor is very clearly
+extraneous to narratology (Attardo, 2001a, pp. 32–33) on two grounds:
+1) it focuses deliberately and exclusively on humor; and, 2) it rejects
+the intuitive nature of most narratological work. See the discussion of
+cherry-picking of evidence, in Section 7.2.3, for the significance of this
+point.
+Larkin Galiñanes (2005) is a narratological look at humor. She claims
+that humorous novels’ “typical narrative structure is heavily conditioned
+by the sort of pragmatic processing attendant on the appreciation of
+humor in jokes” (p. 80). Larkin Galiñanes (2005) further claims that
+there is a “striking degree of coincidence” between Relevance theory
+and Raskin’s Semantic Script Theory of Humor (p. 83) because she
+characterizes humor as a mode that deliberately enhance the ambiguities
+found in any text and thus she claims the two theories are equivalent.
+Likewise, she reframes incongruity resolution as the search for rele-
+vance. Regardless of the validity of such equations, which I suspect
+would be rejected by both Relevance theorists and by Raskin, Larkin
+Galiñanes (2005) presents some very interesting ideas.
+First, she points out that the caricatural aspect of many characters in
+comic novels functions along the same lines as the well-known ethnic
+330
+
+
+--- PAGE 354 ---
+14.3 NARRATOLOGY
+stereotypes function in jokes: much like when we are told that a Scottish
+character is involved we activate the mythical joke script for stingy,
+or in her example love of whiskey, the characters in a comic novel
+are not well-rounded and complex, i.e., they are caricatural, because
+“the narrator’s descriptions, or the character’s own words, however
+widely and frequently scattered over the text, all point in a specific
+direction, generating a limited number of implicatures and making the
+character easy to assimilate” (p. 89) since “If the character ‘scripts’ were
+complex, the reader would find them more difficult to englobe and
+grasp, an effect which would inhibit the creation of humor” (p. 89).
+This is particularly interesting in that it militates against Chłopicki’s
+most recent work (summarized in Chłopicki, 2017) which is dedi-
+cated to creating complex scripts for each character (see Section 14.1.2
+above).
+Second, she describes what she calls “strong implicatures,” i.e., an
+accumulation of connotative aspects of metaphorical constructs that
+end up creating an overall impression or characterization of the indi-
+vidual described. In her example, an old professor in Kingsley Amis’
+Lucky Jim is described as changing his facial features like “a squadron of
+slow old battleships” (p. 89) this giving, especially in concert with other
+similar descriptors, the effect of “a slow-minded individual” (p. 90).
+Larkin Galiñanes (2005) claims that an extended text at a macro-level
+develops two opposed scripts
+always potentially present in parallel, humorous effects (the equivalent to the punch
+line) being caused at certain points in the plot when the two scripts are simultaneously
+brought strongly into evidence.
+(pp. 98–99)
+These points correspond to Holcomb’s (1992) nodal points and to
+Attardo (2001a) jab lines.
+Another work that incorporates narratological insights and uses the
+General Theory of Verbal Humor, to some extent, is Hamilton (2013)
+which analyzes medieval stories (fabliaux). A discussion of the narra-
+tology of humor would be incomplete without mention of the extensive
+discussion of the analysis of jokes in three narrative functions (Morin,
+1966), promoted by numerous, mostly European, scholars. The discus-
+sion is summarized in Attardo, 1994, pp. 85–91; see a short discussion
+in Section 4.3.1.
+331
+
+
+--- PAGE 355 ---
+HUMOR IN LITERATURE
+14.4 Stylistics
+Stylistic approaches have been applied to humor. A broad review can be
+found in Simpson & Bousfield (2017). The boundaries between stylistics
+and other approaches to literary studies of humor are not always easy to
+define. Under some definitions, it matches the entirety of this chapter.
+Under this broad definition of stylistics, the entire domain of stylistics
+is literary humor: Simpson & Bousfield (2017) make this very clear:
+the first principle [of the stylistics of humor] is that humor requires some form of
+stylistic incongruity. [ . . . ] The second principle is that the incongruity can be situated
+in any layer of linguistic structure.
+(p. 159)
+In this section, we will limit ourselves to a narrower scope for stylistics,
+limited to issues of style.
+An important contribution to stylistics comes from Cognitive
+Linguistics and more specifically the work of Antonopoulou (2002;
+Antonopoulou & Nikiforidou, 2009; Antonopoulou et al. 2015); for
+more on Cognitive Linguistics and humor, see Brône et al. (2015). The
+general idea is that in literary texts puns may not be the only source of
+verbal humor. Authors may play with “the relative compositionality and
+transparency of linguistic expressions which may be more or less fixed
+for the ordinary language user, but allow inventive decomposition of
+their fixedness” (Antonopoulou & Nikiforidou, 2009, pp. 305–306).
+Antonopoulou (2002) utilizes concepts from cognitive grammar
+(metaphors, constructions, etc.) as well as the GTVH, enriched by the
+notion of idiomaticity, drawn from cognitive grammar, to explicate a
+variety of instances of humor in Raymond Chandler’s (1888–1959) noir
+novels. Idiomaticity is defined as
+The conventional/idiomatic aspect of meaning of a construction is, therefore, what is
+left unexplained after the contribution of the meaning of each word has been computed.
+(Antonopoulou, 2002, p. 200)
+Consider the example, discussed by Antonopoulou, of the construction
+“What’s X doing Y?” The non-idiomatic meaning is the compositional
+sum of the constituents: let us consider now an instance of the construc-
+tion, where X = toothbrush and Y = the fridge:
+(129)
+What’s your toothbrush doing in the fridge?
+332
+
+
+--- PAGE 356 ---
+14.4 STYLISTICS
+The compositional meaning of the construction is the sum of the mean-
+ings of the lexical items, plus the syntactic information that the tooth-
+brush is in the fridge and not vice versa, etc. The idiomatic/conventional
+aspect is the “implication of disapproval” (Antonopoulou, 2002, p. 200)
+of the construction.
+The violation of idomaticity in puns and register humor was
+previously known (see Attardo, 1994, for discussion); however
+Antonopoulou significantly broadens the scope of applicability of this
+facet of humor theory and at the same time proposes a revision of the
+GTVH’s knowledge resource Language:
+The GTVH acknowledges the importance of the Language KR in the case of puns. My
+point here is that actual wording may play a decisive role in humour appreciation, not
+only in cases of (lexical or syntactic) ambiguity, but also in cases of idiomaticity (as
+described above).
+(Antonopoulou, 2002, p. 203)
+The following example gives an idea of the subtlety of her argument:
+(130)
+She was smoking a cigarette in a black holder that was not quite
+as long as a rolled umbrella.
+In example (130), the comparison is between a cigarette holder and an
+umbrella. Normally, we would expect the comparison to be that the
+cigarette holder is shorter than the umbrella, or vice versa, the umbrella
+is longer than the cigarette holder. Our knowledge of umbrellas and
+cigarette holders is such that we know that umbrellas are much longer
+than cigarette holders or conversely that cigarette holders are much
+shorter than umbrellas. By couching the simile as Chandler does, he asks
+his readers to consider as plausible the fact that the cigarette holder is
+almost as long as the umbrella, which is an exaggeration. However, by
+couching it in the “not quite as long” construal, rather than the “slightly
+shorter” alternative option, “the narrator pretends that they are in fact
+so close in this respect that someone else might consider them identical
+in length” (p. 203).
+Another example is the “count-mass noun reversal” (p. 204) exempli-
+fied as follows:
+(131)
+Anna Halsey was about two hundred and forty pounds of
+middle-aged putty-faced woman in a black tailor-made suit.
+Here the non-idiomaticity of the construction is fairly easy to see, but
+Antonopoulou provides again a sophisticated analysis, summed up as
+333
+
+
+--- PAGE 357 ---
+HUMOR IN LITERATURE
+Although ( . . . ) [an] incongruity seems to be encoded in the second half of the sentence
+starting with of, in fact its resolution depends on the reader realizing the reason
+motivating the switch, i.e. that she is so fat that she is ?more mass than count?.
+(p. 204)
+Antonopoulou and Nikiforidou (2009) is focused on coercion
+defined as
+the clash between the syntactic and/or semantic properties of a word with those of the
+construction in which the word is embedded and the principles that guide coherent,
+consistent interpretations in such cases of conflict.
+(2009, p. 290)
+For example, in (132) below
+(132)
+It wasn’t that big an office, but the walls dripped modern art
+(Ian Rankin, Set in Darkness, 2000, quoted in Antonopoulou &
+Nikiforidou, 2009, p. 296)
+the verb “drip” coerces a feature [+liquid] onto the normally [+solid]
+noun “art”. One may argue that liquid art is conceivable, and it certainly
+is, but it would not be hung on walls (or would need to be in solid
+containers).
+As Antonopoulou & Nikiforidou (2009, p. 300) note
+coercion, by definition, foregrounds the linguistic incongruity per se, which may in turn
+be exploited in the creation of a superordinate, text-global opposition.
+So, in other words, coercion causes an incongruity and the repetition of
+the same form of coercion in the text creates a strand (14.1.4.2).
+Overall, Antonopoulou’s argument that the GTVH can be usefully
+augmented by attention to the sort of linguistic manipulation such as
+idiomaticity, coercion, and more broadly stylistic choices (Antonopoulu
+et al., 2015) is a welcome corrective to what is an oversimplification in
+the GTVH due to its origins in the analysis of jokes, as Antonopoulou
+and Nikiforidou perceptively note (2009, p. 294, note 4). However, the
+GTVH was not entirely uninterested in these matters, as the discussion
+of register humor below will show.
+14.4.1 Register humor
+One of the most relevant topics in the stylistics of humor is register
+humor. Register humor is created by an incongruity between the register
+334
+
+
+--- PAGE 358 ---
+14.4 STYLISTICS
+used to describe them and the facts, or between an expected register
+and an observed one. Registers are “language varieties associated with
+a given situation, role, or social aspect of the speakers’ experience”
+(Attardo, 1994, p. 230). They are pretty standardly organized in high
+and low varieties, with formal, sophisticated registers in the high strata
+of the model and with informal, scatological, and other forms associated
+with low-income, poorly-educated folk in the low strata.
+Attardo (1994, pp. 262–265) examines several examples from
+T. L. Peacock, a nineteenth-century humorist. These are often longish
+stretches of text, as a register is usually identified by accretion and not by
+a single lexical item of grammatical feature. However, an example such
+as (133) should give a feel for the phenomenon. The set up of the scene
+is that a certain character is exasperated and starts throwing things at
+his servants; this is described as follows:
+(133)
+by converting some newly unpacked article, such as a book, a
+bottle, a ham, or a fiddle into a missile against the head of some
+unfortunate servant (T. L. Peacock (1815), Headlong Hall, p. 6).
+“converting [an object] into a missile” is obviously a high register variant
+for “throw,” so it is precisely the discrepancy between the expected word
+“throw” and the unexpected, non-idiomatic “convert into a missile” that
+causes the incongruity.
+The theory of register humor had been prefigured by Bally, one of
+De Saussure’s students who edited the Cours de Linguistique Générale
+(Bally, 1909). His approach, described in some detail in Attardo (1994,
+pp. 231–235) has had little impact on the contemporary treatments
+of the subject. Among contemporary scholars dealing with register
+humor, the most significant is Alexander’s treatment (1997). Alexander
+presents register humor as the “comical confusion” of two registers
+defined as “selecting a lexeme or phraseological unit from a different
+style level than the context would predict” (Alexander, 1984, p. 60). As
+can be plainly seen, this fits perfectly the Peacock example above (133).
+Haiman (1990, pp. 199–202) claims that register clashes are an indicator
+of sarcasm. Attardo (1994, pp. 230–253) presents an approach based on
+script-theory and spreading activation, a psycholinguistic phenomenon.
+A more recent overview is found in Simpson & Bousfield (2017,
+pp. 160–161). Related but different from register humor, in that it
+involves two different linguistic varieties, is the practice of dialectal
+335
+
+
+--- PAGE 359 ---
+HUMOR IN LITERATURE
+humor, i.e., the use of a dialectal variety of a language for the purpose
+of humor (see Section 13.2.4).
+Register humor tends to develop over relatively large stretches of
+text in which individual features end up adding up to a strong enough
+“marker” of the presence of a given register. Register humor is consid-
+ered a diffuse disjunctor humorous phenomenon in Attardo (2001a). A
+diffuse disjunctor is a disjunctor that is not necessarily embodied in a
+single lexical item or syntactic feature. Example (95), in Chapter 9, is a
+good example of diffuse disjunctor, albeit not a register-based one.
+Attardo (2001a) introduced the idea of serious relief, i.e., that the
+author of a long humorous text would introduce passages deliberately
+less humorous for effect. In Attardo (2001b), some differences between
+the use of adjectives in the serious relief passages are found:
+the distribution between humorous parts and serious relief of some adjectives is clearly
+not random. It seems to be the case that Wilde is deliberately, or if not deliberately,
+unconsciously, marking the serious relief passage by using a different ‘palette’ of
+adjectives. As we saw, not all adjectives are used in this marking function and in fact a
+significant number of high frequency adjectives is used randomly across the text.
+(p. 28)
+14.5 Some examples of literary constructs
+It should be made clear at the offset, that trying to summarize the
+sophisticated, erudite, and stylistically gratifying works of the scholars
+I will describe in this section is like trying to produce a dehydrated
+version of your mother’s coq-au-vin. The ersatz version will not taste
+anywhere as good as the original and much of the point of having it in
+the first place will be lost. My point here is to show that high-quality,
+theoretically sound studies that are not merely descriptive can be done,
+if largely outside of linguistics.
+Davis (2003; originally published in 1978, but the 2003 edition has a
+very extensive introduction that throws significant light on the material)
+is dedicated to the description of “farce.” According to Davis it “delights
+in taboo-violation, but [ . . . ] avoids implied moral comment or social
+criticism and [ . . . ] tends to debar empathy for its victims”; it treads
+“a fine line between offence and entertainment [ . . . ] farce-plots tend
+to be short and [ . . . ] peopled [ . . . ] by simplified comic types” (p. 2).
+Farce favors “direct, visual, and physical jokes;” it is aggressive, violent,
+politically conservative (p. 3). This sort of generalization over a vast
+336
+
+
+--- PAGE 360 ---
+14.5 SOME EXAMPLES OF LITERARY CONSTRUCTS
+number of texts is a spectacular feat of scholarship, but linguistically
+there is little that needs to be added, except that one would need a very
+sophisticated theory of context and discourse to be able to account for
+these categories in a work of linguistics. Likewise, the four plot types
+Davis identifies:
+• Humiliation or deception farce: linear narrative someone is humil-
+iated or deceived
+• Reversal farce: as above, but the victim retaliates
+• Equilibrium farce: two opposing forces confront each other but
+remain in balance
+• Snowball or Circular farce: all the characters are caught into a
+mechanism
+are very abstract and clearly define most farces, but would be hard to
+account for linguistically.
+In the lack of strong moral stance, farce contrasts with satire, which
+has an element of “censoriousness” (Condren, 2012, p. 378) combined
+with humor. However, Condren argues that a general definition of satire
+may be impossible, because the various varieties of satire produced
+across the centuries and in different societies (the Greeks, the Romans,
+Renaissance Italy, etc.) are so great that it becomes impractical to provide
+such a definition. Ultimately the themes and the entities targeted can
+provide us with some definition based on “family resemblances” (à
+la Wittgenstein) (p. 386) but Condren notes immediately that such a
+definition is insufficiently restrictive (p. 387). Finally, he comes to the
+conclusion that an essentialist definition of satire may be impossible
+or pointless (p. 390) and goes back to “moral seriousness” (p. 391) i.e.,
+censoriousness.
+Simpson (2003) presents a linguistically sophisticated discussion of
+satire as a discursive genre (i.e., inclusive in the definition of discourse
+features). The argument is too complex to describe in detail here, so
+I will offer a “taste” of it, through a quote from Simpson’s own summary:
+Whereas the model of satire postulates that both prime [the antecedent of the satire,
+its object] and dialectic [the opposition, the antithesis] elements be present in a text, it
+further stipulates that the lack of congruence between these elements be recognized by
+a reader or listener, In other words, it is the dissonance between the domains of prime
+and dialectic which creates an interpretive pragmatic framework for satire and brings
+about the style-shift necessary to place the reader-listener on a satirical footing.
+(Simpson, 2003, p. 10; emphasis in the original)
+337
+
+
+--- PAGE 361 ---
+HUMOR IN LITERATURE
+The reader will recognize the familiar script opposition (the relationship
+between prime and dialectic) and the incongruity of the connection
+(“lack of congruence”). Simpson’s contribution is to place this dialec-
+tic (to borrow the Hegelian terminology) in the discursive domain,
+reminiscent (or at least compatible with) the Gumperz-Hymes eth-
+nomethodological framework discussed in previous chapters.
+Caputi (1978) represents a different type of study: while he does
+identify and define a “genre” called buffo, which corresponds to “vulgar
+comedy” (overlapping largely with farce), his focus is not on defining or
+creating boundaries, but rather in showing the uninterrupted continuity
+of transmission starting from the very early Greek comedies (Doric
+mimes, satyr plays, and phlyax farces) all the way to contemporary
+comics, clowns, and performers. Caputi’s erudition is remarkable and
+his capacity to bring to bear to the argument sources of vastly different
+domains, such as six or seven national literatures, literary criticism,
+humor theory, anthropology, folklore, make his book worth reading
+even if one is not particularly interested in the overall thesis.
+Literary studies has its own methodologies, tools of analysis, and in
+short “questions.” For example, the question of biographical criticism is
+“how does the work reflect the life of the writer and vice versa”? The
+question of gender-based theorists are along the lines of “how does this
+work reflect and enact the patterns of gender dominance/identification
+that are found elsewhere in the society”?
+Most literary analyses of humorous texts simply ignore the fact that
+the texts are or were meant to be humorous. While this claim may seem
+prima facie outrageous and presumably false, it is in fact an accurate
+description of the state of affairs in literary scholarship. Skowron (2003)
+analyzed some literary analyses of Oscar Wilde’s humor and found not
+only the above statement to be factual but that, in fact, many scholars
+treated passages from, say, The Importance of Being Ernest as if they
+were accurate representations of Wilde’s beliefs. What little attention was
+given to the humorous nature of Wilde’s production consisted largely
+in reproducing his bon mots and in platitudes about wit. Clearly there
+are exceptions, and probably some humorists have been analyzed qua
+humorists (Wodehouse comes to mind), but by and large it has to be
+acknowledged that the initial claim remains true.
+The above should not be interpreted as meaning that no analyses
+of literary humor exist. That is far from true. For example, Swift’s
+Modest Proposal is a very well-known text and many discussions have
+338
+
+
+--- PAGE 362 ---
+14.6 FURTHER READINGS
+focused on its irony. However, it is fair to say that the analyses of Shake-
+speare’s comedies, for example, focus more on what they reveal about
+Shakespeare’s beliefs, Elizabethan ideology, etc. than on how funny they
+are. In short, while literary texts that are funny have been analyzed, they
+are analyzed because they are part of the literary production of an author.
+Their being funny is often ignored, dismissed, or dealt with marginally.
+This seems potentially very wrong, since we would expect that the
+fact that the author wrote the text with the apparent intention to amuse,
+entertain, or divert his/her audience should be significant to the under-
+standing of the nature of functioning of the text itself (not to mention of
+its relationships with the audience, etc.).
+14.6 Further readings
+There are no introductory works on the applications of linguistics to
+humor in literature. Good but more advanced introductions to aspects
+of humor and literature are Chłopicki (2017) and, on stylistics, Simpson
+& Bousfield (2017). Chłopicki’s early work is summarized in Attardo
+(1994) and in Ermida (2008). Attardo (2001a) is probably the best
+resource for a full understanding of the application of the General
+Theory of Verbal Humor to literary texts. On Cognitive Linguistics and
+humor, see Brône et al. (2015).
+339
+

@@ -1,0 +1,731 @@
+--- PAGE 322 ---
+13
+Sociolinguistics of humor
+13.1 Universality of humor
+299
+13.2 Variationist humor theory
+304
+13.3 The social construction of humor
+313
+13.4 Conclusions
+315
+13.5 Further readings
+315
+This chapter will not deal with the sociology of humor. To do so would
+require a monograph of its own.1 Another area that we will not cover,
+for the same reason, is verbal art and speech play (see Scherzer, 2002).
+The focus of the chapter is the sociolinguistics of humor, and specifically
+variationist sociolinguistics (the previous chapters have dealt primarily
+with interactionist sociolinguistics).
+13.1 Universality of humor
+One of the questions that a humor researcher gets asked most often is
+“is humor universal?” often in a slightly different form along the lines of
+“is humor from, say China, or from any other ‘exotic’ culture, different
+from ours?” The answer, as is the case for most interesting questions, is:
+“it depends.” In a sense, this chapter addresses the issue of whether men
+and women, young people and old people, people from Japan, Namibia,
+France, and people from the USA laugh or appreciate as humorous the
+same things.
+1 Those interested should consult the work of Christie Davies, Giselinde Kuipers, Mulkay
+(1988), Koller (1988), Davis (1993), and Zijderveld (1983).
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 323 ---
+SOCIOLINGUISTICS OF HUMOR
+A good starting point is to recall that as a result of our discussion
+in chapters (2), (4), and (6) we are studying humor as a competence
+of the speakers, as Raskin’s theory explicitly states.2 Competence is
+usually assumed to be innate (i.e., genetically encoded in the DNA of
+the speakers) and would therefore have been selected for evolutionarily
+by some advantage in reproductive chances (Porteous, 1988; Vaid, 1999,
+2002; Gervais & Wilson, 2005; Chafe 1987, 2007). Another possibility is
+that having a sense of humor is a completely neutral feature, reproduc-
+tively speaking, that emerged as a by-product of other characteristics
+with reproductive advantages (for example, the capacity to experience
+surprise and inferential processes). Humor competence may also be
+merely a social abstraction of behaviors sanctioned by social practice. If
+humor competence is innate this means that logically all human beings
+share the same humor competence since they share the same DNA. If
+humor competence is merely a social construct, the argument is much
+weakened, or defeated as it would be conceivable that some culture do
+not have a humor competence at all or have a radically different one (one
+that is inaccessible to other cultures).3
+The available evidence leans toward the universality of humor and
+hence to its genetic foundation. There have been no claims of cultures
+that do not have humor or laughter. There have been isolated claims of
+cultures lacking irony (Haiman, 1998) and lacking puns (in the sense of
+intentional manipulation of ambiguity/homonymy, etc. for amusement;
+cf. Sherzer, 1996), but at most this would show that those cultures lack
+some genres of humor, not that they lack humor. So, if humor occurs
+in all cultures it becomes likely to assume that it is part of the genetic
+make up of humanity. Another potential explanation of the universality
+of humor would be that it had already developed when the first hominids
+left the African savannah and therefore that it spread with them to all
+inhabited lands. In either case, be it genetically determined, or culturally
+inherited, humor competence is common to all cultures.
+More compellingly, there have been no claims of radical untranslata-
+bility of humor across cultures. Most cross-cultural studies show the
+exact opposite, and namely that jokes and humorous themes travel freely
+across linguistic and cultural borders. For example, Essex girl jokes from
+England crossed the ocean and became blonde and sorority girl jokes.
+2 It should go without saying that we are not only studying competence.
+3 This footnote should be read only by trained linguists/philosophers: an anthropologist
+sees a rabbit run by, he shouts “Gavagai!” and all the tribe starts laughing.
+300
+
+
+--- PAGE 324 ---
+13.1 UNIVERSALITY OF HUMOR
+American stupidity jokes about Poles correspond to jokes all over the
+world about “stupid” groups (for example, in Italy the same jokes are told
+about the police, and in Ancient Greece they were told about professors).
+What are we to make then of claims such as those that some kinds
+of comedy “do not work” in a different culture? Usually what these
+mean is that the humor is not appreciated very much, not that it is not
+perceived as humorous. In other words, that the performance of the
+humor is not very successful (for example, TV audiences may not react
+well to it) and not the much more radical and significant claim that the
+audience fails to perceive that a give action or expression is intended to
+be humorous. The closest such mis-perception I am aware of is Regina
+Barreca’s treatment of Benny Hill’s comedy. Barreca (1991, pp. 146–148)
+fails to be amused by Benny Hill and thus denies the humorous status of
+the text(s), regardless of the fact that it ran in England between 1955 and
+1989, albeit not always continuously. Had it been the case that BBC and
+Thames TV broadcast an unfunny comedy show, it would presumably
+not have lasted over forty years.
+Why is it the case, then, that some types of humor are more or less
+popular in a given culture? Or how can Barreca and millions of British
+television viewers disagree? This can be due to two factors:
+• lack of a given script (information) necessary for the humor to
+function
+• social differences in the cultures.
+Consider the following joke:
+(127)
+There are 10 kinds of people: those who know binary and those
+who don’t.
+The joke is completely opaque unless one knows that in binary math-
+ematical notation 10 equals base-ten two. Once one is provided with
+the relevant information, the joke may fire (although the element of
+surprise is lost, thus considerably weakening the humor). The same goes
+for didgeridoo jokes (which my Australian informants assure me exist
+and are hilarious). Unless one knows what a didgeridoo is, one cannot
+really grasp the humor.4 Most of the failures of humor to transfer from
+4 I met this bloke with a didgeridoo and he was playing Dancing Queen on it. I thought,
+“That’s Aboriginal.” http://nomadsrus.blogspot.com/2007/09/jokes.html
+301
+
+
+--- PAGE 325 ---
+SOCIOLINGUISTICS OF HUMOR
+one culture to another can be explained very straightforwardly by simple
+lack of a script (information) about a given topic. For example, Morain
+(1991) describes a study contrasting ESL students’ and American stu-
+dents’ ratings of New Yorker’s cartoons and underscores the necessity to
+possess a given cultural script to be able to understand the humor, let
+alone appreciate it.
+A completely different situation is the observation, for example, that
+Germans enjoy scatological humor more than French or Italian people,
+or that puns are more frequent in English joke collections than in Italian
+ones. These differences can be explained by showing that different
+cultural backgrounds make this or that topic of humor more accessible
+for appreciation or more enjoyable. So, presumably, the fascination
+for sausage-related humor in German folklore is given by an interest
+in the subject matter (Hempelmann, personal communication). Other
+differences have more mundane explanations: for example, English is
+much richer in monosyllabic words than Italian (most Italian words
+are polysyllabic) and thus homophones and paronyms are much more
+frequent and therefore easier to exploit for humor.
+Relatedly, we can note that there exist differences across cultures in
+the social acceptability of the use of humor. Different cultures codify
+differently the times/spaces available to speakers for the production and
+appreciation of humor. It is a well-documented fact that Americans
+start public speeches with a joke, whereas this practice was unknown
+in Europe. Needless to say, much cross-cultural trouble can ensue.
+I personally was astonished to hear a priest joke from the pulpit when I
+first attended a Catholic mass in the USA.
+Moreover, different cultures may have different sets of scripts available
+for humor. Consider the following passage from an anthropologists’
+memoirs of her work among the Tiv, in Nigeria:
+Ngun was a nice old man who bore his blindness bravely ( . . . ).
+“Well,” Accident [a native friend of the anthropologist] told his
+story with zest, “I was out hunting birds with my slingshot, and I
+met him. He was all alone, shuffling along because the path was so
+slippery with mud. He was about to fall anyhow. So I yelled, ‘Watch
+out, Ngun. A snake!’ ” Accident hugged himself with mirth, and
+Ikpoom [another native friend] howled with laughter. Only Lucia [a
+madwoman] and I didn’t get the point.
+“Well,” I prompted. “Go on. Tell me what was funny.”
+302
+
+
+--- PAGE 326 ---
+13.1 UNIVERSALITY OF HUMOR
+Ikpoom ( . . . ) gave me the explanation, his usually monotonous
+voice lively with amusement. “Ngun is blind. He can’t see. He wouldn’t
+know which way to jump.” He begun to laugh again. “There’s nothing
+funnier than yelling ‘Snake!’ at a blind man.”
+“Funny!” I looked at Ikpoom as though I were seeing him for the
+first time.
+“Yes,” Accident put in. “He can’t know where it is.”
+Ikpoom saw that I was not amused. He was a sensitive man and a
+kind one; he thought he knew what disturbed me, and he tried to set
+my mind at rest. “If there’s really a snake there, you mean to tell him
+where it is. Only people get so excited when they see snakes that they
+don’t remember. They just yell. So of course a blind man can’t be sure.”
+(Smith Bowen [Bohannan] 1954: 228)
+Clearly, to Smith Bowen, and presumably to most of the readers of
+this book, playing a practical joke on a blind man is unacceptable,
+whereas to the Tiv it was. Before we jump to conclusions about the
+relative sophistication of the Tiv culture and of Western culture, let us
+recall that during the Middle Ages people with physical handicaps were
+employed as court jesters and that until recently, if not still, freak shows
+made money by exhibiting people with physical deformities. So, what
+the example of the blind Tiv man shows is that there are differences
+between what the members of an African culture and the members of
+some parts of Western culture consider appropriate subjects for practical
+joking, but that the practical joke is recognizable as such (for example,
+Smith Bowen would probably have seen the humor if the butt of the
+joke (Ngun) had not been blind). To put it differently, the Tiv and Smith
+Bowen do not have a different competence of humor they merely differ
+at the performance level of which individuals are acceptable targets for
+humor (for example, presumably, a dying person would not be targeted
+for the snake joke by the Tiv).
+The availability of scripts for humor will also change according
+to circumstances. For example, Gilbert Gottfried was booed for
+performing a joke about the Twin Towers “too soon” after the event (see
+Attardo, 2017a for discussion). Kuipers had collected over 800 jokes
+on the subject by 2005 (Kuipers, 2005). A wikipedia web page (https://
+en.wikipedia.org/wiki/Humor_based_on_the_September_11_attacks)
+lists jokes in sitcoms, etc. based on the attack. Clearly, the sensitivity
+to the event has changed significantly over time. Interestingly, some
+303
+
+
+--- PAGE 327 ---
+SOCIOLINGUISTICS OF HUMOR
+of Kuipers’ examples appeared mere days after the event, in Dutch
+web sites. So, clearly, the Dutch and the American cultures differed
+in availability of those scripts for humor.
+Recapitulating, humor is universal, either because genetically encoded
+in all humans or because it is part of the shared heritage of the first
+cultures. Different cultures may have different clusters of information
+or may have different attitudes toward certain kinds of humor which
+may facilitate or impeded the appreciation of given forms/examples of
+humor, but no humor is in principle inaccessible to any member of
+a different culture who would be given all the necessary information.
+Finally, different cultures may partition differently the social spaces
+available or not available for humor.
+13.2 Variationist humor theory
+In the following sections, I will briefly review some of the areas of in
+which variation in humor has been seen to occur and has generated
+some scholarship. The reader is advised to keep the universality of
+humor among humans firmly in mind, while reading the sections below,
+for perspective.
+13.2.1 Humor and gender
+Among the best-investigated topics in variationist sociolinguistics of
+humor is certainly humor and gender. Specifically researchers have
+been trying to answer the central question: do males and females sense
+of humor differ? Do the social circumstances in which speakers use
+humor and/or its function change according to gender? These ques-
+tions have attracted significant research, in many disciplines, ranging
+from gender studies to psychology and passing by linguistics of course.
+A comprehensive review would require a monograph of its own. For
+these reasons, I will sketch out only in the most general terms the debate
+and will rely on overviews of the field to provide broad representation.
+13.2.1.1 The feminist awakening
+It is possible that one of the reasons for the very large body of research
+on the subject is that humor is a very visible sociolinguistic variable
+and as such it would have attracted the attention of scholars. Another,
+304
+
+
+--- PAGE 328 ---
+13.2 VARIATIONIST HUMOR THEORY
+less flattering hypothesis, is that the existence of countless stereotypes
+on humor and gender may have fueled the interest of the scholarly
+community. Be that as it may, we can start our review with Robin
+Lakoff’s provocation in the seminal paper-turned-booklet Language and
+Woman’s Place (1975, p. 43) that women “have no sense of humor.” It
+is fair to say that the first phase of the research is the awareness that
+there are gender-based differences in the type of humor and humor
+performance, in the broad sense we have been pursuing in this book,
+that people say and enjoy (or not enjoy).
+Early feminist studies, reviewed in Crawford (2003) and Kotthoff
+(2006), emphasized the differences between male (competitive) and
+female (supportive) humor as well as the subservient role of women
+who did the laughing while men did the telling of humor. Jenkins
+(1985) seems to be the acknowledged source of much of the polar
+characterization of the differences between women’s and men’s humor:
+women’s humor is “cooperative, inclusive, supportive, integrated,
+spontaneous and self-healing. In contrast men’s [. . .] is more likely to
+be competitive, exclusive, challenging, segmented, preformulated, and
+self-aggrandizing” (p. 135). Interestingly, Davies (1984) had proposed
+a much more sophisticated approach, which characterized women’s
+humor as directed toward empathy and men’s humor as more oriented
+toward solidarity (for example, using banter or ritual insults).
+13.2.1.2 Post-feminist research
+Holmes et al. (2001) present particularly significant results because they
+go counter to most of the claims we have just reviewed. For example,
+Holmes et al. find that women produce more humor than men, regard-
+less of the power status (Holmes et al., 2001, p. 93). Furthermore, women
+produce more humor regardless of being in single or mixed gender
+settings (p. 96). Contrary to the claims of Jenkins (1985), there was no
+difference in the number of collaborative humorous exchanges initiated
+by men and women, when they were in the chair position. When women
+were not in the position of chair they initiated more collaborative humor
+(p. 101). Holmes et al. conclude “the quantitative data contradicts the
+negative stereotype” that women “have no sense of humor” (p. 101).
+A full description of their methodology will be found in Section 12.3.
+Günther (2003) found that women laugh significantly more than men,
+but don’t produce more humor support (p. 200), thus contradicting the
+assumption that women are more supportive of humor. Laughter and
+305
+
+
+--- PAGE 329 ---
+SOCIOLINGUISTICS OF HUMOR
+humor have a higher frequency of occurrence in single-sex interactions,
+but women deliver more humor in women-only polyadic (more than
+two participants) settings (p. 181). So, once more, the humorless woman
+myth is laid to rest.
+13.2.1.3 Empirical synthesis
+The title of Martin’s meta-analysis (Martin, 2014) is (modestly)
+restricted to psychological research, but Martin’s wide-ranging schol-
+arship covers far more than that and comes to a somewhat startling
+conclusion that “we find more similarities than differences between
+men and women” (p. 144) or as he puts it quoting Dindia’s (2006) quip:
+“men are from North Dakota, women are from South Dakota” (p. 144).
+In light of the remarkable convergence of work from the New Zealand
+group around Janet Holmes, from the corpus-based work of Günther
+and Martin’s authoritative results, the field of humor and gender is in
+need of a serious re-evaluation. Let me highlight two directions that
+strike me as particularly fruitful: 1) Holmes (1995), in the context of
+hedging by women and men, suggests that “women’s subordinate social
+status may account not so much for the way women talk, as for the
+way their talk is perceived and interpreted” (p. 111); to my mind, this
+can be extended to the discussion of the gender differences in humor
+and describes pretty accurately the situation. 2) Increasingly researchers
+are problematizing the duality of the male/female opposition in favor
+of a “performative” approach to the study of gender, i.e., the way in
+which speakers define themselves in relation to each other through
+the category of gender and its stereotypes (Crawford, 2003) Again,
+I think that the gendered social practices of humor will have much to
+learn from such an approach. For example, the fact that a parodic genre
+such as “drag” contributes to the definition of gender seems to be quite
+significant (Butler, 1990, p. 174).
+13.2.2 Social class
+Davies (2017) provides a telling summary of the state of the art on the
+topic of social class and humor:
+Whereas many studies implicitly relate to social class – for example, in that white-
+or blue collar workplaces may be assumed to have certain class characteristics, there
+has been little specifically on sociolinguistic variation in relation to class. The notable
+306
+
+
+--- PAGE 330 ---
+13.2 VARIATIONIST HUMOR THEORY
+exception is the 2010 special issue of [HUMOR: International Journal of Humor Studies]
+edited by Attardo (2010). In his introduction, Attardo makes an important distinction
+between a sociolinguistic phenomenon and its mediatic representation. He defines
+working-class humor as “humor produced by members of the working class for other
+members of the working class” (p. 122), and points out that because mass media
+represents middle-class values, we are unlikely to get a full and accurate representation
+of humor embodying antagonism to those values.
+(p. 480)
+The long extract is worth quoting in full because it highlights both the
+lack of research in the field and the problem that what little research
+there is on social class is focused on the media representation thereof,
+which is biased at best.
+Davies herself in a paper for the special issue provided one of the most
+cogent discussion of class and humor in American society. Davies (2010)
+is dedicated to show that the popular
+“You might be a redneck” joke cycle is appropriated to designate a lower social category
+within the Southern working class in Alabama (including imitation of the voices of
+the characters using exaggerated Southern features), and to negotiate the boundaries
+between the good old boy working class “red neck” [ . . . ] and the lower category of
+“white trash” [ . . . ]. This term, a slur that manages to combine both race and class,
+emerged in the racial caste society of the nineteenth century American South, and
+continues as a way of designating the bottom of the white social hierarchy.
+(p. 180)
+Davies’ conclusion is that the goal of the performance is “to convey
+social distinctions within the white Southern American working class”
+(p. 197) specifically pitting the relatively better off “red necks” against
+the impoverished “white trash.”
+The “You might be a redneck” joke cycle was popularized by comedian
+Jeff Foxworty, who released an album called You Might be a Redneck’
+If . . . According to Wikipedia, the album sold more than 2 million
+copies. Foxworthy’s stand-up comedy act consisted in part of a list of
+statements beginning with the formula “You might be a redneck’ if. . .”
+and completed by a statement, such as “You own a home that is mobile
+and 5 cars that aren’t.” In the show that Davies examines, the two hosts,
+Jack and Bubba, replace the expression “a redneck” with “white trash.”
+Davies provides a sophisticated analysis of the phonology of the
+dialect of the show hosts, as well as other features of their speech. For
+example, toothlessness, “a classic indicator of social class” (Davies, 2010,
+p. 187) is used as a defining feature of “white trash.” Overall, the image
+of the “white trash” person that emerges from the analysis of the text is
+summarized as
+307
+
+
+--- PAGE 331 ---
+SOCIOLINGUISTICS OF HUMOR
+poor, stupid, reckless, dirty, toothless, homophobic, alcoholic, addicted to tobacco
+in various forms, [ . . . ] violent, drunk [ . . . ] a bad parent, sees no particular value
+in education, and thinks that procreation should start at puberty (possibly through
+marrying close relatives). He lives in a trailer with a refrigerator on the front porch,
+drives a truck that is a heap of junk, plays pool (which may imply gambling), and is a
+NASCAR fan.
+(Davies, 2010, p. 195)
+Davies notes that many of these features are directly connected to
+poverty. When it comes to the interpretation of the material in a broad
+sociological sense, Davies notes that by characterizing “white trash”
+people as they do, the self-proclaimed “red necks” establish themselves
+as having some social respectability, for example, “He is not rich, but
+he is not poor in the way that the W[hite] T[rash] characters are. [ . . . ]
+Marriage and family are important to him, but he understands the
+appropriate kin relationships for these purposes” (p. 196).
+Porcu (2005) is an eye-opening account of humor in a working-class
+Sardinian fish market. Unlike the Bowdlerized forms of working-class
+humor that appear in the media (which reflect middle- to upper-class
+values) that humor of the workers at the fish market is very physical,
+often violent, involving hitting people, sticking fish in their clothing,
+etc. It is needless to say rich in obscenity, homophobic, and above all
+extremely aggressive.
+13.2.3 Age
+As Coupland (2004) notes, there is a lack of research on aging in
+sociolinguistics at large. So, it will not come as a surprise that very little
+has been written on age grading and humor (but see Nahemow et al.,
+1986). There is a lot of research on the acquisition of humor in children,
+but that area has developed on its own and the focus is on cognitive
+development. Here we are interested in how children’s humor may differ
+from teenagers, and the latter from adults and seniors.
+Apte (1985, pp. 50–51) reports on “age-sets” that is joking that is
+limited to persons of the same age, in various cultures. Apte likens age
+sets to young people attending high school or college together. To use
+a familiar example, children and pre-adolescents in Western culture go
+through a period of telling and enjoying sexual and scatological jokes
+(Apte, 1985, p. 94). Interest in these topics wanes with age.
+Apte (1985, pp. 79–80) notes that in a variety of cultures, older (post-
+menopausal) women are freer to engage in humor, often sexual, and
+even “obscene.” Kotthoff (2006) notes an interplay of age and class in
+308
+
+
+--- PAGE 332 ---
+13.2 VARIATIONIST HUMOR THEORY
+the behavior of women: younger women show “the greatest reserve”
+in dealing with aggressive and sexual humor, whereas older lower-class
+women are freer to address taboo topics (Kotthoff, 2006, p. 14). Nardini
+(2000) reports on an extended joking session among older women in an
+Italian-American club. The topic is what to do after widowhood and the
+suggestions undergo a crescendo of outrageousness which culminates in
+taking the deceased husband on a cruise in a box—without having had
+him cremated first. So, we can agree that older women may be indeed
+freer to express taboo topics.
+This area is one where there is a particularly pressing need for
+research. With the advent of the internet and new media, I suspect
+that age grading will be particularly significant between generations.5
+13.2.4 Dialects as humorous languages
+As we saw, Hymes (1972) SPEAKING mode (Section 10.2) considers
+dialects, registers, etc. “instrumentalities” of the situation. We discussed
+briefly code-switching in Section 10.2.4. Here we focus primarily on
+diglossic situations.
+There is a widespread understanding that non-standard dialects are
+used for humorous effect (Apte, 1985). Fry (1963, pp. 32, 144) men-
+tions dialect as a contextualization cue (although Fry does not use
+this terminology). Siegel (1995) mentions dialectal humor. Papapavlou
+(1998) examines Greek Cypriot humor. Apte (1985) has a review of
+studies on the subject: in Tamil movies the buffoons speak in the
+spoken variety, whereas the heroes speak in the literary variety (p. 190);
+among the Burundi, joking is done with the “least degree” of formality
+(p. 191). In Zinacantecan Indian, “joking occurs in the informal style”
+(p. 191). The Chamula consider frivolous talk (which includes joking) as
+inappropriate for a ritual setting, the latter requiring “much formality.”
+Apte notes that “certain dialect or languages are perceived as more
+suitable media for humor than others” (p. 191). In Paraguay, where
+Spanish and Guaranì coexist in a diglossic situation, speakers consider
+5 The difference between age sets and age grades is that one belongs to an age set
+throughout their life, whereas one passes through age grades as they age. Again, the example
+of classmates or college friends is enlightening: one will always have the same high school
+or college friends, but one will pass through a series of grades, childhood, adolescence,
+adulthood, middle age, etc.
+309
+
+
+--- PAGE 333 ---
+SOCIOLINGUISTICS OF HUMOR
+Guaranì as “more suitable for humor.” (p. 192). Davies reviews the scarce
+literature on the subject as well (2017, p. 477).
+I would like to present as a hypothesis the idea that dialects, as
+subordinate lectal varieties of their respective acrolectal6 languages,
+serve as the locus of humor because of the implicit devaluation of the
+subject matter (“non-serious matter”) or the explicit presence of “low”
+(corporeal, scatological) subject matter. In this sense dialects are both
+a marker of the humor and the target of the humor, in the sense that
+humor is a debasing activity that must take place in a bounded envi-
+ronment and so the dialect provides the perfect place for both asserting
+the underprivileged nature of the activity (engaging in humor) and
+providing a natural “limit” to the social violations of humor. Needless to
+say, humor can occur in the standard varieties as well, but I hypothesize
+that the tendency of dialect to be associated with humor is tied to the
+factors discussed above. Apte claims that “Humor and joking exchanges
+need a familiar setting in which such barriers of communication as
+age, rank, and social status are considerably reduced” (p. 195). I would
+argue, that on the contrary, the awareness of the status differences
+between the lectal varieties is enhanced and that the very differences are
+emphasized.
+I will now exemplify this suggestion, with an example of a 17-second
+skit that circulated in 2018 on various online fora in Sicily. It was brought
+to my attention by Totò Panzeca, who also contributed to its explanation.
+It is transcribed below. The bolded text is the original in the skit; a
+translation in English is provided in italics. When the text is in Sicilian
+an interlinear gloss in Italian has been provided.
+The skit is recited by two unidentified male voices. The first line opens
+with the typical phone call greeting and by the identification of the
+recipient of the call as the Hospital in Catania (the second largest city
+in Sicily). This frames the situation as both a phone call and as a health-
+care service call.
+(128)
+1. Pronto, Ospedale Civile di Catania?
+‘Hello. Catania Civil Hospital.’
+6 A dialect (“lect”) has different levels of formality: the basilect is the lower form, also
+known as the vernacular, used in the most informal settings. The acrolect is the highest,
+most formal variety, used in formal or official settings; often a standard language will be the
+acrolect, especially in a diglossic situation. The mesolect is an intermediate form. Acrolect,
+mesolect, and basilect form a continuum.
+310
+
+
+--- PAGE 334 ---
+13.2 VARIATIONIST HUMOR THEORY
+2. Eh,
+Eh,
+bongiorno.
+buongiorno.
+Scusi,
+Scusi,
+peccasu
+per caso
+pozzu
+posso
+prenotare
+prenotare
+una
+una
+visita
+visita
+cu’
+con il
+pacchiologo?
+pacchiologo?
+‘Eh, good morning. Excuse me, could I book a visit with the vaginologist?
+3. Non ho capito, scusi, il pacchiologo?
+I did not understand, sorry, the vaginolologist?
+4. Se,
+Si,
+se,
+si,
+u’
+il
+pacchiologo
+pacchiologo.
+‘Yes, yes, the vaginologist.’
+5. Forse voleva dire: il ginecologo
+‘Perhaps you meant: the gynecologist.’
+6. Aspittassi
+Aspetti
+un
+un
+attimu.
+attimo.
+Sasà
+Sasà
+chi
+che
+tti
+ti
+fa
+fa
+mmali,
+male,
+u’
+il
+pacchio
+pacchio
+o
+o
+u
+il
+ginocchiu?
+ginocchio?
+‘Wait a second. Sasà what hurts? Your genitals or your knee?’
+The humor in the skit revolves around the use of the term “pacchiu”
+(vagina) with the suffix “-ologo” (doctor of). The caller asks to make an
+appointment with the “vagina doctor” (line 2). The hospital receptionist
+is confused and guesses that perhaps the caller meant “gynecologist”
+(lines 3–5). The caller misunderstands based on a folk-etymology of
+“ginecologo” derived from the similarity between “ginocchio” (knee)
+and Greek “gunaikos” (‘women) [whence the root “gineco” in Italian]
+(line 6). I translated “pacchiologo” (which obviously has no direct
+translation in Italian since it is not a word) with “vaginologist” because of
+the morphemic resemblance between “vaginologist” and “gynecologist.”
+“Sasà” (diminutive of Rosa) is presumably the wife of the caller.
+What is particularly remarkable about this text is that it alternates
+between Standard Italian and Sicilian (Catanese). The turns of the
+telephone operator at the hospital are all in Standard Italian, whereas
+the caller uses a basilectal variety, mildly tempered by some mesolectal
+touches (“Bongiorno,” “fa mmali” rather than “doli”) and the suffix
+311
+
+
+--- PAGE 335 ---
+SOCIOLINGUISTICS OF HUMOR
+“-ologo.” This is a perfect example of the use of dialectal varieties to
+mark (or provide a contextualization cue for) the humor in the text. The
+caller is immediately characterized as less educated, which then helps
+justify the misunderstanding ginocchio/ginecologo predicated on the
+presumed ignorance of the word “ginecologo.” It is no coincidence that
+the punch line (in turn 6) is delivered in Sicilian, precisely because the
+use of the dialect marks the orientation toward the lower class, and we
+might say in a nod to Bakhtin, the body. “Pacchio” is a vulgar expression,
+and in this sense my translation as “vaginologist” is not correct, and a
+better translation would have been “pussylogist.”
+Rising intonation is indicated with a question mark in 1 and 3. In both
+cases it indicates a request for information: in the opening turn, it is a
+request of a reason for the call, while in the third turn it is a request for
+an explanation. Lengthening of the vowel in turn 5, indicated with a “:”
+following the syllable, may indicate hesitation or embarrassment.
+Gasquet-Cyrus (2004) discusses the status of the regional French vari-
+ety of Marseilles (Southern France), which has a stereotypical humorous
+value in France. For example, Gasquet-Cyrus reports a local singer,
+who, while waiting on stage between songs, says, “Eh, i(l) va venir” [it’s
+coming (referring to an instrument that was being brought to him)] with
+a strong Marseilles accent. Gasquet-Cyrus notes that there is nothing
+incongruous in the fact of waiting for an instrument and neither is the
+use by a local person in front of a mostly local audience of the local
+dialect, but nonetheless the remark was greeted with laughter, because of
+the stereotypes attached to the performer and his dialect (pp. 142–143).
+There is much more to Gasquet-Cyrus’ work, especially his urban
+dialectological study of humor in Marseilles, but in this context we can
+only hint at the rich material in this dissertation, which unfortunately
+remained unpublished.
+Another, related, way of looking at this is the idea of metaphorical
+code switching. The idea behind metaphorical code switching is that
+its purpose is to convey an inferential meaning, signaled by the change
+to a different code. This is in opposition to situational code switching,
+in which one shifts languages or varieties simply to accommodate the
+various speakers or because a given situation requires or favors a given
+variety. Essentially, whereas situational code switching is determined by
+the situation, metaphorical code switching is a choice by the speakers.
+As such, it generates an implicature. For example, my daughter who is
+essentially English monolingual but knows some Italian, speaks English
+312
+
+
+--- PAGE 336 ---
+13.3 THE SOCIAL CONSTRUCTION OF HUMOR
+with her son. However, I recently observed that when he gets too ram-
+bunctious she tells him to stop by saying “Basta!” [Enough!, in Italian].
+The four-year-old knows exactly what the code switching means, i.e.,
+you are about to get in trouble, and stops his behavior.
+The difference between situational and metaphorical code switching
+was introduced by Blom and Gumperz (1972). The use of a particular
+code may serve as a contextualization cue (Gumperz, 1982, p. 131; see
+Section 10.2.4). Therefore, “a switch to the code appropriate for humor
+can be a signal that the content is not serious” (Siegel, 1995, p. 101).
+Archakis et al. (2014) is a review of studies on stylistic humor in modern
+Greek, both in a mass-mediatic environment, which reveals that “in
+mass culture genres, stylistic humour is employed as a crucial means
+for characterisation: characters in media genres are more often than
+not denigrated and laughed at for their ‘unconventional’, ‘non-standard’,
+and/or ‘heterogenous’ stylistic choices” (p. 49). The authors list also a
+few studies of stylistic humor in Greek sociolinguistics.
+13.3 The social construction of humor
+As Berger (1997) argues, the key to understanding the relationship
+between humor and society is to realize that social life exists becasue the
+people who share a social space/group have a large set of conventions,
+rules, received ways of doing things, habits, connections, etc. that define
+and constitute the “hanging together” of a social group. Think for
+example, how much the location where a group gathers determines what
+the group will do and how they will interact, so that if they decided
+to change the place where they gather, for example, that would change
+significantly how the group interacts (for example, think of students in
+class and outside of it).
+These rules and conventions for a “reality” which, because it is so com-
+monplace and taken for granted, becomes “transparent” to its members
+(i.e., they are no longer aware of it).
+Berger argues that humor is the intrusion of another reality in the
+everyday reality of a social group. Other examples of alternate “realities”
+would be religion and magic. (Berger, 1997, p. 65). For example, both
+humor and the sacred are contained in time and place. “Church time” is
+constrained in terms of location (one must go to a special building, or
+designate a location to serve as such) and special behaviors (rituals) and
+313
+
+
+--- PAGE 337 ---
+SOCIOLINGUISTICS OF HUMOR
+language (formulas, prayers) are allocated to this time (ceremonial). In
+Western society, at least until recently, one would wear special clothing
+(one’s best) for such occasions. Humor is not so much constrained in
+terms of place (although there are prescribed comic locations, such as
+comedy clubs, the stage, etc.) but it is more limited in terms of times or
+situations. All societies will have a more or less specific list of times when
+it is inappropriate to joke (for example, funerals), but more importantly,
+there are signals, known7 to the entire social group, that introduce and
+delimit the humorous “reality.” Typically, we think of formulas such as
+“do you know the joke about…” but other markers may be present as
+well, such as the familiar smiling, laughing, etc. but also face painting
+(clowns), special dress, such as carnival costumes or the practice of
+dressing like the opposite sex in the Caribbean carnival, documented
+in Sherzer (2002, pp. 145–146).
+The social conventions about humor form that society’s “comic cul-
+ture,” defined by Berger as “the definitions of comic situations, roles,
+and acceptable contents in any social group or society” (1997, p. 68).
+Needless to say, social groups may be as small as a couple and as large as
+a (trans-)national entity (e.g., Chinese humor, European humor).
+However, the process of defining a situation as comic has another side,
+or as Berger puts it: “As the comic situation is socially defined, it is at
+the same time contained” (1997, p. 68). The process of delimiting, of
+containing the “alternate reality” reflects at the cultural level the same
+idea behind the principle of least disruption at the conversational level
+(see Section 8.2.2). In other words, an alternate reality is fine, but it
+cannot take over the “real” reality.” The carnival, for example, works
+because it is limited to Mardi Gras. If one tried to have 365 days of
+carnival, the society would collapse, as no productive work would get
+done. As the proverb widely attributed to Seneca and Horace goes, Semel
+in anno licet insanire (Once a year, you may go crazy). Once the party is
+over, we all go back to our regular lives, work, and obligations.
+7 The knowledge need not be explicit: this is the kind of implicit knowledge of compe-
+tence. Just like speakers of a language know how to speak without being able to articulate
+the grammatical rules that govern their behavior.
+314
+
+
+--- PAGE 338 ---
+13.5 FURTHER READINGS
+13.4 Conclusions
+This chapter wraps up the third part of the book on the performance
+of humor. While the previous chapters have been mostly interactionist
+in their perspective, this chapter was more oriented toward variation,
+i.e., how the humorous practices of the speakers are affected by such
+factors such as gender, age, social class, and dialectal repertoire. The
+final part of the chapter deals with the ultimate form of variation,
+the cultural construction of humor at large. It is fair to say that less
+research is available, generally speaking, on these subjects, perhaps with
+the exclusion of the gender variable. This may explain the somewhat
+tentative nature of some of the treatments.
+13.5 Further readings
+Davies (2017) is an excellent synthesis of the subject. Good overviews
+of the research on gender and humor can be found in Crawford (2003);
+Kotthoff (2006); and the already mentioned Davies (2017). Apte (1985)
+remains a good synthesis of work on the social aspects of humor, but is
+now out of date.
+315
+
+
+--- PAGE 339 ---
+

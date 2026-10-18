@@ -2,7 +2,7 @@
 
 Source: Attardo, *The Linguistics of Humor: An Introduction* (OUP 2020),
 Chapter 7 (GTVH), read in full from
-`freaktown/data/comedy-theory/The Linguistics of Humor....pdf`.
+`library/comedy/ATTARDO-LINGUISTICS-OF-HUMOR-2020.pdf`.
 This file is the bridge from the book to our classifier design.
 
 ## The punchline finding (literally)

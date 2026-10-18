@@ -1,0 +1,789 @@
+--- PAGE 180 ---
+8
+Pragmatics of humor
+8.1 Pragmatic principles
+158
+8.2 Nature of the violation of the CP
+163
+8.3 Irony and humor
+168
+8.4 All humor is intentional
+170
+8.5 Conclusions
+175
+8.6 Further readings
+175
+We’ve seen in Chapter 5 that we can arrive at two significant
+generalizations about humor and namely that all meaning differences
+may be used for the creation of humor and that all humor is semantically
+based. This is not to say, however, that humor is purely a semantic
+phenomenon. It is clear that humor has a significant pragmatic
+component.1
+We can now introduce a third generalization about humor: humor
+may arise from the violation of pragmatic rules alone. Note that this
+does not contradict the first two generalizations: pragmatic rules are
+meaningful, albeit at a different level than semantic rules.
+1
+As we saw, the Semantic-Script Theory of Humor (and therefore the General Theory
+of Verbal Humor) incorporate pragmatics within semantics and that therefore the argument
+of whether humor is a semantic or pragmatic phenomenon is moot. It should be noted that
+while it is true that pragmatic factors enter in the construction of the sense of a text, it is also
+true that the text has a relationship with its context and that the overall meaning of the text
+is given by the interplay of the semantically-and-pragmatically-arrived-at meaning and the
+context.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 181 ---
+PRAGMATICS OF HUMOR
+8.1 Pragmatic principles
+The material in this chapter may require some linguistic background
+that goes beyond what a typical introductory course in linguistics will
+provide. Therefore, we will first introduce some pragmatic principles
+that underlie communication, starting with speech act theory.
+8.1.1 Speech acts
+J. L. Austin and John Searle are the founders of speech act theory. As the
+name of the theory indicates, speaking is performing a kind of action.
+Speech act theory begins by distinguishing three different acts in each
+utterance:
+• Locutionary act: what we say literally.
+• Illocutionary act: the commitment made by saying the locutionary
+content. Examples are betting, promising, swearing, baptizing, and
+naming. This is the force of the sentence; the activity the speaker is
+trying to accomplish with it.
+• Perlocutionary act: the effect or intended effect the utterance has
+on the hearer.2 Surprising someone, scaring them, or amusing them
+would be perlocutionary effects of an utterance.
+Attardo and Chabanne (1992) defined a humorous utterance as one
+whose perlocutionary goal is to amuse its audience or at least evoke
+the recognition of the intention on the part of the speaker to amuse
+his/her audience. This definition, far from being circular, emphasizes
+the dependence of the humorous nature of the text on its context,
+and the intentions of the speaker/hearer. Defining the humorous text
+as a text whose perlocutionary goal is to be perceived as humorous
+is a strictly functional definition, but it also ties the definition to the
+intended perception of the text by an audience, i.e., the effect that the
+speaker thinks his/her text will have on the hearer(s). In what follows,
+we will expand slightly this definition, to highlight the potential role the
+audience plays in defining something as humorous.
+2 Recall that “hearer” is used as a technical term, meaning not just a lone hearer, but
+possibly a wider audience, including overhearers.
+158
+
+
+--- PAGE 182 ---
+8.1 PRAGMATIC PRINCIPLES
+8.1.2 Cooperation and implicatures
+There are some special preconditions that are common to all sentences
+of all languages and not just to speech acts. One such precondition is
+that we assume that other speakers are telling the truth. Naturally, we
+know that this is not always the case, and that speakers lie, on occasion.
+However, as a general rule, we assume that speakers are truthful and
+are not trying to deceive us. If we didn’t, communicating would be
+impossible, since we could not trust anything said by other speakers.
+Another assumption is that speakers are sticking to the point. Suppose
+that someone asks you “What do you think of hip hop?” The answer, “My
+sister just graduated from college” is not to the point and so irrelevant to
+the question. In conversation, this would be considered a non-sequitur.
+Thus, if we want to communicate, we must stick to the point of what
+is being said. These assumptions are some of the rules that govern
+conversations. These are general rules or principles that all speakers
+follow unconsciously. They are not prescriptive rules. They are more like
+good advice, along the lines of:
+(63)
+Avoid Highway 635 in Dallas at rush hour.
+You are free to go there, of course, but you’d better not if you don’t want
+to get stuck in traffic.
+Paul Grice, a British philosopher transplanted to Berkeley, codified
+these general expectations as the co-operative principle (CP). The CP
+consists of four maxims (in a nod to Kant, who states parts of his moral
+philosophy as maxims). Taken together, the four maxims and their sub-
+maxims form the principle of cooperation, which states roughly that a
+speaker’s conversation should be as effective and cooperative as possible.
+Grice’s original formulation is worth quoting:
+Make your conversational contribution such as is required, at the stage at which it
+occurs, by the accepted purpose or direction of the talk exchange in which you are
+engaged.
+(Grice, 1989, p. 26)
+The following are the four maxims:
+1. The maxim of quality
+• Do not say what you believe to be false.
+• Do not say that for which you lack adequate evidence.
+2. The maxim of relevance—Be relevant!
+159
+
+
+--- PAGE 183 ---
+PRAGMATICS OF HUMOR
+3. The maxim of quantity
+• Make your contribution as informative as is required.
+• Do not make your contribution more informative than is
+required.
+4. The maxim of manner
+• Avoid obscurity of expression.
+• Avoid ambiguity.
+• Be brief.
+• Be orderly.
+What happens if speakers do not follow the CP? There are several
+cases. The simplest one is that communication breaks down. The speak-
+ers become confused, do not understand each other and need to resort
+to forms of repair, or abandon communication entirely. For example,
+consider the following passage from Heidegger:
+(64)
+Will we see the lightning-flash of Being in the essence of tech-
+nology? The flash that comes out of stillness, as stillness itself?
+Stillness stills. What does it still? It stills being into the coming to
+presence of world. (Heidegger, M. (1977) The question concerning
+technology and other essays. New York, NY: Harper and Row.
+p. 49)
+Example (64) clearly violates the maxim of manner and specifically the
+submaxim warning to avoid obscurity of expression. It may violate other
+maxims as well, but since I, for one, have no idea what Heidegger is
+saying, it is hard to determine whether it is relevant in the context in
+which it is said, etc.
+Other options are giving up entirely on the communicative exchange:
+socially codified forms of doing so are the expressions “no comment”
+and “I cannot say more.” Non-socially ratified forms are simply aban-
+doning the conversation entirely (i.e., stopping speaking, or changing
+the topic entirely).
+There are some modes of communication that allow violations of the
+CP, under specific constraints. So fiction writing, playacting, and any
+forms of creative uses of language have a certain amount of leeway. One
+may freely make up events and circumstances and even invent entire
+universes within fiction.3 The need to maintain suspense in a work of
+3 The existence of genres such as the memoir, in which real-life stories are fictionalized,
+is an ambiguous area. For its problems, and in general for the non-cooperative aspects of
+fiction, see Attardo (2008).
+160
+
+
+--- PAGE 184 ---
+8.1 PRAGMATIC PRINCIPLES
+fiction will require the author to withhold crucial information from the
+reader/viewer (a violation of the maxim of quantity), such as the identity
+of the assassin. Humor and jokes fall under this category, both because
+they are mostly fictional and because they violate the CP in specific ways.
+Other modes of communication, such as lying and deceiving are based
+on the assumption that one’s violation of the CP will remain undetected,
+at least long enough for one’s goals to be achieved. For example, some
+rules of politeness require one to lie to avoid offending (“How do you like
+my new haircut?”). It should be noted that white lies, such as the surgeon
+lying about the health of his parents to the injured child whose parents
+perished in the same accident, are plain violations of the CP but done for
+purposes that society approves of (helping a child, not hurting someone’s
+feelings). Regular lies are violations of the CP done for personal gain.
+The distinction is ethical, not semantic/pragmatic.
+In other situations the maxims may clash: thus one may want to be
+truthful but lack adequate evidence for what one wants to say. Clashes
+are problematic for the speakers, because there are generally no easy
+solutions to the clash and the speaker may need to violate one maxim
+in order to follow another one. Often the cause of a clash is politeness,
+a principle not included in Grice’s original formulation, but that Leech
+(1983) has argued should be given the same status. Thus one may think
+a friend’s outfit to be hideous, but politeness will prevent him/her from
+telling the truth. There exists one last case of violation, with special
+properties, to which we turn next.
+8.1.3 Implicature
+Implicatures are violation of the CP that are obvious (“blatant”), where
+there is no clash with another maxim or intention to mislead. Grice
+labels these “exploitations” of the maxims. These exploitations are viola-
+tions that are redeemed by the fact that, if we make the assumption that
+the violation is deliberate and intended to be perceived as such, since
+it is obvious and thus cannot be seen as intending deception, on the
+part of the speaker, the hearer can work out another intended (implied)
+meaning which can be inferred from the context of the communicative
+exchange. Context, broadly defined, includes the co-text (the other
+words in the text), the situation in which the utterance takes place, as
+well as background information, and awareness of the CP itself. This
+implied meaning is called an implicature. Implicatures have been used to
+161
+
+
+--- PAGE 185 ---
+PRAGMATICS OF HUMOR
+explain metaphors, irony, and other tropes (understatement, hyperbole,
+etc.). They are generally believed to be crucial to explaining figurative
+and generally non-literal uses of language.
+Implicatures can be usefully contrasted to logical inferences, which
+follow from the meaning of a sentence: thus from the meaning of
+(65)
+John is a doctor.
+it follows logically and necessarily that
+(66)
+John has a doctoral degree.
+Inferences are necessary and undefeasible, witness the anomaly of
+(67)
+* John is a doctor but he does not have a PhD, EdD, or MD.
+Since we cannot say that John is a doctor and he does not have a
+PhD, it follows that the inference is undefeasible. Contrast this with
+implicatures: implicatures are probabilistic (i.e., probable, not certain)
+and defeasible without contradiction. Contrast the following example:
+(68)
+Mary and John are married, but do not love each other
+which may be sad but is perfectly well formed, in which that two people
+who are married should love each other is an implicature (and hence
+defeasible) to
+(69)
+Mary is single, but is married to John.
+in which being single implies necessarily and undefeasibly that one is
+not married. Note that it would be a logical contradiction to say that
+Mary is single and not single.
+A special class of inferences are presuppositions, which are inferences
+that hold simultaneously for a sentence and its negation. So, considering
+again (65), and its negation
+(70)
+John is not a doctor.
+from both (65) and (70) it still follows that there exists someone
+whose name is John. Note how the existence of John is presupposed
+by both (65) and (70) and that this is a necessary inference, witness the
+anomaly of
+(71)
+* John is a doctor but there is no-one called John.
+162
+
+
+--- PAGE 186 ---
+8.2 NATURE OF THE VIOLATION OF THE CP
+8.1.4 Humor and the implicit
+Implicatures, inferences and presuppositions are all implicit, in the sense
+that they are part of what the text does not say literally and explicitly.
+In this respect, they are crucial to addressing an heretofore seriously
+neglected aspect of humor, and namely its connection with the implicit
+of a text. The topic of humor and the implicit is in dire need of research
+(see Attardo, 1994, pp. 289–290 for a review). Guagnano (2013) shows
+that the difference between jokes and humorous anecdotes lies, among
+other things, in the fact that whereas jokes keep implicit both the second
+script and the resolution of the incongruity it brings about, humorous
+narratives present both scripts and the resolution more or less explicitly
+within the text.
+8.2 Nature of the violation of the CP
+There exists an extensive literature that regards humor as a violation of
+the CP. As we saw, Raskin (1985) classifies humor as a non-bona-fide
+mode (bona-fide communication follows the CP).
+There have been a few attempts to claim that humor is not a “real”
+violation of the CP, either by claiming that the violation is merely men-
+tioned, or attributed to a character in the text, or otherwise normalized,
+for example, by turning it into an implicature (Klungervik-Greenall,
+2003; Dynel, 2009b; Goatly, 2012). Mooney (2004, p. 915) claims that
+humor is a non-successful violation and that therefore implicatures
+follow from it. There are serious problems with these views, some of
+which are refuted in Attardo (1994, 2017c). We address the idea that the
+violation of the CP in humor leads to a flout below.
+8.2.1 Is humor a flout?
+Recently, an interesting proposal has been presented by Goatly (2012:
+235) to see humor as a short-term violation (or as he has it “a flout
+delayed by violation”). Goatly explain that “the breaking [=violation]
+of the maxims must be recognized almost immediately, at least within
+the next couple of turns of the discourse for the joke to work” (235).
+There is a problem with this idea, which Goatly acknowledges in a
+163
+
+
+--- PAGE 187 ---
+PRAGMATICS OF HUMOR
+footnote, and namely that these flouts would behave differently from
+all other flouts. For starters, they are not defeasible and they do not
+generate implicatures. More importantly, the violation is not meant to
+be recognized immediately, at the time of the first processing of the text,
+as it is in flouts.
+Let us consider the following joke
+(72)
+My wife accused me of being immature. I told her to get out of my
+fort.
+From the first sentence we recover the following relevant inferences:
+the speaker is male and the speaker is married.4 From the script for
+marriage we also derive the inference that the speaker is of legal age to
+be married (hence at least 18 or 16 with parental consent, in Texas) and
+the implicature that the speaker is probably at least in their mid-twenties
+(only about 7% of men marry before 20, according to the US census
+data). The second sentence however conflicts with the script we have
+constructed so far (married man older than 20) since the lexeme fort
+activates the script fort which itself activates game and child (children
+play in make-pretend forts). The incongruity of why a married man is
+playing a children’s game is not resolved, but there is a minor resolution
+aspect in the fact that the speaker of the text (another presupposition:
+from “my” and “I” we know the text is in the first person) considers the
+response of expelling his wife from his play-fort an appropriate answer
+to the accusation of immaturity.
+How does the text violate the CP? First, the text is fictional. There is
+no evidence that this exchange might actually have taken place, at any
+time. To put it bluntly, this is not a true story. Hence, this is a violation
+of quality.
+Second, the text withholds significant information in the first sen-
+tence. The text does not focalize the age of the speaker nor the degree
+of maturity of the speaker until the second sentence, which contains
+the punch line “my fort” (the last phrase of the last sentence of the
+text). Consider that a fully informative text should have been shaped
+as follows:
+(73)
+A man who still engages in games inappropriate for his age says:
+“My wife accused me of being immature. I told her to get out of
+my fort.”
+4 Gay marriage is still uncommon enough that it would have been topicalized if this had
+been the situation.
+164
+
+
+--- PAGE 188 ---
+8.2 NATURE OF THE VIOLATION OF THE CP
+Third, since no explanation is provided within the text for the
+incongruity between the presumptive age of the speaker and his
+behavior, it is difficult to assess the relevance of the second sentence
+to the challenge presented by the wife to the husband. Presumably, a
+self-defeating response is not a good argumentative move and so it
+may be considered irrelevant, since a relevant response should have
+addressed the wife’s allegation of immaturity, not confirmed it.
+In light of this analysis, the text is clearly non-cooperative (non-bona-
+fide). However, we can agree with Goatly that the recognition of the
+violation occurs very soon after it occurs. From psycholinguistic studies,
+we know that incongruity is detected about 400 milliseconds after it
+occurs and resolved about 200 milliseconds later. However, from the
+second and the third violation, it is hard to see what the implicatures
+triggered by the flouts would be (we easily derive an inference “the
+speaker is immature”, but this does not lead us to a coherent train of
+thought, what Grice calls “working it out”). Instead it takes us to an
+interpretive cul-de-sac: the text is contradicting itself. The speaker is
+both immature and old enough to contract marriage (which would
+probabilistically implicate maturity). Moreover, the “implicature” (let
+us treat it as such for the sake of the argument) is not defeasible as
+witness by:
+(74)
+The man is immature, despite his age, but he is not immature.
+In a normal implicature, the speaker flouts the CP trying to get
+the hearer to work out an intended meaning. In humor, some of the
+violations lead to no intended meaning at all, only contradiction and
+incongruity. Note, in passing, that trying to claim that the perception
+of humor or the triggering of laughter is the intended “meaning” that
+the speaker is trying to convey, changes irresponsibly the definition of
+implicature (which is now broadened to include perlocutionary goals).
+So, in conclusion, while Goatly is correct that the violation of the CP in
+jokes lasts for a very short time, in contrast with lies, for example, whose
+duration is indeterminate, it seems difficult to categorize the violation
+as a flout. Simply put, humorous violations of the CP do not generate
+implicatures, or if they do, they are not the same kinds of implicatures
+that flouts generate outside of humor.
+In conclusion, humor is non-cooperative (non-bona-fide). It shares
+this characteristic with other modes, such as fiction. However, we should
+not assume that humor is therefore nefarious. There are different kinds
+165
+
+
+--- PAGE 189 ---
+PRAGMATICS OF HUMOR
+of non-cooperation: some are antisocial (such as deception) and some
+are pro-social (humor and fiction would fall under this category). Speak-
+ers are quite willing5 to engage in pro-social non-bona-fide modes, for
+example for the purpose of entertainment (fiction, humor). We cannot
+pursue the discussion of anti-social lies and other fully and partially
+non-cooperative forms of communication (propaganda, advertising,
+sales talk, for example) but we will look briefly at the way speakers
+handle non-cooperation.
+8.2.2 The LDP
+Violations of the CP are not random; they follow certain rules. As a first
+approximation, the Least Disruption Principle (LDP) has been proposed
+(Attardo, 1999, Eisterhold et al., 2006). The LDP’s wording is as follows:
+Super-maxim: Minimize your violation of the CP;
+1. limit your violation of the CP to the smallest possible conversa-
+tional unit (one utterance, one conversational turn, one speech
+exchange);6
+2. try to link the entire CP-violating unit to the rest of the interac-
+tion, for example by finding a certain appropriateness to the CP-
+violating unit;
+3. limit your violation of the CP to the smallest possible distance from
+its requirements;
+4. if you must violate a maxim do so in the direction that is expected
+by your audience (i.e., say what your audience wants to hear).
+The LDP is in part a set of advice of how to effectively violate the CP, or
+in other words how to effectively make as if one were producing a bona-
+fide speech act, while in fact one is not. Some of the maxims of the LDP
+concern the degree of the violation (smaller violations are less likely to
+be detected), and the direction of the violation (tell your audience what
+they want to hear); clearly, they are instructions on how to lie, obfuscate
+and/or inveigle.
+5 As Coleridge aptly stated, it is a “willing suspension of disbelief.”
+6 Conversational demands, such as preferred and dispreferred responses may require
+longer stretches of discourse than a single turn. For example, in Southern Italian culture,
+while at the dinner table, one should refuse offers of seconds for food at least twice before
+accepting. In order to non-cooperatively refuse food, one then needs at the very least 6 turns
+(3 for each speaker).
+166
+
+
+--- PAGE 190 ---
+8.2 NATURE OF THE VIOLATION OF THE CP
+Others maxims of the LDP concern the interplay between the
+violation and the non-violating environment. So, if the speaker wants
+the hearer to be aware of his/her violation of the CP, it is better to keep
+the violation short, because if the violation is prolonged, the hearer may
+lose the motivation to engage in the interaction (why waste resources
+processing known non-bona-fide messages, from which no implicatures
+can be drawn?). Needless to say, if the speaker does not want the hearer
+to be aware of the non-bona-fide nature of the exchange, then no such
+need to minimize the length of the violation exists. This second aspect
+of the LDP is predicated on the fact that even when violating some of
+the most central norms of social interaction, agents are still within
+the scope of their social bonds. There are sanctions for those who
+engage in inappropriate violations (more or less formalized, ranging
+from prosecution for perjury to social shunning).
+Empirical evidence in favor or against of the LDP is hard to come by.
+Much has been made about the existence of long stretches of humorous
+banter in which speakers either support one another’s humor or top
+it (i.e., produce more or better humor), e.g., Kotthoff (2007). How-
+ever, even these extended periods of joking never exceed 15 turns (the
+longest documented one is 13 turns) and need to be continuously keyed
+(Hymes, 1972, p. 62) or framed (Goffman, 1974, pp. 43–44) (marked)
+as humorous (e.g., Zhang and Attardo, 2015). Framing or keying for
+humor can be achieved in many different ways. One is to produce humor
+support (Hay, 2001) such as producing more humor; see Chapter 10.
+Other strategies include laughter, and changes in eye contact and smiling
+patterns (extended, more intense smiling; see Section 10.3).
+Recent results corroborating the idea that speakers return to the
+serious mode as soon as possible include Tsakona (2011), who found
+that the ironical turns in a Greek parliament discussion did not exceed
+three utterances, and only two instances were cases of mode adoption
+(i.e., the hearer continuing the speaker’s irony) and Ruiz Gurillo (2009)
+who found that 48.5% of her corpus of ironical conversational exchanges
+consisted of single turns and 68.5% consisted of three or less turns.
+Holmes and Marra (2002) report that single-turn humor in workplace
+conversations never accounted for less than about 40% of humorous
+turns and in one setting (factory floor) single-turn humor outnumbered
+two-or-more-turns humor. Nuolijärvi & Tiittula (2011) in an analysis of
+Finnish television debates find that,
+167
+
+
+--- PAGE 191 ---
+PRAGMATICS OF HUMOR
+The recipient [of the irony] usually treats the irony-implicative utterance as literal ( . . . )
+the recipient overtly bypasses the ironic meaning and ignores the negative evaluation in
+it, but simultaneously ironises the original ironist or his/her talk. Thereafter, the original
+ironist in turn responds literally, so that the conversation shifts back to the serious, non-
+mocking mode. In other words, the original ironist continues as if he or she had not
+been ironic at all.
+(p. 584)
+To paraphrase, the Speaker is ironical, the Hearer responds to the literal
+meaning, but mode adopts, i.e. responds with irony to irony (see Section
+11.3.1.3), to save face. The original Speaker responds also literally, hence
+completing the return to the serious mode. In this case, return to the
+serious mode is delayed by one turn to save face (essentially an ironical
+tit-for-tat).
+8.3 Irony and humor
+There is a common misconception that irony is saying the opposite
+of what one thinks. In fact, irony is a much broader phenomenon. In
+pragmatic terms, saying the opposite of what one thinks corresponds to
+a violation of the maxim of quality. However, convincing evidence has
+shown that the violation of any maxim may generate irony. Good exam-
+ples are understatements and exaggerations: for example, in torrential
+rain, one might say,
+(75)
+It seems to be drizzling.
+Clearly, these are violations of the maxim of quantity, not of quality;
+after all there is some precipitation. It is the intensity of the precipitation
+that is inappropriate. Importantly, ironical violations of the maxims are
+meant to be recognized as such and thus generate implicatures, unlike
+the violations of jokes, which are not meant to be recognized at the same
+time that they are first processed.
+The theories of irony are fairly complex and many require fairly
+sophisticated psycholinguistic apparatus, which is beyond this treat-
+ment (see Giora, 2003 for a synthesis of the debates). So we will limit
+ourselves to a few observations that will place irony within the context
+if humor research.
+The difference between irony and sarcasm, which has elicited sig-
+nificant discussion, is actually fairly simple to describe: in the classical
+model, sarcasm is a particularly aggressive form of irony, whereas irony
+168
+
+
+--- PAGE 192 ---
+8.3 IRONY AND HUMOR
+is a gentler, less critical type of discourse move. Unfortunately, semantic
+shift took place in the USA in the 1990s and the meaning of “sarcasm”
+took over the entire semantic field of irony/sarcasm, with “irony” being
+relegated to the meaning of an annoying coincidence (see Section 1.1.2).
+Practically speaking, this means that one needs to be very careful, when
+reading studies on irony/sarcasm, concerning the age and geographical
+location of the subjects, as they may have different understandings of
+the folk-terminology irony and sarcasm.
+Irony is not necessarily critical of its target. Irony can be used to
+convey a positive evaluation of the target. For example,
+(76)
+J. K. Rowling published a few moderately successful novels.
+This example of positive irony draws attention to the fact that Rowling’s
+Harry Potter novels were very successful. Another example, which Alan
+Partington drew my attention to, comes from Wodehouse:
+(77)
+“Shakespeare said some rather good things.”
+“I understand that he has given uniform satisfaction, sir.[ . . . ]
+(P. G. Wodehouse. Jeeves and the Tie that Binds. New York: Simon
+and Schuster. 2000. p. 53.)
+In (77), the description of Shakespeare’s work as having given “uniform
+satisfaction” is of course inappropriate, as Shakespeare is widely consid-
+ered the greatest English writer. Since the text is using a characterization
+of Shakespeare’s success that is worse than the reality, it is a negative
+utterance. However, since it implies a positive evaluation it is a positive
+irony.
+There is a consensus that irony comes from a contrast, in a sense close
+to the idea of opposition in humor. This is clearly correct, for example,
+in the torrential rain vs. drizzle example there is a clear contrast or
+opposition between the two ideas. However, contrast is not enough to
+generate irony (“I don’t like beans, but I like tomatoes” also includes a
+contrast, but is patently not ironical). I have suggested (Attardo, 2000a)
+that in order to be perceived as ironical, a contrast has to be both relevant
+and inappropriate. Let us examine both aspects.
+It is clear that irony is a flout in Gricean terms. The speaker says X,
+while intending something else (Y). Y is arrived at using the maxim
+of relevance as a heuristic. When looking for a possible interpretation
+of an utterance, the maxim of relevance is one’s default tool, as the
+assumption that the speaker is meaning something relevant will guide
+169
+
+
+--- PAGE 193 ---
+PRAGMATICS OF HUMOR
+one’s search. For example, suppose that the speaker says “It’s drizzling”
+the hearer would be well served by looking for weather-related items in
+the immediate context: for example, he/she may look outside a window
+to check the weather, or turn on the weather channel, or look at a
+thermometer, etc. Checking for the presence of tomato cans in the
+pantry would make no sense, because tomato cans are not relevant to
+the weather. Let us suppose, for the sake of the argument, that the hearer
+can locate a window in the immediate context and look outside where
+there is a torrential outpour. The hearer may then infer that the speaker
+is trying to communicate something else than the literal statement “it is
+drizzling.”
+This is a flout, first, because the speaker is clearly trying to convey
+something else than what he/she literally said, but also because the
+utterance is inappropriate7 in this context (it is raining and the speaker
+says it is drizzling). If I assume that the speaker is being deliberately
+inappropriate but also relevant (i.e., the reference to the drizzle is related
+to what he/she intends), then I can conclude that the speaker is trying to
+convey ironically that he/she feels the rain is annoying, or unexpected,
+or perhaps that someone had predicted only a small amount or rain
+(this is called echoic irony, because it echoes critically someone’s words).
+Notice how a simple flout of the maxim of quantity (drizzle vs. rain)
+is not ironical per se. If it were drizzling and the speaker exaggerated
+saying “it’s raining,” there would be no perception of irony. In order to
+be ironical, what is said to generate the flout has also to be inappropriate.
+This extra inappropriateness is what I have called “residual violation”
+(because it persists after the flout has been resolved; Attardo, 2001a,
+p. 111) which causes irony to be often perceived as humorous.
+8.4 All humor is intentional
+This section argues that all forms of humor must be either uttered
+or interpreted as intentional distortions of normal, serious, bona-fide
+communicative practices. A direct corollary of this thesis is that the
+category of “unintentional humor” turns out to be have potentially
+confusing effects, and should be avoided in the discussion of humor.
+7 Inappropriateness is defined as a mismatch in presuppositions (Attardo, 2000a). Note
+that the presuppositions of “it’s drizzling” are calculated based on that sentence, and on “it’s
+not drizzling,” as we saw above.
+170
+
+
+--- PAGE 194 ---
+8.4 ALL HUMOR IS INTENTIONAL
+The theory of involuntary humor is mainly implicit, i.e., it is assumed
+as self-evident without discussion. For example, Freud (1905: 182) notes
+that “naive” humor is “found” and not “made” and leaves it at that. A
+problematic aspect of the folk-theory of involuntary or unintentional
+humor is that of distinguishing humor from all sorts of errors and other
+phenomena such as slips of the tongue, spelling errors, typing mistakes,
+typographical errors, etc. Not all ambiguous sentences are puns.
+Consider the following example (from Sherzer, 1978):
+(78)
+In a course in Linguistics there’s a lot to cover.
+This sentence appears quite straightforward, and its meaning is largely
+unambiguous. However, example (79) shows that in fact there is a
+hidden ambiguity in the lexeme “cover” which can be exploited for
+punning:
+(79)
+In a course in Human Sexuality there’s a lot to cover.
+Note that the ambiguity of the lexeme “cover” is also present in (78).
+One can therefore ask the question: “Why isn’t (78) also funny?” The
+structural requirements for a pun are all there (ambiguous element,
+opposed and overlapping scripts hide and examine, as in “peruse”),
+so what is missing? The missing element in (78) is the intention of
+the hearer/reader to make a pun. Suppose to read (79) in any situation
+where the contextual clues about the speaker are abolished. There is
+no telling whether the inscription is meant as a joke, or is the weary
+comment of a Human Sexuality teacher. What will lead the audience
+to opt for the HIDE script, rather than for the EXAMINE script?
+Clearly nothing in the structure of the text itself, as the option did not
+present itself in (78). Inevitably one must reach the conclusion that
+the audience is alerted to the ambiguity of “cover” by the activation
+of the default SEX humorous script. In other words, the audience (the
+reader/hearer) will see the second meaning of “cover” because it “is
+on the look out” for hidden meanings. In fact, even (78) can become
+as much of a pun as (79): suppose that a given teacher of linguistics
+considers some influential trend in linguistics a dangerous influence for
+his/her students, and he/she wants to shelter them from this influence,
+then (78) becomes (suddenly) a reasonably good pun. (79) can lose all
+its humorous potential in the right situation: consider the case in which
+(79) is uttered by an untenured junior faculty member who has failed
+to cover significant parts of the syllabus in his/her Human Sexuality
+171
+
+
+--- PAGE 195 ---
+PRAGMATICS OF HUMOR
+class, and who has solicited a meeting with his/her Department Head
+in a desperate plea not to be fired. In conclusion, it is safe to say that an
+ambiguous sentence becomes a pun depending on the context and on
+how the hearer is disposed towards the communicative situation.
+Consider this example:
+(80)
+This writer, a non-native speaker, was once in need to discuss a
+delicate situation with a female faculty member. So I asked as a
+favor of my advisor if he could “feel up” the faculty member about
+that issue.
+The above error (lexical replacement) was easily corrected (“feel
+up/feel out”) and therefore the hearer could very easily determine
+what the intended meaning was, and proceed accordingly, disregarding
+the parasitic sexual meaning. It should be noted that whenever the
+conditions of communication are sub-optimal (e.g., noisy background,
+physical illness, etc.) the hearer goes to a lot more trouble to reestablish
+the speaker’s intended meaning. If the hearer wants the communicative
+exchange to succeed he/she must attempt to reconstruct as far as pos-
+sible, the speaker’s intention. Clearly, by choosing to disregard the fact
+that in example (80) the speaker did not intend to evoke a sexual script,
+the hearer is leaving the realm of cooperation and violating the principle
+of Charity, which would enjoin the hearer to assume that the speaker is
+making sense. “Feel out” makes much more sense than “feel up” in this
+context.8
+In other words, it is up to the hearer to decide whether he/she
+will respect the cooperative principle or will deliberately misinterpret
+the text by refusing to reconstruct the speaker’s intention. It should
+be added, to ward off a possible objection, that most sentences are
+potentially ambiguous, and thus almost all sentences can be deliberately
+misinterpreted as containing hidden sexual references (sex being the
+default script for humor).
+Consider finally the following classical example, borrowed from Freud
+(1905, pp. 183–184) and here summarized:
+8 There are numerous formulations of the principle of Charity. For our goals, we will
+adopt the definition that requires the speakers to maximize the number of true sentences
+uttered by each other. In other words, the speakers should try to interpret what each other
+says assuming that the other speakers are trying to make sense as much as they are.
+172
+
+
+--- PAGE 196 ---
+8.4 ALL HUMOR IS INTENTIONAL
+(81)
+Two children are performing in front of their family a play they
+themselves wrote. The plot revolves around a fisherman who
+leaves his wife to go in search of fortune. In the second act, set
+several years later, the fisherman returns with a huge fortune.
+His wife greets him by saying: “I too have not been idle.” “And
+thereupon she opens the door of the[ir] hut and reveals to his eyes
+twelve large dolls lying asleep on the floor . . . At this point in the
+drama the actors were interrupted by a storm of laughter from the
+audience, which they were unable to understand.” (Freud, 1905,
+p. 184) [my emphasis, SA]
+Normally adults cut some slack to children, and assume that they
+cannot really mean the sexual overtones that an adult would see in a
+given situation. So the question becomes “why the adults in Freud’s
+story find it amusing, and do not dismiss it as a child’s error?” The only
+hypothesis that seems plausible is that the adults are projecting their own
+thought patterns on the children, thinking, as it were, that the situation
+would be very funny, if the sentence had been uttered by someone who
+would be aware of the implicatures of the situation (namely, adultery). If
+the adults processed seriously the situation the inferential paths would
+be (greatly simplifying): she shows twelve children she had while her
+husband was away; however, in her knowledge of the world children
+have nothing to do with sex (say, they are brought by the stork), therefore
+no sexual innuendo is meant, and the implication of the situation is that
+she has been busy too. Yet, the adults choose to process the situation
+as if the child were aware of the fact that having children presupposes
+sexual relations, a fact for which they have (or presume to have) evidence
+that it is false. Therefore, the adults are being non-cooperative and
+uncharitable.
+Let us assume, for the sake of the argument, that any of the examples
+above were not intentionally mis-intepreted but erroneously: in other
+words that the hearer interprets the children’s utterance erroneously
+as intending the sexual implicature. In this case, the hearer should
+experience surprise, dismay, and perhaps even concern that such young
+children would be aware of sexual matters. To react with laughter implies
+that the hearer is at some level aware of the fact that the children cannot
+mean what they have just implied.9 Still, we could argue that in the case
+9 I am using “mean” here in the folk meaning, not as a technical term in Gricean
+pragmatics.
+173
+
+
+--- PAGE 197 ---
+PRAGMATICS OF HUMOR
+of an honest mistake, the hearer laughs because he/she is surprised by
+the incongruous situation (for example, of a student asking his advisor to
+feel up a colleague). Needless to say, this is not the case in reality, because
+upon correction of the misapprehension, the hearer should apologize
+to the speaker, along the lines of “I am sorry, I misunderstood you, I
+thought you were saying that X” and I am not aware of any claims that
+this happens habitually after cases of unintentional humor (although I
+am not saying that it cannot happen).
+The crucial aspect of unintentional humor lies not in the intention
+of the speaker or the text being uttered, but in the way the audience
+interprets the utterance. And since it has been shown that the audience
+interprets the utterance either erroneously or not along the lines of
+Grice’s cooperative mode, but rather along a non-cooperative mode for
+humor (non-bona-fide), it appears that the audience is responsible from
+the humorous interpretation of the text. Two corollaries follow from this
+conclusion: 1) If the audience is aware of the fact that they decide to
+move to the non-bona-fide mode of communication, they intentionally
+interpret the utterance in a humorous way; if the audience is not aware
+that they misinterpreted the utterance, they are nonetheless aware (or
+at least they act as if they were so—I make no claim for the fact that
+the audience is in fact consciously aware of anything) that they are
+interpreting uncharitably the utterance, by the very fact that they find
+it ridiculous.10 2) the interpretation is in fact a misinterpretation (either
+deliberate or not) since, as it has been shown of Freud’s example above,
+the communicative intention of the speaker is (deliberately) altered by
+the hearer/audience. From these corollaries it follows naturally that no
+text that is perceived as humorous is unintentionally such: either the
+speaker or the hearer are always aware that the principle of cooperation
+is being violated. They may not both be aware of the fact at the same
+time, but one always is. When the hearer finds humorous a text not
+meant to be funny he/she is intentionally misreading it as being funny,
+whereas at best the text can be faulted for being ambiguous (as is often
+the case with “funny” headlines, typos, etc.) or somehow inappropriate.
+Thus we can formulate a fourth significant generalization about humor.
+All humor is intentional, either in the intention of the speaker, the hearer, the audience,
+or any combination thereof.
+10 A charitable interpretation of the children example in Freud would of course be that
+they cannot possibly mean what they are saying, etc.
+174
+
+
+--- PAGE 198 ---
+8.6 FURTHER READINGS
+8.5 Conclusions
+All humor involves a violation of the principle of cooperation and of
+other principles such as appropriateness and charity. These violations
+are real, if short lived. They are not flouts or otherwise pretend vio-
+lations. There is some evidence that the speakers tend to contain the
+violations of pragmatic principles, along the lines of the Least Disruption
+Principle. The interpretation of the humor is guided by the maxim (or
+principle) of Relevance. Some or most irony is humorous. Irony is a flout,
+but that does not make irony humorous. There needs to be more of a
+violation for irony to be humorous. Finally we added two significant
+generalizations: humor may arise from a pragmatic violation and all
+humor is intentional, either on the speaker or the hearer’s side, i.e.,
+someone has to intend (key/frame) the situation as humorous.
+8.6 Further readings
+There are many introductions to pragmatics, but Austin (1962) and
+Searle (1969) are clear and worth reading in full. Grice’s (1989) collec-
+tion of his work published during is lifetime is only for the advanced
+student. A discussion of the violation of the maxims and the CP in
+humor is found in Attardo (1994, Chapter 9). Leech’s (1983) discussion
+of politeness is also accessible. On humor and relevance, see Yus (2017).
+There is no accessible discussion of the principle of charity but I found
+Jackman’s (2003) quite useful. The least disruption principle is discussed
+in some detail in Eisterhold et al. (2006). The discussion of irony as
+relevance and inappropriateness is discussed in more detail in Attardo
+(2000a). A good advanced book on irony is Gibbs and Colston (eds.)
+(2007). The connection between humor and irony is complex and goes
+beyond an elementary treatment. See Hidalgo Downing and Iglesias
+Recuero (2008) for a good discussion. The section on intentionality fol-
+lows closely Attardo (2003), which is however only available in Russian
+translation.
+175
+

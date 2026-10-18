@@ -1,0 +1,1232 @@
+--- PAGE 258 ---
+11
+Conversation analysis: humor
+in conversation I
+11.1 Conversation and discourse analysis
+236
+11.2 CA of laughter
+239
+11.3 The canonical CA joke analysis
+246
+11.4 Issues in CA of humor
+252
+11.5 Conclusions
+261
+11.6 Further readings
+262
+This chapter deals with the realization of humor in conversation, as
+part of the broad Hymes-Gumperz ethnomethodological interactional
+approach to the performance of humor. The topic here is how humor
+fits within the flow of conversation. We first need to examine the
+special methodologies used by conversation and discourse analysis, the
+fields that specialize in the study of conversation and discourse. As we
+will see, some of the underlying assumptions, such as the influence of
+phenomenology, are somewhat different from the previous chapters and
+need to be elucidated. Because conversation and discourse analysis are
+one of the fields of research relevant to humor in which most research
+has been published in the past 20 years or so, in order to keep the size
+of the chapter manageable, I have had to split the discussion on two
+parts. This chapter deals with Conversation Analysis and Chapter 12
+deals with Discourse Analysis. Despite the methodological differences
+between the two fields, sometimes it is difficult to classify a given study
+as belonging clearly to either field. No special significance should be
+assumed in my having dealt with a given publication in this or the other
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 259 ---
+CONVERSATION ANALYSIS
+chapter. Sometimes it was convenient to keep different treatments of
+a topic together and sometimes, despite the fact that the work is not
+conversation analysis, it fit in the discussion (see for example the dis-
+cussions of humor support and mode adoption, among the reactions
+to humor).
+11.1 Conversation and discourse analysis
+Conversation analysis (CA) is used to refer to the research that originates
+directly in Sacks and his collaborators and that puts an emphasis on
+the sequential organization of conversations. Discourse analysis (DA)
+is also interested in conversations but broadens the scope of analysis
+in several directions. The most evident one is that CA, as the term
+“conversation” indicates, focuses on spoken multiagent (small groups)
+interactions, whereas discourse is more broadly defined as potentially
+any type of text. In our analysis we will focus primarily on the functional
+aspect of conversation, i.e., what speakers do with humor in conver-
+sation. Another difference is that CA of humor rejects quantitative
+analysis, if not outright, at least programmatically, whereas DA is more
+open to it, especially in the group of scholars inspired by Holmes’
+work. The CA stance against premature quantification is articulated in
+Schegloff (1993).
+This is not the place to discuss phenomenology in any detail, so we
+will limit ourselves to noting that one of the tenets if phenomenology is
+the idea that the explanations provided by the research must “ring true”
+or be relevant to the people who are involved, not just to the scholars
+doing the research. Another central tenet is that the object of research
+must be ecologically valid, i.e., as naturally occurring and untampered
+by the researchers. A further idea is that of withholding preconceptions
+and assumed ideas and looking at the phenomena with “fresh eyes.” This
+is called “bracketing.”
+11.1.1 Bracketing
+The idea of “bracketing” consists in putting aside (metaphorically in
+brackets, hence the name) assumptions, preconceptions, biases, pre-
+existing beliefs, and (significantly) theories and explanations, in order to
+look at the data per se. In the case of conversational humor, this would
+236
+
+
+--- PAGE 260 ---
+11.1 CONVERSATION AND DISCOURSE ANALYSIS
+mean stepping away from the idea that “someone intends to amuse their
+audience and so tells a joke” to consider questions such as, How do
+people tell jokes in conversation?, How does a turn in conversation get
+counted as funny?, and Who is funny and why?
+The first step of bracketing in CA and DA is the data collecting
+and transcription. Frequently, CA analyses use participant observation,
+which has the advantage in the case of humor, to allow an in-group
+perspective, which allows the researcher to know what turns are meant
+as humorous, for example. Traditionally, data were collected as audio
+files. More recently, video and eye-tracking data have also been utilized.
+Also, more recently, larger corpora not collected by the researcher have
+been used. These studies will be addressed in Chapter 12.
+The transcription is very fine grained and pays attention to overlaps,
+latchings, pauses, etc. that usually get “edited out” of literary dialogue.
+The transcription system of CA was heavily influenced by the work of
+Gail Jefferson. We present some of the notation used in CA studies of
+laughter and humor in Section 11.1.1.1, below.
+Next, the conversational data are conceptualized as “turns” and not
+as questions, answers, arguments, or repartees. The researcher can now
+observe that speaker A utters a turn, consisting of, say a question, and
+speaker B utters a turns which consists of a statement and if speaker A
+treats the response he received in the turn uttered by B as an answer to
+this/her question, then the researcher would classify this as a question
+and answer sequence, rather than assuming that each response to a
+question is an answer. So, for example, if A says something and both
+A and B orient to it as an insult, then A insulted B. Note that the content
+of what A said, is not considered particularly relevant, if at all.
+11.1.1.1 Jefferson’s notation
+One of the most significant contributions of classical CA to linguistics is
+the transcription system, devised by Gail Jefferson, which allowed schol-
+ars to capture some of the prosodic detail lost in conventional transcripts
+of speech, while emphasizing the sequential organization of speech,
+and providing the distance from the data necessary for the bracketing
+required by the phenomenological methodology.1 The system is based
+on traditional orthography and punctuation, with several modifications
+1 See an example contrasting a word-by-word transcription and a CA style transcription,
+in Wooffitt (2005, pp. 11–12).
+237
+
+
+--- PAGE 261 ---
+CONVERSATION ANALYSIS
+aimed at capturing overlapping in speech, indicated by matching square
+brackets and the placement of the transcript on the page, so that the
+overlapping turns match in position on the page, like staves in music.
+Some of the notation is provided in Table 11.1.
+Most scholars adapt the Jefferson model for their purposes. For exam-
+ple, in some of the work discussed in Chapter 10 precise measurements
+of the length of pauses are required, and so the length of the pauses is
+indicated in milliseconds, whereas in Jefferson’s system it is indicated in
+seconds. Additions have been made for specific purposes, for example,
+Chafe (2007) uses “” to indicate wordsspoken with a smilingvoice.
+For a more complete discussion, see Atkinson and Heritage (1984, 1999)
+Table 11.1 Notation for transcription, based on Jefferson’s
+.
+sentence final falling intonation
+,
+clause-final intonation (‘more to come’)
+!
+animated tone
+?
+rising intonation
+italics
+emphatic stress
+CAPS
+spoken much louder than surrounding text, or
+prominent syllable
+°words°
+spoken more quietly than surrounding text
+:
+after a vowel indicates elongated vowel sound
+::
+more elongation
+/words/
+in slashes indicate uncertain transcription
+wo[rds
+beginning of overlapping speech
+[words
+=
+latching
+hhh
+aspiration
+.hhh
+inhalation
+HHH
+aspiration/laughter while speaking
+(sarcastically)
+description of voice quality or non-verbal action
+(...)
+part of a turn (or turns) has been omitted
+(.)
+short pause
+(7.2)
+pause with length in seconds
+‘words’
+speaker is quoting another person or adopting his/her voice
+@ words @
+smiling voice quality (also used for laughter pulses)
+238
+
+
+--- PAGE 262 ---
+11.2 CA OF LAUGHTER
+and specifically on laughter Jefferson (1985) and Hepburn and Varney
+(2013).
+11.2 CA of laughter
+It is fair to say that within conversation analysis the main focus has been
+not on humor but on laughter. The reader will recall from Chapter 1
+the discussion of the fact that humor and laughter are not coextensive.
+This is not controversial, including within CA, which in fact contributed
+a body of discussion on non-humorous uses of laughter in discourse
+analysis, briefly reviewed below in Section 11.4.2. Witness also Clift’s
+claim that “Perhaps the most significant outcome of Jefferson’s early
+work on laughter was the now well-established analytic distinction
+between laughter and humour (1984)” (2012, p. 1303).
+Nonetheless, in conversational or discourse-oriented approaches, for
+various historical reasons, which will be mentioned below, laughter has
+been used as the indicator or marker of humor, witness the pellucid
+statement by Kotthoff (2000, p. 64) “Laughter is the contextualization
+cue for humor par excellence,” or Consalvo (1989, p. 288) definition
+of “humorous interaction” as “communications in which at least one
+participant [ . . . ] laughed.”
+11.2.1 Laughter is indexical
+CA starts from the basic assumption that laughter is indexical: “when
+it [= laughter] occurs, people hear it as having a referent, pointing to
+something in the immediate environment, typically just preceding or
+concurrent” (Glenn & Holt, 2013, p. 3). Glenn (2003) states also that the
+placement of laughter “displays precisely what the referent or laughable
+is, typically via placement concurrent with or immediately following the
+object” (2003, p. 49; my emphasis, SA). This idea was already found in
+Sacks (1974, p. 348; Sacks, 1992, p. 745) “Laughing is the sort of thing
+that, when it’s done it will be heard as tied to the last thing said” (my
+emphasis, SA).
+However, things are not that simple. Holt (2011, p. 393) also mention
+that the referent of laughter might be other laughter or smiling and
+“something external to the interaction.” Günther (2003, p. 195) reports
+that “quantitative data on laughter position shows a relatively high
+239
+
+
+--- PAGE 263 ---
+CONVERSATION ANALYSIS
+proportion of laughter in initiating moves or turns containing an initi-
+ating move compared to response moves” (my emphasis, SA). Glen and
+Holt concur, “Laughter can occur before, after, or during talk” (Glenn
+& Holt, 2017, p. 6). So, recapping, laughter can occur before, after, or at
+the same time as the referent is refers to.
+Laughter may constitute an entire turn. It also may occur after a pause.
+Laughter does not punctuate speech (Nwokah et al. 1999; Chafe 2007),
+contra Provine’s claim (2000). The referent may be talk, other laughter,
+or anything else. If the laughter may occur anywhere, how can hearers
+identify the referent pointed to by the laugher? “Laughers will do things
+that mark the referent of their laughs; other participants noticeably
+orient to identifying what that referent is” (Glenn & Holt, 2013, p. 3).
+This claim is too strong, in the sense that even though it is generally
+true that people laugh at something, there are plenty of situations where
+the something is left unspecified, deliberately or not. We refer to this
+feature of humor as “indeterminacy.”
+Moreover, laughter may occur away from its referent. Consider the
+following exchange, from the same corpus used in Attardo and Pickering
+(2011).
+(110)
+Dyadic conversation between classmates
+J
+hhh
+//[i couldn’t carry a TUNE in a
+BUCKet]//
+M
+[hh]h
+(0.90)
+J
+//wow that wa[s really CORny]
+//
+M
+[((clears throat))]
+//yeAH hh
+[h]//
+J
+[heheh]
+J’s joke revolves around the ambiguity of “carry” as in “carry a tune”
+(sing following a melody) or “carry” (as in haul, physically move a load).
+M responds with a long pause and some muted laughter, so J assesses
+negatively her own joke. M concurs (“yeah”) and provides again muted
+laughter. I would argue that in example (110) above, in the last turn,
+J is not joining in with M’s laughter, which is asynchronous, but is in
+fact laughing at her own corny (by her own self-assessment) joke in the
+second turn of the fragment.
+240
+
+
+--- PAGE 264 ---
+11.2 CA OF LAUGHTER
+While it is true that laughter tends to be tied to its immediate context,
+it is also true that laughter per se has no specific referent, it is ambiguous
+(Attardo, 2002, p. 169) or as Ikeda and Bysouth put it, “equivocal with
+regards to its social meaning” (2013, p. 63). Assume that someone tells
+a joke: the hearer may laugh because they got the joke, or because they
+did not get the joke and are embarrassed, or because they did not get the
+joke and do not want to show that they did not get the joke, or they may
+laugh at the face made by a third party, etc. Often the situation is such
+that the laughter is disambiguated by context, but, and this is my point,
+it does not necessarily always get disambiguated.
+11.2.2 The definition(s) of laughable
+In CA, the concept of “humor” is considered too abstract and theoretical
+to be safely used. It is, according to most Conversation Analysts, a
+“typification (see Heritage, 1984, pp. 144–150) of events in interaction,
+an abstract category that is insufficiently specific” (Glenn & Holt, 2017,
+p. 295) to describe what is going on in interactions. To put it differently,
+it does not bracket our common knowledge that some things are funny
+and others are not.
+Since saying that something is humorous prejudges the issue, accord-
+ing to CA/DA proponents, the concept of “laughable” has been intro-
+duced. Unfortunately, several definitions have been proposed and/or
+used, thus leading to potential confusion. As with most concepts in CA,
+laughable can be traced back to Sacks (1992, pp. 745–746) who notes
+that laughing “has to be done directly after the utterance it’s laughing at”
+(p. 745) and “you laugh at something that happened here” (p. 746) and
+that people assume one laughs at the last utterance (if it’s not the case,
+one will need to identify the utterance one is laughing at). Sacks uses the
+term “laughable” (albeit as an adjective) on p. 746. In Jefferson, Sacks,
+and Schegloff (1977) the term laughable is used as a noun.
+Let us start our discussion with Glenn’s definition, which is as follows:
+“any referent that draws laughter or for which I [= Glenn] can reasonably
+argues that it is designed to draw laughter” (2003, p. 49). Let us focus first
+on the first sentence in the coordinate construction. We will return to the
+second part below. “Drawing” laughter is synonymous with “occurring
+with” and so it boils down to the equating laughter and laughable.
+241
+
+
+--- PAGE 265 ---
+CONVERSATION ANALYSIS
+The laughable is the referent of the laughter. This is clear and
+straightforward.
+However, Glenn explains that “the occurrence of laughter marks
+its referent (usually retrospectively) as laughable – and potentially as
+humorous” (2003, p. 33) and thus “funniness becomes understood not
+as an inherent property of a message, or the internal state of a social
+being, but rather as a jointly negotiated communicative accomplish-
+ment” (2003, p. 33). In Glenn and Holt (2017) the connection to laughter
+is more explicit, but nonetheless Glenn and Holt are very clear about the
+fact that laughable does not imply humorousness, “Although laughter is
+not necessarily a reaction to the presence of humor, clearly it does have a
+close relationship with the (usually preceding) talk: when we laugh we
+laugh at something” (p. 298; my emphasis, SA). The last sentence brings
+up the indexical aspect of the definition of “laughable,” already discussed
+above. So, overall, Glenn’s definition is that laughter is indexical, it is
+a marker of a conversational item as a laughable and in some cases
+(potentially) of humor.
+Another definition, clearly incompatible with the Glenn-Holt indexi-
+cal definition, comes from Ford and Fox: “To count as a laughable, a turn
+(or part of a turn) must be produced with possibly laugh relevant sounds
+and/or bodily displays, and it must be responded to with laugh-relevant
+sounds or bodily displays (Ford & Fox, 2010, p. 340) Chovanec (2018),
+who adopts Ford and Fox’s definition, is explicit: “the term [laughable]
+refers to a turn that both interlocutors orient to as funny” (p. 157). To be
+fair he immediately below problematizes the connection, thus somewhat
+voiding the definition.
+The main difference between Ford and Fox and the Glenn and Holt
+definition is that Ford and Fox are much more restrictive, since they
+would limit “laughable” to laughter to which both the Speaker and
+the Hearer orient to it as such (for example, by laughing). This would
+eliminate, all laughables that are single turns (for example, in trouble
+talk). Regardless of whether one wants to pay this theoretical price, we
+already have a term for an interaction in which both speakers orient to
+with laughter: humor. There are other problems with the definition of
+laughable, to which we turn in the next section.2
+2 Within humor studies, “laughable” is a somewhat archaic term for humor; see for
+example the titles of Grant (1924) “The ancient rhetorical theories of the laughable: the
+Greek rhetoricians and Cicero” and Herrick (1949) “The theory of the laughable in the
+sixteenth century,” so the terminology is unfortunate to begin with.
+242
+
+
+--- PAGE 266 ---
+11.2 CA OF LAUGHTER
+11.2.2.1 Problems with the definition of laughable
+Probably the biggest problem is that there seem to be several “levels” to
+the definition (Glenn & Holt, 2013, p. 9). We will make this explicit in
+this section.
+Glenn’s (2003) definition with the escape clause that a laughable may
+be “designed to draw laughter” (2003, p. 49) introduces the speaker’s
+intentionality in the equation. Moreover, there seems a tendency to
+equate laughter and humor, despite the explicit denials. This is made
+particularly clear by the following quote: “Many laughable turns seem
+far from anything humorous, for example, those that occur in tricky
+or delicate environments such as complaints [ . . . ] or troubles-tellings
+[ . . . ]” (Glenn & Holt 2017, p. 294). So, if laughter of embarrassment,
+for example, is part of the category of laughable, which is by definition
+not necessarily humorous, then why would a laughable be expected to
+associate with something humorous?
+A purely indexical definition has its epistemological validity: while it
+assumes that “laughter” is a unified category, which is of course an unan-
+swered question, as Glenn and Holt concede (2013, p. 5),3 it has on its
+side simplicity and clear operationalization: if there occurs an instance
+of laughter in the conversation, look for the immediately preceding
+turn or the present turn, or a turn nearby for the referent/antecedent
+of the laughter. The price to be paid for this definition is that it can
+only accommodate cases in which laughter is present. The absence of
+laughter is outside the boundaries of the definition. The non-occurrence
+of laughter cannot have a referent, in the same sense that its occurrence
+does.4 Thus, under this definition, if a speaker tells a canned joke
+which is followed by silence, there would have been no reason to expect
+laughter. One can add a theory of jokes to one’s theory of laughables,
+but the point remains: the indexical definition of laughable can only
+function for present laughter/laughable pairs. Relatedly, considering
+smiles, or other features that make laughter “relevant” (2013, p. 9)
+3 The question may be unaswered in CA, but it has long been answered, in the negative,
+in psychology; see the discussion in Chapter 2.
+4 This is not to say that non-occurrence of laughter may not be meaningful, as we saw in
+“un-laughter” in Section 10.1.6. However, there is a significant difference between laughter
+marking a laughable, in the sense, Sacks, Glenn, etc. mean (i.e., co-occurrence), and the
+absence of response to a social expectation (unlaughter). The difference is of course that in
+unlaughter the previous turn is identified as humor and the refusal to sanction its humorous
+nature is what makes the unlaughter meaningful.
+243
+
+
+--- PAGE 267 ---
+CONVERSATION ANALYSIS
+raises the question of why this should be so, unless laughter points
+at more than its referent/antecedent, i.e., carries the association with
+humor.
+One could be picky here and point out that if we reject “humor” as
+an abstract category superimposed on the data (a typification), then
+laughter is as much of an abstract category. Glenn and Holt point out,
+correctly, that “laughter” is a “member’s category” (i.e., it is part of
+the lived experience of the participants), but of course so is humor.
+However, we know from humor studies, primarily psychology, that
+laughter is not a unified category (see the discussion in Section 2.2.3).
+Readers will also recall from Chapter 1 that there can be humor without
+laughter and laughter without humor. So the only coherent definition
+of laughable is any turn that is preceded, accompanied, or followed by
+laughter.
+The definition of laughable is not merely a terminological matter, as it
+creates a serious theoretical problem that has not been discussed in the
+literature, to the extent that it should have been. Here we can only touch
+briefly upon failed humor, which will be discussed in Section 12.4.3. A
+preliminary definition, which we do not endorse but that will do for the
+present discussion, is that failed humor is humor at which the audience
+does not laugh.
+The logical problem raised by failed humor is that, unless the failure
+is remarked upon by the speakers, it can occur without any external
+markings. Indeed, this is the case. Consider the following example, from
+Hay (1994), already discussed above and here repeated for convenience
+(111)
+Conversation among friends (Hay, 1994, p. 46)
+1
+Meena:
+I’m the only person in this room who freestyled
+at nationals and came in second in the women’s
+division
+2
+Dan:
+let’s face it Meena always comes second
+3
+Meena:
+yeah I know that’s cause Sue Willis always beats
+me +
+except at distance
+4
+Dan:
+we were actually making sexual innuendos well I
+was.
+Here turn 4, by Dan, makes it clear that he intended his turn 2 to be
+humorous, but, if he had not uttered turn 4, Meena, who clearly missed
+244
+
+
+--- PAGE 268 ---
+11.2 CA OF LAUGHTER
+the sexual double entendre, would have been entirely oblivious to it. So,
+if Dan had not uttered turn 4, the analyst, much like Meena, would have
+entirely missed the presence of the failed humor.
+On the contrary, if we accept Glenn’s “designed to draw laughter”
+definition then we are within the domain of speakers’ intentionality,
+which can only be inferred. However, this brings us back full circle to
+the definition of humor as a speech act whose perlocutionary goal is
+the perception of the intention to be humorous (Attardo & Chabanne,
+1992) and therefore, from the standpoint of humor studies, the concept
+of laughable is redundant, one the one side, and misleading, on the
+other, since it is dissociated from humor and laughter is not a unified
+category (there are unrelated types of laughter that share no emotional
+or cognitive component, as we saw in Chapter 2).
+Another problem are false positives: for example, there exist doc-
+umented instances of laughter response to a non-laughable (i.e., the
+hearer laughing at something the speaker said seriously). Clift, for
+example, mentions the “You’re kidding’ response,” i.e., a “response to
+a turn not designed to be a so-called ‘laughable’ (Glenn, 2003)” (Clift,
+2016, p. 75). In this case the hearer incorrectly attributes the intention to
+draw laughter to the speaker. As we just saw, an even bigger problem are
+false negatives: failed humor can be considered (reductively) the failure,
+on the hearer’s part, to orient to humor after a turn “designed to draw
+laughter.” We will return to failed humor in Section 12.4.3.
+Ultimately, as we saw, laughter is indeterminate, as Curran et al. (2018,
+p. 1) state, “laughter is inherently underdetermined and ambiguous, and
+that its interpretation is determined by the context in which it occurs.”
+In other words, if one sees someone laugh, one still does not know what
+their “emotional state” is (p. 3).
+In conclusion, to solve the ambiguity inherent in the definition of
+laughable, I will adopt the following terminology: a laughable is a
+referent (i.e., a part of the meaning of the text either explicitly stated
+or inferred by the participants as part of the common ground) about
+which someone laughs. A humorous laughable is one that meets the
+semantic/pragmatic requirements for humor (regardless of the reaction
+of the other speakers). Laughter is any vocalization as described in Chafe
+(2007) and others. Mirthful laughter is laughter whose referent is a
+humorous laughable, whereas non-mirthful laughter is laughter with a
+non-humorous referent.
+245
+
+
+--- PAGE 269 ---
+CONVERSATION ANALYSIS
+11.3 The canonical CA joke analysis
+The founding text of the CA analysis of humor is Harvey Sacks’ analysis
+of the telling of a canned joke in conversation. The conversation took
+place among a group of teenagers. There was also an adult counselor
+present but he is silent. The joke itself was an old-fashioned joke even at
+the time of the telling (prior to 1974). The text of the joke is as follows:
+(112)
+Three sisters marry three young men on the same day and the
+mother of the young women talks them into spending their first
+night at their home, each in a room. The mother, after everyone
+has retired to their respective rooms, listens at the closed doors.
+At the first one she hears an “Uoo-ooo,” at the second door an
+“Yaaa,” but at the third door she hears nothing. The following
+morning she asks the first daughter why she went “Uoo-ooo” and
+the daughter says “It tickled.” She then asks the second daughter
+why she went “Yaa” and she replies “It hurt.” Finally she asks the
+third daughter why she did not say anything. The daughter says
+“Well, you told me it was always impolite to talk with my mouth
+full.” (Sacks, 1978, p. 251)
+Sacks’ analysis is focused on two aspects: first the organization of the
+telling event and second the function of the telling. We will consider
+both and then address some issues with them. While Sacks intended
+his analysis to apply to canned jokes, there is no inherent difference
+between canned and conversational humor, so what follows can be
+applied, with some reservations, to both canned and conversational
+humor. The reader will recall that “jokes” are a genre of humor; however,
+the term is often used loosely as synonymous with “instance of humor.”
+11.3.1 Sacks on jokes
+11.3.1.1 Sequential organization of joke telling
+Joke telling is interesting in several ways. First, telling a joke is an
+extended turn, which requires the audience to concede the floor for a
+period of time. Sacks identifies three parts: the preface, the telling, and
+the response. Table 11.2 schematizes the analysis. Patently, except for the
+telling of the joke, all other activities are optional, i.e., we can have jokes
+without a preface and without a response, but not without a telling.
+246
+
+
+--- PAGE 270 ---
+11.3 THE CANONICAL CA JOKE ANALYSIS
+Table 11.2 Sequential organization of joke telling
+Canned joke
+Teller
+Hearer
+Preface
+disclaimers, secure floor, key humor
+accept or refuse joke, key humor
+Telling
+text performance
+interrupt
+Response
+signal end, incite laughter
+laughter
+11.3.1.1.1 Preface
+The main object of the preface is to secure the floor by
+announcing that one intends to produce a long(er) narrative. However,
+this is not the only function: the speaker needs also to negotiate the
+acceptability of the joke, for potentially offensive topics, but also for
+the social appropriateness of producing a joke in the particular time,
+situation, and broadly context. Moreover, the announcement of the
+intention to tell a joke orients the audience to the fact that the coming
+extended turn will be intended humorously so that they may frame or
+key the situation as humorous. Yet another function is preemptive face-
+saving: by warning the audience that the joke may not be very good, or
+offensive, or that the telling may not be very good, the speaker preempts
+any potential criticisms of his/her performance, potentially going so far
+as to dissociate themselves from the text they are about to produce. The
+hearer may turn down the offer of joke telling (for example, by saying: I
+have heard it before, or by producing the punch line, thus demonstrating
+that they know the joke).
+Interestingly, the preface may be entirely absent, as is often the case in
+conversational humor. It is however also possible to produce a canned
+joke without preface. Absence of the preface is almost always required in
+irony, with some exceptions in writing, where the detection of irony may
+be more difficult (Jefferson, 1979; Edwards, 1984; Cashion et al., 1986).
+11.3.1.1.2 Telling
+The telling consists essentially of one extended turn in
+which the speaker delivers the joke. There may be supportive interrup-
+tions, requests for clarifications, and of course disruptive interruptions,
+if the audience doesn’t “play along.” Some genres of jokes require interac-
+tive responses to be incorporated in the narrative, such as knock-knock
+jokes.
+11.3.1.1.3 Response
+According to Sacks, the response part of the joke
+telling may consist of laughter, delayed laughter, or silence. The work
+on failed humor has shown that there is, in fact, a much broader range
+247
+
+
+--- PAGE 271 ---
+CONVERSATION ANALYSIS
+of reactions which may include verbal abuse or even actually hitting the
+speaker. We will consider these reactions below in Section 12.4.3 and
+will limit ourselves to the original three responses described by Sacks.
+Sacks calls laughter the “minimal response sequence” because it is the
+smallest and simplest response. There is now an extensive literature on
+laughter in discourse, which we reviewed in Chapter 10. Here we will
+only briefly consider some of the results that CA has produced about it.
+Jefferson dedicated several studies to laughter. She notes that laughter
+is often associated with “termination” and “closure” of “interchanges.”
+Laughter, unlike other verbalizations, occurs in overlap with other
+speech, and in fact mixed in with speech (“within-speech laughter,”
+Chafe, 2007, ch. 3). Multi-party laughter may be in unison, “antiphonal,”
+or the speakers may take turns, “relay” laughter (Smoski & Bachorowski,
+2003).
+Jefferson (1972, p. 300) notes that laughter is “regularly associated
+with termination of talk” and so it can “signal or attempt closure of
+interchanges” (p. 449n), while also signaling the uptake of the humorous
+intention of the speaker. However, Jefferson’s most significant finding
+about laughter was that speakers can use it to elicit laughter from
+the hearer by producing it at the end of their turn (“post-utterance
+completion laugh particle” ). This flies against the stereotype that one
+should not laugh at one’s own humor, or at least should wait until others
+have started and then join in. Instead Jefferson found that speakers used
+laughter to incite laughter in their audience, both with utterance final
+laughter and with within-speech laughter. Glenn (1989) shows that in
+dyadic interactions, the teller frequently initiates laughter, whereas in
+multi-party interactions, someone other than the speaker initiates the
+laughter. Ikeda & Bysouth (2013, p. 52) show that speakers may laugh
+turn initially to secure the floor raising the intensity of the laughter
+gradually (stepped up laughter).
+Laughter may not be produced immediately, i.e., it may be delayed.
+Sacks sees the delayed response as a strategic compromise, on the
+hearer’s part, between, on the one hand, the desire to display under-
+standing of the joke,5 and, on the other hand, the desire to wait and
+see how the audience reacts. Finally, laughter may be withheld. This
+5 On jokes as a “test of understanding,” see Section 11.4.3, below. On understanding of
+jokes as a status enhancer, see Graesser et al. (1989).
+248
+
+
+--- PAGE 272 ---
+11.3 THE CANONICAL CA JOKE ANALYSIS
+is a dispreferred choice as “laughings have a priority claim on a joke’s
+completion” (Sacks, 1974, pp. 348–249). Refusal to laugh, as we saw, has
+a very negative connotation of displeasure (“unlaughter”).
+It should be stressed in this context that different situations or genres
+of communication afford different types of reactions. For example,
+stand-up comedy is quite different in the ways in which performers
+“manage” laughter and other reactions from the audience: for example,
+comedians use various techniques to signal to their audience when to
+laugh, applaud, or cheer, as we saw in Chapter 10. Needless to say, Sacks’
+was not the last word in the analysis of joke (in a broad sense) telling in
+conversation.
+11.3.1.2 Humor support
+The role of the audience is far from being passive. The audience may
+reject the humor, in a disaffiliative move. Conversely, the audience
+may provide affiliative support for the humor-producing speaker. Hay’s
+groundbreaking work (Hay, 1994, 1995, 2000, 2001) introduced and
+conceptualized the analysis of humor support, to which we turn next.
+Hay introduced the notion of humor support to indicate a conversa-
+tional move acknowledging and supportive of the speaker who produces
+humor. Hay lists a number of verbal strategies, to which we can add
+paralinguistic support (which could also be seen as included in the
+“heightened” involvement category):
+• contribute more humor
+• repeat (part of) the previous turn
+• offer sympathy or contradict self-deprecating humor
+• overlap and heightened involvement in conversation
+• heightened smiling intensity
+• laughter
+• facial expressions and gestures indicating agreement or amusement
+Needless to say, non-supportive (disaffiliative) responses are also
+present. Hay lists two items (the first two the list below) to which we can
+add a few more
+• withhold appreciation while showing understanding
+• lack of reaction (this corresponds to Sacks’ “silence”)
+249
+
+
+--- PAGE 273 ---
+CONVERSATION ANALYSIS
+Recognition
+Understanding
+Appreciation
+Reaction
+Figure 11.1
+Hay’s presuppositional scale of hearer’s reactions to humor.
+• negative remarks on the quality of the humor
+• claims that the situation or setting are inappropriate for humor
+• claims to know a better/different variant of the joke (typically heard
+at humor studies conferences)
+Disaffiliative moves characterize some forms of failed humor (see below,
+Section 12.4.3).
+Hay’s further presents an extremely useful analytical tool, already seen
+briefly in Section 2.3.2: a presuppositional scale of Hearer’s reactions (see
+Figure 11.1):
+1. recognition of the intention to produce humor
+2. understanding
+3. appreciation
+4. reaction (Hay, 2001)
+So understanding humor presupposes that one has recognized the inten-
+tion of the speaker to be funny; appreciation presupposes understand-
+ing, and reacting presupposes appreciation. This will figure crucially in
+Bell’s analysis of failed humor.
+As we saw, according to Sacks (1974, p. 348) laughter has a “priority
+claim” but laughter is not required. Gavioli claims laughter is a “preferred
+action” after telling a joke (Gavioli, 1995, p. 371). As we have seen above,
+there have even been claims that joke/laughter may be an adjacency
+pair. However, not all humor socially requires support: humor that is
+itself supportive does not require support. Irony likewise need not be
+supported.
+One form of humor support is the repetition of the jab line. The
+repetition may be verbatim or in paraphrase. Consider the following
+example, which ends a longish narrative in which P tells M about his
+trip to Galway.
+250
+
+
+--- PAGE 274 ---
+11.3 THE CANONICAL CA JOKE ANALYSIS
+(113)
+Dyadic conversation among classmates
+221
+P
+//uh taken the BUS uh into//
+222
+0.2
+223
+//into GALway was that //
+224
+1.3
+225
+//uh when I came around the CORner //
+226
+0.42
+227
+//uh there is uh you know of course the HUGE rolling//
+228
+0.15
+229
+//beautiful hillsides of Ireland and //
+230
+0.43
+231
+//there’s this little dodge around the CORner
+232
+and you go around the corner and the first three things I
+saw were McDOnalds //
+233
+0.3
+234
+//a Pep Boys and an Aldi’s GROcery store //
+235
+0.81
+236
+M
+//wh:::ich [((laughs)) that’s very IRISH [((laughs))] //
+237
+0.32
+238
+P
+//yeah you really don’t expect THAT //
+239
+0.3
+The jab line begins on unit 232 and concludes in unit 234. After a pause,
+M acknowledges the humor by laughing and then paraphrases ironically
+the jab line (thus both displaying comprehension and supporting the
+humor) and P supports the supportive turn by the asseveration (“yeah”)
+and another paraphrase of the jab line. Note also that by producing an
+ironical turn, M has mode adopted, i.e., joined in the production of
+a sustained humor turn (see below). Humor support is not limited to
+spoken interactions; for example, see Vandergriff & Fuchs (2012) on
+humor support in online conversations.
+11.3.1.3 Mode adoption
+Mode adoption can be defined as being “in essence, about adopting a
+broad manner of speaking, a manner that has been established via the
+joint involvement of the speaker and listener. This can be thought of
+in terms of play frames” (Whalen & Pexman, 2017, p. 377). The term
+“mode adoption” was introduced in Attardo (2002) and as Whalen and
+251
+
+
+--- PAGE 275 ---
+CONVERSATION ANALYSIS
+Pexman (2010, 2017) note, it has been applied primarily to the ironical
+mode (i.e., an ironical response to an ironical statement) but in principle,
+it can be applied to any humorous mode, for example responding with
+a pun to a pun, or capping a joke with another joke. As Whalen and
+Pexman observe, even mere repetition of a speaker’s turn can be seen as
+mode adoption. Pexman and Whalen have extended the study of mode
+adoption to children.
+There is evidence that mode adoption is a highly affiliative practice, as
+Drew (1987) reports that very few teases are responded to with teases;
+instead, speakers respond seriously (po-faced) and primarily attend to
+the criticisms of the tease. I can report that when speakers have an
+extremely high level of intimacy, teasing mode adoption may occur;
+my daughter and I enjoyed mutual teasing for most of her childhood.
+Responding with a joke to a joke is the most common form of mode
+adoption.
+The question of the frequency of mode adoption is unresolved, with
+estimates ranging from a high of 21–33% (Gibbs 2000) to lower percent-
+ages such as Eisterhold et al. (2006) 7% and Pexman et al. (2009) 7%–8%
+(conversations involving children). See Section 8.2.2 for more examples.
+11.4 Issues in CA of humor
+11.4.1 Is humor–laughter an adjacency pair?
+The problem is discussed in Glenn and Holt (2013, pp. 12–14). Surpris-
+ingly, despite Glenn and Holt’s claim, echoed by numerous other schol-
+ars, that Sacks (1974) claims that joke/laughter (or laughable/laughter)
+is an adjacency pair, the term “adjacency pair” does not appear in Sacks
+(1974). It does appear, however, in Jefferson, Sacks, and Schegloff (1977)
+a pragmatics microfiche characterized as a “revised draft of a paper
+presented” in 1973, at a seminar at the university of Pennsylvania. In this
+document, on p. 30, there appears the claim that “Laughable/Laughter”
+would be an adjacency pair, along the lines of question/answer and
+greeting/return greeting. The assertion is couched in the conditional
+mood (“the Laughable and its responsive Laughter could constitute [. . .]
+an adjacency pair [. . .] In this case the Pair Type is [Laughable/Laughter]
+and may be affiliated to a list which includes” the above mentioned
+252
+
+
+--- PAGE 276 ---
+11.4 ISSUES IN CA OF HUMOR
+adjacency pairs).6 One may speculate that the reason for not using the
+term in the latter paper is that Sacks might have further developed his
+thinking on the subject. In the 1974 paper, Sacks makes several claims
+that are incompatible with the idea the laughable/laughter be an adja-
+cency pair: laughter has a “priority claim [. . .] But each recipient is not
+obliged to laugh” (p. 348). Hearers may choose to be silent, to delay their
+laughter, or produce “talk directed to grading the joke and teller’s wit
+negatively” (p. 351). Obviously if the hearers have four options (laughter,
+delayed laughter, silence, and negative talk) laughable/laughter is not an
+adjacency pair, stricto sensu.
+Other authors have also claimed that humor and laughter are an
+adjacency pair, such as Norrick (1993) and Holcomb (1997). For exam-
+ple, Norrick (1993, p. 23) in the case of puns: “The appropriate initial
+response to a pun is, of course, laughter. Thus we can say that joking
+and laughter are linked as two parts of an adjacency pair.” Thonus (2008,
+p. 334) initially quotes the definition of “laughable (humor)/laughter”
+as an adjacency pair, only to problematize it immediately and eventually
+rejects it (p. 335). Schegloff speaks of jokes “sequentially implicating”
+laughter and does not use the term adjacency pair (1987, p. 206).
+Hay (2001) is also critical of the humor/laughter as adjacency pair
+idea as she presents a set of humor support strategies, as seen above,
+in Section 11.3.1.2. If there are a number of options, laughter cannot
+be a member of an adjacency pair. Hay (2001) and Sacks’ own work,
+seem to point toward the conclusion that humor and laughter are not
+an adjacency pair and that the hearer of a humorous turn (or laughable)
+has a set of choices (a repertoire) with which to respond.
+11.4.2 Humorous and non-humorous laughter in conversation
+The purported correlation between humor (stimulus) and laughter
+(response) has been shown not to hold, in fact. There is extensive
+research in discourse analysis that documents the presence of laughter
+in non-humorous contexts: Potter & Hepburn (2010) sum up nicely
+the issue stating that laughter (broadly construed) “may have a range
+of interactional roles quite separate from punning, joking or humour”
+(p. 1544). Clift (2012) considers “laughter in non-humorous contexts”
+6 Capitalizations in the original.
+253
+
+
+--- PAGE 277 ---
+CONVERSATION ANALYSIS
+(i.e., non-mirthful laughter) and specifically laughter that is not shared
+(i.e., not answered by laughter).
+Jefferson (1979) showed in a groundbreaking article that the stereo-
+type of the speaker saying something funny and the hearer responding
+with laughter was hopelessly mistaken. In fact, speakers often initiate
+the laughter before the hearer, to signal and invite a laughter response.
+In Jefferson (1984), she shows furthermore that speakers will also laugh
+in contexts in which there is nothing at all humorous, as in the example
+below (I have simplified the transcription):
+(114)
+Dyadic conversation quoted by Jefferson (1984)
+G: You don’t want to go through all the ha:ssle?
+S: hhhhI don’t know Geri,
+(.)
+S: I’ve stopped crying uhehh-heh-heh-heh-heh,
+G: Wuh were you cry::ing? (p. 346)
+It is clear that S is not being facetious in his/her answer and in fact the
+speaker is “exhibiting that, although there is trouble, it is not getting
+the better of him[/her] ( . . . ) he[/she] is managing; he[/she] is in good
+spirits and in a position to take the trouble lightly (p. 351). As Jefferson
+notes, Geri responds not by joining in the laughter, which would be
+inappropriate, but rather by a “recognizably serious response” (p. 346).
+Jefferson sums up the role of the hearer in trouble-talk as “taking the
+trouble seriously” or being receptive to it. (p. 351). Potter and Hep-
+burn (2010) analyze a striking example of a speaker laughing during
+the description of an accident that broke several of his vertebrae and
+caused him to be late in paying his bills. They comment with splendid
+understatement “this could be heard as a somewhat odd description
+of his own reaction to a spine crushing injury” (p. 1549) but go on to
+explain that the three laughter particles occurring in the middle of the
+words “I am very grateful” (that the injury was not any worse) mark
+his reaction as “insufficient or problematic.” Needless to say, there is no
+humor in this context.7
+Günther (2003) reports that in her corpora, in 8 instances she was
+unable to see a connection of laughter with humor (p. 152; 183).
+Edwards (2005) describes laughter in serious telephone complaints.
+7 In fact, Potter and Hepburn do not even use the term “laughter particle” and prefer
+“interpolated particles of aspiration” to avoid confusion with mirthful laughter.
+254
+
+
+--- PAGE 278 ---
+11.4 ISSUES IN CA OF HUMOR
+So does Clift (2013) from which we take as an example the following
+fragment,
+(115)
+Robbie: my: ´God there’s a lotta children in this
+cla(h
+[h)ss
+Lesley:
+[I ´ kno::w.
+(Clift, 2013, p.231; I have simplified the transcription for clarity) in
+which we see two teachers complaining about class size Clift notes that
+the hearer (Lesley) does not orient to the laughter “infiltrating the final
+word” (p. 231; i.e., the two aspirations) and instead responds to the
+complaint by expressing solidarity. Clift notes the similarity with trouble
+talk and with other “delicate” subject matters. Laughter in this context
+serves as a mitigator, by introducing a distance between the complaint
+and the person producing it (p. 236), and is thus not an expression of
+mirth.
+Another situation where non-humorous laughter occurs is doctor–
+patient interactions. West (1984) found that patients laugh more than
+doctors and interprets this as evidence of the power imbalance inherent
+in the situation. However, Heath (1988) and Haakana (2001, 2002)
+convincingly argue that it is more likely that patients are laughing
+because of embarrassment. Haakana (2002, p. 226) shows that numer-
+ous patient-initiated turns consist of reactions to “delicate and dispre-
+ferred” activities, such as refusals (a dispreferred choice), discussions
+of financial matters, etc. Fatigante & Orletti (2013) also report laughter
+in gynecologist examination talk in dispreferred responses (the patient
+contradicting the doctor). In short, when patients laugh at delicate
+or dispreferred choices they are not displaying mirth, rather they are
+embarrassed. Likewise, Zayts & Schnurr (2011, 2017) report that in
+prenatal counseling, both nurses and patients laugh when disagreeing
+or resisting the other’s opinion (the nurses are trying to push prenatal
+testing and the patients refuse). Zayts and Schnurr interpret this as
+laughter mitigating the disagreement or as a “laughing off” (2017,
+p. 135) the dispreferred choices of the interlocutor.
+Wilkinson (2007) reports that patients with language impairments
+will laugh during repair sequences when the repair sequence fails (i.e.,
+they cannot successfully produce the utterance). Hearers do not respond
+with laughter in those cases. The following example (simplified) will
+illustrate the completely non-humorous nature of the situation. Paul, the
+aphasic speaker, is talking to his wife, Amy:
+255
+
+
+--- PAGE 279 ---
+CONVERSATION ANALYSIS
+(116)
+Paul: that was the doctor. she’s (.) trying to find out about eh:
+(1.6) ((clears throat))
+(1.3) mm well ehm mm
+(1.6) ((sniffs)) ehm eh
+(5.5) h (.) (g)hhh (Wilkinson, 2007, p. 548)
+Paul forgets the word for what the doctor was trying to find out and
+then processed to produce a series of empty and filled pauses which
+culminates with the short laughter burst after the 5.5 seconds pause,
+when he gives up. Amy simply provides the completion: “What you
+have been doing at home” without any laughter. Paul’s laughter may be
+interpreted as laughter of embarrassment, or as an attempt to dismiss as
+trivial his problem.
+A different type of phenomenon is a “humorous noticing” defined
+by Wilkinson as consisting “of the highlighting of an error by either
+repeating it or noting its similarity to another word which would be
+incongruous in the context. As such, humorous noticings are a kind
+of small joke produced by the aphasic speaker” (2007, p. 556). The
+speakers produce laughter within the noticings. This kind of laughter is
+reciprocated by the hearers. The difference between the two situations
+described by Williams is striking: in the case of embarrassed laughter,
+much like in trouble talk laughter, joining in the non-humorous laughter
+could be interpreted as mockery. In the case of noticings, the speaker
+successfully keys the situation as humorous (either by laughing prior to
+repeating the error, and/or smiling), and thus laughter by the hearer is
+seen as supporting the humor (see Section 11.3.1.2). Wilkinson et al.
+(2003, p. 63) further document “embarrassed” laughter by aphasic sub-
+jects about “the exposure of their linguistic non-competence.”
+Dionigi & Canestrari (2018) report patient laughter to repair disagree-
+ments between therapist and patient, mitigate “overt resistance” (p. 7),
+self-deprecation, and positive assessment of the therapist. The therapist
+does not reciprocate in any of these instances, as there is no assumption
+of mirthful laughter.
+Lavin & Maynard report “apologetic” laughter (2001, p. 460) ini-
+tiated by respondents in telephone interviews, They compare it to
+Jefferson’s examples of non-invitational laughter in troubles talk. Holt
+(2017) shows that callers to a public utility company use laughter to
+shift from serious business, such as complaining for a large bill, to less-
+serious (or partially serious) complaints, such that the computer system
+256
+
+
+--- PAGE 280 ---
+11.4 ISSUES IN CA OF HUMOR
+is slow. Despite the presence of laughter, Holt claims, “serious actions
+are performed” (p. 96).8
+Clift (2016) “incredulous” disaffiliative laughter consists in framing
+the situation as laughable despite no such intention of the speaker:
+“a party to interaction constructs a prior action as risible or preposterous
+by means of laughter – as literally ‘laughable’; the practice of laughing
+in such contexts does an emphatic display of incredulity or disbelief”
+(p. 86); “the laughter does a display of incredulity” (p. 80) and not of
+mirth.9 Importantly, Clift (2016) notes that this sort of disaffiliative
+laughter may occur at any point in the conversation (i.e., is not limited to
+adjacency pairs) and may be produced by any of the participants. Also,
+while being disaffiliative to the person being mocked, the laughter is
+affiliative with (and may be joined by) a third person with whom the
+speaker producing the disaffiliative laughter “sides” against the person
+being laughed at.
+Haugh (2017c) also discusses disaffiliative language play in jocular
+mockery. So does Romaniuk (2013) in the context of broadcast inter-
+views. Günther (2003, p. 194) reports a much higher incidence of affilia-
+tive laughter than disaffiliative (finding in her corpora only 8 instances of
+disaffiliative laughter, contrasted with 45 affiliative instances). However,
+these results should be assessed carefully. The category of affiliative
+includes Supportive and invited laughter, but excludes what Günther
+labels “contextualizing” laughter, which would include all contextual-
+izing cues. Furthermore, not all instances of laughter are taken into
+account. Nonetheless, Günther’s data show that disaffiliative humor in
+conversation does exist, although it is infrequent.
+Adelswärd (1989) considering laughter in institutional settings,
+broadens the perspective and comes to distinguish between recip-
+rocated (“mutual”) laughter, a sign of “rapport and consensus,” and
+8 To be precise, it is unclear if Holt is claiming that there is no humor present when,
+for example, a speaker says that he/she “nearly had a heart attack” when they received the
+very large bill, which seems a humorous exaggeration, or that the presence of the humor is
+overwhelmed by the serious nature of the task surrounding it, or that the speaker is using
+humor to save the negative face of the employee, by downgrading the complaint, turning it
+into a merely laughable error. It is also unclear why Holt seems to think that there should be a
+“simple relationship between incongruity and laugh responses” (p. 115) since at this point it
+is a pretty safe conclusion (see Attardo, 1994) that there is no direct relationship between the
+two, incongruity being a proxy for humor, in this context. Regardless, some of the examples
+show non-humorous laughter in a serious context.
+9 The analysis is complex, as it involves the speaker producing the laughter pretending
+to be amused by what they consider the absurdity of the targeted other speaker’s remarks. It
+remains that the situation is different from someone being genuinely amused by someone’s
+remarks (say, a child making a clearly incorrect statement).
+257
+
+
+--- PAGE 281 ---
+CONVERSATION ANALYSIS
+unreciprocated laughter: “We often laugh alone and not always at things
+considered particularly funny.” For example, she reports that successful
+job interviews showed more reciprocated laughter than unsuccessful
+ones.
+In conclusion, both non-humorous laughter and disaffiliative humor-
+ous laughter have been well-documented in a variety of contexts, includ-
+ing conversational ones. Neither type is usually responded to with
+laughter. The preferred response to mirthful laughter is humor support,
+the preferred response to non-mirthful laughter is ignoring it, either
+by attending to the source of the embarrassment, discomfort, etc. or by
+expressing support for the speaker. This is presumably because laughter
+carries a connotation of mirth (by association with it). This is what
+allows it to be a mitigator and to downgrade utterances to (partially)
+non-serious mode. When both parties in the conversation orient to the
+laughable (in the Glenn & Holt sense) as appropriate for laughter, they
+do orient to humor.
+11.4.3 Is humor a test of understanding?
+The term “understanding test” is used verbatim by Sacks (Sacks, 1974,
+p. 346) and defined as follows: “Not everyone supposably ‘gets’ each joke,
+the getting involving achievement of its understanding, a failure to get
+being supposable as involving a failure to understand. Asserting under-
+standing failures can then reveal, e.g., recipients’ lack of sophistication, a
+matter that an appropriately place laugh can otherwise conceal” (p. 346).
+As is well known, Sacks’ example (the only example of joke he analyzed
+in this context) is an obscene joke which refers obliquely to fellatio. Since
+the teller is a 16–17 year old in the 1960s or early 1970s, it is credible that
+not all the hearers may have been familiar with the practice of fellatio,
+or at least the 12-year-old sister who originally told the joke (the brother
+is repeating it to his friends). However, it seems extremely unlikely that
+a joke such as
+(117)
+How to do tell if an elephant was in the fridge?
+Paw prints in the butter.
+is testing anything in the knowledge of the audience. What factual
+knowledge could possibly be tested in the example above? The knowl-
+edge of the relative size of elephants and refrigerators? Thus at best,
+Sacks’ understanding test could apply to some jokes, but not to all jokes.
+258
+
+
+--- PAGE 282 ---
+11.4 ISSUES IN CA OF HUMOR
+Despite its prima facie implausibility, the idea of a test has taken
+hold in conversation analysis (Sherzer 1985; Norrick 1993, 2003). To
+be fair, Norrick’s position is much more hedged than others, when he
+notes that rather than testing knowledge, jokes presuppose it for in-
+group solidarity building. In fact, in 2003, he states clearly that “Far from
+testing for background knowledge with jokes, tellers commonly fill the
+audience in on any information the joke presupposes in the interest of
+ensuring understanding and enjoyment, and hence the success of the
+performance” (pp. 1342–1343). In Attardo (1994), several issues with
+Sacks original discussion of the “test of understanding” hypothesis, as
+well as some issues with the analysis itself, are discussed.
+Glenn (2003, pp. 115–117) provides an example of how a participant
+to a conversation may be mocked if they do not “get” the joke. Glenn
+reconceptualizes the test of understanding as a test of participation
+to the social event, since it seems unlikely that the speaker would
+not understand what “getting an F [= lowest possible grade] in sex”
+could mean. Indeed, the speaker himself in subsequent turns explains
+that he failed to hear the words of the reply. In this sense, there is a
+test of participation, as a competent speaker would have easily faked
+understanding, for example by snorting in (fake) dismay at the poor
+quality of the joke. In this sense, but only in this sense, we can accept
+the idea of a test of understanding. In the original sense, i.e., whether
+the hearer is familiar with the referent alluded or mentioned in the
+joke, the idea of a test can only be a rare exception.
+A related idea, also presented by Sacks, but that has gotten virtually no
+recognition in the field, unlike the very popular understanding test, is
+the “recipient comparative wit assessment device” (Sacks, 1974, p. 349–
+350) which consists of the idea that since laughter is a display of under-
+standing, delaying laughter may be interpreted as lack of understanding,
+which therefore would motivate speakers to laugh as soon as possible,
+despite the option of delayed laughter (i.e., laughing after a pause). The
+advantage of delayed laughter being that it allows one to assess how the
+other recipients react to the telling before committing to laughter.
+11.4.4 Tellability
+Norrick’s application of the concept of tellability to humor in discourse
+is one of his most significant contributions to humor studies. Tellability
+is the term introduced by Sacks (1992), whereas Labov (1972, p. 366)
+259
+
+
+--- PAGE 283 ---
+CONVERSATION ANALYSIS
+speaks of “reportable” narratives. The concept is the same: a story,
+narrative, or just an extended turn, needs to be justified (“evaluated”)
+by the narrator to his/her audience, least the narrator be accused of
+wasting his/her audience’s time. A narrative is tellable if it is newsworthy
+or particularly relevant to its audience. So, Labov’s famous “near-death”
+stories are tellable by definition. Surprising, unexpected, or novel events
+are also tellable. Another aspect of tellability is that the story needs to
+have a point, not in the senses of the “pointe” or punch line, but in the
+sense of making a point, having a coherent narrative arc that delivers a
+bit of information significant enough to justify the telling of the story.
+Labov notes that pointless stories are met with “a withering” “so what?”
+to indicate that the audience has not seen the point of the story.
+Norrick (2004) notes that the humorous nature of a story may be
+enough to warrant its tellability: “an orientation toward the humor of a
+story replaces” its tellability (p. 86). Norrick speculates that what makes
+a story tellable is the same kind of thing (incongruity) that makes a story
+funny (p. 87).
+Norrick (2005, 2010) elaborates the notion of tellability, not limited
+to the lower boundary of being worth telling, but also in terms of
+the appropriateness of telling the story in a given context, and shows
+that speakers actively negotiate both aspects of tellability. Canned jokes
+inherently have a certain degree of tellability, since somebody bothered
+to repeat the text, but for personal anecdotes and worse yet for puns,
+which may be disruptive of the conversation, since they are most often
+off the current topic, the tellability has to be negotiated. Norrick notes
+that both meaningfulness and appropriateness in context are negotiated
+by the participants. Furthermore, in settings with high degrees of inti-
+macy, such as family or friends gatherings, familiar10 humorous stories
+may be retold, not so much for their novelty or newsworthiness, but
+rather because the process of collectively re-creating the story reinforces
+the social bond: “Humor makes any story more tellable, even familiar
+stories, and humorous stories have characteristic patterns of participa-
+tion: in particular, co-narration is acceptable whenever it creates humor”
+(Norrick 2010, p. 238). Telling the humorous anecdote becomes more of
+a shared performance, than just the telling of a story.
+10 No pun intended, but note that etymological source of the word “familiar” (i.e.,
+belonging to the family).
+260
+
+
+--- PAGE 284 ---
+11.5 CONCLUSIONS
+11.5 Conclusions
+One of the main conclusions that we can draw from this review of the
+field is that it has reached a certain maturity. At this point, the list
+of settings (speech events) that have been covered, often by multiple
+studies, is truly impressive (see Glenn & Holt, 2013, p. 18, for a list).
+Researchers have now available a broad range of descriptive studies
+which offer minutious, in depth analysis of significant amounts of natu-
+rally occurring speech acts, mostly conversational data. I think it is fair
+to say that it is unlikely that we will see any major novel configurations
+heretofore unexamined by scholars in terms of humorous speech acts
+and speech events, as far as English goes. The situation is different for
+other languages, which have a lot of catching up to do. In terms of
+speech situations, the broader setting postulated by Hymes (1972), we
+still have a ways to go, in terms of a truly representative set of situations,
+but at least for conversations among friends, workplace talk, medical
+encounters, and stand-up comedy, there are already sufficient data. The
+field still shows an over-emphasis on the positive, affiliative aspects of
+humor (see Attardo, 2015 for discussion), but new research is correcting
+this imbalance.
+There seems to be some confusion between mirthful (humorous)
+laughter and non-mirthful laughter, as defined above. When mirthful
+laughter is reciprocated we have humor support (see above, Section
+11.3.1.2). Non-mirthful laughter, as in trouble talk (Jefferson, 1984),
+does not generally get reciprocated. So what happens when we have
+reciprocated non-mirthful laughter? We can offer a conjecture: assume
+ex hypothesis that reciprocated laughter generally occurs only with
+mirthful laughter. The preferred response to non-mirthful laughter is
+serious bona-fide relevant communication. Then, reciprocated non-
+mirthful laughter is, or is perceived as, a highly disafilliative (as in the
+examples reported by Clift, 2016) or aggressive move. Thus in Zayts &
+Schnurr (2017, p. 134) we see an example of reciprocated non-mirthful
+laughter, in which the nurse comments on the refusal of the testing by
+the patient (I paraphrase and gloss the complex transcription):
+(118)
+N: You don’t want the test? [within utterance and post utterance
+laughter]
+P: [laughter overlapping with the previous turn] I am sure (I do
+not want it) [within utterance laughter]
+261
+
+
+--- PAGE 285 ---
+CONVERSATION ANALYSIS
+N: You don’t want it [within utterance laughter]
+P: I don’t want to (do it) [within utterance laughter]
+I would suggest that rather than describing this as reciprocated laughter,
+we consider it as antagonistic laughter (i.e., as an attempt to “laugh off,”
+to use Zayts & Schnurr evocative wording, each others’ objections).
+At the same time, it is quite possible that, as Zayts & Schnurr say,
+the laughter mitigates the dispreferred choices of both speakers, by
+marking the antagonistic conversation as not-that-serious (Holt, 2017).
+This is somewhat paradoxical, as laughter would be both affiliative
+(mitigating) and disaffiliative (antagonistic), but it is not incompatible
+with the indeterminacy of laughter: it is not clear (and probably not
+really knowable) what the nurse and the patient are laughing at (each
+other? what they said? their attitudes? their expressions?) and of course it
+is not clear what the function of the laughter is (mitigation, disaffiliation,
+or just trying to bring the exchange to a close), whereas it is relatively
+clear that there is no mirth involved in the exchange above.
+11.6 Further readings
+Due to its methodological stance against generalizations, CA tends not
+to produce overviews of the field. A review of the place of CA approaches
+to humor and laughter can be found in Attardo (2015). A full discussion
+of the CA notation system can be found in Atkinson and Heritage
+(1984).
+On bracketing and its origins and definitions, see Tufford and
+Newman (2010). On bracketing in CA/DA, see Ten Have (2007). The
+clearest statement of the methodological bracketing of CA/DA in humor
+research is found in Glenn and Holt (2017), which is an indispensable
+collection of papers. Norrick (1993) is now dated, but it is a classic in the
+field as is Glenn (2003). The “antiphonal laughter” term is introduced
+in Smoski and Bachorowski (2003).
+The indeterminacy of humor is discussed in Mulkay (1988: 70–71),
+Attardo (2002a), and Priego-Valverde (2003) while the indeterminacy of
+irony, in Sperber and Wilson (1986) and Gibbs (2012). On humor sup-
+port and mode adoption, see Whalen and Pexman (2017) and Coolidge
+(2019).
+262
+

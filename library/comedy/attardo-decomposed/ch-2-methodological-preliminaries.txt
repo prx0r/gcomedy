@@ -1,0 +1,1124 @@
+--- PAGE 53 ---
+2
+Methodological preliminaries
+2.1 Competence and performance
+31
+2.2 Identifying humor
+38
+2.3 Mirthful vs. non-mirthful laughter
+42
+2.4 Keying
+50
+2.5 Identifying humor: the triangulation approach
+54
+2.6 Further readings
+56
+This chapter starts out by setting the background for the rest of the
+work. Thus, it is fairly dry and abstract. The reader may consider it
+a necessary evil but should not bypass it, as the points discussed in
+this chapter are truly foundational. Broadly speaking, we are concerned
+with methodology. When students ask me why methodology is so
+important, I explain that it is how you avoid making a fool of yourself.1
+We start out by discussing the competence–performance opposition,
+which underlies most of the book and the principle of commutation,
+which underlies the theoretical approaches to the linguistics of humor.
+We briefly consider other methodologies (quantitative, qualitative, etc.)
+to show that, whatever one’s methodology, there are rules and war-
+rants that must be followed. The second part of the chapter deals with
+the all-important methodological question of how do we know that a
+given text is humorous. The de-facto criteria of identification (laughter
+and smiling) are discussed and problematized. Finally, we conclude
+by proposing a triangulation approach which ecumenically gathers all
+sources of information about the text to make the determination.
+1 Surprisingly, so is etiquette. Food for thought.
+The Linguistics of Humor: An Introduction. Salvatore Attardo, Oxford University Press (2020). © Salvatore Attardo.
+DOI: 10.1093/oso/9780198791270.001.0001
+
+
+--- PAGE 54 ---
+2.1 COMPETENCE AND PERFORMANCE
+2.1 Competence and performance
+It is perhaps peculiar that we will begin by discussing a meta-theoretical
+problem (i.e., an issue concerning the theory of theories), rather than
+by—say—defining our object of study, humor. The reasons is that
+“humor,” as we saw, is a folk-concept, i.e., it exists pre-theoretically. What
+does that mean? Simply that the fact that people refer to something as
+“humor” does not mean that they know exactly what that thing is, where
+its boundaries lie, how to tell it apart from other similar things, etc.
+Think for example of whales: for centuries people thought that whales
+were a kind of fish, only because they live in water and look like a large
+fish. However, when the pre-theoretical conception of the whale-as-fish
+came under scientific scrutiny it was abandoned for the current theory
+of the whale-as-mammal.2
+A good way to begin is to ask the question: “what should a humor
+researcher study?” Should we study actual texts? The exchanges in which
+instances of humor occur? The psychological motivations of the jokers
+and/or their audience? The unconscious motivations of either? Their
+goals and/or responses in/for joking? The electrical impulses in the brain
+of the person hearing a joke?
+The answer is, clearly, all of the above, since they interest one or the
+other discipline. Moreover, those I listed above are not, by any means,
+the only topics worth studying, they are just a sampler of questions. Can
+we narrow down things a little, if we take a linguistic standpoint? Clearly,
+some aspects of the problem become foregrounded (for example the
+types of texts, the genres, so to speak, of humor) but still there are a
+plethora of approaches to the, as yet undefined, object of study. At this
+point, we must turn to theoretical linguistics for insight on the definition
+of one’s object. Saussure’s fundamental langue vs. parole distinction,
+2 Let us note that the disciplinary standpoint one assumes largely (pre-)determines the
+object of inquiry. This meta-theoretical point is of some interest, if for nothing else in that
+it prevents one from beginning one’s inquiry by defining one’s object of investigation. One
+must first determine one’s (sub-)discipline and then one’s object. Objects of research do not
+preexist theories. This should not be construed as a relativistic position, let alone as a social-
+constructivist one. Reality preexists any of its conceptualizations. The fact that science is
+a social enterprise should not be confused with the claim that reality is one as well. The
+point of this note is merely that theoretical linguistics will approach humor differently than
+sociolinguists, who will approach it differently than psycholinguists, etc. And naturally,
+one is free to take a multidisciplinary stand, as I will, and look at humor from different
+perspectives. However, one will see different things.
+31
+
+
+--- PAGE 55 ---
+METHODOLOGICAL PRELIMINARIES
+later echoed3 in Chomsky’s “competence” and “performance,” provided
+linguists with the general “object” that the discipline had lacked, up to
+that point. Linguistics must study the system (the langue), the abstract
+set of relationships that convey meaning, while other disciplines, such
+as stylistics, will study the parole, the concrete, actual realizations of the
+abstract possibilities of the system.
+We need not pursue this issue any further. The significant aspect, from
+our point of view, is that theoretical linguists distinguish between two
+levels, or two approaches to language: an abstract one (competence) and
+a concrete one (performance). Seen from this perspective, it becomes
+clear that we need to develop a theory of humor competence and a
+theory of humor performance, in keeping with the assumption that the
+former founds (i.e., precedes logically) the latter.
+What are the advantages to this approach? By adopting this distinc-
+tion, we neatly distinguish between the essential4 factors (i.e., the neces-
+sary and sufficient conditions for a text to be funny) and the accidental
+factors (e.g., who happens to have told a given joke, when, where, etc).5
+Furthermore, by defining the necessary and sufficient conditions for a
+text to be funny, we will have a falsifiable, scientific theory, since any
+counterexample would falsify the theory: it would merely require that
+one produce a text that meets the necessary and sufficient conditions
+and is not funny or that one produce a text that is funny and lacks any
+of the supposedly necessary and sufficient conditions. Not to mention
+that by avoiding those factors that are not essential we will not be led
+astray by facts which, however interesting, are ultimately irrelevant to
+the definition we are seeking.
+Needless to say, the claim that we should build both a theory of
+competence and of performance is not a mere condescending nod
+towards applied linguistics. Many have—and rightfully so—objected to
+the devaluation of performance, implicit in Saussure and explicit in
+Chomsky. Even better, starting with Bally (a student of Saussure, and
+3 Chomsky’s competence is in this respect identical to Saussure’s langue, except that
+Chomsky locates competence in the genetic make-up of humans, whereas Saussure located
+competence in the social (i.e., it is a social phenomenon), after Durkheim. There are some
+differences between the two conceptions, most notably in the role of syntax. These need not
+detain us in this context.
+4 Recall the definition of “essence”: what makes a given thing that thing.
+5 Of course, if you are interested in who tells jokes to whom, then those become
+the essential factors that your theory will focus on and the content of the jokes become
+accidental. Each perspective determines its object of study.
+32
+
+
+--- PAGE 56 ---
+2.1 COMPETENCE AND PERFORMANCE
+editor of the Cours), many have theorized (and practiced) a linguistics
+of the parole/performance. We will return to the performance aspect of
+humor below and in Chapter 10.
+How does one go about reaching the competence level? After all,
+we have only access to performance data. Different disciplines and
+fields have different ways of approaching the issue of idealization, or,
+to put it differently, to insure that their results are not contaminated by
+any number of methodological problems. For example, in psychology,
+sociology, etc. the use of large pools of subjects protects (by the law of
+averages) the conclusions drawn by the researchers against the vagaries
+of individual variation. For example, there is always the possibility that
+a subject has “seen through” the test he/she is being administered and
+that he/she decides to answer in a deliberately nonsensical way merely
+to irritate the test administrator. However, the possibility that a majority
+of subjects did is close to zero and thus in a sufficiently large sample that
+the aberrant behavior of that lone subejct is eliminated. Thus, the larger
+and more representative the sample, the more secure the conclusions
+drawn from it.
+So, how does theoretical linguistics reach the competence level? Lin-
+guists use a process of idealization quite different from those of statistics,
+because quantitative data are basically irrelevant from that point of view.
+The likelihood that the sentence
+(17)
+My pink elephant loves to dance the tango.
+has ever been uttered is pretty low, whereas the following sentence (or
+at least sentences built on the schema) is fairly common:
+(18)
+Me Tarzan, you Jane.
+but nonetheless (17) is grammatical and (18) is not.6 In fact, one of
+the most significant points that Chomsky uses to justify his generative
+approach to language is that language makes infinite use of a finite set of
+elements. Therefore, no sample may, in principle, ever guarantee that it
+is exhaustive (i.e., it contains all the relevant facts).
+Grammaticality, meaningfulness, ambiguity, and their counter-
+parts, ungrammaticality, semantic anomaly, and monosemy are not
+6 Example (18) is ungrammatical because it contains no verb and because the subject is in
+the accusative case. The point here is not on grammaticality of example (18) but on the fact
+that speakers may recognize the grammaticality of sentences they have never encountered
+before.
+33
+
+
+--- PAGE 57 ---
+METHODOLOGICAL PRELIMINARIES
+determined statistically, but rather via a theoretical elaboration based
+on the principle of commutation, a.k.a. distinctiveness.
+2.1.1 Application of the principle of commutation to humor
+At the most basic level, in phonology, two sounds are said to be different
+phonemically if they are distinctive, i.e., they are part of a minimal pair,
+such as /bɪt/ (“bit”) and /bit/ (“beet”). Because changing the sound [ɪ] to
+[i] changes the meaning in the minimal pair, then the two sounds are
+functionally different, i.e., phonemes. Consider now the following joke:
+(19)
+Harry prays to God: Dear Lord, please make me win the lottery.
+The next day Harry begs the Lord again: Please make it so I win
+the lottery, Lord!
+The next day, Harry again prays: Please, please, dear Lord, make
+me win the lottery!
+Suddenly he hears a voice from above: Harry, would you kindly go
+and buy a lottery ticket. (https://short-funny.com/funniest-jokes-
+3.php)
+Consider the following possible changes to the text:
+1. Change the name from “Harry” to “Larry”
+2. Change the name from “Harry” to “Mary”
+3. Change the name from “Harry” to “Abramovitz”
+4. Change the name from “Harry” to “Oluwakemi”
+while the first change has virtually no effect on the text, the second one
+changes the gender of the supplicant, but has no effect on the humor.
+The third changes the joke into a Jewish joke, but likewise leaves the
+humor untouched. The fourth change makes the joke about a Yoruba
+person, but as before leaves the humor unchanged. So, we know, that the
+name and characteristics of the person doing the supplication is largely7
+irrelevant to the humor.
+7 But not completely: if we replace “Harry” with Jeff Bezos, the multibillionaire (note the
+“b”) founder of Amazon, the fact that he wants to win the lottery becomes incoherent and
+ruins the setup of the joke.
+34
+
+
+--- PAGE 58 ---
+2.1 COMPETENCE AND PERFORMANCE
+Consider now another set of changes:
+1. Change “beg” to “pray”
+2. Change “the next day” to “the next week”
+3. Change “a voice” to “the Lord’s voice”
+4. Change “The Lord” to “God”
+5. Change “The Lord” to “Buddha”
+6. Change “the lottery” to “a trip to the Bahamas”
+7. Change “buy a lottery ticket” to “I already granted your wish”
+Once more, the first four changes have no impact on the humor, thus
+showing that those are not significant details, as far as the humor
+goes. However, with the fifth change, the humor disappears, because
+Buddhism does not believe in a personal god (in fact in any kinds of
+god) and moreover, to the best of my knowledge, there is no tradition
+of asking the Buddha for personal gifts. So, in order for the joke to work
+we need a superhuman personal entity capable of bestowing gifts and
+willing to do so. So, in a sense, this is a Judeo-Christian joke at a deeper
+level than it is a joke about Harry. However, the next two changes are
+even more devastating to the humor: if Harry wants to win a trip to
+the Bahamas, the element of “random drawing” of the lottery is gone,
+hence the fact that an omnipotent god could, if they so decided, make
+an individual the winner of the lottery, is also gone. Compare “make me
+win the lottery” to “buy me a ticket to the Bahamas.” The former requires
+a superhuman entity, the latter just someone with a few thousand dollars
+to spend (i.e., the cost of a ticket to the Bahamas).
+Finally, the last change also eliminates the humor, by removing the
+explanation why god has so far not granted the wish. Note that god
+is quite willing to grant the wish, but, reasonably enough, points out
+that in order to win the lottery, one has to buy a ticket, apparently
+disregarding the fact that if god is capable of making someone win the
+lottery they could perfectly well make them magically acquire a ticket
+as well.
+So in conclusion, we have been able, by applying the principle of
+commutation, to determine that the joke “works” because a) it involves
+a personal god character; b) it involves winning the lottery, which has
+a random extraction aspect to it and; c) it requires god to be willing
+to violate randomness but not causality. Let me add that this is just a
+35
+
+
+--- PAGE 59 ---
+METHODOLOGICAL PRELIMINARIES
+partial8 and informal analysis. We will see the actual application of this
+methodology to semantic and pragmatics in Chapters 6–7.
+2.1.2 Other methodologies
+We have seen that theoretical linguistics is built, methodologically
+speaking, on the application of the principle of commutation. Con-
+versely, variationist linguistics (a branch of sociolinguistics), achieves
+idealization statistically, i.e., by evaluating the likelihood that a given
+result, for example that speakers laugh more frequently when in a group,
+could have been arrived at by chance. This is not the place to discuss
+the actual statistical tools used to arrive at this determination, but we
+will review a few basic concepts. In order for data to justify a given
+(theoretical) conclusion, the following conditions must be met:
+• The sample must be representative of the population (i.e., all the
+things you want to describe).
+• The variables must be controlled as much as possible. Special
+methodologies (such as double blinding and control groups) have
+been developed to ensure that no unaccounted for variables affect
+the data.
+• Proper statistical measures must ensure that the likelihood that a
+given result was arrived at by chance is kept below a given threshold
+(usually 0.05 i.e., 5%). This is called “significance” and is not the
+same as significance in everyday parlance (for example, “this is a
+significant problem”).
+Unless these prophylactic measures are adopted, the only thing that
+empirical data can tell us is the tautological fact that they exist and have
+been observed. Corpus-based and corpus-assisted studies, in which the
+researcher begins by securing a (large) body of relevant data, likewise
+give the same level of attention to the representativeness of the corpus,
+because if the corpus is not representative of the population one wants
+to generalize to, then the study is pointless. Suppose one wants to
+8 In the version of the joke that I first heard, probably from Victor Raskin, in the late
+1980s, the man is described as “righteous” which goes a long way to explain his entitlement
+to ask God for a gift. Furthermore, much was made of him being apologetic about doing
+so. A considerable improvement on the quality of the joke, but not a change in its “moving
+parts” that make the humor happen.
+36
+
+
+--- PAGE 60 ---
+2.1 COMPETENCE AND PERFORMANCE
+describe jokes that circulate among high-school students. A corpus
+of Facebook posts would not be a valid corpus to generalize to all
+high-school students, because a) many high-school students do not use
+Facebook, which is perceived to be for “older” people, and b) because
+not all jokes that circulate among the students might be posted on
+Facebook.
+It should be noted that phenomenologically oriented approaches dif-
+fer from either of these approaches I have sketched above. They will be
+discussed in Chapter 11. Finally, within applied linguistics, researchers
+speak of “warrants” for the research. Essentially warrants are “validity
+checks.” Among the warrants are
+• credibility
+• replicability
+• transferability
+• freedom from biases.
+Credibility is related to the level of validity that one’s research has (valid
+research is credible). There are various criteria of validity (Creswell &
+Miller, 2000). In particular their discussion of triangulation (Creswell
+& Miller, 2000, pp. 126–127) will be quite relevant, particularly about
+the thorny problem of identifying humor in a text (see below, Section
+2.5). In a nutshell, triangulation is defined as using “convergence among
+multiple and different sources of information” to validate a category or
+an interpretation. The focus is essentially on relying on more than a
+single form of evidence and in fact in seeking a variety of sources of
+evidence. Incidentally, the term “triangulation” as used in linguistics
+is a metaphor going back to ancient sailing techniques and does not
+necessarily require three sources. One can triangulate with four, five, or
+more sources of evidence.
+Replicability is achieved by being as explicit as possible on one’s
+procedure, so that other scholars may reproduce a given study and
+check whether they get the same results. Transferability concerns the
+lack of ad hoc explanation: if we have an explanation for a phenomenon
+that applies only to that particular phenomenon, we cannot be sure of
+the validity of the explanation; conversely, if we can apply the same
+explanation to several independent phenomena, there is a greater prob-
+ability the explanation is not illusory. Freedom from biases is fairly self-
+explanatory: it is well known that if we go into a situation expecting that,
+37
+
+
+--- PAGE 61 ---
+METHODOLOGICAL PRELIMINARIES
+say, women are less funny than men, we will probably observe precisely
+that (this is called confirmation bias).
+2.2 Identifying humor
+We now need to introduce another important methodological aspect of
+studying humor and namely finding it. How do we know that something
+is funny, or how do we know that a given part of a text, or a given
+situation, is humorous? Historically, this has not been a big problem:
+either scholars were operating with texts, such as jokes, that came pre-
+labeled as humorous, or they were working with small corpora of data
+they themselves had collected and thus they had a reasonable idea of
+what was funny and why people were laughing. When we start looking
+at large corpora of data collected by third parties, or at large texts, such
+as novels, the presumption of humorousness is no longer there and the
+question of whether a given turn in a conversation, or a given passage in
+a text is humorous or not becomes a serious issue.
+Again, historically, many researchers have used a short cut: essentially,
+they assumed that the presence of laughter was enough to determine
+that there was humor. For a variety of reasons, the primary one being
+that video recording was very expensive and cumbersome, while audio
+recording was easy and cheap, smiling was pretty much ignored, until
+recently, despite the fact that smiling is the most frequent reaction to
+humor (Ruch, 2008).
+In this respect, psychologists and sociologists have a much easier task:
+they ask a large number of people “is this stimulus funny?” or “how
+funny do you find this?” and then use statistics to weed out the weird
+and unreliable answers and then they have an answer: a given stimulus is
+funny, and it is moderately so, for example. A linguist is in a much more
+complex position: suppose he/she is analyzing a conversation, in which
+one of the speakers says something, and the other responds by smiling.
+Sure, the linguist could ask the interlocutor if they were smiling because
+they got the joke or appreciated its humor, but the problem is that there
+is only one speaker who can answer that question and so if the speaker
+is an outlier or confused, there is no way to ask another 100 subjects.
+This means that there are all sorts of possible biases, which cannot
+be eliminated by aggregating the responses of many subjects. Some
+linguists have responded to this by simply not asking and assuming that
+38
+
+
+--- PAGE 62 ---
+2.2 IDENTIFYING HUMOR
+we just do not have access to the inner states of the speakers. Others
+argue that we can reconstruct them from their behavior. Many use the
+short cut and check whether either speaker is laughing or smiling. If
+they are, one of them experienced humor. So, most of what follows in
+this chapter can be read as the answer to the question: is this a legitimate
+short-cut?
+So we need to answer the question, “Can laughter/smiling be reliably
+used to identify humor by themselves?” The rest of the chapter will
+illustrate why the answer is negative and propose more reliable ways of
+identifying humor.
+2.2.1 Humor, mirth, and smiling/laughter
+The reader will no doubt recall the fundamental distinction we intro-
+duced right at the offset of the discussion between the cause (humor) and
+the emotional effect (mirth) and between the mental and physiological
+manifestations of humor and mirth. Humor itself is a cognitive process,
+which takes place in the brain. Mirth or exhilaration is the emotion
+one feels when experiencing and appreciating humor (Martin, 2007;
+Ruch, 1993). Emotions have physiological correlates, so mirth straddles
+the mental/physiological boundary. Emotions are manifested through
+external (physical) manifestations. These manifestation may be inten-
+tional or unintentional, i.e., they may happen despite the intention/will
+of the speaker or they may be intentionally planned and executed. At
+the unintentional end of the continuum one finds the idea of “leakage”
+proposed by Ekman, who asserts that emotions “leak” through the
+control that the speaker exerts (Ekman & Friesen, 1969). At the other
+end is the idea of emotions as social displays, i.e., the manifestations
+of emotion are meant to send a message to our audience (the people
+around us) (Fridlund, 1994). Needless to say, intermediate positions are
+also found, such as Buck (1980; 1994) who thinks that facial expressions
+are both internal and social manifestations.
+Both smiling and laughter may occur spontaneously, in which case
+they are called “felt” or “spontaneous,” or they may be deliberate and
+are then referred to as “volitional” or “voluntary” smiles/laughter. The
+prototypical involuntary laughter is often described as “cracking up” or
+“breaking up,” further emphasizing the lack of agency of the speaker and
+his/her powerlessness in refraining from laughter. Attempts to suppress
+laughter, for social constraints, such as funerals, formal ceremonies, etc.,
+39
+
+
+--- PAGE 63 ---
+METHODOLOGICAL PRELIMINARIES
+may in fact make it even more difficult to refrain from laughing (Goff-
+man, 1974, pp. 351–354). As we will see below, felt smiling can be
+differentiated from social smiling. While the facial displays and acoustic
+productions of laughter do not allow the differentiation of felt and
+volitional laughter, they activate different areas of the brain and so in
+principle may be discriminated. So, can we use felt smiling/laughter to
+identify humor? Let us consider them separately, first.
+2.2.2 Smiling
+Ruch reports that there are about 20 types of smile (2008, p. 21). They
+result from the combination of the activation of different muscles in the
+face. Ruch lists the following five: zygomatic major, zygomatic minor,
+risorius, levator anguli oris, buccinator (1995/2005, p. 113). He notes
+that only the zygomatic major is involved in the smile of enjoyment.
+Felt smiling is marked by the so-called Duchenne display which
+involves the flexing of the zygomatic major muscles, which raise the
+corners of the mouth, and of the orbicularis oculi, which cause the
+wrinkling of the corner of the eyes. Volitional smiles do not involve
+the orbicularis oculi and/or are asymmetrical. A full discussion of the
+muscles activated in smiling can be found in Platt & Ruch (2014). The
+primary difference investigated in psychology is whether the smile is
+felt (genuine) or social (deliberate, contrived). The Duchenne display
+is considered to be the test of the felt enjoyment smile.9 However,
+recent research has challenged the validity of the Duchenne display
+test of spontaneity (cf. Gironzetti, 2017a, p. 32, for a discussion). Other
+emotions which produce facial expressions may also be mixed in, such
+as embarrassment, negative emotions, flirting, etc. (Ruch, 2008, p. 22).
+These other emotions may cause other muscles to be activated.10
+Ruch (2008, p. 21) reports that, in experimental settings, smiling is
+the most frequent response to humor. The subjects are five times more
+9 The situation is more complex: Ruch (1995/2005) notes: “Voluntary smiles are more
+frequently unilateral (present in one half of the face only) or asymmetrical (stronger in one
+half of the face); their onset is abrupt or otherwise irregular but not smooth; they are more
+frequently too short (less than half of a second) or too long (more than 4 sec); and they are
+more frequently asynchronous (i.e., the zygomatic major and orbicularis oculi muscles do
+not reach their apex at the same time)” (p. 114).
+10 Smiling, laughter, and other facial expressions are commonly studied using the Facial
+Action Coding System (FACS) elaborated by Ekman & Friesen (1978). Essentially, each
+muscle in the face is examined for its degree of activation, on a 1–5 scale, ranging between
+minimal activation to maximum activation.
+40
+
+
+--- PAGE 64 ---
+2.2 IDENTIFYING HUMOR
+likely to smile than to laugh at a humor stimulus. Despite this fact, as
+Ruch notes, laughter remains the response most strongly associated with
+humor (p. 23). Of course, from the standpoint of identifying humor,
+smiling presents two related problems: a) people smile (even felt smiles)
+for positive reasons other than mirth, such as happiness or pleasure
+(Frank & Ekman, 1993, p. 10), and b) one may experience mirth or
+recognize humor and still not smile. Ruch (1995/2005) reports that in
+a meta analysis of studies on reactions to humor, anywhere between
+5% and 39% of subjects “showed no facial response at all” (1995/2005,
+p. 131). Most of those who showed no response were introverts.
+2.2.3 Laughter
+There are many different kinds of laughter, acoustically and phono-
+logically, in terms of syllables, aspiration, rhythm, volume, etc. (Chafe,
+2007, pp. 25–40; Trouvain & Truong, 2017, pp. 344–345). Laughter may
+occur on its own or interspersed in speech (Chafe, 2007, pp. 41–49).
+Speakers may laugh alone or jointly (antiphonal laughter; Smoski &
+Bachorowski, 2003). Generally speaking, laughter is associated with a
+more intense response to humor (Ruch, 2008, p. 23); also “different
+intensities of smiling reflect different degrees of exhilaration” (Ruch,
+1995/2005, p. 110). Chafe (2007) notes that smiling has been described
+as “the mildest form of laughter” (p. 52), for example by Darwin (1872),
+but ends up questioning the idea of smiling and laughter lying on a
+continuum because smiling has many social uses and is not limited to
+the expression of mirth. Platt & Ruch (2014, p. 704) flatly deny that a
+“graduate series” (i.e., a continuum) could be applied, if the emotions
+are different.
+Laughter can be spontaneous (irrepressible) or intentionally pro-
+duced (voluntary; contrived); to put it differently, one can laugh with-
+out intending to do so or deliberately: “[C]ontrived and spontaneous
+laughter within a person are strikingly similar with respect to the
+respirational pattern” (Ruch & Ekman, 2001, p. 428); therefore, it may be
+difficult or impossible to differentiate between them on acoustic or other
+observational grounds, even though they do activate different areas of
+the brain. This would mean that unless one knows that the speaker
+intended to laugh (for example, because one happens to be the speaker,
+and thus has access through introspection to one’s intentions), one could
+not tell whether the laughter was voluntary or not. This is not the case
+41
+
+
+--- PAGE 65 ---
+METHODOLOGICAL PRELIMINARIES
+with smiling, where, as we saw, a spontaneous smile (Duchenne smile)
+manifests different facial muscular patterns than a deliberate smile.
+Much like smiling, therefore, laughter cannot be used uncritically to
+identify humor because a) people experiencing mirth do not always
+laugh, and b) people laugh for other reasons than mirth. As we have
+seen, both smiling and laughter exceed the boundaries of mirth and
+mirth is not necessarily expressed by laughter. More damningly for
+the idea of identifying humor through the presence of laughter and/or
+smiling, both smiles and laughter may be volitional and fully social or
+contrieved. If either can be produced deliberately, for whatever com-
+municative purpose, then the assumption that laughter, and secondarily
+smiling, are effective markers of the presence of humor is seriously called
+into question. Frank et al. (1993/2005) argue that there are observable
+differences, at least as far as smiling goes, between genuine and con-
+trived displays and that “these differences are observable and influence
+subjective impressions” (p. 234). However, they acknowledge that while
+their study shows that genuine, felt, “enjoyment” smiles “can have social
+signal value,” i.e., be recognized by their audience as such, that does not
+necessarily mean that speakers engaging in conversation will treat them
+differently.
+There exists, as we have hinted at, an imbalance between the signif-
+icant amount of research dedicated to laughter and the much smaller
+amount of research on smiling, at least within linguistics. In what
+follows, we will pursue the discussion of the possibility of using laughter
+to identify humor a little deeper. Most of the argument carries over to
+smiling as well.
+2.3 Mirthful vs. non-mirthful laughter
+Indeed, the field of humor studies has long known that laughter is not
+coextensive with humor (see Attardo 1994, pp. 11–13 for a review of
+the literature). This is a fancy way of saying that we may have laughter
+without humor (as in pretend laughter, laughter of embarrassment,
+tickling, or laughing gas), humor without laughter (as one who reacts to
+humor smiling or with a nod of understanding, saying “I heard that one
+before,” or saying “that’s not funny!”), and clearly humor with laughter
+(Ruch, 2008, p. 23; Chafe, 2007; Trouvain & Truong, 2017).
+42
+
+
+--- PAGE 66 ---
+2.3 MIRTHFUL VS. NON-MIRTHFUL LAUGHTER
+Table 2.1 Relationships between humor and laughter
+Humor
+No humor
+Laughter
+Mirthful laughter
+Embarrassment laughter
+No laughter
+Non-laugh response
+Serious exchange
+In order to avoid confusion, we will introduce the term “mirthful
+laughter” when discussion the differences between laughter related to
+humor and laughter that is not related to humor. A good way to con-
+ceptualize mirthful laughter is a Venn diagram, describing “mirthful
+laughter” as the intersection of the “laughter” and the “humor” cate-
+gories. (See Figure 2.1.)
+Humor
+Laughter
+Mirthful
+laughter
+Figure 2.1
+Venn diagram of the intersection between humor and laughter.
+There is extensive literature on the distinction between mirthful
+laughter and other types of laughter. Giles and Oxford (1970) list seven
+kinds of laughter: humorous, social, ignorance, anxiety, derision, apolo-
+getic, and laughter as a reaction to tickling. Ziv (1979a, p. 16), Poyatos
+(2002), Chafe (2007), and others have a more extensive list of different
+types and functions, which could probably be pared down significantly,
+but are still emblematic of the fact that “laughter” is not a uniform
+monolithic construct.
+Aubouin (1948) and Olbrechts-Tyteca (1974) had already pointed
+out that one could not use reliably laughter as a one-to-one marker
+of humor because “laughter largely exceeds humor” (Olbrechts-Tyteca,
+1974, p. 14). Poyatos (2002) contains a long list of laughter types, most
+of which are non-humorous. Chafe (2007, pp. 73–85) also has a list of
+non-humorous causes of laughter. Glenn and Holt (2013) stated that
+“Much laughter occurs without anything noticeably humorous nearby,
+and much that people think of as humorous occurs without laughter”
+(p. 2). Trouvain and Truong (2017, p. 340) also have a list of non-
+humorous sources of laughter.
+43
+
+
+--- PAGE 67 ---
+METHODOLOGICAL PRELIMINARIES
+While it is certainly true that spontaneous uproarious genuine laugh-
+ter is probably the most overt indicator of humor, the claim that laughter
+is the most common indicator of humor is in error: smiling is probably
+the most frequent one, as we saw. More importantly, displays of mirth
+(laughter and smiling) and humor have a complex relationship that
+make the use of either or both as the sole criterion to determine the
+presence of humor inappropriate. Unfortunately, at least some areas of
+humor studies have yet to fully digest the falsity of the equation “humor
+equals laughter and vice versa.”
+2.3.1 On the lack of direct linear correlation between humor
+and mirth displays
+Despite the fact that genuine enjoyment smiling and laughter occur
+frequently with humor, the two are not coextensive. In the previous
+section we have looked at how some mirth may not occur with smiling
+and/or laughter and how non-mirthful laughter exists. Now we turn to
+a different argument. Essentially, we will consider the fact that mirthful
+displays are mediated socially, which makes the possibility of a direct
+correlation between mirth display and humor unlikely.
+Consider now a hypothetical simple direct correlation model, which
+assumes a direct linear11 correlation between intensity of the reaction
+(laughter/smiling) and humor stimulus appreciation. Basically, the more
+a speaker enjoyed a humorous stimulus, the more intensely they would
+react (with a mirth display). Unfortunately for this direct correlation
+hypothesis, psychological and sociological studies show that the rela-
+tionship is not direct, but rather mediated culturally.
+The difference between humor (stimulus) and laughter (response) is
+a well-known fact in psychology and in the social sciences, thus for
+example, it is an established result that subjects laugh more at a joke
+when they are in a group than if they are alone (Leventhal & Cupchik,
+1976; Chapman, 1976; Malpass & Fitzpatrick, 1959;12 Young & Frye,
+1966; Butcher & Wissell, 1984; Fridlund, 1991; Pollio & Swanson 1995;
+Devereux & Ginsburg 2001). Even the size of the audience (Morrison,
+1940) and the crowdedness of the room (Stokols et al., 1973) may affect
+11 A linear correlation is one in which each increase or decrease in one value is met by a
+correspondingly large change in the other value.
+12 But not for cartoons, where Malpass & Fitzpatrick find that the opposite is true.
+44
+
+
+--- PAGE 68 ---
+2.3 MIRTHFUL VS. NON-MIRTHFUL LAUGHTER
+the intensity of laughter or its enjoyment (Aiello et al., 1983). On the
+effect of the audience on reactions to humor, see Section 10.1.1.
+The fact that socialization enhances humor appreciation holds true
+for children (Chapman & Chapman, 1974, Chapman & Wright, 1976),
+and regardless of the actual presence of others (i.e., even an imagined
+group increases laughter). People also laugh more if the other people
+are friends (Murphy & Pollio, 1975; Pollio & Swanson, 1995), regardless
+of age (Foot, Chapman, and Smith, 1977). Women smile/laugh much
+more in reaction to cartoons and caricatures, in the presence of friends
+than strangers (Wagner & Smith, 1991). Mixed gender groups laugh
+significantly less when they are made up of strangers (Pollio & Swanson,
+1995).
+Similarly, it is a well established fact that accompanying laughter
+(laugh track) will increase laughter (e.g., Martin and Gray, 1996; Lawson
+et al., 1998; Platow et al., 2005) and that being observed (videotaped) will
+decrease it (Dale et al., 1991; Martin, Sadler, Barrett, & Beaven, 2008).
+The size of the audience is also a relevant factor: generally speaking, the
+larger the audience, the greater the laughter (Morrison, 1940; Andrus,
+1946; Prerost, 1977; Aiello et al., 1983). For more discussion of the
+audience effects on laughter, see Chapter 10.
+Thus, even if we wanted to establish a correlation between humor and
+laughter, doing so would prove practically impossible (or at least very
+hard). For example, we would not know whether we should measure the
+laughter of a given subject alone, or in a group, with strangers or friends,
+with or without a laugh track, etc.
+These are not the only problems one would encounter. If we present
+several stimuli in an experimental environment, or if in a conversation
+several humorous turns occur in a row, the repeated presence of humor
+affects its perception. Gavanski (1986) notes that “cartoon repetition
+did reduce amusement” (p. 211), whereas “ratings of cartoons on a
+‘funniness’ scale (…) were totally insensitive to reduction in amuse-
+ment” (p. 212). The same result was found in Deckers et al. (1989). On
+repetition see also Forabosco (1994) on seriality.
+Even more damaging for our hopes of a linear correlation between
+humor and laughter, is Brown et al.’s (1982) finding that when presented
+with unfunny stimuli but in the presence of confederates who have
+been instructed to laugh, subjects will laugh. Fridlund (1991) shows
+that subjects who merely imagined a companion smiled more whereas
+they did not report increased emotional response. He comes to the
+45
+
+
+--- PAGE 69 ---
+METHODOLOGICAL PRELIMINARIES
+conclusion that smiling may be more related to the social context than
+to the emotional setting. These results would of course make the use of
+laughter or smiling as indicators of humor extremely problematic.
+Finally, there is a significant literature, within the field of discourse
+analysis, which has shown that there are numerous situations in which
+laughter occurs without any mirth or exhilaration. These include embar-
+rassment at the discussion of sensitive topics, displays of resiliency
+in trouble-talk (i.e., non-humorous descriptions of one’s problems),
+complaints, and as a coping mechanism in aphasia. The literature is
+discussed in some detail in Section 11.4.2. The other contribution of
+discourse analysis to the discussion of whether laughter can be used
+to identify humor comes from another strong result in the field, which
+goes back to Jefferson (1979), i.e., the use of laughter to prime a laughter
+response (and hence the first use of laughter is not a response to the
+humorous stimulus). More broadly speaking, discourse analysis puts to
+rest the idea that laughter is a univocal reaction to humor: laughter may
+or may not be a reaction to humor and laughter may or may not be an
+expression of, or even associated with, mirth.
+So, in conclusion, it is not methodologically sound to claim that some-
+thing is humorous just because someone laughs (or smiles) immediately
+before, during, of after. This is not to say that one cannot or should not
+study laughter. On the contrary, as we will see, one of the central results
+of the discourse analysis of humor has been precisely that speakers signal
+by initiating laughter the humorous nature of their utterance. However,
+one should not confuse the study of laughter with the study of humor,
+as some have.
+2.3.2 Recognition vs. appreciation
+What mechanisms allow us to decouple the perception of a humorous
+stimulus from having a mirthful reaction? One of the reasons is that
+the recognition of the humorous nature of a text is independent of its
+appreciation. To recognize the humorous nature of a text requires only
+the activation of some cognitive mechanisms (which will be examined
+in Chapter 6 and following) that can be roughly described as the
+recognition of an incongruity. The appreciation of humor, whatever its
+nature, logically requires the recognition of humor, plus a set of other
+mechanisms (since one cannot appreciate what one does not know is
+there!).
+46
+
+
+--- PAGE 70 ---
+2.3 MIRTHFUL VS. NON-MIRTHFUL LAUGHTER
+Hay (2000) has introduced a four-level hierarchy to describe the
+attitudes of the hearer when faced with a humorous remark or text. Hay’s
+taxonomy was elaborated within the context of face-to-face conversa-
+tional joking, but it can be expanded intuitively to all texts.
+1. Recognition: at this level, the hearer merely recognizes the inten-
+tion on the speaker’s part to produce a humorous text without
+necessarily understanding the humor of the text.
+2. Understanding: at this level, the hearer recognizes the intention of
+the speaker and understands the humorous import of the text.
+3. Appreciation: at this level, the hearer manifests in some way his/her
+enjoyment or displeasure with the contents of the joke and/or the
+fact that the joke has been uttered.
+4. Participation: at this level, the hearer actually engages with the
+speaker in the creation of further humor.
+Hay’s most significant point, however, is that the latter levels presuppose
+(in the logical sense) the former. What this means is that in order to
+react to a joke, the hearer must first realize that the joke has occurred
+and then understand what the joke is. This means that there are several
+“failure” points from the hearer’s point of view since he/she may a) fail to
+recognize that the joke is being delivered; b) fail to understand the joke;
+c) fail to react to the joke; and d) fail to participate in the joking situation.
+We return in more detail to Hay’s hierarchy in Section 11.3.1.2.
+The distinction between recognition and appreciation is well estab-
+lished in psychology: for example, Leventhal & Mace (1970), Leventhal
+& Cupchik (1976), and Gavanski (1986) distinguish between cognitive
+and affective responses to humor: “the cognitive component is the
+evaluation of the humor stimuli in terms of their perceived humor
+content; the affective component is the subjective feeling of enjoyment
+produced by the humor stimuli” (Gavanski, 1986, p. 209).
+There is even neurological evidence for the distinction between recog-
+nition and appreciation (Goel & Dolan, 2001; Moran et al., 2004). In
+Goel and Dolan’s work, “semantic comprehension of jokes was associ-
+ated with increased activation in the left and right posterior middle tem-
+poral gyrus. By contrast, activity in ventromedial prefrontal cortex cor-
+related with subjects’ explicit ratings of how funny they found each joke”
+(Moran et al., 2004, p. 1055). In the case of right hemisphere damage
+47
+
+
+--- PAGE 71 ---
+METHODOLOGICAL PRELIMINARIES
+patients, Shammi and Stuss (1999) report a dissociation between the
+cognitive and affective responses to the humorous stimuli whereby the
+patients appear to understand the joke, and they rate the joke as funny,
+but they do not respond with smiles or laughter, unlike their normal
+controls and patients with lesions in other locations.
+This observation is a central foundation in the establishment of a
+pragmatics of humor in the sense of a theory of the audience. When
+observing an audience’s reaction to a given joke we, as observers, are
+faced with a problem. Given a joke utterance, the audience’s reaction
+may be a) laughing or b) not laughing (let us ignore, for the time being,
+intermediate reactions such as snickering, smiling, etc.). If the audience
+laughs we do not know whether they are laughing because they a)
+recognize but do not understand the joke, b) recognize and understand
+the joke. If the audience does not laugh, we do not know whether they
+a) did not recognize the joke, b) did not understand the joke, or c) did
+not believe that it was appropriate to show appreciation of the joke or
+otherwise decided to suppress observable reactions. In other words, our
+audience may be laughing not because of the humor (false positive), or
+may be not laughing while fully cognizant of the fact that a humorous
+event just took place (false negative). False negatives are common in
+humor research: the “that’s not funny” retort clearly belies its own force
+since it implies that the speaker knows that the event was funny but that
+he/she believes that appreciation should be withheld.
+As can be seen, if one wants to investigate humor appreciation or
+in general wants to construct a theory of humor audience/reception,
+one must address these issues that would otherwise nullify any effort
+at such an endeavor. The only examples of such controlled studies
+come from the psychological disciplines where to a certain degree, joke
+appreciation is measured not through self-reports but via physiological
+correlates (e.g., heart rate, vasco-dilation, electromagnetic activity in the
+cortex). Needless to say, even these empirical measurements are not
+100% effective as the “truth machine” (polygraph) has demonstrated.
+When considering self-reports, humor researchers should be aware of
+the fact that these are necessarily filtered via one’s societal and emotional
+biases, i.e., that subjects will tend, for example, to underreport amuse-
+ment at offensive or otherwise problematic stimuli. Another related
+issue is the presence of other subjects within the perception of the
+individual subject. It is a common phenomenon to laugh at a joke
+48
+
+
+--- PAGE 72 ---
+2.3 MIRTHFUL VS. NON-MIRTHFUL LAUGHTER
+that one has not understood simply because those around him/her are
+laughing at the joke. This makes the study of group appreciation of
+humor dauntingly complex as there is virtually no way of having access
+to the relevant information. Recall that studies have shown that subjects
+laugh more when they are in a group and that they will laugh to a non-
+funny stimulus if the rest of the group laughs at it (this is investigated
+experimentally using compères who are in on the experiment (Brown
+et al., 1982)).
+In short, neither direct behavioral observation nor self-reports are
+self-evident clues of either understanding or appreciation of humor.
+2.3.3 Confusion between humor and humor appreciation
+A common confusion, which also needs to be dispelled, is that between
+humor and humor appreciation. It has been claimed that a text is not
+funny unless it is funny to someone. While this has a certain ring of
+truth, further examination reveals this position to be in error. Specifi-
+cally, it confuses humor competence and humor performance. Consider
+the following situation:
+A tells B a joke. B is upset, or hungry, or in pain and does not want
+to hear the joke. Therefore B does not laugh and in fact says to A. “It’s
+not funny.” However, a few minutes later, after B’s emotional problems,
+hunger or pain have been taken care of, B remembers the joke and says
+“That was funny.”
+Would we want to say that the text was not funny at time t0 and was
+then funny at time t1? It seems much more natural to say that the joke
+was funny all along and that B was not in the right state of mind to
+appreciate it. Indeed, since the text has not changed, what could possibly
+have changed, if not B’s condition?
+One could argue that a text only exists in context and therefore that
+only pairs text/context can be funny. But this argument does not carry
+through, because once more the text can be an invariant, whereas the
+situations will inevitably change and the reason why certain texts will
+tend to be identified as funny or provoke a certain kind of reaction would
+remain. In conclusion, humor is a property of the stimulus, the text
+(competence level). Humor appreciation is a property of the situation
+(which includes a specific speaker and hearer, the context in which the
+humor is produced, etc., i.e., is the performance level).
+49
+
+
+--- PAGE 73 ---
+METHODOLOGICAL PRELIMINARIES
+2.4 Keying
+A stimulus may have all the necessary and sufficient conditions for the
+text to be classified as humor, but still not be perceived as humor, because
+of a performance issue. These conditions are essentially a special type of
+incongruity, as we saw before and will discuss more fully in the next
+chapters. The question then is not “why do certain incongruities not
+trigger humor experience?” but rather “what performance factors are
+necessary for a text that is humorous at the competence level to be
+perceived as humorous in a given situation, by a given individual or
+group, etc., i.e., in performance?” We know that some incongruities may
+be perceived as threatening or scary. For example, cognitive dissonance
+(Festinger, 1957; see Harmon-Jones, 1999; Cooper, 2007 for a synthesis
+of current research) can be described as the perception of an incongruity
+that is unpleasant. Cognitive dissonance is defined as follows:
+the possession at one and the same time of cognitive elements (knowledges) having
+psychologically opposite implications generates an unpleasant state of tension, or
+dissonance, within the individual which then motivates him[/her] to attempt to reduce
+dissonance by altering his[/her] cognitions.
+(Berkowitz, 1969, p. 97)
+Relatedly, Berlyne (1960) suggested that there was an inverted-U shaped
+curve describing the relationship between complexity of the stimulus
+and humor response (or to put it differently, that very hard or very easy
+incongruities are not funny). Hence, incongruities that are threatening
+or too complex to process will not be perceived as humorous. These are,
+of course, only two of numerous factors that may inhibit the humorous
+appreciation of the incongruity.
+We can then safely say that, all other things being equal, a humorous
+text will be perceived as humorous if the incongruity is
+• non-threatening
+• not too complex or too simple
+• based on available scripts/knowledge
+• unexpected, surprising
+• occurring in playful mode (see Section 2.4.1)
+• sudden (see Section 2.4.2)
+The above list is indicative and not meant to be exhaustive and, in
+fact, it is not possible to address the entire list in this context. Some
+50
+
+
+--- PAGE 74 ---
+2.4 KEYING
+of the issues mentioned have a significant literature (e.g., cognitive
+dissonance). I will examine briefly the playful and surprising aspects
+which have received relatively little attention.
+2.4.1 Playful mode
+We saw that for humor to be successful the situation must be framed
+or keyed as humor, in the sense of Goffman’s “frames” (Goffman, 1974,
+pp. 43–44) and Hymes’ “keys” (Hymes, 1972, p. 62); a discussion of
+these concepts, within the sociolinguistic framework, will be found in
+Chapter 10. Particularly, it should reflect suspension of disbelief on the
+factuality of information (fictionality). We will deal more fully with
+fictionality and play in Section 3.3.1.
+A possible argument against the essential nature of incongruity is that
+an incongruity may not be perceived as funny if the situation is not keyed
+to humor. This is true, but it turns out not to be an argument against
+the incongruity–resolution theory of humor; see Chapters 3–4. First of
+all, let us note that keying is a dynamic phenomenon: a situation may
+start out keyed for humor or may evolve or change its keying to humor.
+This shows that keying and humor are not causally connected, since
+neither can exist without the other: we can have un-keyed humor, i.e.,
+humor that occurs without warning or signaling in an otherwise serious
+situation (deadpan humor); similarly, we can have serious content keyed
+to playfulness, for example, the Schoolhouse Rock videos in the US
+presented serious academic material using songs and playful cartoons.
+Naturally, when humor is recognized its presence keys a posteriori any
+situation as “funny” in the intentions of the speaker who produced the
+humor (the audience may still refuse the keying, for example using the
+formula “That’s not funny”).
+Summing up: if a situation is not keyed for humor, i.e., playful,
+cheerful, upbeat mood, the occurrence of humor may rekey the situation
+toward humor or the attempt at humor may fail. Conversely, if a situation
+is keyed for humor, for example, by the prior occurrence of humor,
+humor may occur or not. If the situation is keyed for humor and
+humor occurs, the likelihood that both speaker and hearer will assess
+the situation as ‘something humorous was uttered’ is highest. If the
+situation is not keyed for humor, but humor occurs, they may or may
+not assess the utterance as humorous. If the situation is keyed for humor
+but no humor occurs (for example, the speaker fails to deliver a properly
+51
+
+
+--- PAGE 75 ---
+METHODOLOGICAL PRELIMINARIES
+Table 2.2 The interplay of humorous keying and text
+Humorous keying
+Serious keying
+Humorous text
+High likelihood
+Medium-high likelihood
+of humor assessment
+of humor assessment
+Serious text
+Medium-low likelihood
+Low likelihood
+of humor assessment
+of humor assessment
+formed humorous text) they, once more, may not assess the situation
+as humorous. If the situation is not keyed for humor and no humor
+occurs, the likelihood of speaker and hearer assessing the situation as
+humorous is very low (but not impossible). The situation is summarized
+in Table 2.2. Note the difference in likelihood of humorous assessment
+in the two cases of mismatched keying/text, which follows from my
+assumption that the nature of the text takes precedence on the key.
+It should also be noted that humor shares the non-serious keying with
+fiction, where the distinction is usually conceptualized as “fiction” vs.
+“factuality.” This is not the place to go into the details, but see Attardo
+(2008a, 2009).
+Finally, it should also be noted that keying of humor is a woefully
+under-studied issue: there are situations that are keyed by default to
+humor (comedy routines, late night talk shows, friendly banter, etc.)
+and there are others that are not (war declaration, judicial senten-
+cing, discussion of divorce among spouses, etc.). For example, how
+the type of situation and the production of humor interact has not
+really been addressed, nor has the fact that the use of humor may
+influence the way the situation is keyed (or re-keyed). From a different
+psychological perspective, the issue can be framed as the need for the
+speakers to be in the right frame of mind, called the humor mindset
+(Ford, 2014). The serious normal mindset is called “reality assimilation”
+whereas humor is part of “fantasy assimilation” (McGhee, 1972). Ford
+explains that
+Reality assimilation is the default process that occurs when encountering discrepancies
+between our cognitive schemas and actual events. In contrast, when in the fantasy
+assimilation mode, people do not require a realistic resolution of incongruous events.
+Therefore, they do not attempt to adjust their cognitive schemas to fit unexpected
+events. They simply disregard the requirement of literal congruity that characterizes
+reality assimilation.
+(2014, p. 361)
+52
+
+
+--- PAGE 76 ---
+2.4 KEYING
+2.4.2 Surprise
+The two aspects of the incongruity should be perceived simultane-
+ously, i.e., should be active at the same time, cognitively speaking. This
+seems related to another factor in humor perception: the surprising or
+unexpected aspect of the humorous stimulus. Punch lines are usually
+unexpected. Humor tends to be surprising. Conversely, for example,
+Catholic theologians commonly discuss the incongruous idea that God
+is one and three persons, at the same time, at least since the third
+century. While the conditions of humor (incongruity and co-presence,
+as we will see in Chapter 6) are clearly fulfilled, which may lead us to
+expect that the idea may be funny, the situation is hardly surprising and
+definitely not keyed for humor. A related example comes from physics
+which sees light as both a wave and a particle. The two descriptions are
+incompatible and so the description is incongruous, but discussions of
+optics are not usually keyed for humor, nor are they surprising (i.e., the
+information is presented upfront).
+Finally, not all unpredictable and surprising things are funny. For
+example, in mysteries, the identity of the killer is unexpected, and if the
+author did a good job, unpredictable, but that a killer would be found
+is expected. Generally, mysteries are not keyed for humor (with some
+exceptions, Janet Evanovitch and Pierre Dard come to mind) but even
+when they are, usually the revelation of the identity of the culprit is
+not sudden. So, in part some unpredictability is predicted and in part
+the delivery of the unpredictable element is not sudden enough to be
+surprising. There are more factors (having to do with the resolution of
+the incongruity) which will be taken up in Chapter 4.
+2.4.3 Unintentional humor
+Finally we need to mention briefly the phenomenon of unintentional
+humor, which shows that the keying for humor is crucial in recog-
+nizing the presence of potential humor. The idea of voluntary and
+involuntary humor (e.g., Ziv, 1984, p. 83) is straightforward: either one
+intends to amuse someone else or one does not. Nonetheless, the idea
+of “unintentional humor” is a good example of possible confusion. In
+the prototypical situation, the speaker says something he/she intends
+to be perceived as humorous. But what if the speaker says something
+that he/she did not intend to be perceived as humorous and yet has
+53
+
+
+--- PAGE 77 ---
+METHODOLOGICAL PRELIMINARIES
+all the prerequisite semantic/pragmatic trappings of competence-level
+humor (i.e., is potentially humorous)? In that case the hearer is faced
+with a choice: he/she can realize that the intention of the speaker was
+not to produce humor and therefore ignore the potential humor or
+he/she can choose to treat the non-humorously intended utterances
+as if it had been intended for humor. Needless to say, this choice is
+not a conscious one (at least not always). This is why I have claimed
+that there is no such thing as unintentional humor, since either the
+speaker or the hearer has to intend the interpretation of what was said
+as meant humorously (in other words, someone is always intending the
+potential humor as humorous, if they react to it as such). But what if
+neither the speakers nor the hearer realize that the speaker’s utterance
+is potentially humorous? Then, while the potential humor is objectively
+there, there is no humor perception. Needless to say, the possibility of
+people laughing without anything to laugh at is also there (as we saw,
+in the experiments described above, in which laughter increases if other
+people are laughing). A fuller discussion of the concept of unintentional
+humor will be found in Section 8.4.
+2.5 Identifying humor: the triangulation approach
+This brings up again the issue of how a researcher goes about identifying
+humor in a text. The answer is that it depends largely on the type of
+text. Some texts, such as novels or written jokes, have no extra-textual
+markers, such as those that, for example, sitcoms have (e.g., the laugh
+track).13 In that case, only semantic/pragmatic analysis can be used.
+If there are markers of humor (such as laugh tracks, or real laughter,
+or smiling, etc.), then one can use a triangulation approach, that is
+use of several cues to the humorous nature of the intention, such as
+the semantic analysis to identify the humor, checking the locations
+where the conversation participants laugh and/or smile. In some cases,
+for example, some corpora such as transcriptions of legal discourse,
+markers such as “[laughter]” are introduced. In the case of conversa-
+tional data, when access to the participants is possible, stimulated recall
+interviews after the data collection itself, revisiting the data, may help.
+13 They may have paratextual cues, such as a title along the lines of “5000 jokes” of a
+subtitle “a comedy in 3 acts.” Other paratextual cues can be inclusion in a series of humorous
+books, or a cover depicting a man slipping on a banana peel, etc.
+54
+
+
+--- PAGE 78 ---
+2.5 IDENTIFYING HUMOR: THE TRIANGULATION APPROACH
+In the case of multiple participants, consensus of interpretation may also
+be useful. There exist sophisticated statistical techniques to assess the
+degree of agreement of judges or raters (inter-rater reliability).
+As we saw previously, triangulation is not limited to three cues to
+the humorous nature. If more clues are available (say, interviews with
+the speakers, facial expressions, judges ratings, etc.), then more than
+three points of triangulation may be used. One may object to the use
+of the term triangulation, since we admit more than three kinds of
+evidence, but the word “n-sided polygonization” does not exactly roll
+off the tongue. Triangulation is very useful, as it allows to double check
+one’s analyses and thus to reduce the possibility of biases. Researchers
+should be extremely careful not to fall for the mistake of using laugh
+tracks or non-theoretically grounded transcriptions (i.e., transcriptions
+that are not made for research purposes) as the sole determinant of what
+to analyze. For example, the choice of looking at only those instances of
+humor in a sitcom at which laugh tracks occurs exposes one to the risk of
+both false positives and false negatives: a false positive would be a laugh
+track where no humor is actually found, and a false negative would be
+an instance of humor for which no laugh track was provided. This is
+closely related to the issue of “failed humor,” i.e., humor that fails to be
+interpreted as such by the audience. By definition, failed humor is not
+usually followed by laughter or smiling. Thus using the occurrence of
+laughter and/or smiling as the sole criterion for deciding if a piece of
+text is humor or not, will inevitably lead to false negatives (i.e., missing
+all failed humor). On failed humor, see Section 12.4.3.
+Finally, one could ask, why not rely on the researcher’s intuition?
+After all, much like linguists in the 1960s and 1970s relied on native
+speaker intuition to determine the grammaticality of a sentence, couldn’t
+we rely on the speaker’s intuition to identify humor? The answer to
+that is that people are appallingly bad at it and the worst performers
+are almost entirely unaware of how bad their performance is (Kruger
+& Dunning, 1999, pp. 1123–1124). So using an untrained judge is a
+recipe for disaster. Using a battery of judges and testing inter-rater
+reliability solve this problem and bring us in the domain of experimental
+psychology or the social sciences.
+So, generally speaking, a triangulation method to the identification
+of humor is the best way to proceed. By cross-referencing any sources of
+information about the potential humorous nature of the text in question,
+the researcher increases the reliability of their study by avoiding both
+55
+
+
+--- PAGE 79 ---
+METHODOLOGICAL PRELIMINARIES
+false positives (i.e., finding humor where there is none) and false neg-
+atives (missing humor that is there). The sources should not be ranked
+equally: objective information should be considered more reliable than
+subjective considerations. Multiple judges are more reliable than a sin-
+gle, potentially biased, judge.
+Within theoretical linguistics, studies have largely relied on meta-
+textual information (for example, if the text you are looking at comes
+from a published collection of jokes, the likelihood of it being a joke
+is extremely high; if moreover it contains a punch line, you can safely
+assume it is one) and historical records (for example, if you are consid-
+ering Shakespeare’s Merry Wives of Windsor, the historical record tells
+us that it is a comedy). Other fields, such as discourse analysis, have
+used other methodologies, such as participant observers, which will be
+discussed in the relevant chapters. For a more formal discussion of the
+triangulation approach, see Section 12.4.2.
+2.6 Further readings
+On the differences between humor and laughter, see a review and
+references in Attardo (1994, pp. 10–13). On mirth, see Martin (2007);
+on exhilaration, see Ruch (1993). Chafe (2007) and Trouvain & Truong
+(2017) are excellent descriptions of laughter and its phonetics. On
+smiling, see Platt & Ruch (2014).
+On the application of the principle of commutation to humor studies,
+see Attardo & Raskin (2017). On warrants in applied linguistics, see
+Edge & Richards (1998). Any introductory textbook of statistics will
+deal with sampling and validity issues. On the implicatural hierarchy
+of understanding, appreciation, etc., see Hay (2000). The discussion of
+keying is developed more broadly in Attardo (2009) and in Chapter 10.
+56
+
