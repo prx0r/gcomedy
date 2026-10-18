@@ -27,3 +27,9 @@
 
 ## Totals
 780s = 13 min. Render order: S05 first (anchor, timed data exists), then S06/S07, then titles/cards.
+
+## CLIP KEY (embed URLs for render)
+- Hedberg one-liner: pull from resources CLIPS.md (ranked one-liner entries)
+- Louis bit: auHzTfeF64Y (Road Rage full, timed beats available)
+- Norm moth: jJN9mBRX3uo (closing bit)
+- Vine/Carr fast lines: pull from resources CLIPS.md

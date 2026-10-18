@@ -26,3 +26,8 @@
 
 ## Totals
 750s = 12.5 min. Render order: S06 anchor, then S05/S02.
+
+## CLIP KEY (embed URLs for render)
+- Carlin planet bit: pull from resources CLIPS.md (18-in-46 counts verified in transcript)
+- Normand moth: jJN9mBRX3uo (escalation-by-investment variant)
+- UCB game ride: pull improv-game clip from resources

@@ -26,3 +26,9 @@
 
 ## Totals
 720s = 12 min. Render order: S06 anchor, then S04/S02.
+
+## CLIP KEY (embed URLs for render)
+- Rock exact quote: Talking Funny HBO excerpt (fair-use ≤15s)
+- Monopoly premise install: GOLD.md + auHzTfeF64Y region
+- Acaster red dress: panel-show clip from resources CLIPS.md
+- Autumn Leaves head: Bill Evans Trio (fair-use excerpt, 8 bars)

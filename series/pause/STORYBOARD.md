@@ -26,3 +26,9 @@
 
 ## Totals
 780s = 13 min. Render order: S06 anchor (needs timed exemplar + full overlay stack), then S01 (silence bed), then S04.
+
+## CLIP KEY (embed URLs for render)
+- Louis 8.16s hold: auHzTfeF64Y t=187s (timed exemplar: 18 beats, pause_after present)
+- Lee 31s hold: OXo5_ihFkA0 t=48s | Lee 20s: -SQIfEwAkcw t=38s
+- Amstell 10s: K4mH6E0hMbI t=40s | Norm 1.7s: jJN9mBRX3uo
+- TAMS Scooby-Doo: cite paper (no clip; chart rebuild from findings)

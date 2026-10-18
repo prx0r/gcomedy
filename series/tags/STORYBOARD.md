@@ -13,7 +13,7 @@
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
 | S04 | 2:30–4:00 | Encore riff (guitarist squeezes 2 notes from same fret) | Narrator lens + audio | same-position marker | 90s |
-| S05 | 4:30–6:00 | Normand machine-gun vs Louis excavator (split) | Narrator persona + 2 clips | speed vs depth tags | 90s |
+| S05 | 4:00–6:00 | Normand machine-gun vs Louis excavator (split) | Narrator persona + 2 clips | speed vs depth tags | 120s |
 | S06 | 6:00–9:00 | Tag chain: word counts descending (9→6→4→3), laugh density rising; 4th tag that shouldn't exist dies | Narrator + clip | decay curve + density meter | 180s |
 | S07 | 9:00–9:45 | Gulman re-aim demo (same world, new victim per tag) | Narrator + clip | victim-rotation markers | 45s |
 
@@ -25,4 +25,9 @@
 | S09 | 10:30–11:00 | Thesis restated + callbacks hook | Narrator close | series map, callbacks highlighted | 30s |
 
 ## Totals
-660s = 11 min. Render order: S06 anchor, then S05/S02.
+690s = 11.5 min. Render order: S06 anchor, then S05/S02.
+
+## CLIP KEY (embed URLs for render)
+- Louis Monopoly tags ("going down hard"): GOLD.md transcript + auHzTfeF64Y region
+- Gulman re-aim: pull state-abbreviation stack from resources CLIPS.md
+- Normand overlap run: jJN9mBRX3uo or fast-run entry

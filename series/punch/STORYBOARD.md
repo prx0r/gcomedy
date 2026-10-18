@@ -26,3 +26,8 @@
 
 ## Totals
 720s = 12 min. Render order: S06 anchor (needs tag-flip build), then S05/S02.
+
+## CLIP KEY (embed URLs for render)
+- Autopsy clip: select from timed exemplars (pause_before + word counts present)
+- Pun superposition: Hedberg/Vine one-liner from CLIPS.md
+- Long-punch reconstruction: build from autopsy clip (same setup, extended punch)

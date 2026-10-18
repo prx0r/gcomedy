@@ -26,3 +26,8 @@
 
 ## Totals
 750s = 12.5 min. Render order: S06 anchor (needs arc + clock build), then S05/S02.
+
+## CLIP KEY (embed URLs for render)
+- Mulaney dogs/horses: JhkZMxgPxXU (251s Netflix clip) + Kid Gorgeous exemplar (timed, estimated)
+- Acaster tsunami: pull Recognise finale from resources CLIPS.md
+- Vonnegut text cards: public-domain-adjacent quotes (short, attributed)

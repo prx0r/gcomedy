@@ -30,3 +30,9 @@
 
 ## Totals
 840s = 14 min. Render order: S06 anchor, then S07/S02, then titles/cards.
+
+## CLIP KEY (embed URLs for render)
+- Louis mid-setup + Monopoly bit: Nerdwriter breakdown per GOLD.md; performance auHzTfeF64Y
+- Rock Talking Funny: exact quote sourced (pull HBO excerpt, fair-use ≤15s)
+- KT fast set (roaring, clean beats): select from 335-set corpus by crowd outcome
+- Seinfeld pad: NYT Pop-Tart still/frame

@@ -13,7 +13,7 @@
 | # | t0–t1 | Visual | Audio | Overlay data | Dur |
 |---|---|---|---|---|---|
 | S04 | 2:30–4:00 | Perfect cadence V–I (tension demands resolution) | Narrator lens + audio | cadence diagram | 90s |
-| S05 | 4:30–6:00 | Carlin verdict vs Normand shrug (split, same geometry) | Narrator persona + 2 clips | monument vs dismissal tags | 90s |
+| S05 | 4:00–6:00 | Carlin verdict vs Normand shrug (split, same geometry) | Narrator persona + 2 clips | monument vs dismissal tags | 120s |
 | S06 | 6:00–9:30 | Closer dissected: trajectory map wandering→returning; return starts 30–60s before final line; applause starts BEFORE line ends | Narrator + full 90s clip | trajectory map, prediction-applause marker | 210s |
 | S07 | 9:30–10:15 | Seinfeld circular close (final bit reuses first premise) | Narrator + clips | circular trajectory (start=end coords) | 45s |
 
@@ -25,4 +25,9 @@
 | S09 | 11:00–11:30 | Thesis restated + premise hook ("where worlds come from") | Narrator close | series map, premise highlighted | 30s |
 
 ## Totals
-690s = 11.5 min. Render order: S06 anchor (trajectory map build), then S05/S02.
+720s = 12.0 min. Render order: S06 anchor (trajectory map build), then S05/S02.
+
+## CLIP KEY (embed URLs for render)
+- Carlin verdict close: pull from resources CLIPS.md (oratory closer)
+- Normand shrug close: jJN9mBRX3uo (closing bit doubles as button specimen)
+- Seinfeld circular: NYT/Is-This-Anything material (premise-return close)
