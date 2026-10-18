@@ -97,3 +97,98 @@
 
 > "Words were his Forte... the way they were arranged to sound was just as important." (setup as sonic architecture)
 > — **George Carlin** (GOLD-CARLIN.md)
+
+---
+
+## From R2 specials (transcript search)
+
+### Al Madrigal
+
+> "You sure? [audience cheers] No, I know you guys are, but there’s some people who are like, “Meh.” Does it feel weird that you’re up front like this? Are you- Okay."
+> — *AL MADRIGAL: WHY IS THE RABBIT CRYING? (2013) – Full Transcript*
+
+### Alex Edelman
+
+> "By the way, you don’t… you don’t need to know what this is. I promise you, it’s an obscure function of a dying platform. Like, you don’t truly need to know."
+> — *Alex Edelman: Just for Us (2024)*
+
+### Ali Wong
+
+> "[audience laughing]
+
+Hello Kitty doesn’t even have a mouth. [audience laughing] But I can make the impossible possible, you know? [audience laughing] Listen, if I get you that two-bedroom condo in Reseda, you better be at that two-bedroom condo in Reseda, available to dick me dow"
+> — *Ali Wong: Single Lady (2024)*
+
+> "[audience laughing] But I can make the impossible possible, you know? [audience laughing] Listen, if I get you that two-bedroom condo in Reseda, you better be at that two-bedroom condo in Reseda, available to dick me down when I am finished performing at the Wiltern in my nightgo"
+> — *Ali Wong: Single Lady (2024)*
+
+> "The day after I joined that app, I get a phone call from this dude who I had met at, like, two dinner parties in the past. And he got my number from a mutual friend, a mutual colleague, and he was like, “Hey, Ali.” [chuckles softly] “I just happened to hear the news of your divor"
+> — *Ali Wong: Single Lady (2024)*
+
+### Anthony Jeselnik
+
+> "After 20 years of stand-up comedy, just last weekend, I finally perfected my act. [audience chuckles] Don’t get me wrong. I thought it was perfect before."
+> — *Anthony Jeselnik: Bones and All (2024)*
+
+> "They get so mad. [audience laughs] You know, there’s one thing I like about Milwaukee. [clicks tongue] And there is one thing I like about Milwaukee."
+> — *Anthony Jeselnik: Bones and All (2024)*
+
+> "I sent it to my manager. I said, “Put this on my website.” “Put it on social media.” “Let’s sell some fucking tickets… [audience chuckles] …with a little help from Kanye.” And my manager says to me, “Anthony, are you out of your goddamn mind?” “Don’t you know what’s been going on"
+> — *Anthony Jeselnik: Bones and All (2024)*
+
+### Ari Shaffir
+
+> "It’s a good thing. Do you hate Tampa?” [audience chuckles] I’m ten minutes away from getting a vasectomy. I swear to God."
+> — *ARI SHAFFIR: DOUBLE NEGATIVE (2017) – Full Transcript*
+
+> "Why build a new team for the draft when there’s quality free agents waiting to get picked up? [audience laughs] [chuckles] You know? I know some people are super against adoption."
+> — *ARI SHAFFIR: DOUBLE NEGATIVE (2017) – Full Transcript*
+
+> "What’s your name?” And he’s like, “Peter.” “Hey, Peter. I’m Ari.” “So?” [audience laughs] “You want to go home today?” “I don’t know, maybe. What the fuck?” [audience chuckles] “I think I like you."
+> — *ARI SHAFFIR: DOUBLE NEGATIVE (2017) – Full Transcript*
+
+### Arsenio Hall
+
+> "Yes. If you can, follow me on all the social media platforms. You know, Facebook and Instagram– I like Facebook and Instagram."
+> — *Arsenio Hall: Smart and Classy (2019) – Transcript*
+
+### Aziz Ansari
+
+> "All right, truth be told, it was that bass player in No Doubt, but, you know… He was in the background playing bass! He didn’t have a platform to speak on these things! Plus, we all know the dynamic in that band."
+> — *Aziz Ansari: Right Now (2019) – Transcript*
+
+### Barry Brewer
+
+> "In Barry Brewer Jr’s case, an opportunity too good to be true turned out to be a misconstrued pursuit. PlatformChocolate Sundaes Comedy Show
+
+Sometimes hangin’ out can be misinterpreted as a date night. In Barry Brewer Jr’s case, an opportunity too good to be true turned out to b"
+> — *Barry Brewer: I Accidentally Went on a Gay Date Scene*
+
+### Bassem Youssef
+
+> "Bassem Youssef illuminates the complex realities of social media stardom in a keynote that spans his extraordinary journey from heart surgeon to a luminary in both the digital and comedic landscapes. Youssef dissects the fallacy of seeking universal adulation on social platforms,"
+> — *Bassem Youssef: The Dark Side of Making it on Social Media Scene*
+
+> "It’s really about the ego. Social media platforms might be free, but they come at a price, and that price is your own self-worth. That becomes more and more dependent on a virtual digital currency."
+> — *Bassem Youssef: The Dark Side of Making it on Social Media Scene*
+
+### Bert Kreischer
+
+> "It’s really a treat. [audience laughing] Get in the shower, get a handful of soap, give yourself a little credit card action. [audience laughing] And you get denied."
+> — *Bert Kreischer: Razzle Dazzle (2023) | Transcript*
+
+> "[audience laughing] Get in the shower, get a handful of soap, give yourself a little credit card action. [audience laughing] And you get denied. I’m talking rope, ladies."
+> — *Bert Kreischer: Razzle Dazzle (2023) | Transcript*
+
+> "I walk over to my wife. [audience laughing] [Bert laughs] [audience laughing] I go, “I need to know if you’re on my team or off my team.” [audience laughing] [thick Southern accent] She’s like, “I’m on your team.” [normal voice] My wife’s a redneck. I should have told you that."
+> — *Bert Kreischer: Razzle Dazzle (2023) | Transcript*
+
+### Beth Stelling
+
+> "[crowd laughs] [chuckles] No, my dad didn’t escape as much as he was asked to leave. [chuckles] Escorted off the premises. [crowd laughs] Some of you know this about my… my dad."
+> — *Beth Stelling: If You Didn’t Want Me Then (2023)*
+
+### Bill Burr
+
+> "You need the votes. You can’t run with that as your platform. Coming out there: “And if elected, I would implement a program to immediately eliminate at least 85% of you!"
+> — *BILL BURR: I’M SORRY YOU FEEL THAT WAY (2014) – Full Transcript*
