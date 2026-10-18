@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "id": "tymoczko-voice-leading",
+  "title": "Voice-Leading Geometry",
+  "type": "music-geometry",
+  "extends": [
+    "music-geometry",
+    "toroidal-topology"
+  ],
+  "scientificCore": {
+    "sourceSignal": "MIDI or pitch-class events",
+    "apparatus": null,
+    "equation": "minimum Euclidean voice displacement under pitch-class permutation and octave equivalence",
+    "parameters": {
+      "period": 12
+    },
+    "invariants": [
+      "chord cardinality",
+      "pitch-class period"
+    ],
+    "measurements": [
+      "step distance",
+      "total path distance"
+    ],
+    "epistemicStatus": "mathematical-model"
+  },
+  "artisticLayer": {
+    "mechanism": "voice-leading-geometry",
+    "style": "tantricManuscript",
+    "colorMapping": {
+      "hue": "voice identity"
+    },
+    "audioRoutes": [],
+    "camera": {},
+    "typography": {}
+  },
+  "agentContract": {
+    "useCases": [
+      "harmonic analysis"
+    ],
+    "requiredInputs": [
+      "ordered chord sequence"
+    ],
+    "forbiddenClaims": [
+      "geometric proximity directly measures emotion"
+    ],
+    "reviewTests": [
+      "voice mapping displayed"
+    ]
+  }
+}
