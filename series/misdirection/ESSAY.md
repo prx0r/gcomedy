@@ -4,7 +4,7 @@
 
 ---
 
-**[0:00] ENGINE NAMED.** Butt named. Now the path you lead them down. That is the whole episode in one line. Misdirection is the garden path — lead to one reading, deliver another, through a connector that does double duty. Comics call it lying. Gardeners lay paths. You plant one so inviting the room walks it gladly, and then you show them the other ways through it always had. Everything after this is just how the garden gets built.
+**[0:00] ENGINE NAMED.** Butt named. Now the path you lead them down. That is the whole episode in one line. Misdirection is the garden path — lead to one reading, deliver another, through a connector that does double duty. Comics call it lying. Gardeners lay paths. You plant one so inviting that the room walks it gladly, and then you show them the other ways through it always had. Everything after this is just how the garden gets built.
 
 **[0:30] PROOF.** Watch Jeselnik do it before anything is explained. He stands there calm and almost bored, telling you something sincere — and the last word turns the sincerity into the decoy. Play it in full. [CLIP: one Jeselnik reverse, ≤15s, pause after punch, room turns] Hold the analysis. Just feel the turn land in your body. The room thought they knew where they stood. That feeling — the floor moving late — is the entire function. [GOLD CARD: punch-word position — final-word flip, timestamp at TIMING EXTRACTION]
 

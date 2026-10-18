@@ -96,7 +96,7 @@ The punch still lands, but on a room that's already spent half its tension fidge
 
 ## [11:30] FAILURE MODE
 
-Two deaths. One: dead air mistaken for a hold — silence with nothing behind it — nothing expected, nothing suspended. The room doesn't lean in, it checks out. Difference between a hold and dead air is everything before it: an empty platform. Two: the stepped-on laugh — talking over the room's release to get to the next bit. The snap needs its own silence AFTER it (the room's own snap). Comedians who fear silence talk through their own punchlines and wonder why the laughs feel small. The laughs were big. They just never got their silence.
+Two deaths. One: dead air mistaken for a hold — silence with nothing behind it — nothing expected, nothing suspended. The room doesn't lean in, it checks out. Difference between a hold and dead air is everything before it: no platform; no tension; no instrument. Two: the stepped-on laugh — talking over the room's release to get to the next bit. The snap needs its own silence AFTER it (the room's own snap). Comedians who fear silence talk through their own punchlines and wonder why the laughs feel small. The laughs were big. They just never got their silence.
 
 > DIR: SPLIT dead air (coughs, chairs, empty timer) vs stepped-on laugh (release cut mid-flight); empty-vs-cut markers (canonical); laugh ticks only. No clips — narrator only.
 

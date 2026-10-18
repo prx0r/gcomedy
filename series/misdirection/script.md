@@ -6,7 +6,7 @@
 
 ## [0:00] ENGINE NAMED
 
-Butt named. Now the path you lead them down. That is the whole episode in one line. Misdirection is the garden path — lead to one reading, deliver another, through a connector that does double duty. Comics call it lying. Gardeners lay paths. You plant one so inviting the room walks it gladly, [break] and then you show them the other ways through it always had. Everything after this is just how the garden gets built.
+Butt named. Now the path you lead them down. That is the whole episode in one line. Misdirection is the garden path — lead to one reading, deliver another, through a connector that does double duty. Comics call it lying. Gardeners lay paths. You plant one so inviting that the room walks it gladly, [break] and then you show them the other ways through it always had. Everything after this is just how the garden gets built.
 
 ## [0:30] PROOF
 
