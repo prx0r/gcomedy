@@ -105,6 +105,28 @@ To generate a joke that works:
 | violate | Ch 3, 8 | aggression, context |
 | the-line | Ch 8, 13 | context, power |
 
+## Full chapter coverage (all 17)
+
+| Ch | Topic | Key nodes |
+|---|---|---|
+| 1 | Definitions | humor, joke, punchline, mirth, laughter, meta-humor |
+| 2 | Methodology | operationalization, corpus-methodology, level-of-analysis |
+| 3 | Theories | release/incongruity/aggression + bisociation + complementarity |
+| 4 | Incongruity-resolution | IDM, foregrounded/backgrounded, linear-organization |
+| 5 | Semiotics | humor-signal, code |
+| 6 | Semantics | script, script-opposition-SSTH |
+| 7 | GTVH | GTVH, 6 KRs, jab-line |
+| 8 | Pragmatics | relevance-theory-humor, context-humor |
+| 9 | Verbal humor | pun, verbal-irony, sarcasm |
+| 10 | Performance | prosody, timing, gesture, audience-co-performer |
+| 11 | Conversation | adjacency-pair, preference-organization |
+| 12 | Discourse | footing |
+| 13 | Sociolinguistics | power-solidarity |
+| 14 | Literature | narrative-humor, comic-character |
+| 15 | Translation | untranslatability, kr-independence-evidence |
+| 16 | Classroom | humor-pedagogy |
+| 17 | Conclusion | complementarity-synthesis, future-directions |
+
 ## The complementarity principle (Ch 3)
 
 When analyzing WHY something is funny, check all three theories:

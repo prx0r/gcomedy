@@ -1288,6 +1288,223 @@
     "Attardo 2020 Ch 13"
    ],
    "maps_to_our": "jokegate TARGETS (self/powerful/species/victim), THE-LINE distance calculations"
+  },
+  "operationalization": {
+   "id": "operationalization",
+   "name": "Operationalization",
+   "type": "concept",
+   "chapter": 2,
+   "page": 55,
+   "definition": "The process of turning abstract humor concepts into measurable variables. Attardo argues humor studies needs operationalization to be scientific \u2014 'funny' must become countable.",
+   "our_operators": [],
+   "series_topics": [
+    "joke",
+    "feel-judge"
+   ],
+   "examples": [
+    "Turning 'incongruity' into 'semantic_distance = 1 - cosine(setup_embed, punch_embed)'",
+    "Turning 'timing' into 'pause_duration in seconds'"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 2"
+   ],
+   "maps_to_our": "Our entire measured-timing pipeline: pauses, wpm, syllable counts \u2014 we operationalized Attardo's call"
+  },
+  "corpus-methodology": {
+   "id": "corpus-methodology",
+   "name": "Corpus Methodology",
+   "type": "concept",
+   "chapter": 2,
+   "page": 62,
+   "definition": "Building and analyzing collections of jokes for systematic study. Attardo discusses corpus size, annotation schemes, and the need for representative samples.",
+   "our_operators": [],
+   "series_topics": [
+    "joke",
+    "formats"
+   ],
+   "examples": [
+    "Our 34,551 annotated bits from 36 comics",
+    "Our 2,373 R2-linked clips with transcripts"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 2"
+   ],
+   "maps_to_our": "characters2 bits_theory.json (34k bits), funnygraph clips_substrate (6,876 clips)"
+  },
+  "level-of-analysis": {
+   "id": "level-of-analysis",
+   "name": "Level of Analysis",
+   "type": "distinction",
+   "chapter": 2,
+   "page": 58,
+   "definition": "Attardo distinguishes levels at which humor can be studied: text-level (the joke structure), performance-level (the delivery), reception-level (the audience response). Different theories operate at different levels.",
+   "our_operators": [],
+   "series_topics": [
+    "joke",
+    "delivery",
+    "feel-judge"
+   ],
+   "examples": [
+    "GTVH = text-level. Timing research = performance-level. Laugh density = reception-level."
+   ],
+   "sources": [
+    "Attardo 2020 Ch 2"
+   ],
+   "maps_to_our": "Our gates check text-level; delivery/timing topics cover performance-level; laugh data covers reception-level"
+  },
+  "narrative-humor": {
+   "id": "narrative-humor",
+   "name": "Narrative Humor",
+   "type": "concept",
+   "chapter": 14,
+   "page": 344,
+   "definition": "Humor in long-form narrative \u2014 comic novels, humorous stories. Unlike jokes, narrative humor unfolds over time. Attardo discusses how GTVH applies to longer texts via jab lines.",
+   "our_operators": [],
+   "series_topics": [
+    "formats",
+    "where-jokes-come-from"
+   ],
+   "examples": [
+    "Twain's Huckleberry Finn",
+    "Wodehouse's Jeeves stories",
+    "Louis's storytelling bits"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 14"
+   ],
+   "key_insight": "Long texts have jab lines (within-body humor), not just punchlines (end-triggered)"
+  },
+  "comic-character": {
+   "id": "comic-character",
+   "name": "Comic Character",
+   "type": "concept",
+   "chapter": 14,
+   "page": 350,
+   "definition": "A character whose traits create humor through inconsistency, excess, or rigidity. Attardo links to Bergson: the comic character is 'the mechanical encrusted on the living.'",
+   "our_operators": [
+    "rigidify",
+    "character_violation",
+    "identity_contradict"
+   ],
+   "series_topics": [
+    "persona",
+    "formats",
+    "rule"
+   ],
+   "examples": [
+    "Bergson's rigid character",
+    "Locke's grounded-absurd persona",
+    "Acaster's over-committed idiot"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 14",
+    "Bergson 1911"
+   ],
+   "maps_to_our": "identity.archetype, rigidify operator, Bergson rigidity"
+  },
+  "untranslatability": {
+   "id": "untranslatability",
+   "name": "Untranslatability",
+   "type": "concept",
+   "chapter": 15,
+   "page": 365,
+   "definition": "Some humor cannot be translated because it depends on language-specific features (puns, wordplay, cultural references). Attardo argues translation is a test of what's 'essential' in humor.",
+   "our_operators": [],
+   "series_topics": [
+    "formats",
+    "voice"
+   ],
+   "examples": [
+    "Puns rarely translate (word-specific)",
+    "Cultural references need adaptation"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 15"
+   ],
+   "key_insight": "What survives translation = the SO + LM (structure). What doesn't = LA (specific words). This confirms the KR independence."
+  },
+  "kr-independence-evidence": {
+   "id": "kr-independence-evidence",
+   "name": "KR Independence (from translation)",
+   "type": "principle",
+   "chapter": 15,
+   "page": 375,
+   "definition": "Translation proves the 6 KRs are independent: you can preserve SO+LM+SI+TA+NS while changing LA. The joke still works with different words \u2014 confirming LA is the most 'free' KR.",
+   "our_operators": [],
+   "series_topics": [
+    "gtvh",
+    "voice"
+   ],
+   "examples": [
+    "A joke translated to French: same SO, same LM, different LA \u2014 still funny"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 15"
+   ],
+   "maps_to_our": "Why our operators work: each changes one KR without breaking others"
+  },
+  "humor-pedagogy": {
+   "id": "humor-pedagogy",
+   "name": "Humor as Pedagogy",
+   "type": "concept",
+   "chapter": 16,
+   "page": 392,
+   "definition": "Using humor in teaching. Attardo discusses how understanding humor mechanics helps in education \u2014 both teaching ABOUT humor and using humor TO teach.",
+   "our_operators": [],
+   "series_topics": [
+    "joke-writing",
+    "formats"
+   ],
+   "examples": [
+    "Teaching joke structure as a writing exercise",
+    "Using humor to make material memorable"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 16"
+   ],
+   "maps_to_our": "Our series videos ARE humor pedagogy \u2014 teaching the mechanics through examples"
+  },
+  "complementarity-synthesis": {
+   "id": "complementarity-synthesis",
+   "name": "Complementarity Synthesis",
+   "type": "principle",
+   "chapter": 17,
+   "page": 404,
+   "definition": "Attardo's final position: humor studies needs all levels (retrieval, comprehension, appreciation), all theories (release, incongruity, aggression), and all KRs (SO, LM, SI, TA, NS, LA). No single framework captures everything.",
+   "our_operators": [],
+   "series_topics": [
+    "joke",
+    "feel-judge"
+   ],
+   "examples": [
+    "Our multi-layer BV model mirrors this: violation + benign + social target"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 17"
+   ],
+   "maps_to_our": "Our entire system: gates (comprehension) + delivery/timing (performance) + laugh data (appreciation)"
+  },
+  "future-directions": {
+   "id": "future-directions",
+   "name": "Future Directions",
+   "type": "concept",
+   "chapter": 17,
+   "page": 406,
+   "definition": "Attardo calls for: more corpus work, better operationalization, cross-cultural studies, computational models. We are literally doing what he called for.",
+   "our_operators": [],
+   "series_topics": [
+    "joke",
+    "formats"
+   ],
+   "examples": [
+    "Our 34k-bit corpus IS the corpus work",
+    "Our measured timing IS the operationalization",
+    "Our UK/US region data IS the cross-cultural study"
+   ],
+   "sources": [
+    "Attardo 2020 Ch 17"
+   ],
+   "maps_to_our": "We are Attardo's future directions, executed"
   }
  },
  "edges": [
@@ -1787,6 +2004,111 @@
    "type": "requires",
    "label": "power determines who is a safe TA",
    "chapter": 13
+  },
+  {
+   "from": "operationalization",
+   "to": "corpus-methodology",
+   "type": "requires",
+   "label": "operationalization needs corpus data",
+   "chapter": 2
+  },
+  {
+   "from": "level-of-analysis",
+   "to": "competence-performance-distinction",
+   "type": "maps_to",
+   "label": "levels map to competence vs performance",
+   "chapter": 2
+  },
+  {
+   "from": "operationalization",
+   "to": "timing-performance",
+   "type": "implements",
+   "label": "timing operationalization is our measured pauses",
+   "chapter": 2
+  },
+  {
+   "from": "narrative-humor",
+   "to": "jab-line",
+   "type": "requires",
+   "label": "long texts use jab lines, not just punchlines",
+   "chapter": 14
+  },
+  {
+   "from": "comic-character",
+   "to": "release-theory",
+   "type": "implements",
+   "label": "Bergson's mechanical-on-living is the release theory",
+   "chapter": 14
+  },
+  {
+   "from": "comic-character",
+   "to": "rigidify",
+   "type": "maps_to",
+   "label": "comic character = rigid system colliding with life",
+   "chapter": 14
+  },
+  {
+   "from": "untranslatability",
+   "to": "KR-LA",
+   "type": "requires",
+   "label": "LA is the untranslatable KR",
+   "chapter": 15
+  },
+  {
+   "from": "kr-independence-evidence",
+   "to": "GTVH",
+   "type": "validates",
+   "label": "translation proves KR independence",
+   "chapter": 15
+  },
+  {
+   "from": "kr-independence-evidence",
+   "to": "KR-LA",
+   "type": "validates",
+   "label": "LA is the most free KR",
+   "chapter": 15
+  },
+  {
+   "from": "humor-pedagogy",
+   "to": "operationalization",
+   "type": "requires",
+   "label": "teaching humor requires clear definitions",
+   "chapter": 16
+  },
+  {
+   "from": "humor-pedagogy",
+   "to": "narrative-humor",
+   "type": "uses",
+   "label": "classroom examples use narrative humor",
+   "chapter": 16
+  },
+  {
+   "from": "complementarity-synthesis",
+   "to": "complementarity-principle",
+   "type": "extends",
+   "label": "synthesis extends the Ch 3 principle",
+   "chapter": 17
+  },
+  {
+   "from": "complementarity-synthesis",
+   "to": "GTVH",
+   "type": "synthesizes",
+   "label": "all KRs needed for complete account",
+   "chapter": 17
+  },
+  {
+   "from": "future-directions",
+   "to": "operationalization",
+   "type": "calls_for",
+   "label": "",
+   "chapter": 17
+  },
+  {
+   "from": "future-directions",
+   "to": "corpus-methodology",
+   "type": "calls_for",
+   "label": "",
+   "chapter": 17
   }
  ],
  "indexes": {
@@ -1864,6 +2186,26 @@
    ],
    "13": [
     "power-solidarity"
+   ],
+   "2": [
+    "operationalization",
+    "corpus-methodology",
+    "level-of-analysis"
+   ],
+   "14": [
+    "narrative-humor",
+    "comic-character"
+   ],
+   "15": [
+    "untranslatability",
+    "kr-independence-evidence"
+   ],
+   "16": [
+    "humor-pedagogy"
+   ],
+   "17": [
+    "complementarity-synthesis",
+    "future-directions"
    ]
   },
   "by_type": {
@@ -1905,12 +2247,20 @@
     "adjacency-pair",
     "preference-organization",
     "footing",
-    "power-solidarity"
+    "power-solidarity",
+    "operationalization",
+    "corpus-methodology",
+    "narrative-humor",
+    "comic-character",
+    "untranslatability",
+    "humor-pedagogy",
+    "future-directions"
    ],
    "distinction": [
     "verbal-humor",
     "non-verbal-humor",
-    "competence-performance-distinction"
+    "competence-performance-distinction",
+    "level-of-analysis"
    ],
    "theory": [
     "release-theory",
@@ -1923,7 +2273,9 @@
     "complementarity-principle",
     "isotopy-disjunction-model",
     "linear-organization",
-    "audience-co-performer"
+    "audience-co-performer",
+    "kr-independence-evidence",
+    "complementarity-synthesis"
    ]
   },
   "by_operator": {
@@ -1986,7 +2338,8 @@
     "GTVH",
     "KR-TA",
     "sarcasm",
-    "power-solidarity"
+    "power-solidarity",
+    "comic-character"
    ],
    "bisociate": [
     "bisociation"
@@ -2008,7 +2361,8 @@
    ],
    "rigidify": [
     "GTVH",
-    "KR-LM"
+    "KR-LM",
+    "comic-character"
    ],
    "false_analogy": [
     "GTVH",
@@ -2021,6 +2375,9 @@
    "role_reverse": [
     "GTVH",
     "KR-LM"
+   ],
+   "identity_contradict": [
+    "comic-character"
    ]
   },
   "by_series_topic": {
@@ -2029,7 +2386,12 @@
     "joke",
     "meta-humor",
     "complementarity-principle",
-    "GTVH"
+    "GTVH",
+    "operationalization",
+    "corpus-methodology",
+    "level-of-analysis",
+    "complementarity-synthesis",
+    "future-directions"
    ],
    "setup": [
     "joke",
@@ -2075,13 +2437,17 @@
    "feel-judge": [
     "mirth",
     "laughter",
-    "complementarity-principle"
+    "complementarity-principle",
+    "operationalization",
+    "level-of-analysis",
+    "complementarity-synthesis"
    ],
    "persona": [
     "meta-humor",
     "performance-of-humor",
     "gesture-performance",
-    "footing"
+    "footing",
+    "comic-character"
    ],
    "sincerity": [
     "meta-humor",
@@ -2091,7 +2457,13 @@
    "formats": [
     "verbal-humor",
     "non-verbal-humor",
-    "pun"
+    "pun",
+    "corpus-methodology",
+    "narrative-humor",
+    "comic-character",
+    "untranslatability",
+    "humor-pedagogy",
+    "future-directions"
    ],
    "delivery": [
     "verbal-humor",
@@ -2105,7 +2477,8 @@
     "audience-co-performer",
     "competence-performance-distinction",
     "humor-signal",
-    "verbal-irony"
+    "verbal-irony",
+    "level-of-analysis"
    ],
    "pause": [
     "release-theory",
@@ -2169,11 +2542,13 @@
     "KR-SI",
     "KR-TA",
     "KR-NS",
-    "KR-LA"
+    "KR-LA",
+    "kr-independence-evidence"
    ],
    "where-jokes-come-from": [
     "partial-resolution",
-    "foregrounded-incongruity"
+    "foregrounded-incongruity",
+    "narrative-humor"
    ],
    "premise": [
     "script",
@@ -2193,7 +2568,9 @@
    "voice": [
     "KR-LA",
     "prosody",
-    "gesture-performance"
+    "gesture-performance",
+    "untranslatability",
+    "kr-independence-evidence"
    ],
    "tag": [
     "jab-line",
@@ -2203,10 +2580,14 @@
     "jab-line"
    ],
    "joke-writing": [
-    "competence-performance-distinction"
+    "competence-performance-distinction",
+    "humor-pedagogy"
    ],
    "anti-slop": [
     "competence-performance-distinction"
+   ],
+   "rule": [
+    "comic-character"
    ]
   }
  }
