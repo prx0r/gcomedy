@@ -1,0 +1,68 @@
+{
+ "comedian": "norm-macdonald",
+ "special": "moth-joke",
+ "source": "characters2/scribe",
+ "total_words": 384,
+ "window": "full moth joke",
+ "beats": [
+  {
+   "t0": 0.0,
+   "t1": 51.62,
+   "pause_after": 1.7,
+   "words": 105,
+   "text": "happiness but I don't know I wake up in a malaise and I walk here and there but I have to say oh yeah The mouth goes yes It goes ah at night I sometimes wake up and I turn to some old lady in my bed that's on my arm a lady that I once loved Doc I don't know where it turned to My youngest Alexandria she fell in the cold of last year The cold took her down as it did many of us And my other boy and this is the hardest pill to swallow Doc my after -boy Greg Garro"
+  },
+  {
+   "t0": 53.32,
+   "t1": 95.58,
+   "pause_after": 1.22,
+   "words": 115,
+   "text": "it's been a lit of itch I no longer love him As much as it pains me to say when I look in his eyes all I see is the same cowardice that I catch when I take a glimpse of my own face in the mirror If only the cowardice was stronger than perhaps perhaps I could bring myself to a reach over of that cocked and loaded gun that lays on the bedside behind me and in this How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it"
+  },
+  {
+   "t0": 96.8,
+   "t1": 106.24,
+   "pause_after": 1.16,
+   "words": 70,
+   "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it"
+  },
+  {
+   "t0": 107.4,
+   "t1": 110.44,
+   "pause_after": 1.58,
+   "words": 35,
+   "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it"
+  },
+  {
+   "t0": 112.02,
+   "t1": 119.98,
+   "pause_after": 0,
+   "words": 59,
+   "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it I'm feeling good"
+  }
+ ],
+ "punch_candidates": [
+  {
+   "t": 0.0,
+   "pause_before": 1.7,
+   "text": "happiness but I don't know I wake up in a malaise and I walk here and there but "
+  },
+  {
+   "t": 53.32,
+   "pause_before": 1.22,
+   "text": "it's been a lit of itch I no longer love him As much as it pains me to say when "
+  },
+  {
+   "t": 96.8,
+   "pause_before": 1.16,
+   "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I "
+  },
+  {
+   "t": 107.4,
+   "pause_before": 1.58,
+   "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I "
+  }
+ ],
+ "max_pause": 1.7,
+ "duration_s": 119.98
+}

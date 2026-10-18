@@ -1,0 +1,376 @@
+{
+ "note": "Timing data for millisecond overlay system. Each sequence has beats with word-level timing.",
+ "sequences": [
+  {
+   "id": "louis-ck-road-rage-window",
+   "comedian": "louis-ck",
+   "special": "road-rage-window",
+   "source": "characters2/scribe",
+   "duration_s": 239.78,
+   "total_words": 337,
+   "max_pause_s": 8.16,
+   "n_beats": 18,
+   "n_punches": 10,
+   "beats": [
+    {
+     "t0": 121.8,
+     "t1": 124.18,
+     "pause_after": 2.26,
+     "words": 9,
+     "text": "I'm an old man, I'll be gone very soon."
+    },
+    {
+     "t0": 126.44,
+     "t1": 129.48,
+     "pause_after": 0.6,
+     "words": 14,
+     "text": "I worry about getting old only because I don't want to lose my memory."
+    },
+    {
+     "t0": 130.08,
+     "t1": 131.8,
+     "pause_after": 1.88,
+     "words": 10,
+     "text": "I mean, some of it I would love to lose."
+    },
+    {
+     "t0": 133.68,
+     "t1": 135.18,
+     "pause_after": 1.12,
+     "words": 6,
+     "text": "But it doesn't work that way."
+    },
+    {
+     "t0": 136.3,
+     "t1": 142.74,
+     "pause_after": 0.78,
+     "words": 24,
+     "text": "You got to take it all or none, I guess. But I lose, I forget things. You know, like, remember Fanzi from Happy Days?"
+    },
+    {
+     "t0": 143.52,
+     "t1": 144.34,
+     "pause_after": 1.32,
+     "words": 4,
+     "text": "I don't remember him."
+    },
+    {
+     "t0": 145.66,
+     "t1": 147.18,
+     "pause_after": 1.48,
+     "words": 8,
+     "text": "I don't even know what you're talking about."
+    },
+    {
+     "t0": 148.66,
+     "t1": 158.96,
+     "pause_after": 2.04,
+     "words": 44,
+     "text": "I forget weird things, you know? Like I was walking down the street once in New York. And there was a guy in a van and he rolled down the window and he said, Hey, get in the van, it's stuck in my dick."
+    },
+    {
+     "t0": 161.0,
+     "t1": 162.3,
+     "pause_after": 1.38,
+     "words": 7,
+     "text": "And I said, all right, you know?"
+    },
+    {
+     "t0": 163.68,
+     "t1": 174.36,
+     "pause_after": 2.86,
+     "words": 45,
+     "text": "So I got in the van and you know, I was trying to pull the door to the sliding door, but it kept, and he's like, it just shuts, don't. You don't have to. I'm like, sorry, he's like, it's everybody does that, it's okay."
+    },
+    {
+     "t0": 177.22,
+     "t1": 186.12,
+     "pause_after": 1.48,
+     "words": 34,
+     "text": "So I'm kneeling on the floor of the van on like a purse. And there's no lady in there, but I'm like, I came here to suck this guy's dick, not like, take inventory."
+    },
+    {
+     "t0": 187.6,
+     "t1": 189.3,
+     "pause_after": 1.4,
+     "words": 11,
+     "text": "This is just a work. So I start sucking his dick."
+    },
+    {
+     "t0": 190.7,
+     "t1": 193.5,
+     "pause_after": 1.98,
+     "words": 6,
+     "text": "And about halfway through, I'm guessing."
+    },
+    {
+     "t0": 195.48,
+     "t1": 199.26,
+     "pause_after": 8.16,
+     "words": 9,
+     "text": "I remembered that I don't really like doing that."
+    },
+    {
+     "t0": 207.42,
+     "t1": 217.2,
+     "pause_after": 0.5,
+     "words": 41,
+     "text": "So I, okay, so I'm looking at the couple and they're walking on the other side of the street. And I have a child with them. But I can't see their child because there's like a dumpster and some other stuff."
+    },
+    {
+     "t0": 217.7,
+     "t1": 218.78,
+     "pause_after": 1.08,
+     "words": 7,
+     "text": "I just see like a little head."
+    },
+    {
+     "t0": 219.86,
+     "t1": 224.02,
+     "pause_after": 5.32,
+     "words": 24,
+     "text": "And I'm waiting. I'm curious what their kid looks like, because they're so beautiful. Maybe I want to fuck their kid, I don't know."
+    },
+    {
+     "t0": 229.34,
+     "t1": 239.78,
+     "pause_after": 0,
+     "words": 34,
+     "text": "That that's just me saying something terrible because it makes me laugh that it upsets you. That's all that is just so you know. It's just it's just enjoyable to me that you're upset."
+    }
+   ],
+   "punch_candidates": [
+    {
+     "t": 121.8,
+     "pause_before": 2.26,
+     "text": "I'm an old man, I'll be gone very soon."
+    },
+    {
+     "t": 126.44,
+     "pause_before": 0.6,
+     "text": "I worry about getting old only because I don't want to lose my memory."
+    },
+    {
+     "t": 130.08,
+     "pause_before": 1.88,
+     "text": "I mean, some of it I would love to lose."
+    },
+    {
+     "t": 133.68,
+     "pause_before": 1.12,
+     "text": "But it doesn't work that way."
+    },
+    {
+     "t": 136.3,
+     "pause_before": 0.78,
+     "text": "You got to take it all or none, I guess. But I lose, I forget things. You know, "
+    },
+    {
+     "t": 143.52,
+     "pause_before": 1.32,
+     "text": "I don't remember him."
+    },
+    {
+     "t": 145.66,
+     "pause_before": 1.48,
+     "text": "I don't even know what you're talking about."
+    },
+    {
+     "t": 148.66,
+     "pause_before": 2.04,
+     "text": "I forget weird things, you know? Like I was walking down the street once in New "
+    },
+    {
+     "t": 161.0,
+     "pause_before": 1.38,
+     "text": "And I said, all right, you know?"
+    },
+    {
+     "t": 163.68,
+     "pause_before": 2.86,
+     "text": "So I got in the van and you know, I was trying to pull the door to the sliding d"
+    }
+   ],
+   "overlay_ready": true,
+   "has_laugh_onsets": false
+  },
+  {
+   "id": "norm-macdonald-moth-joke",
+   "comedian": "norm-macdonald",
+   "special": "moth-joke",
+   "source": "characters2/scribe",
+   "duration_s": 119.98,
+   "total_words": 384,
+   "max_pause_s": 1.7,
+   "n_beats": 5,
+   "n_punches": 4,
+   "beats": [
+    {
+     "t0": 0.0,
+     "t1": 51.62,
+     "pause_after": 1.7,
+     "words": 105,
+     "text": "happiness but I don't know I wake up in a malaise and I walk here and there but I have to say oh yeah The mouth goes yes It goes ah at night I sometimes wake up and I turn to some old lady in my bed that's on my arm a lady that I once loved Doc I don't know where it turned to My youngest Alexandria she fell in the cold of last year The cold took her down as it did many of us And my other boy and this is the hardest pill to swallow Doc my after -boy Greg Garro"
+    },
+    {
+     "t0": 53.32,
+     "t1": 95.58,
+     "pause_after": 1.22,
+     "words": 115,
+     "text": "it's been a lit of itch I no longer love him As much as it pains me to say when I look in his eyes all I see is the same cowardice that I catch when I take a glimpse of my own face in the mirror If only the cowardice was stronger than perhaps perhaps I could bring myself to a reach over of that cocked and loaded gun that lays on the bedside behind me and in this How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it"
+    },
+    {
+     "t0": 96.8,
+     "t1": 106.24,
+     "pause_after": 1.16,
+     "words": 70,
+     "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it"
+    },
+    {
+     "t0": 107.4,
+     "t1": 110.44,
+     "pause_after": 1.58,
+     "words": 35,
+     "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it"
+    },
+    {
+     "t0": 112.02,
+     "t1": 119.98,
+     "pause_after": 0,
+     "words": 59,
+     "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it How long have I tried wasn't it I'm feeling good"
+    }
+   ],
+   "punch_candidates": [
+    {
+     "t": 0.0,
+     "pause_before": 1.7,
+     "text": "happiness but I don't know I wake up in a malaise and I walk here and there but "
+    },
+    {
+     "t": 53.32,
+     "pause_before": 1.22,
+     "text": "it's been a lit of itch I no longer love him As much as it pains me to say when "
+    },
+    {
+     "t": 96.8,
+     "pause_before": 1.16,
+     "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I "
+    },
+    {
+     "t": 107.4,
+     "pause_before": 1.58,
+     "text": "How long have I tried wasn't it How long have I tried wasn't it How long have I "
+    }
+   ],
+   "overlay_ready": true,
+   "has_laugh_onsets": false
+  },
+  {
+   "id": "stewart-lee-carpet-remnant-world-2012-live",
+   "comedian": "stewart-lee",
+   "special": "carpet-remnant-world-2012-live",
+   "source": "r2:comedy-specials",
+   "duration_s": 185.68,
+   "total_words": 14998,
+   "max_pause_s": 1.88,
+   "n_beats": 8,
+   "n_punches": 5,
+   "beats": [
+    {
+     "t0": 5.89,
+     "t1": 41.88,
+     "pause_after": 0.52,
+     "words": 106,
+     "text": "[applause] Uh, that was a bit um heavy metal. Rock and roll that. Can we have some funny music at the start of the second half? Yep. Thanks for coming. Um, okay. What news do you know about Leon inquiry? That's ongoing. News the world went down. I was sorry to see the news of the world go down. I think it was a great campaigning newspaper. Not everything I say is sarcastic. Sheffield. Now, who can forget the News of the World's high-profile campaign against child sex offenders, which led, didn't it, to News of the World readers burning down the home of a pediatrician,",
+     "syllables": 166
+    },
+    {
+     "t0": 42.4,
+     "t1": 46.44,
+     "pause_after": 1.4,
+     "words": 5,
+     "text": "throwing rocks at a pedalo",
+     "syllables": 8
+    },
+    {
+     "t0": 47.84,
+     "t1": 51.88,
+     "pause_after": 1.88,
+     "words": 5,
+     "text": "and stamping on a centipede.",
+     "syllables": 9
+    },
+    {
+     "t0": 53.76,
+     "t1": 67.48,
+     "pause_after": 0.84,
+     "words": 35,
+     "text": "Top of the show, pedophile jokes going down well. Good to have been on television and finally managed to attract so much of Jimmy Carr's audience. The show's not aimed at you. Don't come again.",
+     "syllables": 64
+    },
+    {
+     "t0": 68.32,
+     "t1": 94.28,
+     "pause_after": 0.68,
+     "words": 88,
+     "text": "I'm trying to find out what news you know about so I can weave the stories into a seamless 2-hour narrative driven hole. A seamless narrative driven hole. You have to do that. I think if you're a if you're a Neigh going out doing the long theater shows, you can't just go out and do 90 minutes of unrelated little gags that you can subsequently chop up into smaller parcels and resell to mock the weekend live at the Apollo. Yeah, you can do that, can't you?",
+     "syllables": 159
+    },
+    {
+     "t0": 94.96,
+     "t1": 124.04,
+     "pause_after": 0.52,
+     "words": 71,
+     "text": "So, what news do you know about? Um, I think the funniest uh news story at the moment is the uh trial of the Norwegian neo-Nazi mass murderer Anders Bear and Brevitt. You're going, \"Hang on, there's nothing funny about that, Stu.\" Uh, but there is. And, um, it's this that on his website, Anders Baron Breik, the Norwegian neo-Nazi mass murderer, has written this genuine sentence. Jeremy Clarkson's Top Gear",
+     "syllables": 124
+    },
+    {
+     "t0": 124.56,
+     "t1": 160.2,
+     "pause_after": 1.72,
+     "words": 106,
+     "text": "is one of the few programs worth watching on the BBC. I know. [applause] Now, very rarely do you see a better example of what philosophers call the benality of evil. And remember, all that's required for Jeremy Clark to triumph is that Richard Hammond do nothing. Remember when Jeremy Clarkson made those jokes about shooting strikers and everyone complained? There was a guy from the Daily Telegraph went on the Channel 4 News to defend him and he said, \"Come on,\" he said. It was just a joke. He said, \"It's not as if a Jeremy Clarkson fan has ever gone out and shot anyone.\"",
+     "syllables": 181
+    },
+    {
+     "t0": 161.92,
+     "t1": 185.68,
+     "pause_after": 0,
+     "words": 84,
+     "text": "I thought, well, there was that one guy, the mass murderer. Poor old uh old poor old Colonel Gaddafi had a bad year last year, didn't he? Uh the Libyans got fed up of their leader, pulled him out of a sewer, shot him in the face, mutilated the anus of his corpse with a knife, and chucked him in a meat refrigeration unit. But they did that off their own backs, didn't they, the Libyans? No one made them do it. They did",
+     "syllables": 131
+    }
+   ],
+   "punch_candidates": [
+    {
+     "t": 42.4,
+     "pause_before": 1.4,
+     "text": "throwing rocks at a pedalo"
+    },
+    {
+     "t": 47.84,
+     "pause_before": 1.88,
+     "text": "and stamping on a centipede."
+    },
+    {
+     "t": 53.76,
+     "pause_before": 0.84,
+     "text": "Top of the show, pedophile jokes going down well. Good to have been on televisio"
+    },
+    {
+     "t": 68.32,
+     "pause_before": 0.68,
+     "text": "I'm trying to find out what news you know about so I can weave the stories into "
+    },
+    {
+     "t": 124.56,
+     "pause_before": 1.72,
+     "text": "is one of the few programs worth watching on the BBC. I know. [applause] Now, ve"
+    }
+   ],
+   "overlay_ready": true,
+   "has_laugh_onsets": false
+  }
+ ]
+}
