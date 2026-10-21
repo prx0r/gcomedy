@@ -20,8 +20,8 @@
     "Attardo 2020 Ch 1.1"
    ],
    "key_distinctions": [
-    "humor \u2260 laughter (one is stimulus, other is response)",
-    "humor \u2260 mirth (one is object, other is experience)"
+    "humor ≠ laughter (one is stimulus, other is response)",
+    "humor ≠ mirth (one is object, other is experience)"
    ]
   },
   "joke": {
@@ -129,7 +129,7 @@
    "type": "concept",
    "chapter": 1,
    "page": 30,
-   "definition": "Humor about humor itself. Jokes about jokes, comedy about comedy. Attardo notes this is distinct from 'humor about X' \u2014 meta-humor's target is the humor mechanism itself.",
+   "definition": "Humor about humor itself. Jokes about jokes, comedy about comedy. Attardo notes this is distinct from 'humor about X' — meta-humor's target is the humor mechanism itself.",
    "our_operators": [
     "expose_self_blindness",
     "double_interpret"
@@ -158,7 +158,7 @@
    "type": "distinction",
    "chapter": 1,
    "page": 29,
-   "definition": "Humor that depends on language specifically \u2014 wordplay, puns, verbal irony. Distinct from non-verbal humor (slapstick, physical comedy).",
+   "definition": "Humor that depends on language specifically — wordplay, puns, verbal irony. Distinct from non-verbal humor (slapstick, physical comedy).",
    "our_operators": [],
    "series_topics": [
     "formats",
@@ -185,7 +185,7 @@
    "type": "distinction",
    "chapter": 1,
    "page": 29,
-   "definition": "Humor that does not depend on language \u2014 slapstick, physical comedy, visual humor. The GTVH does NOT apply to this.",
+   "definition": "Humor that does not depend on language — slapstick, physical comedy, visual humor. The GTVH does NOT apply to this.",
    "our_operators": [],
    "series_topics": [
     "delivery",
@@ -234,7 +234,7 @@
     "Bergson"
    ],
    "level": "mechanism (why the body laughs)",
-   "maps_to_our": "pause-before-punch: tension buildup \u2192 release. The hold-then-snap trajectory."
+   "maps_to_our": "pause-before-punch: tension buildup -> release. The hold-then-snap trajectory. Engine: pause_before hold (T1) + post_punch_s window (T2) scaled by p_laugh (T4)"
   },
   "incongruity-theory": {
    "id": "incongruity-theory",
@@ -277,7 +277,7 @@
    "type": "theory",
    "chapter": 3,
    "page": 88,
-   "definition": "Laughter at others' misfortune \u2014 their loss is our gain. Hobbes: 'sudden glory' at others' inferiority. Plato: laughter as attack on others. Gruner: comedy as competitive combat.",
+   "definition": "Laughter at others' misfortune — their loss is our gain. Hobbes: 'sudden glory' at others' inferiority. Plato: laughter as attack on others. Gruner: comedy as competitive combat.",
    "our_operators": [
     "status_invert",
     "character_violation"
@@ -341,7 +341,7 @@
    "type": "principle",
    "chapter": 3,
    "page": 96,
-   "definition": "Attardo's key insight: the three classical theories are NOT competing. They describe different aspects of the same phenomenon \u2014 release=incomprehension=aggression are complementary layers, not rival explanations.",
+   "definition": "Attardo's key insight: the three classical theories are NOT competing. They describe different aspects of the same phenomenon — release=incomprehension=aggression are complementary layers, not rival explanations.",
    "our_operators": [],
    "series_topics": [
     "joke",
@@ -361,7 +361,7 @@
    "type": "concept",
    "chapter": 4,
    "page": 102,
-   "definition": "Divergence from expectations. Broader than 'surprise' \u2014 includes semantic, script, and tonal incongruity. Attardo: 'generalized as divergence from expectations.'",
+   "definition": "Divergence from expectations. Broader than 'surprise' — includes semantic, script, and tonal incongruity. Attardo: 'generalized as divergence from expectations.'",
    "our_operators": [
     "garden_path",
     "literalize",
@@ -417,7 +417,7 @@
    "type": "concept",
    "chapter": 4,
    "page": 106,
-   "definition": "The incongruity is completely explained. The listener fully understands why the punchline is funny. Classic setup\u2192punch\u2192reframe structure.",
+   "definition": "The incongruity is completely explained. The listener fully understands why the punchline is funny. Classic setup→punch→reframe structure.",
    "our_operators": [
     "garden_path"
    ],
@@ -438,7 +438,7 @@
    "type": "concept",
    "chapter": 4,
    "page": 107,
-   "definition": "Some incongruity remains after resolution. This is why absurdism works \u2014 the incongruity is NOT fully explained, but the audience finds it funny anyway.",
+   "definition": "Some incongruity remains after resolution. This is why absurdism works — the incongruity is NOT fully explained, but the audience finds it funny anyway.",
    "our_operators": [
     "literalize",
     "double_interpret"
@@ -456,7 +456,7 @@
     "Attardo 2020 Ch 4.2.2"
    ],
    "is_a": "resolution",
-   "key_insight": "Partial resolution is why absurdism works \u2014 the violation REMAINS, but BV's benign frame makes it funny"
+   "key_insight": "Partial resolution is why absurdism works — the violation REMAINS, but BV's benign frame makes it funny"
   },
   "foregrounded-incongruity": {
    "id": "foregrounded-incongruity",
@@ -506,7 +506,7 @@
     "Attardo 2020 Ch 4.2.3"
    ],
    "is_a": "incongruity-type",
-   "key_insight": "Backgrounded incongruity = our BV 'benign frame' doing the work \u2014 the delivery makes the violation feel safe"
+   "key_insight": "Backgrounded incongruity = our BV 'benign frame' doing the work — the delivery makes the violation feel safe"
   },
   "isotopy-disjunction-model": {
    "id": "isotopy-disjunction-model",
@@ -514,7 +514,7 @@
    "type": "principle",
    "chapter": 4,
    "page": 110,
-   "definition": "Attardo's model for linear joke processing: (1) Setup establishes an 'isotopy' \u2014 a semantic field directing interpretation. (2) Punchline disjoins the isotopy \u2014 forces a different reading. (3) Resolution is re-interpreting the setup under the new isotopy.",
+   "definition": "Attardo's model for linear joke processing: (1) Setup establishes an 'isotopy' — a semantic field directing interpretation. (2) Punchline disjoins the isotopy — forces a different reading. (3) Resolution is re-interpreting the setup under the new isotopy.",
    "our_operators": [
     "garden_path"
    ],
@@ -537,7 +537,7 @@
    "type": "principle",
    "chapter": 4,
    "page": 113,
-   "definition": "Jokes have a linear structure: setup builds expectation (direction A), punchline redirects (direction B). The redirect MUST use material already in the setup \u2014 misdirection, not withholding.",
+   "definition": "Jokes have a linear structure: setup builds expectation (direction A), punchline redirects (direction B). The redirect MUST use material already in the setup — misdirection, not withholding.",
    "our_operators": [
     "garden_path"
    ],
@@ -609,7 +609,7 @@
     "Attardo 2020 Ch 6",
     "Raskin 1985"
    ],
-   "formula": "humorous IF (script\u2081 \u2229 script\u2082 \u2260 \u2205) AND (script\u2081 \u22a5 script\u2082)",
+   "formula": "humorous IF (script₁ ∩ script₂ ≠ ∅) AND (script₁ ⊥ script₂)",
    "maps_to_our": "double_interpret operator (two readings), split_knowledge (audience knows both scripts)"
   },
   "script-overlap": {
@@ -618,7 +618,7 @@
    "type": "concept",
    "chapter": 6,
    "page": 143,
-   "definition": "The region where two scripts share elements. The overlap makes the joke POSSIBLE \u2014 the audience can move between scripts because they share territory.",
+   "definition": "The region where two scripts share elements. The overlap makes the joke POSSIBLE — the audience can move between scripts because they share territory.",
    "our_operators": [
     "double_interpret"
    ],
@@ -640,7 +640,7 @@
    "type": "concept",
    "chapter": 6,
    "page": 144,
-   "definition": "The region where two scripts conflict. The opposition makes the joke FUNNY \u2014 the audience laughs at the collision between incompatible readings.",
+   "definition": "The region where two scripts conflict. The opposition makes the joke FUNNY — the audience laughs at the collision between incompatible readings.",
    "our_operators": [
     "double_interpret",
     "character_violation"
@@ -687,7 +687,7 @@
     "Attardo 2020 Ch 7",
     "Attardo & Raskin 1991"
    ],
-   "key_insight": "The 6 KRs are independent \u2014 changing any one produces a different joke. This is why our operators work: each changes one or more KRs."
+   "key_insight": "The 6 KRs are independent — changing any one produces a different joke. This is why our operators work: each changes one or more KRs."
   },
   "KR-SO": {
    "id": "KR-SO",
@@ -695,7 +695,7 @@
    "type": "concept",
    "chapter": 7,
    "page": 161,
-   "definition": "Two semantic scripts that overlap but oppose. The foundational KR \u2014 the 'what' of the joke.",
+   "definition": "Two semantic scripts that overlap but oppose. The foundational KR — the 'what' of the joke.",
    "our_operators": [
     "double_interpret",
     "split_knowledge",
@@ -756,7 +756,7 @@
    "type": "concept",
    "chapter": 7,
    "page": 167,
-   "definition": "The contextual setting \u2014 location, participants, objects, activities. The 'where and who' of the joke.",
+   "definition": "The contextual setting — location, participants, objects, activities. The 'where and who' of the joke.",
    "our_operators": [],
    "series_topics": [
     "gtvh",
@@ -801,8 +801,10 @@
    "type": "concept",
    "chapter": 7,
    "page": 171,
-   "definition": "How the joke is told \u2014 rhetorical structure, pace, rhythm, direct/indirect discourse. The 'when and how' of the joke.",
-   "our_operators": [],
+   "definition": "How the joke is told — rhetorical structure, pace, rhythm, direct/indirect discourse. The 'when and how' of the joke.",
+   "our_operators": [
+    "delivery_style"
+   ],
    "series_topics": [
     "gtvh",
     "delivery",
@@ -817,7 +819,8 @@
     "narration vs description",
     "direct vs indirect discourse",
     "pace and rhythm"
-   ]
+   ],
+   "maps_to_our": "characters freak SDK: delivery.style -> voicelab/styles/*.json -> delivery_engine. Knob contract: characters theory/attardo-timing-map.md"
   },
   "KR-LA": {
    "id": "KR-LA",
@@ -825,7 +828,7 @@
    "type": "concept",
    "chapter": 7,
    "page": 173,
-   "definition": "The specific words chosen \u2014 vocabulary, syntax, sound. The 'surface' of the joke. The most 'free' KR \u2014 same joke, different words.",
+   "definition": "The specific words chosen — vocabulary, syntax, sound. The 'surface' of the joke. The most 'free' KR — same joke, different words.",
    "our_operators": [],
    "series_topics": [
     "gtvh",
@@ -836,7 +839,7 @@
     "Attardo 2020 Ch 7.6"
    ],
    "part_of": "GTVH",
-   "key_insight": "LA is the most free KR \u2014 the same joke can be told in many words. But words matter for rhythm and emphasis."
+   "key_insight": "LA is the most free KR — the same joke can be told in many words. But words matter for rhythm and emphasis."
   },
   "jab-line": {
    "id": "jab-line",
@@ -844,7 +847,7 @@
    "type": "concept",
    "chapter": 7,
    "page": 175,
-   "definition": "A humorous trigger WITHIN the body of a text (not at the end). Attardo (2001) distinguished jab lines from punch lines \u2014 long bits have many jab lines, not just one punch.",
+   "definition": "A humorous trigger WITHIN the body of a text (not at the end). Attardo (2001) distinguished jab lines from punch lines — long bits have many jab lines, not just one punch.",
    "our_operators": [],
    "series_topics": [
     "tag",
@@ -867,7 +870,7 @@
    "type": "concept",
    "chapter": 10,
    "page": 224,
-   "definition": "Humor is not just TEXT \u2014 it's PERFORMANCE. The same text delivered differently produces different results. Performance includes prosody, timing, gesture, audience interaction.",
+   "definition": "Humor is not just TEXT — it's PERFORMANCE. The same text delivered differently produces different results. Performance includes prosody, timing, gesture, audience interaction.",
    "our_operators": [],
    "series_topics": [
     "delivery",
@@ -883,7 +886,8 @@
     "timing",
     "gesture",
     "audience interaction"
-   ]
+   ],
+   "maps_to_our": "delivery_style.v1 pipeline: style_harvest (clips->profile) + delivery_engine (profile->Fish) + voice_judge conformance"
   },
   "prosody": {
    "id": "prosody",
@@ -891,7 +895,7 @@
    "type": "concept",
    "chapter": 10,
    "page": 228,
-   "definition": "The melody of speech \u2014 intonation, stress, rhythm, voice quality. Attardo discusses how prosody carries humor: pitch changes mark incongruity, stress highlights key words, voice quality signals frame shifts.",
+   "definition": "The melody of speech — intonation, stress, rhythm, voice quality. Attardo discusses how prosody carries humor: pitch changes mark incongruity, stress highlights key words, voice quality signals frame shifts.",
    "our_operators": [],
    "series_topics": [
     "delivery",
@@ -911,7 +915,7 @@
     "rhythm",
     "voice quality"
    ],
-   "maps_to_our": "delivery_archetype, modulator_range, pitch std"
+   "maps_to_our": "delivery_archetype, modulator_range, pitch std; conformance: voice_judge vs style pitch_std_st/dynamics_db + style cue vocabulary (emotion_forbidden = frame protection)"
   },
   "timing-performance": {
    "id": "timing-performance",
@@ -941,7 +945,7 @@
     "punchlines delivered faster than setup",
     "audience laughter shapes timing"
    ],
-   "maps_to_our": "H1 (14x baseline pause), H3 (HOLD then SNAP)"
+   "maps_to_our": "H1 (14x baseline pause), H3 (HOLD then SNAP); engine: assign_timings ladder x coupling x 0.6s floor, BEAT_SPEED/MECH_SPEED Norrick contrast, post_punch_s resolution window (attardo-timing-map.md T1-T4)"
   },
   "gesture-performance": {
    "id": "gesture-performance",
@@ -1047,7 +1051,7 @@
    "type": "concept",
    "chapter": 5,
    "page": 118,
-   "definition": "The system of signs that both speaker and listener share. Humor requires a shared code \u2014 the audience must understand the same sign system as the comedian.",
+   "definition": "The system of signs that both speaker and listener share. Humor requires a shared code — the audience must understand the same sign system as the comedian.",
    "our_operators": [
     "split_knowledge"
    ],
@@ -1071,7 +1075,7 @@
    "type": "concept",
    "chapter": 8,
    "page": 182,
-   "definition": "Sperber & Wilson's relevance theory applied to humor: jokes work by creating optimal relevance \u2014 the audience works to derive meaning, and the effort is rewarded with humor.",
+   "definition": "Sperber & Wilson's relevance theory applied to humor: jokes work by creating optimal relevance — the audience works to derive meaning, and the effort is rewarded with humor.",
    "our_operators": [
     "garden_path"
    ],
@@ -1116,7 +1120,7 @@
    "type": "concept",
    "chapter": 9,
    "page": 201,
-   "definition": "A joke that exploits multiple meanings of a word or similar-sounding words. Attardo: the simplest verbal humor \u2014 one word, two scripts.",
+   "definition": "A joke that exploits multiple meanings of a word or similar-sounding words. Attardo: the simplest verbal humor — one word, two scripts.",
    "our_operators": [
     "double_interpret"
    ],
@@ -1197,7 +1201,7 @@
    "type": "concept",
    "chapter": 11,
    "page": 262,
-   "definition": "A pair of conversational turns that belong together (question-answer, greeting-greeting, complaint-apology). Humor often exploits the second slot \u2014 the expected response is replaced with a funny one.",
+   "definition": "A pair of conversational turns that belong together (question-answer, greeting-greeting, complaint-apology). Humor often exploits the second slot — the expected response is replaced with a funny one.",
    "our_operators": [
     "garden_path"
    ],
@@ -1207,7 +1211,7 @@
     "misdirection"
    ],
    "examples": [
-    "'How are you?' \u2192 'I'm fine, said no one ever'",
+    "'How are you?' → 'I'm fine, said no one ever'",
     "The punchline replaces the expected second slot"
    ],
    "sources": [
@@ -1231,7 +1235,7 @@
     "status"
    ],
    "examples": [
-    "A compliment \u2192 dispreferred response: 'I know, right?' (instead of 'thank you')"
+    "A compliment → dispreferred response: 'I know, right?' (instead of 'thank you')"
    ],
    "sources": [
     "Attardo 2020 Ch 11"
@@ -1244,7 +1248,7 @@
    "type": "concept",
    "chapter": 12,
    "page": 290,
-   "definition": "Goffman's concept: the alignment a speaker takes toward their own words. A comedian can shift footing \u2014 speaking as themselves, as a character, as a narrator. The shifts create humor.",
+   "definition": "Goffman's concept: the alignment a speaker takes toward their own words. A comedian can shift footing — speaking as themselves, as a character, as a narrator. The shifts create humor.",
    "our_operators": [
     "expose_self_blindness",
     "split_knowledge"
@@ -1295,7 +1299,7 @@
    "type": "concept",
    "chapter": 2,
    "page": 55,
-   "definition": "The process of turning abstract humor concepts into measurable variables. Attardo argues humor studies needs operationalization to be scientific \u2014 'funny' must become countable.",
+   "definition": "The process of turning abstract humor concepts into measurable variables. Attardo argues humor studies needs operationalization to be scientific — 'funny' must become countable.",
    "our_operators": [],
    "series_topics": [
     "joke",
@@ -1308,7 +1312,7 @@
    "sources": [
     "Attardo 2020 Ch 2"
    ],
-   "maps_to_our": "Our entire measured-timing pipeline: pauses, wpm, syllable counts \u2014 we operationalized Attardo's call"
+   "maps_to_our": "Our entire measured-timing pipeline: pauses, wpm, syllable counts — we operationalized Attardo's call"
   },
   "corpus-methodology": {
    "id": "corpus-methodology",
@@ -1358,7 +1362,7 @@
    "type": "concept",
    "chapter": 14,
    "page": 344,
-   "definition": "Humor in long-form narrative \u2014 comic novels, humorous stories. Unlike jokes, narrative humor unfolds over time. Attardo discusses how GTVH applies to longer texts via jab lines.",
+   "definition": "Humor in long-form narrative — comic novels, humorous stories. Unlike jokes, narrative humor unfolds over time. Attardo discusses how GTVH applies to longer texts via jab lines.",
    "our_operators": [],
    "series_topics": [
     "formats",
@@ -1429,14 +1433,14 @@
    "type": "principle",
    "chapter": 15,
    "page": 375,
-   "definition": "Translation proves the 6 KRs are independent: you can preserve SO+LM+SI+TA+NS while changing LA. The joke still works with different words \u2014 confirming LA is the most 'free' KR.",
+   "definition": "Translation proves the 6 KRs are independent: you can preserve SO+LM+SI+TA+NS while changing LA. The joke still works with different words — confirming LA is the most 'free' KR.",
    "our_operators": [],
    "series_topics": [
     "gtvh",
     "voice"
    ],
    "examples": [
-    "A joke translated to French: same SO, same LM, different LA \u2014 still funny"
+    "A joke translated to French: same SO, same LM, different LA — still funny"
    ],
    "sources": [
     "Attardo 2020 Ch 15"
@@ -1449,7 +1453,7 @@
    "type": "concept",
    "chapter": 16,
    "page": 392,
-   "definition": "Using humor in teaching. Attardo discusses how understanding humor mechanics helps in education \u2014 both teaching ABOUT humor and using humor TO teach.",
+   "definition": "Using humor in teaching. Attardo discusses how understanding humor mechanics helps in education — both teaching ABOUT humor and using humor TO teach.",
    "our_operators": [],
    "series_topics": [
     "joke-writing",
@@ -1462,7 +1466,7 @@
    "sources": [
     "Attardo 2020 Ch 16"
    ],
-   "maps_to_our": "Our series videos ARE humor pedagogy \u2014 teaching the mechanics through examples"
+   "maps_to_our": "Our series videos ARE humor pedagogy — teaching the mechanics through examples"
   },
   "complementarity-synthesis": {
    "id": "complementarity-synthesis",
@@ -1512,7 +1516,7 @@
    "type": "concept",
    "chapter": 5,
    "page": 119,
-   "definition": "The sign as the indissoluble unity of signified (concept) and signifier (sound-image). A word's meaning is not 'in' the word \u2014 it's in the relationship between the signifier and the concept it points to.",
+   "definition": "The sign as the indissoluble unity of signified (concept) and signifier (sound-image). A word's meaning is not 'in' the word — it's in the relationship between the signifier and the concept it points to.",
    "our_operators": [
     "double_interpret",
     "literalize"
@@ -1523,7 +1527,7 @@
     "formats"
    ],
    "examples": [
-    "'Bat' signifier \u2192 two signifieds (animal vs sports equipment) = the pun mechanism",
+    "'Bat' signifier → two signifieds (animal vs sports equipment) = the pun mechanism",
     "Literalize: signifier stays, signified shifts to physical meaning"
    ],
    "sources": [
@@ -1555,7 +1559,7 @@
     "Attardo 2020 Ch 5",
     "Bateson 1955"
    ],
-   "key_insight": "The sincerity doctrine REMOVES meta-communicative signals from the CHARACTER \u2014 the character never signals 'this is a joke.' The PERFORMER signals; the character doesn't.",
+   "key_insight": "The sincerity doctrine REMOVES meta-communicative signals from the CHARACTER — the character never signals 'this is a joke.' The PERFORMER signals; the character doesn't.",
    "maps_to_our": "sincerity doctrine (character never breaks 4th wall), humor-signal node (expanded)"
   },
   "grices-maxims": {
@@ -1610,14 +1614,14 @@
     "confession"
    ],
    "examples": [
-    "'Nice job' after failure \u2192 implicature: sarcasm (violates Quality)",
+    "'Nice job' after failure → implicature: sarcasm (violates Quality)",
     "Louis's confession: literal words are absurd, implicature is sincere fear"
    ],
    "sources": [
     "Attardo 2020 Ch 8",
     "Grice 1975"
    ],
-   "key_insight": "The punchline's MEANING is often in the implicature, not the literal text. This is why partial-resolution works \u2014 the implicature carries what the literal doesn't.",
+   "key_insight": "The punchline's MEANING is often in the implicature, not the literal text. This is why partial-resolution works — the implicature carries what the literal doesn't.",
    "maps_to_our": "split_knowledge (audience reads the implicature; persona pretends the literal), BV (violation is literal, benign is implicature)"
   },
   "cognitive-effect-effort": {
@@ -1667,7 +1671,7 @@
    "examples": [
     "Lexical: 'bat' (animal/equipment)",
     "Structural: 'Time flies like an arrow; fruit flies like a banana'",
-    "Phonological: 'I used to do drugs' \u2192 'I still do, but I used to, too'"
+    "Phonological: 'I used to do drugs' → 'I still do, but I used to, too'"
    ],
    "sources": [
     "Attardo 2020 Ch 9.3.1"
@@ -1710,7 +1714,7 @@
    "type": "concept",
    "chapter": 9,
    "page": 207,
-   "definition": "A statement that is humorously redundant \u2014 saying the same thing twice in a way that reveals something unexpected. 'War is war' or 'a deal's a deal.' The tautology violates Grice's Quantity maxim (too little new information) while asserting something the listener didn't expect to be asserted.",
+   "definition": "A statement that is humorously redundant — saying the same thing twice in a way that reveals something unexpected. 'War is war' or 'a deal's a deal.' The tautology violates Grice's Quantity maxim (too little new information) while asserting something the listener didn't expect to be asserted.",
    "our_operators": [
     "rigidify"
    ],
@@ -1734,7 +1738,7 @@
    "type": "concept",
    "chapter": 11,
    "page": 275,
-   "definition": "When conversation breaks down and gets fixed \u2014 misunderstanding, self-correction, clarification. Attardo notes people laugh during failed repair sequences. Comedy often exploits the repair: the breakdown IS the joke.",
+   "definition": "When conversation breaks down and gets fixed — misunderstanding, self-correction, clarification. Attardo notes people laugh during failed repair sequences. Comedy often exploits the repair: the breakdown IS the joke.",
    "our_operators": [
     "garden_path",
     "split_knowledge"
@@ -1746,7 +1750,7 @@
    ],
    "examples": [
     "Comedian misunderstands a heckler on purpose",
-    "'Wait, what? No, I said...' \u2014 the repair IS the bit"
+    "'Wait, what? No, I said...' — the repair IS the bit"
    ],
    "sources": [
     "Attardo 2020 Ch 11"
@@ -1767,7 +1771,7 @@
     "status"
    ],
    "examples": [
-    "'How are you?' \u2192 'Fine' (preferred) vs 'Let me tell you...' (unpreferred = comedy opening)",
+    "'How are you?' → 'Fine' (preferred) vs 'Let me tell you...' (unpreferred = comedy opening)",
     "'That's my time' = the comedy closing convention"
    ],
    "sources": [
@@ -1794,15 +1798,15 @@
     "sincerity"
    ],
    "examples": [
-    "Louis as animator speaks as 'Louis the persona' (principal) \u2014 the real Louis's beliefs leak through",
-    "Acaster as animator speaks as Springleaf (principal) \u2014 real feelings leak"
+    "Louis as animator speaks as 'Louis the persona' (principal) — the real Louis's beliefs leak through",
+    "Acaster as animator speaks as Springleaf (principal) — real feelings leak"
    ],
    "sources": [
     "Attardo 2020 Ch 12",
     "Goffman 1981"
    ],
-   "key_insight": "The unreliable narrator works because animator \u2260 principal. The comedian's voice carries the character's words, and the real person's beliefs leak through the gap.",
-   "maps_to_our": "persona footing (animator \u2260 principal), unreliable narrator variants, split_knowledge"
+   "key_insight": "The unreliable narrator works because animator ≠ principal. The comedian's voice carries the character's words, and the real person's beliefs leak through the gap.",
+   "maps_to_our": "persona footing (animator ≠ principal), unreliable narrator variants, split_knowledge"
   },
   "politeness-theory": {
    "id": "politeness-theory",
@@ -1810,7 +1814,7 @@
    "type": "concept",
    "chapter": 13,
    "page": 328,
-   "definition": "Brown & Levinson: face-threatening acts (FTAs) threaten the listener's positive face (desire to be liked) or negative face (desire to be free). Humor is aFTA that is mitigated \u2014 the joke threatens face but the humor frame makes it acceptable.",
+   "definition": "Brown & Levinson: face-threatening acts (FTAs) threaten the listener's positive face (desire to be liked) or negative face (desire to be free). Humor is aFTA that is mitigated — the joke threatens face but the humor frame makes it acceptable.",
    "our_operators": [
     "character_violation",
     "status_invert"
@@ -1856,7 +1860,7 @@
     "Attardo 2020 Ch 13",
     "multiple variationist studies"
    ],
-   "key_insight": "Gender patterns in humor map to our target types: aggressive\u2192powerful/victim, affiliative\u2192self. Not deterministic, but real patterns.",
+   "key_insight": "Gender patterns in humor map to our target types: aggressive→powerful/victim, affiliative→self. Not deterministic, but real patterns.",
    "maps_to_our": "target types (self vs powerful), status dynamics"
   },
   "literary-humor-taxonomy": {
@@ -1888,7 +1892,7 @@
     "irony": "deadpan",
     "fantasy": "surreal"
    },
-   "maps_to_our": "FORMATS-joke-types.md (14 comedy formats \u2194 literary genres)"
+   "maps_to_our": "FORMATS-joke-types.md (14 comedy formats ↔ literary genres)"
   },
   "unreliable-narrator-literature": {
    "id": "unreliable-narrator-literature",
@@ -1896,7 +1900,7 @@
    "type": "concept",
    "chapter": 14,
    "page": 355,
-   "definition": "A narrator whose credibility is compromised \u2014 the reader knows the narrator's version is wrong. In literature: first-person narrators who are blind to their own situation. This is the DIRECT literary ancestor of our unreliable-narrator comedy device.",
+   "definition": "A narrator whose credibility is compromised — the reader knows the narrator's version is wrong. In literature: first-person narrators who are blind to their own situation. This is the DIRECT literary ancestor of our unreliable-narrator comedy device.",
    "our_operators": [
     "split_knowledge",
     "expose_self_blindness",
@@ -2073,7 +2077,7 @@
    "from": "release-theory",
    "to": "pause",
    "type": "maps_to",
-   "label": "tension buildup \u2192 release",
+   "label": "tension buildup → release",
    "chapter": 3
   },
   {
@@ -2563,7 +2567,7 @@
    "from": "saussurean-sign",
    "to": "pun",
    "type": "implements",
-   "label": "puns exploit one signifier \u2192 two signifieds",
+   "label": "puns exploit one signifier → two signifieds",
    "chapter": 5
   },
   {
@@ -2682,7 +2686,7 @@
    "from": "participation-framework",
    "to": "unreliable-narrator-literature",
    "type": "implements",
-   "label": "animator \u2260 principal is the unreliable narrator mechanism",
+   "label": "animator ≠ principal is the unreliable narrator mechanism",
    "chapter": 12
   },
   {
@@ -2731,7 +2735,7 @@
    "from": "literary-humor-taxonomy",
    "to": "formats",
    "type": "maps_to",
-   "label": "literary genres \u2194 comedy formats",
+   "label": "literary genres ↔ comedy formats",
    "chapter": 14
   },
   {
